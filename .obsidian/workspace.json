@@ -15,7 +15,8 @@
               "state": {
                 "file": "兽医药理学/总论.md",
                 "mode": "source",
-                "source": true
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "总论"
@@ -152,8 +153,7 @@
               "title": "总论 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,8 +176,8 @@
   },
   "active": "85ab05d8a4b5f17d",
   "lastOpenFiles": [
-    "兽医药理学/总论.md",
     "兽医药理学/绪论.md",
+    "兽医药理学/总论.md",
     "TEST.md",
     "兽医病毒学",
     "病理生理学",
