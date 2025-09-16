@@ -4,5 +4,8 @@
   "obsidian-banners",
   "obsidian-kanban",
   "buttons",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "file-explorer-note-count"
 ]
