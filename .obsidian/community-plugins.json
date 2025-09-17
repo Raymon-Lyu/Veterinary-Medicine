@@ -1,11 +1,16 @@
 [
   "obsidian-git",
-  "obsidian-style-settings",
   "obsidian-banners",
   "obsidian-kanban",
   "buttons",
   "obsidian-outliner",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "file-explorer-note-count"
+  "file-explorer-note-count",
+  "attachment-flow-plugin",
+  "copilot",
+  "obsidian-style-settings",
+  "mehrmaid",
+  "mermaid-tools",
+  "obsidian-functionplot"
 ]
