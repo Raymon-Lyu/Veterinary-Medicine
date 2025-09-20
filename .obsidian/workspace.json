@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9544ac514f306180",
+        "id": "f088a509bd39ffd4",
         "type": "tabs",
-        "dimension": 50.077399380804955,
         "children": [
           {
-            "id": "cbb064bb110f6ba9",
+            "id": "c451b38c9aca4e5b",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -23,12 +22,11 @@
         ]
       },
       {
-        "id": "b4aeda99cae171a7",
+        "id": "3ad22274923d82ac",
         "type": "tabs",
-        "dimension": 49.922600619195045,
         "children": [
           {
-            "id": "222e89cadee116aa",
+            "id": "7039c499e1965c4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -99,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -207,17 +206,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "222e89cadee116aa",
+  "active": "7039c499e1965c4a",
   "lastOpenFiles": [
     "兽医药理学/text.pdf",
     "兽医药理学/总论.md",
+    "未命名看板 2.md",
+    "未命名看板 1.md",
+    "未命名看板.md",
     "兽医药理学/绪论.md",
     "未命名.base",
-    "未命名看板.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "未命名.md",
     "病理解剖学/总论.md",
-    "未命名看板 1.md",
     "Drawing 2025-09-17 13.49.34.excalidraw.md",
     "兽医药理学/兽医药理学 第4版 (陈杖榴,曾振灵主编) .pdf",
     "copilot-custom-prompts/Rewrite as tweet.md",
@@ -243,7 +243,6 @@
     "免疫学",
     "病理解剖学",
     "病理解剖学.md",
-    "欢迎.md",
     "兽医药理学"
   ]
 }
