@@ -6,6 +6,7 @@
       {
         "id": "9544ac514f306180",
         "type": "tabs",
+        "dimension": 50.077399380804955,
         "children": [
           {
             "id": "cbb064bb110f6ba9",
@@ -24,6 +25,7 @@
       {
         "id": "b4aeda99cae171a7",
         "type": "tabs",
+        "dimension": 49.922600619195045,
         "children": [
           {
             "id": "222e89cadee116aa",
@@ -207,9 +209,9 @@
   },
   "active": "222e89cadee116aa",
   "lastOpenFiles": [
-    "兽医药理学/text.pdf",
-    "兽医药理学/总论.md",
     "兽医药理学/绪论.md",
+    "兽医药理学/总论.md",
+    "兽医药理学/text.pdf",
     "未命名.base",
     "未命名看板.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
