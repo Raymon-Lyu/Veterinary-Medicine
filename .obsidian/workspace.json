@@ -6,6 +6,7 @@
       {
         "id": "4fc8c0a1f01d7e5d",
         "type": "tabs",
+        "dimension": 15.479876160990713,
         "children": [
           {
             "id": "6eadcbf8aa4d9479",
@@ -24,6 +25,7 @@
       {
         "id": "a31df08712fae63f",
         "type": "tabs",
+        "dimension": 84.52012383900929,
         "children": [
           {
             "id": "89cbee5bfb64e536",
@@ -208,8 +210,9 @@
   },
   "active": "89cbee5bfb64e536",
   "lastOpenFiles": [
-    "兽医药理学/text.pdf",
+    "病理解剖学/总论.md",
     "兽医药理学/总论.md",
+    "兽医药理学/text.pdf",
     "病理生理学/家畜病理学  第5版_14567003.pdf",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/【兽医病理解剖学】 .pdf",
@@ -220,7 +223,6 @@
     "兽医药理学/绪论.md",
     "未命名.base",
     "未命名.md",
-    "病理解剖学/总论.md",
     "Drawing 2025-09-17 13.49.34.excalidraw.md",
     "兽医药理学/兽医药理学 第4版 (陈杖榴,曾振灵主编) .pdf",
     "copilot-custom-prompts/Rewrite as tweet.md",
