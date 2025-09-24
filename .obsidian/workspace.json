@@ -8,7 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee712ebc6c9d2014",
+            "id": "ab2160215c55fea2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理生理学/家畜病理学  第5版_14567003.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "家畜病理学  第5版_14567003"
+            }
+          }
+        ]
+      },
+      {
+        "id": "058278b5b3379b30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ade650867433f576",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,8 +181,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,14 +205,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee712ebc6c9d2014",
+  "active": "ade650867433f576",
   "lastOpenFiles": [
+    "病理生理学/家畜病理学  第5版_14567003.pdf",
+    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "兽医药理学/总论.md",
     "兽医药理学/text.pdf",
     "兽医药理学/绪论.md",
     "病理解剖学/总论.md",
-    "病理生理学/家畜病理学  第5版_14567003.pdf",
-    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/【兽医病理解剖学】 .pdf",
     "病理解剖学/【兽医病理解剖学】 .pdf.baiduyun.p.downloading",
     "未命名看板 2.md",
