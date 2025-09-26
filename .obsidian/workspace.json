@@ -182,8 +182,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "f7967f8c565f20ec",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -210,8 +221,8 @@
   "active": "ab2160215c55fea2",
   "lastOpenFiles": [
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
-    "未命名看板.md",
     "病理生理学/家畜病理学  第5版_14567003.pdf",
+    "未命名看板.md",
     "兽医药理学/总论.md",
     "兽医药理学/text.pdf",
     "兽医药理学/绪论.md",
