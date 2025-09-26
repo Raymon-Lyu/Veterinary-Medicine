@@ -6,7 +6,7 @@
       {
         "id": "aaeb2d2d22225441",
         "type": "tabs",
-        "dimension": 52.07774798927613,
+        "dimension": 13.404825737265416,
         "children": [
           {
             "id": "ab2160215c55fea2",
@@ -25,7 +25,7 @@
       {
         "id": "058278b5b3379b30",
         "type": "tabs",
-        "dimension": 47.92225201072386,
+        "dimension": 86.59517426273459,
         "children": [
           {
             "id": "ade650867433f576",
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "兽医药理学/总论.md",
+                "file": "病理解剖学/第一章 细胞和组织的适应与损伤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "总论 的出链列表"
+              "title": "第一章 细胞和组织的适应与损伤 的出链列表"
             }
           },
           {
@@ -194,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
