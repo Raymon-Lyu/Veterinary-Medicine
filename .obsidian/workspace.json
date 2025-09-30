@@ -6,7 +6,7 @@
       {
         "id": "d4858eddf3be43cf",
         "type": "tabs",
-        "dimension": 42.91784702549575,
+        "dimension": 85.86572438162544,
         "children": [
           {
             "id": "3320e83ff3f7c79c",
@@ -25,7 +25,7 @@
       {
         "id": "961cb95dca8a6acc",
         "type": "tabs",
-        "dimension": 57.08215297450425,
+        "dimension": 14.13427561837456,
         "children": [
           {
             "id": "74f081e8ee9845a9",
@@ -218,10 +218,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74f081e8ee9845a9",
+  "active": "3320e83ff3f7c79c",
   "lastOpenFiles": [
-    "兽医药理学/text.pdf",
     "兽医药理学/总论.md",
+    "兽医药理学/text.pdf",
     "病理生理学/家畜病理学  第5版_14567003.pdf",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "未命名看板.md",
