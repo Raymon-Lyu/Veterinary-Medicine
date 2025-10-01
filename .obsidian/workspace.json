@@ -4,28 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "d4858eddf3be43cf",
-        "type": "tabs",
+        "id": "e6f9fd97ce24d0b3",
+        "type": "split",
         "dimension": 54.95978552278821,
         "children": [
           {
-            "id": "3320e83ff3f7c79c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医药理学/text.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "text"
-            }
+            "id": "d4858eddf3be43cf",
+            "type": "tabs",
+            "dimension": 50.69444444444444,
+            "children": [
+              {
+                "id": "3320e83ff3f7c79c",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "兽医药理学/text.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "text"
+                }
+              }
+            ]
+          },
+          {
+            "id": "624b196b9ccd22ee",
+            "type": "tabs",
+            "dimension": 49.30555555555556,
+            "children": [
+              {
+                "id": "f059fb5d22425c3d",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "兽医药理学/兽医药理学-2025-09-30第1-2节.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "兽医药理学-2025-09-30第1-2节"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "961cb95dca8a6acc",
         "type": "tabs",
-        "dimension": 45.0402144772118,
+        "dimension": 45.04021447721179,
         "children": [
           {
             "id": "74f081e8ee9845a9",
@@ -218,10 +245,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3320e83ff3f7c79c",
+  "active": "74f081e8ee9845a9",
   "lastOpenFiles": [
-    "兽医药理学/总论.md",
     "兽医药理学/text.pdf",
+    "兽医药理学/兽医药理学-2025-09-30第1-2节.pdf",
+    "兽医药理学/总论.md",
     "病理生理学/家畜病理学  第5版_14567003.pdf",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "未命名看板.md",
