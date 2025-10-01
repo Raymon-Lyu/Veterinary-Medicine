@@ -4,68 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e6f9fd97ce24d0b3",
-        "type": "split",
-        "dimension": 53.35120643431635,
+        "id": "270d66a7255a35db",
+        "type": "tabs",
         "children": [
           {
-            "id": "d4858eddf3be43cf",
-            "type": "tabs",
-            "dimension": 49.362688296639625,
-            "children": [
-              {
-                "id": "3320e83ff3f7c79c",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "兽医药理学/text.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "text"
-                }
-              }
-            ]
-          },
-          {
-            "id": "624b196b9ccd22ee",
-            "type": "tabs",
-            "dimension": 50.63731170336037,
-            "children": [
-              {
-                "id": "f059fb5d22425c3d",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "兽医药理学/兽医药理学-2025-09-30第1-2节.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "兽医药理学-2025-09-30第1-2节"
-                }
-              }
-            ]
+            "id": "cfeaa07b65e8c555",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理生理学/家畜病理学  第5版_14567003.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "家畜病理学  第5版_14567003"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       },
       {
-        "id": "961cb95dca8a6acc",
+        "id": "f22b50e0ff4b54f3",
         "type": "tabs",
-        "dimension": 46.64879356568365,
         "children": [
           {
-            "id": "74f081e8ee9845a9",
+            "id": "6773788d6a3c6a86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医药理学/总论.md",
+                "file": "病理解剖学/第一章 细胞和组织的适应与损伤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总论"
+              "title": "第一章 细胞和组织的适应与损伤"
             }
           }
         ]
@@ -245,14 +216,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74f081e8ee9845a9",
+  "active": "cfeaa07b65e8c555",
   "lastOpenFiles": [
-    "兽医药理学/兽医药理学-2025-09-30第1-2节.pdf",
+    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "兽医药理学/总论.md",
+    "兽医药理学/兽医药理学-2025-09-30第1-2节.pdf",
     "兽医药理学/text.pdf",
     "Pasted image 20251001163226.png",
     "病理生理学/家畜病理学  第5版_14567003.pdf",
-    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "未命名看板.md",
     "兽医药理学/绪论.md",
     "病理解剖学/总论.md",
