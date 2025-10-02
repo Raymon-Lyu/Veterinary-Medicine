@@ -1,5 +1,8 @@
 {
   "enabledCssSnippets": [
     "mermaid"
-  ]
+  ],
+  "theme": "system",
+  "interfaceFontFamily": "Lucida Handwriting",
+  "textFontFamily": "Lucida Handwriting"
 }
