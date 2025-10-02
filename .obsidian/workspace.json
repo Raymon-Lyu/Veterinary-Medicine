@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "270d66a7255a35db",
-        "type": "tabs",
+        "id": "6b8dc568eca064a1",
+        "type": "split",
         "children": [
           {
-            "id": "cfeaa07b65e8c555",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/家畜病理学  第5版_14567003.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "家畜病理学  第5版_14567003"
-            }
+            "id": "270d66a7255a35db",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cfeaa07b65e8c555",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "病理生理学/家畜病理学  第5版_14567003.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "家畜病理学  第5版_14567003"
+                }
+              }
+            ]
+          },
+          {
+            "id": "b4c4aad64829f37c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d9eb95befaa2c3e8",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "病理解剖学/第一章 组织和细胞对损伤(1).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "第一章 组织和细胞对损伤(1)"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "f22b50e0ff4b54f3",
@@ -216,14 +241,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cfeaa07b65e8c555",
+  "active": "d9eb95befaa2c3e8",
   "lastOpenFiles": [
+    "病理生理学/家畜病理学  第5版_14567003.pdf",
+    "病理解剖学/第一章 组织和细胞对损伤(1).pdf",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "兽医药理学/总论.md",
     "兽医药理学/兽医药理学-2025-09-30第1-2节.pdf",
     "兽医药理学/text.pdf",
     "Pasted image 20251001163226.png",
-    "病理生理学/家畜病理学  第5版_14567003.pdf",
     "未命名看板.md",
     "兽医药理学/绪论.md",
     "病理解剖学/总论.md",
