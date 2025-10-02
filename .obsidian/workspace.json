@@ -6,11 +6,12 @@
       {
         "id": "6b8dc568eca064a1",
         "type": "split",
+        "dimension": 45.356037151702786,
         "children": [
           {
             "id": "270d66a7255a35db",
             "type": "tabs",
-            "dimension": 47.972190034762455,
+            "dimension": 53.53418308227115,
             "children": [
               {
                 "id": "cfeaa07b65e8c555",
@@ -29,7 +30,7 @@
           {
             "id": "b4c4aad64829f37c",
             "type": "tabs",
-            "dimension": 52.027809965237545,
+            "dimension": 46.46581691772885,
             "children": [
               {
                 "id": "d9eb95befaa2c3e8",
@@ -51,6 +52,7 @@
       {
         "id": "f22b50e0ff4b54f3",
         "type": "tabs",
+        "dimension": 54.643962848297214,
         "children": [
           {
             "id": "6773788d6a3c6a86",
@@ -124,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -242,18 +245,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cfeaa07b65e8c555",
+  "active": "6773788d6a3c6a86",
   "lastOpenFiles": [
+    "656f04c8dcac10225296b39f6a11efab.png",
+    "病理解剖学/第一章 组织和细胞对损伤(1).pdf",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+    "病理生理学/家畜病理学  第5版_14567003.pdf",
     "Pasted image 20251002141526.png",
     "Pasted image 20251002135401.png",
-    "病理解剖学/第一章 组织和细胞对损伤(1).pdf",
     "Pasted image 20251002134846.png",
     "Pasted image 20251002113732.png",
     "Pasted image 20251002110343.png",
     "Pasted image 20251002105707.png",
     "Pasted image 20251002103508.png",
-    "病理生理学/家畜病理学  第5版_14567003.pdf",
     "兽医药理学/总论.md",
     "兽医药理学/兽医药理学-2025-09-30第1-2节.pdf",
     "兽医药理学/text.pdf",
