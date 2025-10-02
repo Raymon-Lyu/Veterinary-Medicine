@@ -3,6 +3,8 @@
     "mermaid"
   ],
   "theme": "system",
-  "interfaceFontFamily": "Lucida Handwriting",
-  "textFontFamily": "Lucida Handwriting"
+  "interfaceFontFamily": "Times New Roman",
+  "textFontFamily": "Lucida Handwriting",
+  "cssTheme": "AnuPpuccin",
+  "monospaceFontFamily": "Harlow Solid"
 }
