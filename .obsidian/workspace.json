@@ -10,6 +10,7 @@
           {
             "id": "270d66a7255a35db",
             "type": "tabs",
+            "dimension": 50.28968713789108,
             "children": [
               {
                 "id": "cfeaa07b65e8c555",
@@ -28,6 +29,7 @@
           {
             "id": "b4c4aad64829f37c",
             "type": "tabs",
+            "dimension": 49.71031286210892,
             "children": [
               {
                 "id": "d9eb95befaa2c3e8",
@@ -241,10 +243,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9eb95befaa2c3e8",
+  "active": "6773788d6a3c6a86",
   "lastOpenFiles": [
-    "病理生理学/家畜病理学  第5版_14567003.pdf",
+    "Pasted image 20251002103508.png",
     "病理解剖学/第一章 组织和细胞对损伤(1).pdf",
+    "病理生理学/家畜病理学  第5版_14567003.pdf",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "兽医药理学/总论.md",
     "兽医药理学/兽医药理学-2025-09-30第1-2节.pdf",
@@ -279,7 +282,6 @@
     "Pasted image 20250916203701.png",
     "兽医药理学/兽医药理学 第4版 (陈杖榴,曾振灵主编) .pdf.baiduyun.p.downloading",
     "TEST.md",
-    "兽医病毒学",
     "病理解剖学.md"
   ]
 }
