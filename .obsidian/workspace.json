@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -197,7 +198,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cec869eb3ac9b9d7",
+  "active": "9094282d0f73b77c",
   "lastOpenFiles": [
     "生物分离工程/展示.md",
     "生物分离工程",
