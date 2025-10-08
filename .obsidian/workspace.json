@@ -6,6 +6,7 @@
       {
         "id": "bc6bce0a51532a54",
         "type": "tabs",
+        "dimension": 84.11528150134049,
         "children": [
           {
             "id": "676a3c05ee80d76d",
@@ -31,12 +32,12 @@
               "title": "text"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2b37c014f6c1f165",
         "type": "tabs",
+        "dimension": 15.884718498659522,
         "children": [
           {
             "id": "9094282d0f73b77c",
@@ -229,8 +230,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c56c9bd908f62da",
+  "active": "676a3c05ee80d76d",
   "lastOpenFiles": [
+    "兽医药理学/text.pdf",
     "病理生理学/家畜病理学  第5版_14567003.pdf",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "生物分离工程/展示.md",
@@ -250,7 +252,6 @@
     "Pasted image 20251002135401.png",
     "兽医药理学/总论.md",
     "兽医药理学/兽医药理学-2025-09-30第1-2节.pdf",
-    "兽医药理学/text.pdf",
     "未命名看板.md",
     "兽医药理学/绪论.md",
     "病理解剖学/【兽医病理解剖学】 .pdf",
