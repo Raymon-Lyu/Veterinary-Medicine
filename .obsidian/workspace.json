@@ -6,7 +6,6 @@
       {
         "id": "47933860613d143b",
         "type": "tabs",
-        "dimension": 65.01340482573727,
         "children": [
           {
             "id": "52cc8c701f875a61",
@@ -23,12 +22,11 @@
         ]
       },
       {
-        "id": "26d5c2170eed3ef7",
+        "id": "a37b3af29697ce77",
         "type": "tabs",
-        "dimension": 34.98659517426274,
         "children": [
           {
-            "id": "dfdf35ec42b77a2d",
+            "id": "e112880b49de4a25",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -218,10 +216,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfdf35ec42b77a2d",
+  "active": "e112880b49de4a25",
   "lastOpenFiles": [
     "生物分离工程/J of Separation Science - 2021 - Matsuda - Current approaches for the purification of antibody drug conjugates-mono.pdf",
     "生物分离工程/大纲.md",
+    "Drawing 2025-10-13 12.51.07.excalidraw.md",
+    "未命名.canvas",
     "生物分离工程/展示.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理生理学/家畜病理学  第5版_14567003.pdf",
@@ -263,7 +263,6 @@
     "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts/Summarize.md",
     "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
-    "Drawing 2025-09-16 20.37.14.excalidraw.md"
+    "copilot-custom-prompts/Fix grammar and spelling.md"
   ]
 }
