@@ -6,6 +6,7 @@
       {
         "id": "47933860613d143b",
         "type": "tabs",
+        "dimension": 63.1367292225201,
         "children": [
           {
             "id": "52cc8c701f875a61",
@@ -24,6 +25,7 @@
       {
         "id": "a37b3af29697ce77",
         "type": "tabs",
+        "dimension": 36.8632707774799,
         "children": [
           {
             "id": "e112880b49de4a25",
@@ -216,10 +218,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e112880b49de4a25",
+  "active": "52cc8c701f875a61",
   "lastOpenFiles": [
-    "生物分离工程/J of Separation Science - 2021 - Matsuda - Current approaches for the purification of antibody drug conjugates-mono.pdf",
     "生物分离工程/大纲.md",
+    "生物分离工程/J of Separation Science - 2021 - Matsuda - Current approaches for the purification of antibody drug conjugates-mono.pdf",
     "Drawing 2025-10-13 12.51.07.excalidraw.md",
     "未命名.canvas",
     "生物分离工程/展示.md",
