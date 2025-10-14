@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -216,10 +215,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5787234661aed795",
+  "active": "356f0145d55ff2a7",
   "lastOpenFiles": [
-    "兽医药理学/外周神经系统药理.md",
     "兽医药理学/text.pdf",
+    "兽医药理学/外周神经系统药理.md",
     "兽医药理学/兽医药理学-2025-09-30第1-2节.pdf",
     "生物分离工程/大纲.md",
     "生物分离工程/J of Separation Science - 2021 - Matsuda - Current approaches for the purification of antibody drug conjugates-mono.pdf",
