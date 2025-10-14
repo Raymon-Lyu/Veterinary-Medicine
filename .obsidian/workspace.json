@@ -11,14 +11,12 @@
             "id": "623392f6aca6c91f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "生物分离工程/大纲.md",
-                "mode": "source",
-                "source": false
+                "file": "生物分离工程/J of Separation Science - 2021 - Matsuda - Current approaches for the purification of antibody drug conjugates-mono.pdf"
               },
-              "icon": "lucide-file",
-              "title": "大纲"
+              "icon": "lucide-file-text",
+              "title": "J of Separation Science - 2021 - Matsuda - Current approaches for the purification of antibody drug conjugates-mono"
             }
           }
         ]
@@ -189,8 +187,8 @@
   },
   "active": "623392f6aca6c91f",
   "lastOpenFiles": [
-    "生物分离工程/展示.md",
     "生物分离工程/大纲.md",
+    "生物分离工程/展示.md",
     "兽医药理学/外周神经系统药理.md",
     "兽医药理学/未命名.md",
     "兽医药理学/总论.md",
