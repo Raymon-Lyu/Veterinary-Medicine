@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "49cfb535164484df",
+        "id": "eb1eefc261cb04a1",
         "type": "tabs",
         "children": [
           {
-            "id": "623392f6aca6c91f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "生物分离工程/J of Separation Science - 2021 - Matsuda - Current approaches for the purification of antibody drug conjugates-mono.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "J of Separation Science - 2021 - Matsuda - Current approaches for the purification of antibody drug conjugates-mono"
-            }
-          },
-          {
-            "id": "ff358423c42e9050",
+            "id": "28a2a1487677993e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生物分离工程/大纲.md",
+                "file": "病理解剖学/第二章 损伤的修复.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大纲"
+              "title": "第二章 损伤的修复"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,11 +187,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff358423c42e9050",
+  "active": "28a2a1487677993e",
   "lastOpenFiles": [
+    "病理解剖学/第二章 损伤的修复.md",
+    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+    "病理解剖学/第一章 组织和细胞对损伤(1).pdf",
+    "生物分离工程/大纲.md",
     "Pasted image 20251015152633.png",
     "生物分离工程/J of Separation Science - 2021 - Matsuda - Current approaches for the purification of antibody drug conjugates-mono.pdf",
-    "生物分离工程/大纲.md",
     "生物分离工程/展示.md",
     "兽医药理学/外周神经系统药理.md",
     "兽医药理学/未命名.md",
@@ -214,12 +204,10 @@
     "兽医药理学/兽医药理学-2025-09-30第1-2节.pdf",
     "Drawing 2025-10-13 12.51.07.excalidraw.md",
     "未命名.canvas",
-    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理生理学/家畜病理学  第5版_14567003.pdf",
     "生物分离工程",
     "病理解剖学/乳腺增生.md",
     "病理解剖学/总论.md",
-    "病理解剖学/第一章 组织和细胞对损伤(1).pdf",
     "Pasted image 20251003105047.png",
     "Pasted image 20251003104046.png",
     "Pasted image 20251002164752.png",
@@ -229,7 +217,6 @@
     "Pasted image 20251002155138.png",
     "656f04c8dcac10225296b39f6a11efab.png",
     "Pasted image 20251002141526.png",
-    "Pasted image 20251002135401.png",
     "未命名看板.md",
     "兽医药理学/绪论.md",
     "病理解剖学/【兽医病理解剖学】 .pdf",
