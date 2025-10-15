@@ -20,6 +20,34 @@
               "icon": "lucide-file",
               "title": "第二章 损伤的修复"
             }
+          },
+          {
+            "id": "e6036948434b9400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第一章 细胞和组织的适应与损伤"
+            }
+          },
+          {
+            "id": "09d46310d951cd17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生物分离工程/大纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大纲"
+            }
           }
         ]
       }
@@ -189,13 +217,13 @@
   },
   "active": "28a2a1487677993e",
   "lastOpenFiles": [
-    "病理解剖学/第二章 损伤的修复.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
-    "病理解剖学/第一章 组织和细胞对损伤(1).pdf",
     "生物分离工程/大纲.md",
+    "病理解剖学/第二章 损伤的修复.md",
+    "生物分离工程/展示.md",
+    "病理解剖学/第一章 组织和细胞对损伤(1).pdf",
     "Pasted image 20251015152633.png",
     "生物分离工程/J of Separation Science - 2021 - Matsuda - Current approaches for the purification of antibody drug conjugates-mono.pdf",
-    "生物分离工程/展示.md",
     "兽医药理学/外周神经系统药理.md",
     "兽医药理学/未命名.md",
     "兽医药理学/总论.md",
