@@ -6,7 +6,6 @@
       {
         "id": "eb1eefc261cb04a1",
         "type": "tabs",
-        "dimension": 37.198391420911534,
         "children": [
           {
             "id": "e6036948434b9400",
@@ -28,37 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生物分离工程/大纲.md",
+                "file": "病理解剖学/第三章 局部血液循环障碍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大纲"
+              "title": "第三章 局部血液循环障碍"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "c6a83f0db54891b4",
-        "type": "tabs",
-        "dimension": 62.80160857908847,
-        "children": [
-          {
-            "id": "28a2a1487677993e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理解剖学/第二章 损伤的修复.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第二章 损伤的修复"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "病理解剖学/第二章 损伤的修复.md",
+                "file": "病理解剖学/第三章 局部血液循环障碍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第二章 损伤的修复 的反向链接列表"
+              "title": "第三章 局部血液循环障碍 的反向链接列表"
             }
           },
           {
@@ -223,9 +201,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28a2a1487677993e",
+  "active": "09d46310d951cd17",
   "lastOpenFiles": [
     "生物分离工程/大纲.md",
+    "病理解剖学/第三章 局部血液循环障碍.md",
     "病理解剖学/第二章 损伤的修复.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/动物病理解剖学-2025-10-15第3-5节.pdf",
