@@ -64,7 +64,7 @@
               "state": {
                 "file": "病理解剖学/第二章 损伤的修复.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "第二章 损伤的修复"
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+                "file": "病理解剖学/第二章 损伤的修复.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第一章 细胞和组织的适应与损伤 的反向链接列表"
+              "title": "第二章 损伤的修复 的反向链接列表"
             }
           },
           {
@@ -212,8 +211,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,10 +237,10 @@
   },
   "active": "28a2a1487677993e",
   "lastOpenFiles": [
+    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+    "病理解剖学/第二章 损伤的修复.md",
     "病理解剖学/动物病理解剖学-2025-10-15第3-5节.pdf",
     "生物分离工程/大纲.md",
-    "病理解剖学/第二章 损伤的修复.md",
-    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "生物分离工程/展示.md",
     "病理解剖学/第一章 组织和细胞对损伤(1).pdf",
     "Pasted image 20251015152633.png",
