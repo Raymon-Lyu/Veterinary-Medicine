@@ -8,21 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6036948434b9400",
+            "id": "2c8d4ad0741c3bad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "病理解剖学/第一章 细胞和组织的适应与损伤.md",
-                "mode": "source",
-                "source": false
+                "file": "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf"
               },
-              "icon": "lucide-file",
-              "title": "第一章 细胞和组织的适应与损伤"
+              "icon": "lucide-file-text",
+              "title": "兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library)"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1abfa6a207feba54",
+        "type": "tabs",
+        "children": [
           {
-            "id": "09d46310d951cd17",
+            "id": "65813ef13c43d738",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,21 +38,8 @@
               "icon": "lucide-file",
               "title": "第三章 局部血液循环障碍"
             }
-          },
-          {
-            "id": "c18f447d38286ac2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/家畜病理学  第5版_14567003.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "家畜病理学  第5版_14567003"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -212,16 +204,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cec869eb3ac9b9d7",
+  "active": "65813ef13c43d738",
   "lastOpenFiles": [
-    "病理生理学/家畜病理学  第5版_14567003.pdf",
+    "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "病理解剖学/第三章 局部血液循环障碍.md",
+    "病理生理学/家畜病理学  第5版_14567003.pdf",
+    "病理解剖学/第一章 组织和细胞对损伤(1).pdf",
     "病理解剖学/第二章 损伤的修复.md",
     "生物分离工程/大纲.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/动物病理解剖学-2025-10-15第3-5节.pdf",
     "生物分离工程/展示.md",
-    "病理解剖学/第一章 组织和细胞对损伤(1).pdf",
     "Pasted image 20251015152633.png",
     "生物分离工程/J of Separation Science - 2021 - Matsuda - Current approaches for the purification of antibody drug conjugates-mono.pdf",
     "兽医药理学/外周神经系统药理.md",
@@ -247,7 +240,6 @@
     "未命名看板.md",
     "兽医药理学/绪论.md",
     "病理解剖学/【兽医病理解剖学】 .pdf",
-    "病理解剖学/【兽医病理解剖学】 .pdf.baiduyun.p.downloading",
     "未命名看板 2.md",
     "未命名看板 1.md",
     "Drawing 2025-09-17 13.49.34.excalidraw.md",
