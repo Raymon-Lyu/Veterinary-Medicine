@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "第三章 局部血液循环障碍"
             }
+          },
+          {
+            "id": "c18f447d38286ac2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理生理学/家畜病理学  第5版_14567003.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "家畜病理学  第5版_14567003"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,10 +212,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09d46310d951cd17",
+  "active": "cec869eb3ac9b9d7",
   "lastOpenFiles": [
-    "病理解剖学/第二章 损伤的修复.md",
+    "病理生理学/家畜病理学  第5版_14567003.pdf",
     "病理解剖学/第三章 局部血液循环障碍.md",
+    "病理解剖学/第二章 损伤的修复.md",
     "生物分离工程/大纲.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/动物病理解剖学-2025-10-15第3-5节.pdf",
@@ -219,7 +232,6 @@
     "兽医药理学/兽医药理学-2025-09-30第1-2节.pdf",
     "Drawing 2025-10-13 12.51.07.excalidraw.md",
     "未命名.canvas",
-    "病理生理学/家畜病理学  第5版_14567003.pdf",
     "生物分离工程",
     "病理解剖学/乳腺增生.md",
     "病理解剖学/总论.md",
@@ -247,7 +259,6 @@
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Simplify.md"
+    "copilot-custom-prompts/Make shorter.md"
   ]
 }
