@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病理解剖学/实验课部分.md",
+                "file": "病理解剖学/第一章 细胞和组织的适应与损伤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验课部分"
+              "title": "第一章 细胞和组织的适应与损伤"
             }
           }
         ]
@@ -203,9 +203,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a49d02bef0e99657",
+  "active": "645d163db1132981",
   "lastOpenFiles": [
     "病理解剖学/实验课部分.md",
+    "生物分离工程/展示.md",
+    "生物分离工程/大纲.md",
+    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "病理解剖学/Drawing 2025-10-20 21.50.05.excalidraw.md",
     "病理解剖学/总论.md",
@@ -216,12 +219,9 @@
     "生物分离工程/期末论文大纲.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
     "病理解剖学/第二章 损伤的修复.md",
-    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理生理学/家畜病理学  第5版_14567003.pdf",
     "病理解剖学/第一章 组织和细胞对损伤(1).pdf",
-    "生物分离工程/大纲.md",
     "病理解剖学/动物病理解剖学-2025-10-15第3-5节.pdf",
-    "生物分离工程/展示.md",
     "Pasted image 20251015152633.png",
     "生物分离工程/J of Separation Science - 2021 - Matsuda - Current approaches for the purification of antibody drug conjugates-mono.pdf",
     "兽医药理学/外周神经系统药理.md",
