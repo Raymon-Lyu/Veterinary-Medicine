@@ -11,12 +11,14 @@
             "id": "ba2bffc806b5bea7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf"
+                "file": "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library)"
+              "icon": "lucide-file",
+              "title": "第一章 细胞和组织的适应与损伤"
             }
           }
         ]
@@ -185,6 +187,7 @@
   },
   "active": "ba2bffc806b5bea7",
   "lastOpenFiles": [
+    "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "10.1021/jasms.0c00129.md",
     "生物分离工程/大纲.md",
     "10.1021",
@@ -194,7 +197,6 @@
     "兽医药理学/外周神经系统药理.md",
     "兽医药理学/text.pdf",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
-    "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "生物分离工程/J of Separation Science - 2021 - Matsuda - Current approaches for the purification of antibody drug conjugates-mono.pdf",
     "生物分离工程/期末论文大纲.md",
     "生物分离工程/展示.md",
@@ -231,7 +233,6 @@
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Emojify.md"
+    "copilot-custom-prompts/Explain like I am 5.md"
   ]
 }
