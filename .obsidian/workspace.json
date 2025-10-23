@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1a3143a5f93b1353",
+        "id": "0339a6ea3c142324",
         "type": "tabs",
         "children": [
           {
-            "id": "f313bd7709c6573b",
+            "id": "ba2bffc806b5bea7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "生物分离工程/大纲.md",
-                "mode": "source",
-                "source": false
+                "file": "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf"
               },
-              "icon": "lucide-file",
-              "title": "大纲"
+              "icon": "lucide-file-text",
+              "title": "兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library)"
             }
           }
         ]
@@ -185,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f313bd7709c6573b",
+  "active": "ba2bffc806b5bea7",
   "lastOpenFiles": [
     "10.1021/jasms.0c00129.md",
     "生物分离工程/大纲.md",
