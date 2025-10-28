@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "template/Insert Image by URL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Insert Image by URL"
+            }
+          },
+          {
+            "id": "6a590d10040ffce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "病理解剖学/第四章 炎症.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "第四章 炎症"
-            }
-          },
-          {
-            "id": "074782db56c57070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理解剖学/第三章 局部血液循环障碍.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第三章 局部血液循环障碍"
             }
           }
         ]
@@ -202,12 +202,15 @@
   },
   "active": "a9cf3e16add8809a",
   "lastOpenFiles": [
-    "Pasted image 20251025221057.png",
+    "病理解剖学/第四章 炎症.md",
+    "template/Insert Image by URL.md",
+    "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "病理解剖学/第三章 局部血液循环障碍.md",
+    "template/jasms.0c00129.md",
+    "Pasted image 20251025221057.png",
     "image.js",
     "image.txt",
     "新建 文本文档.txt",
-    "病理解剖学/第四章 炎症.md",
     "兽医药理学/text.pdf",
     "兽医药理学/外周神经系统药理.md",
     "兽医药理学/消化系统药理.md",
@@ -218,7 +221,6 @@
     "().md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/第二章 损伤的修复.md",
-    "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "病理解剖学/实验课部分.md",
     "生物分离工程/大纲.md",
     "生物分离工程/pptA978.tmp",
@@ -226,7 +228,6 @@
     "生物分离工程/ppt20E9.tmp",
     "生物分离工程/ppt85C8.tmp",
     "病理解剖学/总论.md",
-    "10.1021/jasms.0c00129.md",
     "生物分离工程/期末论文大纲.md",
     "生物分离工程/展示.md",
     "病理解剖学/Drawing 2025-10-20 21.50.05.excalidraw.md",
@@ -247,7 +248,6 @@
     "兽医药理学/绪论.md",
     "未命名看板 2.md",
     "未命名看板 1.md",
-    "Drawing 2025-09-17 13.49.34.excalidraw.md",
-    "copilot-custom-prompts/Rewrite as tweet.md"
+    "Drawing 2025-09-17 13.49.34.excalidraw.md"
   ]
 }
