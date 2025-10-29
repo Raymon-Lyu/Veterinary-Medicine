@@ -49,8 +49,7 @@
               "title": "第三章 局部血液循环障碍"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "病理解剖学/第三章 局部血液循环障碍.md",
+                "file": "病理解剖学/第四章 炎症.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第三章 局部血液循环障碍 的反向链接列表"
+              "title": "第四章 炎症 的反向链接列表"
             }
           },
           {
@@ -215,10 +214,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a1193454bcb9678",
+  "active": "6a590d10040ffce6",
   "lastOpenFiles": [
-    "病理解剖学/第四章 炎症.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
+    "病理解剖学/第四章 炎症.md",
     "template/Insert Image by URL.md",
     "生物分离工程/期末论文大纲.md",
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
