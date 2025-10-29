@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "6a590d10040ffce6",
+            "id": "e55fffb360be2afa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "肉芽",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "文件列表"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -228,11 +229,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a590d10040ffce6",
+  "active": "e55fffb360be2afa",
   "lastOpenFiles": [
+    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+    "病理解剖学/第四章 炎症.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
     "病理解剖学/第二章 损伤的修复.md",
-    "病理解剖学/第四章 炎症.md",
     "template/Insert Image by URL.md",
     "生物分离工程/期末论文大纲.md",
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
@@ -249,7 +251,6 @@
     "兽医药理学/未命名.md",
     "兽医药理学/兽医药理学-2025-10-14第1-2节.pdf",
     "().md",
-    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/实验课部分.md",
     "生物分离工程/大纲.md",
     "生物分离工程/pptA978.tmp",
