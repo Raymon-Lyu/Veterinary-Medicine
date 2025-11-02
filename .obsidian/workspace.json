@@ -4,8 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "c7c37a496853ca6e",
+        "type": "tabs",
+        "dimension": 13.404825737265416,
+        "children": [
+          {
+            "id": "35aecbdff585e629",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library)"
+            }
+          }
+        ]
+      },
+      {
         "id": "f5e67855ec4c62d5",
         "type": "tabs",
+        "dimension": 86.59517426273459,
         "children": [
           {
             "id": "e5e8b1fe56864544",
@@ -28,7 +48,7 @@
               "type": "markdown",
               "state": {
                 "file": "病理解剖学/第一章 细胞和组织的适应与损伤.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -122,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -230,11 +251,12 @@
   },
   "active": "42ce41d62bf262a2",
   "lastOpenFiles": [
-    "病理解剖学/第四章 炎症.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+    "病理解剖学/总论.md",
     "病理解剖学/第五章 肿瘤.md",
-    "Pasted image 20251102202302.png",
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
+    "病理解剖学/第四章 炎症.md",
+    "Pasted image 20251102202302.png",
     "病理解剖学/实验课部分.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
     "病理解剖学/第二章 损伤的修复.md",
@@ -259,7 +281,6 @@
     "生物分离工程/ppt24C2.tmp",
     "生物分离工程/ppt20E9.tmp",
     "生物分离工程/ppt85C8.tmp",
-    "病理解剖学/总论.md",
     "生物分离工程/展示.md",
     "病理解剖学/未命名.canvas",
     "656f04c8dcac10225296b39f6a11efab.png",
