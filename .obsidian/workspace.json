@@ -35,9 +35,23 @@
               "icon": "globe-2",
               "title": "搜索云端兽医"
             }
+          },
+          {
+            "id": "1850e9b05f56f07a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.cloudvet.org/Mapi/article/?id=731",
+                "title": "坏死：原因、机理、类型、病理变化与结局",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "坏死：原因、机理、类型、病理变化与结局"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "12ebc468d744213b",
@@ -222,7 +236,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d88520dc5f1db468",
+  "active": "1850e9b05f56f07a",
   "lastOpenFiles": [
     "病理解剖学/实验课部分.md",
     "病理解剖学/第四章 炎症.md",
