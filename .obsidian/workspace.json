@@ -107,17 +107,15 @@
             }
           },
           {
-            "id": "5a72c367172e8a84",
+            "id": "7023af0dc84e08cd",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "pdf",
               "state": {
-                "url": "https://www.bilibili.com/opus/972415513948848130",
-                "title": "《病理生理学》人卫第9版教材--高清彩色十三五蓝皮书.odf - 哔哩哔哩",
-                "mode": "webview"
+                "file": "人卫九版教材/第九版病理学（2018）.pdf"
               },
-              "icon": "globe-2",
-              "title": "《病理生理学》人卫第9版教材--高清彩色十三五蓝皮书.odf - 哔哩哔哩"
+              "icon": "lucide-file-text",
+              "title": "第九版病理学（2018）"
             }
           }
         ],
@@ -195,7 +193,8 @@
               "title": "文件列表"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -216,6 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人卫九版教材/第九版病理学（2018）.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "第九版病理学（2018） 的反向链接列表"
             }
           },
           {
@@ -305,24 +305,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a72c367172e8a84",
+  "active": "7023af0dc84e08cd",
   "lastOpenFiles": [
-    "人卫九版教材/第九版生物化学与分子生物学（2018）-132ae6889baa.pdf.qkdownloading",
-    "人卫九版教材/第九版生理学（2018）.pdf",
-    "人卫九版教材/第九版内科学（2018）-465b7649f130.pdf.qkdownloading",
-    "人卫九版教材/第九版病理学（2018）.pdf",
-    "人卫九版教材/第九版生理学（2018）-57fe1651bb7f.pdf.qkdownloading",
-    "人卫九版教材/第九版外科学（2018）-4aeb373859b6.pdf.qkdownloading",
-    "人卫九版教材/第九版病理学（2018）-d70978b0ea85.pdf.qkdownloading",
-    "人卫九版教材",
     "病理解剖学/实验课部分.md",
+    "人卫九版教材/《组织学与胚胎学》人卫第9版教材--高清彩色.pdf",
+    "人卫九版教材/《诊断学》人卫第9版教材--高清彩色.pdf",
+    "人卫九版教材/《系统解剖学》人卫第9版教材--高清彩色.pdf",
+    "人卫九版教材/《组织学与胚胎学》人卫第9版教材--高清彩色-7bfda3bf1f1c.pdf.qkdownloading",
+    "人卫九版教材/《医学影像学》人卫第9版教材--高清彩色.pdf",
+    "人卫九版教材/《诊断学》人卫第9版教材--高清彩色-50fa8d22daf2.pdf.qkdownloading",
+    "人卫九版教材/《医学免疫学》人卫第9版教材--高清彩色.pdf",
+    "人卫九版教材/《药理学》人卫第9版教材--高清彩色.pdf",
+    "人卫九版教材/《医学影像学》人卫第9版教材--高清彩色-52e151541bfc.pdf.qkdownloading",
+    "人卫九版教材/《医学免疫学》人卫第9版教材--高清彩色-04c6d7510e45.pdf.qkdownloading",
     "Pasted image 20251103214211.png",
     "病理解剖学/第四章 炎症.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
     "Pasted image 20251103151622.png",
     "template/Two Image Compare.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
-    "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "病理解剖学/第二章 损伤的修复.md",
     "病理解剖学/第五章 肿瘤.md",
     "病理解剖学/肿瘤分类.md",
@@ -333,8 +334,6 @@
     "病理解剖学/Drawing 2025-10-20 21.50.05.excalidraw.md",
     "template/jasms.0c00129.md",
     "Pasted image 20251025221057.png",
-    "image.js",
-    "image.txt",
     "兽医药理学/外周神经系统药理.md",
     "兽医药理学/消化系统药理.md",
     "兽医药理学/血液循环系统药理.md",
