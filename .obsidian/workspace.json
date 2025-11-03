@@ -14,12 +14,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.google.com/search?q=%E9%AA%A8%E9%AA%BC%E8%82%8C%E5%87%9D%E5%9B%BA%E6%80%A7%E5%9D%8F%E6%AD%BB%E5%88%87%E7%89%87&sca_esv=467a6a31ff5f6688&ei=h6wIaauxMOO0vr0P6MSUqQY&ved=0ahUKEwjrkOzUidaQAxVjmq8BHWgiJWUQ4dUDCBE&uact=5&oq=%E9%AA%A8%E9%AA%BC%E8%82%8C%E5%87%9D%E5%9B%BA%E6%80%A7%E5%9D%8F%E6%AD%BB%E5%88%87%E7%89%87&gs_lp=Egxnd3Mtd2l6LXNlcnAiHumqqOmqvOiCjOWHneWbuuaAp-Wdj-atu-WIh-eJhzIIEAAYgAQYogQyBRAAGO8FMgUQABjvBTIIEAAYgAQYogRIvjBQAFjFLnACeAGQAQCYAawCoAGRHqoBBjItMTUuMbgBA8gBAPgBAZgCCKACowuYAwCSBwUyLjAuNqAHiR-yBwMyLTa4B54LwgcFMC42LjLIBxI&sclient=gws-wiz-serp",
-                "title": "骨骼肌凝固性坏死切片 - Google 搜索",
+                "url": "https://cn.bing.com/search?q=%E7%B3%96%E7%9A%AE%E8%B4%A8%E6%BF%80%E7%B4%A0%E6%80%A7%E8%82%9D%E7%97%85%E5%88%87%E7%89%87&qs=n&form=QBRE&sp=-1&lq=0&pq=%E7%B3%96%E7%9A%AE%E8%B4%A8%E6%BF%80%E7%B4%A0%E6%80%A7%E8%82%9D%E7%97%85%E5%88%87%E7%89%87&sc=4-10&sk=&cvid=7B76644F81F54D8B9C42FFEF5B1D3BDA",
+                "title": "糖皮质激素性肝病切片 - 搜索",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "骨骼肌凝固性坏死切片 - Google 搜索"
+              "title": "糖皮质激素性肝病切片 - 搜索"
             }
           },
           {
@@ -51,62 +51,6 @@
             }
           },
           {
-            "id": "4a9bd24b19a1b77e",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%82%9D%E7%BB%86%E8%83%9E%E5%9D%8F%E6%AD%BB&fenlei=256&oq=%25E7%25BB%2586%25E8%2583%259E%25E6%25A0%25B8%25E5%259D%258F%25E6%25AD%25BB%25E5%2588%2587%25E7%2589%2587&rsv_pq=e510e57b00c30f65&rsv_t=2b27khdyN6rzt7f7p2I32B4AxkOwpw7FhuA%2FHV3ldCeOrRwXvTL24n1SEx8&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_btype=t&rsv_sug2=0&rsv_sug3=24&rsv_sug1=13&rsv_sug7=100&prefixsug=%25E7%25BB%2586%25E8%2583%259E%25E6%25A0%25B8%25E5%259D%258F%25E6%25AD%25BB&rsp=2",
-                "title": "肝细胞坏死_百度搜索",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "肝细胞坏死_百度搜索"
-            }
-          },
-          {
-            "id": "a8e9592da9f5ae5a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://m.baidu.com/bh/m/detail/ar_6108039684738163340",
-                "title": "肝脏HE染色-肝细胞病变不同形态分辨②坏死",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "肝脏HE染色-肝细胞病变不同形态分辨②坏死"
-            }
-          },
-          {
-            "id": "7f59850510b2d8fc",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://m.baidu.com/bh/m/detail/ar_5812511489084189051",
-                "title": "医学实验课Ⅰ病理学实验之肝细胞坏死",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "医学实验课Ⅰ病理学实验之肝细胞坏死"
-            }
-          },
-          {
-            "id": "a56203569c99dd42",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E7%97%85%E7%90%86%E8%93%9D%E6%9C%AC%E5%8C%BB%E5%AD%A6pdf&fenlei=256&oq=%25E7%2597%2585%25E7%2590%2586%25E8%2593%259D%25E6%259C%25AC%25E5%258C%25BB%25E5%25AD%25A6&rsv_pq=ba9f053200aa425d&rsv_t=84deGYlxqCXbpNleJeqn%2Bp8KbiRRq70BZzUHN8hQHI4iNFlpDs%2BiVIjyUFE&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_btype=t&rsv_sug2=0&rsv_sug3=20&rsv_sug1=13&rsv_sug7=100",
-                "title": "病理蓝本医学pdf_百度搜索",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "病理蓝本医学pdf_百度搜索"
-            }
-          },
-          {
             "id": "7023af0dc84e08cd",
             "type": "leaf",
             "state": {
@@ -118,8 +62,7 @@
               "title": "第九版病理学（2018）"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "12ebc468d744213b",
@@ -215,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人卫九版教材/第九版病理学（2018）.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第九版病理学（2018） 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -305,8 +247,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7023af0dc84e08cd",
+  "active": "4d4c33067746c12f",
   "lastOpenFiles": [
+    "人卫九版教材/第九版病理学（2018）.pdf",
     "病理解剖学/实验课部分.md",
     "人卫九版教材/《组织学与胚胎学》人卫第9版教材--高清彩色.pdf",
     "人卫九版教材/《诊断学》人卫第9版教材--高清彩色.pdf",
