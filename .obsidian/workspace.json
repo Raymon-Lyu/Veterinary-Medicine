@@ -37,7 +37,7 @@
             }
           },
           {
-            "id": "1850e9b05f56f07a",
+            "id": "9c2b272e7fe00984",
             "type": "leaf",
             "state": {
               "type": "webviewer",
@@ -51,17 +51,17 @@
             }
           },
           {
-            "id": "9c2b272e7fe00984",
+            "id": "ebe23db1fa3ff5ea",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.cloudvet.org/Mapi/article/?id=716",
-                "title": "静脉性充血（淤血）：原因、病理变化、结局和影响",
+                "url": "https://www.baidu.com/s?rsv_idx=1&wd=%E4%BB%80%E4%B9%88%E6%98%AF%E7%B3%96%E5%8E%9F%E7%B4%AF%E7%A7%AF%E7%97%85&fenlei=256&usm=3&ie=utf-8&rsv_pq=ba3abd72004e2892&oq=%E7%B3%96%E5%8E%9F%E7%97%85%E7%90%86%E6%80%A7%E6%B2%89%E7%A7%AF%E5%88%87%E7%89%87&rsv_t=2d59TMA4tnwaRtZoCUI8wTxNgQxWSKHAnPfgNRBkfU1iwgW1ERpE0d3p0%2FU&rsf=101636803&rsv_dl=0_prs_28608_1",
+                "title": "糖原病理性沉积切片_百度搜索",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "静脉性充血（淤血）：原因、病理变化、结局和影响"
+              "title": "糖原病理性沉积切片_百度搜索"
             }
           }
         ],
@@ -250,7 +250,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c2b272e7fe00984",
+  "active": "ebe23db1fa3ff5ea",
   "lastOpenFiles": [
     "病理解剖学/实验课部分.md",
     "Pasted image 20251103214211.png",
