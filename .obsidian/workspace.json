@@ -6,7 +6,7 @@
       {
         "id": "40b166ef862e8f3f",
         "type": "tabs",
-        "dimension": 44.32692307692307,
+        "dimension": 48.59249329758713,
         "children": [
           {
             "id": "4d4c33067746c12f",
@@ -14,12 +14,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%87%BA%E8%A1%80%E6%80%A7%E6%B7%8B%E5%B7%B4%E7%BB%93%E7%82%8E&fenlei=256&oq=%25E6%25B7%258B%25E5%25B7%25B4%25E7%25BB%2593%25E7%25BB%2584%25E7%25BB%2587%25E5%2588%2587%25E7%2589%2587%25E5%259B%25BE%25E8%25A7%25A3&rsv_pq=f6adb53e005f9f7d&rsv_t=d3e8xX%2FdNkYEfV1Rbo0DL0Zwp%2FRNKmeEvOqS927lPhNCpW5k7OO8PNEzFTg&rqlang=cn&rsv_dl=tb&rsv_enter=1&rsv_btype=t&rsv_sug2=0&rsv_sug3=63&rsv_sug1=48&rsv_sug7=100&prefixsug=%25E8%2582%259D%25E7%25B3%2596%25E5%258E%259F%25E6%25B2%2589%25E7%25A7%25AF%25E5%2588%2587%25E7%2589%2587&rsp=3",
-                "title": "出血性淋巴结炎_百度搜索",
+                "url": "https://www.google.com/search?q=%E9%AA%A8%E9%AA%BC%E8%82%8C%E5%87%9D%E5%9B%BA%E6%80%A7%E5%9D%8F%E6%AD%BB%E5%88%87%E7%89%87&sca_esv=467a6a31ff5f6688&ei=h6wIaauxMOO0vr0P6MSUqQY&ved=0ahUKEwjrkOzUidaQAxVjmq8BHWgiJWUQ4dUDCBE&uact=5&oq=%E9%AA%A8%E9%AA%BC%E8%82%8C%E5%87%9D%E5%9B%BA%E6%80%A7%E5%9D%8F%E6%AD%BB%E5%88%87%E7%89%87&gs_lp=Egxnd3Mtd2l6LXNlcnAiHumqqOmqvOiCjOWHneWbuuaAp-Wdj-atu-WIh-eJhzIIEAAYgAQYogQyBRAAGO8FMgUQABjvBTIIEAAYgAQYogRIvjBQAFjFLnACeAGQAQCYAawCoAGRHqoBBjItMTUuMbgBA8gBAPgBAZgCCKACowuYAwCSBwUyLjAuNqAHiR-yBwMyLTa4B54LwgcFMC42LjLIBxI&sclient=gws-wiz-serp",
+                "title": "骨骼肌凝固性坏死切片 - Google 搜索",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "出血性淋巴结炎_百度搜索"
+              "title": "骨骼肌凝固性坏死切片 - Google 搜索"
             }
           },
           {
@@ -35,42 +35,14 @@
               "icon": "globe-2",
               "title": "搜索云端兽医"
             }
-          },
-          {
-            "id": "cfae64b734fe22ce",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.cloudvet.org/Mapi/search",
-                "title": "搜索云端兽医",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "搜索云端兽医"
-            }
-          },
-          {
-            "id": "bb2a7f8e428d606c",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.cloudvet.org/Mapi/article/?id=249",
-                "title": "脑膜脑炎",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "脑膜脑炎"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "12ebc468d744213b",
         "type": "tabs",
-        "dimension": 55.67307692307693,
+        "dimension": 51.40750670241287,
         "children": [
           {
             "id": "35aecbdff585e629",
@@ -250,7 +222,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35aecbdff585e629",
+  "active": "d88520dc5f1db468",
   "lastOpenFiles": [
     "病理解剖学/实验课部分.md",
     "病理解剖学/第四章 炎症.md",
