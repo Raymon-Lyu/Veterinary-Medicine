@@ -6,7 +6,7 @@
       {
         "id": "40b166ef862e8f3f",
         "type": "tabs",
-        "dimension": 46.63461538461539,
+        "dimension": 44.32692307692307,
         "children": [
           {
             "id": "4d4c33067746c12f",
@@ -23,17 +23,17 @@
             }
           },
           {
-            "id": "a72f271aabf7530f",
+            "id": "d88520dc5f1db468",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.cloudvet.org/Mapi/article/?id=727",
-                "title": "细胞肿胀：原因、机理、病理变化",
+                "url": "https://www.cloudvet.org/Mapi/article/?id=726",
+                "title": "萎缩：概念、原因、类型、病理变化及结局",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "细胞肿胀：原因、机理、病理变化"
+              "title": "萎缩：概念、原因、类型、病理变化及结局"
             }
           }
         ],
@@ -42,7 +42,7 @@
       {
         "id": "12ebc468d744213b",
         "type": "tabs",
-        "dimension": 53.36538461538461,
+        "dimension": 55.67307692307693,
         "children": [
           {
             "id": "35aecbdff585e629",
@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -222,10 +223,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35aecbdff585e629",
+  "active": "d88520dc5f1db468",
   "lastOpenFiles": [
-    "template/Two Image Compare.md",
     "病理解剖学/实验课部分.md",
+    "template/Two Image Compare.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "病理解剖学/第二章 损伤的修复.md",
