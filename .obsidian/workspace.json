@@ -32,8 +32,23 @@
               "icon": "lucide-file-text",
               "title": "兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library)"
             }
+          },
+          {
+            "id": "d4bdf676b98a9145",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.google.com/?zx=1762151027396&no_sw_cr=1",
+                "title": "Google",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,7 +213,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35aecbdff585e629",
+  "active": "d4bdf676b98a9145",
   "lastOpenFiles": [
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "病理解剖学/实验课部分.md",
