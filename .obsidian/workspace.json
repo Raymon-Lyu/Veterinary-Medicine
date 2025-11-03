@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病理解剖学/肿瘤分类.md",
+                "file": "病理解剖学/实验课部分.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "肿瘤分类"
+              "title": "实验课部分"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -187,14 +188,14 @@
   },
   "active": "35aecbdff585e629",
   "lastOpenFiles": [
+    "病理解剖学/第五章 肿瘤.md",
+    "病理解剖学/肿瘤分类.md",
     "病理解剖学/总论.md",
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "病理解剖学/第四章 炎症.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "template/Insert Image by URL.md",
-    "病理解剖学/肿瘤分类.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
-    "病理解剖学/第五章 肿瘤.md",
     "病理解剖学/第二章 损伤的修复.md",
     "病理解剖学/实验课部分.md",
     "Pasted image 20251102202302.png",
