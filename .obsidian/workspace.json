@@ -6,6 +6,7 @@
       {
         "id": "40b166ef862e8f3f",
         "type": "tabs",
+        "dimension": 46.63461538461539,
         "children": [
           {
             "id": "4d4c33067746c12f",
@@ -13,26 +14,26 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://cn.bing.com/search?q=%E6%B0%B4%E8%82%BF%E5%8F%98%E6%80%A7%E5%88%87%E7%89%87&form=QBLH&sp=-1&lq=0&pq=%E6%B0%B4%E8%82%BF%E5%8F%98%E6%80%A7%E5%88%87%E7%89%87&sc=0-6&qs=n&sk=&cvid=E7EF38A20EF04EA5B799F78CA5001D53",
-                "title": "水肿变性切片 - 搜索",
+                "url": "https://cn.bing.com/search?q=%E8%82%BE%E9%80%8F%E6%98%8E%E6%BB%B4%E7%8A%B6%E5%8F%98%E5%88%87%E7%89%87&qs=n&form=QBRE&sp=-1&lq=0&pq=%E8%82%BE%E9%80%8F%E6%98%8E%E6%BB%B4%E7%8A%B6%E5%8F%98%E5%88%87%E7%89%87&sc=0-8&sk=&cvid=E33A0B19513B462183C17C8FA6420B6E",
+                "title": "肾透明滴状变切片 - 搜索",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "水肿变性切片 - 搜索"
+              "title": "肾透明滴状变切片 - 搜索"
             }
           },
           {
-            "id": "fe5439d2289a1d52",
+            "id": "a72f271aabf7530f",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.weivd.com/article-6289-1.html#:~:text=%E5%88%87%E7%89%87%E5%8F%AF%E8%A7%81%E5%A4%A7%E9%87%8F%E6%96%B0%E7%94%9F%E6%AF%9B%E7%BB%86%E8%A1%80%E7%AE%A1%E5%92%8C%E6%88%90%E7%BA%A4%E7%BB%B4%E7%BB%86%E8%83%9E%EF%BC%8C%E4%BC%B4%E6%95%B0%E9%87%8F%E4%B8%8D%E7%AD%89%E7%9A%84%E7%82%8E%E7%BB%86%E8%83%9E%E6%B5%B8%E6%B6%A6%E3%80%82%20%E6%96%B0%E7%94%9F%E8%96%84%E5%A3%81%E7%9A%84%E6%AF%9B%E7%BB%86%E8%A1%80%E7%AE%A1%E7%AE%A1%E8%85%94%E6%89%A9%E5%BC%A0%EF%BC%8C%E7%94%B1%E5%8D%95%E5%B1%82%E5%86%85%E7%9A%AE%E7%BB%86%E8%83%9E%E7%BB%84%E6%88%90%EF%BC%8C%E5%86%85%E7%9A%AE%E7%BB%86%E8%83%9E%E6%A0%B8%E4%BD%93%E7%A7%AF%E8%BE%83%E5%A4%A7%EF%BC%8C%E5%91%88%E6%A4%AD%E5%9C%86%E5%BD%A2%EF%BC%8C%E5%90%91%E8%85%94%E5%86%85%E7%AA%81%E5%87%BA%E3%80%82,%E6%AF%9B%E7%BB%86%E8%A1%80%E7%AE%A1%E5%91%A8%E5%9B%B4%E7%BB%84%E7%BB%87%E7%96%8F%E6%9D%BE%E6%B0%B4%E8%82%BF%EF%BC%8C%E6%9C%89%E8%AE%B8%E5%A4%9A%E5%A2%9E%E7%94%9F%E7%9A%84%E6%88%90%E7%BA%A4%E7%BB%B4%E7%BB%86%E8%83%9E%EF%BC%8C%E4%BD%93%E7%A7%AF%E8%BE%83%E5%A4%A7%EF%BC%8C%E5%BD%A2%E6%80%81%E5%A4%9A%E6%A0%B7%EF%BC%8C%E5%91%88%E6%A4%AD%E5%9C%86%E5%BD%A2%E6%88%96%E6%A2%AD%E5%BD%A2%EF%BC%8C%E8%83%9E%E6%B5%86%E4%B8%B0%E5%AF%8C%E6%B7%A1%E7%BA%A2%E6%9F%93%E3%80%82%20%E8%BF%98%E5%8F%AF%E8%A7%81%E5%A4%9A%E5%B0%91%E4%B8%8D%E7%AD%89%E7%9A%84%E4%B8%AD%E6%80%A7%E7%B2%92%E7%BB%86%E8%83%9E%E3%80%81%E6%B7%8B%E5%B7%B4%E7%BB%86%E8%83%9E%E6%B5%B8%E6%B6%A6%E3%80%82",
-                "title": "切片学习 | 常规病理组织切片及诊断要点_微诊网_检验医学新媒体 - WEIVD.COM",
+                "url": "https://www.cloudvet.org/Mapi/article/?id=727",
+                "title": "细胞肿胀：原因、机理、病理变化",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "切片学习 | 常规病理组织切片及诊断要点_微诊网_检验医学新媒体 - WEIVD.COM"
+              "title": "细胞肿胀：原因、机理、病理变化"
             }
           }
         ],
@@ -41,6 +42,7 @@
       {
         "id": "12ebc468d744213b",
         "type": "tabs",
+        "dimension": 53.36538461538461,
         "children": [
           {
             "id": "35aecbdff585e629",
@@ -114,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -223,6 +224,7 @@
   },
   "active": "35aecbdff585e629",
   "lastOpenFiles": [
+    "template/Two Image Compare.md",
     "病理解剖学/实验课部分.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
