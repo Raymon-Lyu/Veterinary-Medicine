@@ -42,16 +42,30 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.cloudvet.org/Mapi/article/?id=731",
-                "title": "坏死：原因、机理、类型、病理变化与结局",
+                "url": "https://www.cloudvet.org/Mapi/search",
+                "title": "搜索云端兽医",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "坏死：原因、机理、类型、病理变化与结局"
+              "title": "搜索云端兽医"
+            }
+          },
+          {
+            "id": "9c2b272e7fe00984",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.cloudvet.org/Mapi/article/?id=716",
+                "title": "静脉性充血（淤血）：原因、病理变化、结局和影响",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "静脉性充血（淤血）：原因、病理变化、结局和影响"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "12ebc468d744213b",
@@ -236,9 +250,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1850e9b05f56f07a",
+  "active": "9c2b272e7fe00984",
   "lastOpenFiles": [
     "病理解剖学/实验课部分.md",
+    "Pasted image 20251103214211.png",
     "病理解剖学/第四章 炎症.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
     "Pasted image 20251103151622.png",
@@ -282,7 +297,6 @@
     "Pasted image 20251003104046.png",
     "Pasted image 20251002164752.png",
     "Pasted image 20251002163352.png",
-    "Pasted image 20251002162452.png",
     "未命名看板.md",
     "兽医药理学/绪论.md"
   ]
