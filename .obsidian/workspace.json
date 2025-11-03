@@ -57,11 +57,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.cloudvet.org/Mapi/article/?id=249",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "脑膜脑炎",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "脑膜脑炎"
             }
           }
         ],
@@ -250,7 +250,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb2a7f8e428d606c",
+  "active": "35aecbdff585e629",
   "lastOpenFiles": [
     "病理解剖学/实验课部分.md",
     "病理解剖学/第四章 炎症.md",
