@@ -14,12 +14,26 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.cloudvet.org/Mapi/article/?id=731",
-                "title": "坏死：原因、机理、类型、病理变化与结局",
+                "url": "https://www.cloudvet.org/Mapi/search",
+                "title": "搜索云端兽医",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "坏死：原因、机理、类型、病理变化与结局"
+              "title": "搜索云端兽医"
+            }
+          },
+          {
+            "id": "1f678b2000281312",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.cloudvet.org/Mapi/article/?id=745",
+                "title": "data:text/plain,",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "data:text/plain,"
             }
           },
           {
@@ -34,7 +48,8 @@
               "title": "兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2012611e09d2770e",
@@ -247,7 +262,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d53018ae4bf9b8eb",
+  "active": "1f678b2000281312",
   "lastOpenFiles": [
     "病理解剖学/第四章 炎症.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
