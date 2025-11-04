@@ -19,8 +19,23 @@
               "icon": "lucide-file-text",
               "title": "《病理学（第10版）》"
             }
+          },
+          {
+            "id": "d53018ae4bf9b8eb",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.cloudvet.org/Mapi/article/?id=731",
+                "title": "坏死：原因、机理、类型、病理变化与结局",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "坏死：原因、机理、类型、病理变化与结局"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2012611e09d2770e",
@@ -218,10 +233,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd9fc444b0d093f9",
+  "active": "d53018ae4bf9b8eb",
   "lastOpenFiles": [
-    "病理解剖学/实验课部分.md",
     "人卫九版教材/《病理学（第10版）》.pdf",
+    "病理解剖学/实验课部分.md",
     "病理解剖学/第四章 炎症.md",
     "人卫九版教材/《生理学》人卫第9版教材--高清彩色.pdf",
     "病理解剖学/第三章 局部血液循环障碍.md",
