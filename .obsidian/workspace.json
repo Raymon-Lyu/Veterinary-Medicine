@@ -6,6 +6,7 @@
       {
         "id": "7040f59a708ba40f",
         "type": "tabs",
+        "dimension": 55.02680965147453,
         "children": [
           {
             "id": "cd9fc444b0d093f9",
@@ -24,6 +25,7 @@
       {
         "id": "2012611e09d2770e",
         "type": "tabs",
+        "dimension": 44.97319034852547,
         "children": [
           {
             "id": "0bdff25e252cfb21",
@@ -38,8 +40,23 @@
               "icon": "lucide-file",
               "title": "实验课部分"
             }
+          },
+          {
+            "id": "e31790e59153c9ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "病理解剖学/第四章 炎症.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第四章 炎症"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "渗出液",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +109,7 @@
               "title": "文件列表"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,21 +221,21 @@
   },
   "active": "cd9fc444b0d093f9",
   "lastOpenFiles": [
+    "病理解剖学/第四章 炎症.md",
+    "人卫九版教材/《生理学》人卫第9版教材--高清彩色.pdf",
+    "病理解剖学/第三章 局部血液循环障碍.md",
     "病理解剖学/实验课部分.md",
+    "人卫九版教材/《病理学（第10版）》.pdf",
     "兽医药理学/text.pdf",
     "人卫九版教材/《药理学》人卫第9版教材--高清彩色.pdf",
     "兽医药理学/中枢神经系统药理.md",
     "兽医药理学/兽医药理学-2025-10-14第1-2节.pdf",
     "人卫九版教材/第九版病理学（2018）.pdf",
-    "人卫九版教材/《病理学（第10版）》.pdf",
     "人卫九版教材/《组织学与胚胎学》人卫第9版教材--高清彩色.pdf",
     "人卫九版教材/《诊断学》人卫第9版教材--高清彩色.pdf",
     "人卫九版教材/《系统解剖学》人卫第9版教材--高清彩色.pdf",
     "人卫九版教材/《组织学与胚胎学》人卫第9版教材--高清彩色-7bfda3bf1f1c.pdf.qkdownloading",
-    "人卫九版教材/《医学影像学》人卫第9版教材--高清彩色.pdf",
     "Pasted image 20251103214211.png",
-    "病理解剖学/第四章 炎症.md",
-    "病理解剖学/第三章 局部血液循环障碍.md",
     "Pasted image 20251103151622.png",
     "template/Two Image Compare.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
