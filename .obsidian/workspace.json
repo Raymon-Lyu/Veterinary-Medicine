@@ -4,83 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "40b166ef862e8f3f",
+        "id": "96ed12294bc31401",
         "type": "tabs",
-        "dimension": 48.59249329758713,
         "children": [
           {
-            "id": "4d4c33067746c12f",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://cn.bing.com/search?q=%E7%B3%96%E7%9A%AE%E8%B4%A8%E6%BF%80%E7%B4%A0%E6%80%A7%E8%82%9D%E7%97%85%E5%88%87%E7%89%87&qs=n&form=QBRE&sp=-1&lq=0&pq=%E7%B3%96%E7%9A%AE%E8%B4%A8%E6%BF%80%E7%B4%A0%E6%80%A7%E8%82%9D%E7%97%85%E5%88%87%E7%89%87&sc=4-10&sk=&cvid=7B76644F81F54D8B9C42FFEF5B1D3BDA",
-                "title": "data:text/plain,",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "data:text/plain,"
-            }
-          },
-          {
-            "id": "d88520dc5f1db468",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.cloudvet.org/Mapi/search",
-                "title": "搜索云端兽医",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "搜索云端兽医"
-            }
-          },
-          {
-            "id": "688f1a323c294ae5",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://zhuanlan.zhihu.com/p/617911655",
-                "title": "【精品技术】肾脏病理解析 - 知乎",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "【精品技术】肾脏病理解析 - 知乎"
-            }
-          },
-          {
-            "id": "7023af0dc84e08cd",
+            "id": "e3ca006e7414216c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "人卫九版教材/第九版病理学（2018）.pdf"
+                "file": "兽医药理学/text.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "第九版病理学（2018）"
+              "title": "text"
             }
           }
         ]
       },
       {
-        "id": "12ebc468d744213b",
+        "id": "bb85cc211511a156",
         "type": "tabs",
-        "dimension": 51.40750670241287,
         "children": [
           {
-            "id": "35aecbdff585e629",
+            "id": "f6a1416ea6ff734f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病理解剖学/实验课部分.md",
+                "file": "兽医药理学/中枢神经系统药理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验课部分"
+              "title": "中枢神经系统药理"
             }
           }
         ]
@@ -247,10 +203,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d4c33067746c12f",
+  "active": "f6a1416ea6ff734f",
   "lastOpenFiles": [
-    "人卫九版教材/《病理学（第10版）》.pdf",
+    "兽医药理学/text.pdf",
+    "兽医药理学/中枢神经系统药理.md",
+    "兽医药理学/兽医药理学-2025-10-14第1-2节.pdf",
     "人卫九版教材/第九版病理学（2018）.pdf",
+    "人卫九版教材/《病理学（第10版）》.pdf",
     "病理解剖学/实验课部分.md",
     "人卫九版教材/《组织学与胚胎学》人卫第9版教材--高清彩色.pdf",
     "人卫九版教材/《诊断学》人卫第9版教材--高清彩色.pdf",
@@ -259,8 +218,6 @@
     "人卫九版教材/《医学影像学》人卫第9版教材--高清彩色.pdf",
     "人卫九版教材/《诊断学》人卫第9版教材--高清彩色-50fa8d22daf2.pdf.qkdownloading",
     "人卫九版教材/《医学免疫学》人卫第9版教材--高清彩色.pdf",
-    "人卫九版教材/《药理学》人卫第9版教材--高清彩色.pdf",
-    "人卫九版教材/《医学影像学》人卫第9版教材--高清彩色-52e151541bfc.pdf.qkdownloading",
     "Pasted image 20251103214211.png",
     "病理解剖学/第四章 炎症.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
@@ -281,7 +238,6 @@
     "兽医药理学/消化系统药理.md",
     "兽医药理学/血液循环系统药理.md",
     "兽医药理学/总论.md",
-    "兽医药理学/未命名.md",
     "().md",
     "生物分离工程/大纲.md",
     "生物分离工程/展示.md",
