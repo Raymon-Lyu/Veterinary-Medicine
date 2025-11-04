@@ -12,12 +12,14 @@
             "id": "cd9fc444b0d093f9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "人卫九版教材/《病理学（第10版）》.pdf"
+                "file": "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "《病理学（第10版）》"
+              "icon": "lucide-file",
+              "title": "第一章 细胞和组织的适应与损伤"
             }
           },
           {
@@ -115,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "坏死",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,13 +151,11 @@
               "title": "文件列表"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -262,11 +262,11 @@
   },
   "active": "cd9fc444b0d093f9",
   "lastOpenFiles": [
-    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+    "病理解剖学/第四章 炎症.md",
     "人卫九版教材/《病理学（第10版）》.pdf",
+    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "病理解剖学/实验课部分.md",
-    "病理解剖学/第四章 炎症.md",
     "人卫九版教材/《生理学》人卫第9版教材--高清彩色.pdf",
     "病理解剖学/第三章 局部血液循环障碍.md",
     "兽医药理学/text.pdf",
