@@ -6,7 +6,7 @@
       {
         "id": "db199af09fee4526",
         "type": "tabs",
-        "dimension": 26.60857908847185,
+        "dimension": 31.903485254691688,
         "children": [
           {
             "id": "8f55a4b60339e64a",
@@ -21,13 +21,28 @@
               "icon": "globe-2",
               "title": "Gemini"
             }
+          },
+          {
+            "id": "9c0bebd5f71549f6",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "http://www.a-hospital.com/w/%E8%82%89%E8%8A%BD%E8%82%BF",
+                "title": "肉芽肿 - A+医学百科",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "肉芽肿 - A+医学百科"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2012611e09d2770e",
         "type": "tabs",
-        "dimension": 38.337801608579085,
+        "dimension": 33.042895442359246,
         "children": [
           {
             "id": "86801affe8e4bd2f",
@@ -99,7 +114,8 @@
               "title": "第五章 肿瘤"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "bd6867562794fd3b",
@@ -284,15 +300,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86801affe8e4bd2f",
+  "active": "9c0bebd5f71549f6",
   "lastOpenFiles": [
+    "病理解剖学/第四章 炎症.md",
     "病理解剖学/实验课部分.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
     "病理解剖学/第二章 损伤的修复.md",
     "病理解剖学/第五章 肿瘤.md",
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
-    "病理解剖学/第四章 炎症.md",
     "人卫九版教材/《病理学（第10版）》.pdf",
     "人卫九版教材/《生理学》人卫第9版教材--高清彩色.pdf",
     "兽医药理学/text.pdf",
