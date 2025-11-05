@@ -28,12 +28,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.cloudvet.org/Mapi/article/727",
-                "title": "渗出性炎症与卡他性炎症基本认知",
+                "url": "https://www.cloudvet.org/Mapi/search",
+                "title": "搜索云端兽医",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "渗出性炎症与卡他性炎症基本认知"
+              "title": "搜索云端兽医"
             }
           },
           {
@@ -277,11 +277,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "847dabc2c1a27084",
+  "active": "1f678b2000281312",
   "lastOpenFiles": [
+    "病理解剖学/第四章 炎症.md",
     "病理解剖学/第二章 损伤的修复.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
-    "病理解剖学/第四章 炎症.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "人卫九版教材/《病理学（第10版）》.pdf",
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
