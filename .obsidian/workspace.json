@@ -4,71 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "7040f59a708ba40f",
+        "id": "9cfc6b6d0ffb523a",
         "type": "tabs",
-        "dimension": 25.553319919517104,
+        "dimension": 25.720026791694572,
         "children": [
           {
-            "id": "d53018ae4bf9b8eb",
+            "id": "e673bb43d51acfe4",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.cloudvet.org/Mapi/search",
-                "title": "搜索云端兽医",
+                "url": "https://cn.bing.com/search?q=%e5%8c%96%e8%84%93%e6%80%a7%e8%82%ba%e7%82%8e%e5%88%87%e7%89%87&qs=UT&pq=%e5%8c%96%e8%84%93%e6%80%a7%e8%82%ba%e7%82%8e&sk=HS1UT1&sc=12-5&cvid=AAF2DE59D9B44C76B48292946ADF2265&sp=3&lq=0&FPIG=ED88B5917AB5405480FE7348473B0D87&first=10&FORM=PERE",
+                "title": "化脓性肺炎切片 - 搜索",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "搜索云端兽医"
-            }
-          },
-          {
-            "id": "1f678b2000281312",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.cloudvet.org/Mapi/search",
-                "title": "搜索云端兽医",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "搜索云端兽医"
-            }
-          },
-          {
-            "id": "7cab62b1720f7453",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.cloudvet.org/Mapi/article/?id=746",
-                "title": "增生性炎症：类型及病理变化特征",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "增生性炎症：类型及病理变化特征"
-            }
-          },
-          {
-            "id": "71c81affe25e72b6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library)"
+              "title": "化脓性肺炎切片 - 搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "2012611e09d2770e",
         "type": "tabs",
-        "dimension": 35.479543930248155,
+        "dimension": 32.953784326858674,
         "children": [
           {
             "id": "e31790e59153c9ff",
@@ -132,7 +91,7 @@
       {
         "id": "bd6867562794fd3b",
         "type": "tabs",
-        "dimension": 38.967136150234744,
+        "dimension": 41.326188881446754,
         "children": [
           {
             "id": "0bdff25e252cfb21",
@@ -312,16 +271,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0bdff25e252cfb21",
+  "active": "a5f17ce097e25380",
   "lastOpenFiles": [
-    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/实验课部分.md",
+    "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
+    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/第五章 肿瘤.md",
     "病理解剖学/第四章 炎症.md",
     "病理解剖学/第二章 损伤的修复.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
     "人卫九版教材/《病理学（第10版）》.pdf",
-    "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "人卫九版教材/《生理学》人卫第9版教材--高清彩色.pdf",
     "兽医药理学/text.pdf",
     "人卫九版教材/《药理学》人卫第9版教材--高清彩色.pdf",
