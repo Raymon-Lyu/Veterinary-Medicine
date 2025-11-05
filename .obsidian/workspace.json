@@ -6,7 +6,7 @@
       {
         "id": "9cfc6b6d0ffb523a",
         "type": "tabs",
-        "dimension": 25.720026791694572,
+        "dimension": 25.92096450100469,
         "children": [
           {
             "id": "e673bb43d51acfe4",
@@ -14,12 +14,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://cn.bing.com/search?q=%e5%8c%96%e8%84%93%e6%80%a7%e8%82%ba%e7%82%8e%e5%88%87%e7%89%87&qs=UT&pq=%e5%8c%96%e8%84%93%e6%80%a7%e8%82%ba%e7%82%8e&sk=HS1UT1&sc=12-5&cvid=AAF2DE59D9B44C76B48292946ADF2265&sp=3&lq=0&FPIG=ED88B5917AB5405480FE7348473B0D87&first=10&FORM=PERE",
-                "title": "化脓性肺炎切片 - 搜索",
-                "mode": "webview"
+                "url": "https://www.cloudvet.org/KB/viewArticle/707/detail.html",
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "化脓性肺炎切片 - 搜索"
+              "title": "data:text/plain,"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "2012611e09d2770e",
         "type": "tabs",
-        "dimension": 32.953784326858674,
+        "dimension": 32.752846617548556,
         "children": [
           {
             "id": "e31790e59153c9ff",
@@ -271,12 +271,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5f17ce097e25380",
+  "active": "e673bb43d51acfe4",
   "lastOpenFiles": [
+    "病理解剖学/第五章 肿瘤.md",
     "病理解剖学/实验课部分.md",
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
-    "病理解剖学/第五章 肿瘤.md",
     "病理解剖学/第四章 炎症.md",
     "病理解剖学/第二章 损伤的修复.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
