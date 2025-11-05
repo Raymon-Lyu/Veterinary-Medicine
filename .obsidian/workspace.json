@@ -6,7 +6,7 @@
       {
         "id": "7040f59a708ba40f",
         "type": "tabs",
-        "dimension": 48.59249329758713,
+        "dimension": 22.058823529411764,
         "children": [
           {
             "id": "d53018ae4bf9b8eb",
@@ -54,7 +54,7 @@
       {
         "id": "2012611e09d2770e",
         "type": "tabs",
-        "dimension": 51.40750670241287,
+        "dimension": 77.94117647058823,
         "children": [
           {
             "id": "0bdff25e252cfb21",
@@ -76,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病理解剖学/第三章 局部血液循环障碍.md",
+                "file": "病理解剖学/第二章 损伤的修复.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第三章 局部血液循环障碍"
+              "title": "第二章 损伤的修复"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "纤维化",
+                "query": "肉芽",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -263,13 +264,13 @@
   },
   "active": "e31790e59153c9ff",
   "lastOpenFiles": [
+    "病理解剖学/第三章 局部血液循环障碍.md",
     "病理解剖学/第四章 炎症.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "人卫九版教材/《病理学（第10版）》.pdf",
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "病理解剖学/实验课部分.md",
     "人卫九版教材/《生理学》人卫第9版教材--高清彩色.pdf",
-    "病理解剖学/第三章 局部血液循环障碍.md",
     "兽医药理学/text.pdf",
     "人卫九版教材/《药理学》人卫第9版教材--高清彩色.pdf",
     "兽医药理学/中枢神经系统药理.md",
