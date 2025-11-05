@@ -6,7 +6,7 @@
       {
         "id": "db199af09fee4526",
         "type": "tabs",
-        "dimension": 28.016085790884723,
+        "dimension": 13.404825737265416,
         "children": [
           {
             "id": "8f55a4b60339e64a",
@@ -41,7 +41,7 @@
       {
         "id": "2012611e09d2770e",
         "type": "tabs",
-        "dimension": 37.33243967828418,
+        "dimension": 51.94369973190348,
         "children": [
           {
             "id": "86801affe8e4bd2f",
@@ -113,7 +113,8 @@
               "title": "第五章 肿瘤"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "bd6867562794fd3b",
@@ -222,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+                "file": "病理解剖学/第五章 肿瘤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +233,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第一章 细胞和组织的适应与损伤 的反向链接列表"
+              "title": "第五章 肿瘤 的反向链接列表"
             }
           },
           {
@@ -312,10 +313,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86801affe8e4bd2f",
+  "active": "a5f17ce097e25380",
   "lastOpenFiles": [
-    "人卫九版教材/《病理学（第10版）》.pdf",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+    "人卫九版教材/《病理学（第10版）》.pdf",
     "病理解剖学/第四章 炎症.md",
     "病理解剖学/实验课部分.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
