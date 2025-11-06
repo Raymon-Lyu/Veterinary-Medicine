@@ -205,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -311,7 +312,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f55a4b60339e64a",
+  "active": "0bdff25e252cfb21",
   "lastOpenFiles": [
     "病理解剖学/实验课部分.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
