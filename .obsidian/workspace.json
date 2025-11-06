@@ -14,12 +14,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/gem/6cd563640231/81dd587a4e89da35",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "url": "https://gemini.google.com/app/8bf5f26666f03731",
+                "title": "Google Gemini",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "Google Gemini"
             }
           },
           {
@@ -128,7 +128,7 @@
               "type": "markdown",
               "state": {
                 "file": "病理解剖学/实验课部分.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -147,8 +147,7 @@
               "title": "《病理学（第10版）》"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -313,17 +311,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0488892f623fdb2",
+  "active": "8f55a4b60339e64a",
   "lastOpenFiles": [
+    "病理解剖学/实验课部分.md",
+    "病理解剖学/第三章 局部血液循环障碍.md",
     "生物分离工程/分离方法汇总.jpg",
     "生物分离工程/分离方法汇总.jpg.crdownload",
     "病理解剖学/第二章 损伤的修复.md",
-    "病理解剖学/第三章 局部血液循环障碍.md",
     "病理解剖学/第五章 肿瘤.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "人卫九版教材/《病理学（第10版）》.pdf",
     "病理解剖学/第四章 炎症.md",
-    "病理解剖学/实验课部分.md",
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "人卫九版教材/《生理学》人卫第9版教材--高清彩色.pdf",
     "兽医药理学/text.pdf",
@@ -360,7 +358,6 @@
     "Pasted image 20251003105047.png",
     "Pasted image 20251003104046.png",
     "Pasted image 20251002164752.png",
-    "Pasted image 20251002163352.png",
     "未命名看板.md",
     "兽医药理学/绪论.md"
   ]
