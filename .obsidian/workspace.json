@@ -14,12 +14,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/8bf5f26666f03731",
-                "title": "Google Gemini",
+                "url": "https://gemini.google.com/gem/6cd563640231/db1553aaaab852ad",
+                "title": "Gemini",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "Gemini"
             }
           },
           {
@@ -41,7 +41,7 @@
       {
         "id": "2012611e09d2770e",
         "type": "tabs",
-        "dimension": 39.879356568364614,
+        "dimension": 35.32171581769437,
         "children": [
           {
             "id": "86801affe8e4bd2f",
@@ -119,7 +119,7 @@
       {
         "id": "bd6867562794fd3b",
         "type": "tabs",
-        "dimension": 34.6514745308311,
+        "dimension": 39.20911528150134,
         "children": [
           {
             "id": "0bdff25e252cfb21",
@@ -312,7 +312,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0bdff25e252cfb21",
+  "active": "8f55a4b60339e64a",
   "lastOpenFiles": [
     "病理解剖学/实验课部分.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
