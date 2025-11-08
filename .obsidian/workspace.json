@@ -4,36 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "db199af09fee4526",
+        "id": "98cecca5dd9cdca0",
         "type": "tabs",
-        "dimension": 13.404825737265417,
+        "dimension": 50,
         "children": [
           {
-            "id": "8f55a4b60339e64a",
+            "id": "eb5c5f5f9ac4bed7",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "pdf",
               "state": {
-                "url": "https://gemini.google.com/gem/6cd563640231/db1553aaaab852ad",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "file": "人卫九版教材/《病理学（第10版）》.pdf"
               },
-              "icon": "globe-2",
-              "title": "data:text/plain,"
-            }
-          },
-          {
-            "id": "9c0bebd5f71549f6",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "http://www.a-hospital.com/w/%E8%82%89%E8%8A%BD%E8%82%BF",
-                "title": "肉芽肿 - A+医学百科",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "肉芽肿 - A+医学百科"
+              "icon": "lucide-file-text",
+              "title": "《病理学（第10版）》"
             }
           }
         ]
@@ -41,7 +25,7 @@
       {
         "id": "2012611e09d2770e",
         "type": "tabs",
-        "dimension": 14.410187667560322,
+        "dimension": 50,
         "children": [
           {
             "id": "86801affe8e4bd2f",
@@ -111,40 +95,6 @@
               },
               "icon": "lucide-file",
               "title": "第五章 肿瘤"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "bd6867562794fd3b",
-        "type": "tabs",
-        "dimension": 72.18498659517427,
-        "children": [
-          {
-            "id": "0bdff25e252cfb21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理解剖学/实验课部分.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "实验课部分"
-            }
-          },
-          {
-            "id": "eb5c5f5f9ac4bed7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "人卫九版教材/《病理学（第10版）》.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "《病理学（第10版）》"
             }
           }
         ]
@@ -312,17 +262,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0bdff25e252cfb21",
+  "active": "86801affe8e4bd2f",
   "lastOpenFiles": [
-    "病理解剖学/实验课部分.pdf",
-    "病理解剖学/实验课部分.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
+    "人卫九版教材/《病理学（第10版）》.pdf",
+    "病理解剖学/实验课部分.md",
+    "病理解剖学/实验课部分.pdf",
     "生物分离工程/分离方法汇总.jpg",
     "生物分离工程/分离方法汇总.jpg.crdownload",
     "病理解剖学/第二章 损伤的修复.md",
     "病理解剖学/第五章 肿瘤.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
-    "人卫九版教材/《病理学（第10版）》.pdf",
     "病理解剖学/第四章 炎症.md",
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "人卫九版教材/《生理学》人卫第9版教材--高清彩色.pdf",
@@ -332,7 +282,6 @@
     "兽医药理学/兽医药理学-2025-10-14第1-2节.pdf",
     "人卫九版教材/第九版病理学（2018）.pdf",
     "人卫九版教材/《组织学与胚胎学》人卫第9版教材--高清彩色.pdf",
-    "人卫九版教材/《诊断学》人卫第9版教材--高清彩色.pdf",
     "Pasted image 20251103214211.png",
     "Pasted image 20251103151622.png",
     "template/Two Image Compare.md",
