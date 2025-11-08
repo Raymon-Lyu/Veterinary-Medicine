@@ -6,7 +6,7 @@
       {
         "id": "db199af09fee4526",
         "type": "tabs",
-        "dimension": 13.404825737265416,
+        "dimension": 13.404825737265417,
         "children": [
           {
             "id": "8f55a4b60339e64a",
@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/gem/6cd563640231/db1553aaaab852ad",
-                "title": "Gemini",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Gemini"
+              "title": "data:text/plain,"
             }
           },
           {
