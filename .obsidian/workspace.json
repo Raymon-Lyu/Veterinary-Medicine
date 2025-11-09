@@ -6,7 +6,7 @@
       {
         "id": "98cecca5dd9cdca0",
         "type": "tabs",
-        "dimension": 43.36461126005362,
+        "dimension": 43.36461126005363,
         "children": [
           {
             "id": "eb5c5f5f9ac4bed7",
@@ -41,11 +41,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/gem/6cd563640231/81dd587a4e89da35",
-                "title": "Google Gemini",
+                "title": "Gemini",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "Gemini"
             }
           }
         ],
@@ -54,7 +54,7 @@
       {
         "id": "2012611e09d2770e",
         "type": "tabs",
-        "dimension": 56.63538873994638,
+        "dimension": 56.63538873994637,
         "children": [
           {
             "id": "86801affe8e4bd2f",
@@ -305,10 +305,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "847dabc2c1a27084",
+  "active": "5d2f8a9d04c46f86",
   "lastOpenFiles": [
-    "病理解剖学/第三章 局部血液循环障碍.md",
     "病理解剖学/第四章 炎症.md",
+    "病理解剖学/第三章 局部血液循环障碍.md",
     "病理解剖学/第二章 损伤的修复.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/总论.md",
