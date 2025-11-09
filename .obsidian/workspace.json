@@ -33,9 +33,23 @@
               "icon": "globe-2",
               "title": "TSH - DeepSeek"
             }
+          },
+          {
+            "id": "5d2f8a9d04c46f86",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/gem/6cd563640231/db1553aaaab852ad",
+                "title": "Gemini",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Gemini"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "2012611e09d2770e",
@@ -291,7 +305,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f1a8e5bc7025f73",
+  "active": "5d2f8a9d04c46f86",
   "lastOpenFiles": [
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/总论.md",
