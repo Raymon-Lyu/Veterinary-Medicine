@@ -6,7 +6,7 @@
       {
         "id": "98cecca5dd9cdca0",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 41.0857908847185,
         "children": [
           {
             "id": "eb5c5f5f9ac4bed7",
@@ -19,13 +19,28 @@
               "icon": "lucide-file-text",
               "title": "《病理学（第10版）》"
             }
+          },
+          {
+            "id": "5f1a8e5bc7025f73",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chat.deepseek.com/a/chat/s/f1d9a804-384a-4a30-b083-00436a5b7082",
+                "title": "DeepSeek - 探索未至之境",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "DeepSeek - 探索未至之境"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2012611e09d2770e",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 58.9142091152815,
         "children": [
           {
             "id": "86801affe8e4bd2f",
@@ -262,11 +277,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb5c5f5f9ac4bed7",
+  "active": "86801affe8e4bd2f",
   "lastOpenFiles": [
+    "人卫九版教材/《病理学（第10版）》.pdf",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
-    "人卫九版教材/《病理学（第10版）》.pdf",
     "病理解剖学/实验课部分.md",
     "病理解剖学/实验课部分.pdf",
     "生物分离工程/分离方法汇总.jpg",
