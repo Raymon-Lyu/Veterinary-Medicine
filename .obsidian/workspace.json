@@ -40,12 +40,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/gem/6cd563640231/db1553aaaab852ad",
-                "title": "Gemini",
+                "url": "https://gemini.google.com/gem/6cd563640231/81dd587a4e89da35",
+                "title": "Google Gemini",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Gemini"
+              "title": "Google Gemini"
             }
           }
         ],
