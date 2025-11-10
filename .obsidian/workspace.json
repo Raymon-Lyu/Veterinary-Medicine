@@ -27,11 +27,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://chat.deepseek.com/a/chat/s/f1d9a804-384a-4a30-b083-00436a5b7082",
-                "title": "TSH - DeepSeek",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "TSH - DeepSeek"
+              "title": "data:text/plain,"
             }
           },
           {
