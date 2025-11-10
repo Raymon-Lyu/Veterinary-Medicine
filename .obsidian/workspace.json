@@ -14,11 +14,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://chat.deepseek.com/a/chat/s/4e7a6ae4-6cb7-4215-bdeb-a1f955d0bdd3",
-                "title": "data:text/plain,",
+                "title": "肉芽肿的基本结构与分类解析 - DeepSeek",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "肉芽肿的基本结构与分类解析 - DeepSeek"
             }
           }
         ]
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,8 +165,7 @@
               "title": "文件列表"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,7 +276,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aba96b671f5c5417",
+  "active": "a5f17ce097e25380",
   "lastOpenFiles": [
     "病理解剖学/第四章 炎症.md",
     "病理解剖学/第二章 损伤的修复.md",
