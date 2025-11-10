@@ -13,12 +13,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://chat.deepseek.com/a/chat/s/4e7a6ae4-6cb7-4215-bdeb-a1f955d0bdd3",
-                "title": "肉芽肿的基本结构与分类解析 - DeepSeek",
+                "url": "https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_source=google&utm_medium=paid-media&utm_medium=cpc&utm_campaign=bkws&utm_campaign=2024enUS_gemfeb&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20108148196&gbraid=0AAAAApk5BhmyYbJaJIh3yb5wg54UrO5E2&gclid=CjwKCAiAt8bIBhBpEiwAzH1w6RU7cWkZFPJdoRJm7DVGH87uY0rfgiaZZKk8qVZ7wBCGm9vbcjSbyRoCOccQAvD_BwE",
+                "title": "Google Gemini",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "肉芽肿的基本结构与分类解析 - DeepSeek"
+              "title": "Google Gemini"
             }
           }
         ]
@@ -276,8 +276,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5f17ce097e25380",
+  "active": "aba96b671f5c5417",
   "lastOpenFiles": [
+    "病理解剖学/第五章 肿瘤.md",
     "病理解剖学/第四章 炎症.md",
     "病理解剖学/第二章 损伤的修复.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
@@ -292,7 +293,6 @@
     "病理解剖学/实验课部分.pdf",
     "生物分离工程/分离方法汇总.jpg",
     "生物分离工程/分离方法汇总.jpg.crdownload",
-    "病理解剖学/第五章 肿瘤.md",
     "病理解剖学/兽医病理学原色图谱 (Pdg2Pic, 陈怀涛主编) (Z-Library).pdf",
     "人卫九版教材/《生理学》人卫第9版教材--高清彩色.pdf",
     "兽医药理学/text.pdf",
