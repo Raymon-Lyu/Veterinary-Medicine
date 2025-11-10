@@ -13,12 +13,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/gem/6cd563640231/3bc3ab32edaca97f",
-                "title": "gemini.google.com/gem/6cd563640231/3bc3ab32edaca97f",
-                "mode": "error"
+                "url": "https://chat.deepseek.com/a/chat/s/4e7a6ae4-6cb7-4215-bdeb-a1f955d0bdd3",
+                "title": "肉芽肿的基本结构 - DeepSeek",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "gemini.google.com/gem/6cd563640231/3bc3ab32edaca97f"
+              "title": "肉芽肿的基本结构 - DeepSeek"
             }
           }
         ]
