@@ -6,7 +6,7 @@
       {
         "id": "30738dea5ec47c5f",
         "type": "tabs",
-        "dimension": 27.699530516431924,
+        "dimension": 27.34584450402145,
         "children": [
           {
             "id": "a9633c635cc1a91a",
@@ -25,44 +25,9 @@
         ]
       },
       {
-        "id": "c71b542e62915a7b",
-        "type": "tabs",
-        "dimension": 30.918846411804157,
-        "children": [
-          {
-            "id": "6073be2ef589b8d8",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/gem/6cd563640231/3bc3ab32edaca97f?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_source=google&utm_medium=paid-media&utm_medium=cpc&utm_campaign=bkws&utm_campaign=2024enUS_gemfeb&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20108148196&gbraid=0AAAAApk5BhmyYbJaJIh3yb5wg54UrO5E2&gclid=CjwKCAiAt8bIBhBpEiwAzH1w6RU7cWkZFPJdoRJm7DVGH87uY0rfgiaZZKk8qVZ7wBCGm9vbcjSbyRoCOccQAvD_BwE",
-                "title": "Gemini",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "Gemini"
-            }
-          },
-          {
-            "id": "d2a78d752329f95f",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.google.com/search?q=%E9%9D%99%E8%84%89%E8%A1%80%E6%A0%93%E5%88%87%E7%89%87&sca_esv=7c031b0b1e1c228d&sxsrf=AE3TifPUDHzSUBvjuNctsCHahXJgy_uXJQ%3A1762841897782&ei=KdUSaYy-L5GZwbkPrICwoQ0&ved=0ahUKEwjM9vLouemQAxWRTDABHSwALNQQ4dUDCBM&uact=5&oq=%E9%9D%99%E8%84%89%E8%A1%80%E6%A0%93%E5%88%87%E7%89%87&gs_lp=Egxnd3Mtd2l6LXNlcnAiEumdmeiEieihgOagk-WIh-eJh0ilElAAWLMRcAB4AJABAJgBugSgAdkVqgEDNS01uAEDyAEA-AEBmAIAoAIAmAMAkgcAoAf6CbIHALgHAMIHAMgHAA&sclient=gws-wiz-serp",
-                "title": "静脉血栓切片 - Google Search",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "静脉血栓切片 - Google Search"
-            }
-          }
-        ]
-      },
-      {
         "id": "2012611e09d2770e",
         "type": "tabs",
-        "dimension": 41.38162307176392,
+        "dimension": 72.65415549597856,
         "children": [
           {
             "id": "75d7992650278d0e",
