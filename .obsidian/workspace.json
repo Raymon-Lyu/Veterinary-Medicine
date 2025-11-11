@@ -110,8 +110,23 @@
               "icon": "lucide-file",
               "title": "中枢神经系统药理"
             }
+          },
+          {
+            "id": "6073be2ef589b8d8",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chat.deepseek.com/a/chat/s/41ba2bd4-8c1e-4c31-a703-80d667f11d2b",
+                "title": "血清淀粉样蛋白A的作用 - DeepSeek",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "血清淀粉样蛋白A的作用 - DeepSeek"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,10 +290,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "75d7992650278d0e",
+  "active": "6073be2ef589b8d8",
   "lastOpenFiles": [
-    "兽医药理学/中枢神经系统药理.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+    "兽医药理学/中枢神经系统药理.md",
     "病理解剖学/第五章 肿瘤.md",
     "template/Two Image Compare.md",
     "生物分离工程/乙醇浓度.jpg",
