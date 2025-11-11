@@ -164,8 +164,7 @@
               "title": "文件列表"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -276,10 +275,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "75d7992650278d0e",
+  "active": "53919d71e5f2bc98",
   "lastOpenFiles": [
-    "兽医药理学/中枢神经系统药理.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+    "兽医药理学/中枢神经系统药理.md",
     "病理解剖学/第五章 肿瘤.md",
     "template/Two Image Compare.md",
     "生物分离工程/乙醇浓度.jpg",
