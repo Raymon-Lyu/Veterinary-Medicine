@@ -6,7 +6,7 @@
       {
         "id": "30738dea5ec47c5f",
         "type": "tabs",
-        "dimension": 27.34584450402145,
+        "dimension": 52.01072386058981,
         "children": [
           {
             "id": "a9633c635cc1a91a",
@@ -27,7 +27,7 @@
       {
         "id": "2012611e09d2770e",
         "type": "tabs",
-        "dimension": 72.65415549597856,
+        "dimension": 47.98927613941019,
         "children": [
           {
             "id": "75d7992650278d0e",
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "兽医病毒学/总论.md",
+                "file": "病理解剖学/第四章 炎症.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "总论 的反向链接列表"
+              "title": "第四章 炎症 的反向链接列表"
             }
           },
           {
@@ -265,10 +265,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9633c635cc1a91a",
+  "active": "847dabc2c1a27084",
   "lastOpenFiles": [
-    "病理解剖学/第四章 炎症.md",
     "兽医病毒学/总论.md",
+    "病理解剖学/第四章 炎症.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
     "病理解剖学/第五章 肿瘤.md",
     "病理解剖学/总论.md",
