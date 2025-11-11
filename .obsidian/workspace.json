@@ -42,6 +42,20 @@
               "icon": "globe-2",
               "title": "Gemini"
             }
+          },
+          {
+            "id": "d2a78d752329f95f",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.google.com/search?q=%E9%9D%99%E8%84%89%E8%A1%80%E6%A0%93%E5%88%87%E7%89%87&sca_esv=7c031b0b1e1c228d&sxsrf=AE3TifPUDHzSUBvjuNctsCHahXJgy_uXJQ%3A1762841897782&ei=KdUSaYy-L5GZwbkPrICwoQ0&ved=0ahUKEwjM9vLouemQAxWRTDABHSwALNQQ4dUDCBM&uact=5&oq=%E9%9D%99%E8%84%89%E8%A1%80%E6%A0%93%E5%88%87%E7%89%87&gs_lp=Egxnd3Mtd2l6LXNlcnAiEumdmeiEieihgOagk-WIh-eJh0ilElAAWLMRcAB4AJABAJgBugSgAdkVqgEDNS01uAEDyAEA-AEBmAIAoAIAmAMAkgcAoAf6CbIHALgHAMIHAMgHAA&sclient=gws-wiz-serp",
+                "title": "静脉血栓切片 - Google Search",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "静脉血栓切片 - Google Search"
+            }
           }
         ]
       },
@@ -86,7 +100,7 @@
               "state": {
                 "file": "病理解剖学/第三章 局部血液循环障碍.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "第三章 局部血液循环障碍"
@@ -196,7 +210,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "兽医病毒学/总论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +219,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "总论 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -286,10 +299,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9633c635cc1a91a",
+  "active": "6073be2ef589b8d8",
   "lastOpenFiles": [
-    "病理解剖学/第三章 局部血液循环障碍.md",
     "兽医病毒学/总论.md",
+    "病理解剖学/第三章 局部血液循环障碍.md",
     "病理解剖学/第五章 肿瘤.md",
     "病理解剖学/总论.md",
     "病理解剖学/第二章 损伤的修复.md",
