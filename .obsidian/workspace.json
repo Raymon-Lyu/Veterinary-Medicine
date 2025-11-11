@@ -210,6 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "兽医病毒学/总论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +220,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "总论 的反向链接列表"
             }
           },
           {
@@ -299,10 +300,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6073be2ef589b8d8",
+  "active": "a9633c635cc1a91a",
   "lastOpenFiles": [
-    "兽医病毒学/总论.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
+    "兽医病毒学/总论.md",
     "病理解剖学/第五章 肿瘤.md",
     "病理解剖学/总论.md",
     "病理解剖学/第二章 损伤的修复.md",
