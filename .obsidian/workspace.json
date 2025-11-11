@@ -99,8 +99,7 @@
               "title": "第五章 肿瘤"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "病理解剖学/第四章 炎症.md",
+                "file": "病理解剖学/第一章 细胞和组织的适应与损伤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第四章 炎症 的反向链接列表"
+              "title": "第一章 细胞和组织的适应与损伤 的反向链接列表"
             }
           },
           {
@@ -265,15 +264,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "847dabc2c1a27084",
+  "active": "75d7992650278d0e",
   "lastOpenFiles": [
     "兽医病毒学/总论.md",
+    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/第四章 炎症.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
     "病理解剖学/第五章 肿瘤.md",
     "病理解剖学/总论.md",
     "病理解剖学/第二章 损伤的修复.md",
-    "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "兽医药理学/中枢神经系统药理.md",
     "template/Two Image Compare.md",
     "生物分离工程/乙醇浓度.jpg",
