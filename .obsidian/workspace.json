@@ -118,11 +118,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://chat.deepseek.com/a/chat/s/41ba2bd4-8c1e-4c31-a703-80d667f11d2b",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "血清淀粉样蛋白A的作用及临床意义 - DeepSeek",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "血清淀粉样蛋白A的作用及临床意义 - DeepSeek"
             }
           }
         ],
