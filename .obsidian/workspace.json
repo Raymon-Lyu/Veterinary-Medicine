@@ -91,7 +91,8 @@
               "title": "总论"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "93fbe65fc4886764",
@@ -290,7 +291,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6073be2ef589b8d8",
+  "active": "e31790e59153c9ff",
   "lastOpenFiles": [
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "兽医药理学/中枢神经系统药理.md",
