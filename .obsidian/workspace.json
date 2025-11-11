@@ -90,7 +90,14 @@
               "icon": "lucide-file",
               "title": "总论"
             }
-          },
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "93fbe65fc4886764",
+        "type": "tabs",
+        "children": [
           {
             "id": "53919d71e5f2bc98",
             "type": "leaf",
@@ -105,8 +112,7 @@
               "title": "中枢神经系统药理"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
