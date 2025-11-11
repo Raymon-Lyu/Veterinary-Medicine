@@ -13,12 +13,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/u/0/gem/6cd563640231/3bc3ab32edaca97f",
-                "title": "Gemini",
-                "mode": "blank"
+                "url": "https://gemini.google.com/gem/6cd563640231/3bc3ab32edaca97f",
+                "title": "Google Gemini",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Gemini"
+              "title": "Google Gemini"
             }
           }
         ]
@@ -104,7 +104,7 @@
               "type": "markdown",
               "state": {
                 "file": "病理解剖学/概念混淆总结.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -277,7 +277,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f7ae7c558068d04",
+  "active": "c0488892f623fdb2",
   "lastOpenFiles": [
     "病理解剖学/概念混淆总结.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
