@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5487627d00da77c3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8f7ae7c558068d04",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/gem/6cd563640231/13232da463aaa69a",
-                "title": "gemini.google.com/gem/6cd563640231/13232da463aaa69a",
-                "mode": "error"
-              },
-              "icon": "globe-2",
-              "title": "gemini.google.com/gem/6cd563640231/13232da463aaa69a"
-            }
-          }
-        ]
-      },
-      {
         "id": "2012611e09d2770e",
         "type": "tabs",
         "children": [
@@ -111,7 +91,8 @@
               "title": "概念混淆总结"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -276,10 +257,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "75d7992650278d0e",
+  "active": "847dabc2c1a27084",
   "lastOpenFiles": [
-    "病理解剖学/概念混淆总结.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+    "病理解剖学/概念混淆总结.md",
     "病理解剖学/第二章 损伤的修复.md",
     "病理解剖学/第三章 局部血液循环障碍.md",
     "病理解剖学/第四章 炎症.md",
