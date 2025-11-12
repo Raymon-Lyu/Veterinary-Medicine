@@ -14,11 +14,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/gem/6cd563640231/13232da463aaa69a",
-                "title": "Gemini",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Gemini"
+              "title": "data:text/plain,"
             }
           }
         ]
