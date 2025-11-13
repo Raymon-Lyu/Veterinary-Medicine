@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "adbccef1834a660d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.3"
+            }
+          },
+          {
             "id": "d0a0f9a8647f0259",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -257,7 +269,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5f17ce097e25380",
+  "active": "adbccef1834a660d",
   "lastOpenFiles": [
     "病理解剖学/第四章 炎症.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
