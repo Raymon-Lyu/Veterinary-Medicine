@@ -39,14 +39,12 @@
             "id": "c0488892f623fdb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "病理解剖学/第五章 肿瘤.md",
-                "mode": "preview",
-                "source": false
+                "file": "人卫九版教材/《病理学（第10版）》.pdf"
               },
-              "icon": "lucide-file",
-              "title": "第五章 肿瘤"
+              "icon": "lucide-file-text",
+              "title": "《病理学（第10版）》"
             }
           },
           {
@@ -150,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -258,8 +257,8 @@
   },
   "active": "c0488892f623fdb2",
   "lastOpenFiles": [
-    "病理解剖学/第三章 局部血液循环障碍.md",
     "病理解剖学/第五章 肿瘤.md",
+    "病理解剖学/第三章 局部血液循环障碍.md",
     "病理生理学/第六章 缺氧.md",
     "病理解剖学/概念混淆总结.md",
     "病理解剖学/第四章 炎症.md",
