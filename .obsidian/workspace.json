@@ -81,7 +81,8 @@
               "title": "第六章 缺氧"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c9c0638b44f9b5da",
@@ -264,10 +265,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "75d7992650278d0e",
+  "active": "e31790e59153c9ff",
   "lastOpenFiles": [
-    "病理解剖学/2024刘忠保西综病理学讲义.pdf",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+    "病理解剖学/2024刘忠保西综病理学讲义.pdf",
     "人卫九版教材/《病理学（第10版）》.pdf",
     "动物育种学/动物的起源、驯化与品质.md",
     "未命名.md",
