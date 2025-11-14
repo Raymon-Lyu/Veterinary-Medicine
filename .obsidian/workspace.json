@@ -6,6 +6,7 @@
       {
         "id": "ac2b350019cacbf4",
         "type": "tabs",
+        "dimension": 49.73190348525469,
         "children": [
           {
             "id": "ef858e8d0339feea",
@@ -24,6 +25,7 @@
       {
         "id": "f6f4f8f39776e528",
         "type": "split",
+        "dimension": 50.26809651474531,
         "children": [
           {
             "id": "2012611e09d2770e",
@@ -290,7 +292,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00dee12cc220c5d8",
+  "active": "ef858e8d0339feea",
   "lastOpenFiles": [
     "病理解剖学/复习part.md",
     "病理解剖学/2024刘忠保西综病理学讲义.pdf",
