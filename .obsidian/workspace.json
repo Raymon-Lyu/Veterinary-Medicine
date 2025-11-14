@@ -22,81 +22,110 @@
         ]
       },
       {
-        "id": "2012611e09d2770e",
-        "type": "tabs",
+        "id": "f6f4f8f39776e528",
+        "type": "split",
         "children": [
           {
-            "id": "75d7992650278d0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理解剖学/第一章 细胞和组织的适应与损伤.md",
-                "mode": "source",
-                "source": false
+            "id": "2012611e09d2770e",
+            "type": "tabs",
+            "dimension": 62.572421784472766,
+            "children": [
+              {
+                "id": "75d7992650278d0e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "第一章 细胞和组织的适应与损伤"
+                }
               },
-              "icon": "lucide-file",
-              "title": "第一章 细胞和组织的适应与损伤"
-            }
+              {
+                "id": "e31790e59153c9ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "病理解剖学/第二章 损伤的修复.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "第二章 损伤的修复"
+                }
+              },
+              {
+                "id": "a5f17ce097e25380",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "病理解剖学/第五章 肿瘤.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "第五章 肿瘤"
+                }
+              },
+              {
+                "id": "d0a0f9a8647f0259",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "病理生理学/第六章 缺氧.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "第六章 缺氧"
+                }
+              },
+              {
+                "id": "03f566c1f60965cd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "病理解剖学/复习part.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "复习part"
+                }
+              }
+            ],
+            "currentTab": 4
           },
           {
-            "id": "e31790e59153c9ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理解剖学/第二章 损伤的修复.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第二章 损伤的修复"
-            }
-          },
-          {
-            "id": "a5f17ce097e25380",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理解剖学/第五章 肿瘤.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第五章 肿瘤"
-            }
-          },
-          {
-            "id": "d0a0f9a8647f0259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理生理学/第六章 缺氧.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第六章 缺氧"
-            }
-          },
-          {
-            "id": "03f566c1f60965cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理解剖学/复习part.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "复习part"
-            }
+            "id": "4a55f6289cac908a",
+            "type": "tabs",
+            "dimension": 37.42757821552723,
+            "children": [
+              {
+                "id": "00dee12cc220c5d8",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://chat.deepseek.com/a/chat/s/be5cd8c9-8147-4ab0-8abd-96610dfebae7",
+                    "title": "胃黏膜下异位胰腺与化生区别 - DeepSeek",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "胃黏膜下异位胰腺与化生区别 - DeepSeek"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 4
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -154,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -262,8 +292,8 @@
   },
   "active": "03f566c1f60965cd",
   "lastOpenFiles": [
-    "病理解剖学/2024刘忠保西综病理学讲义.pdf",
     "病理解剖学/复习part.md",
+    "病理解剖学/2024刘忠保西综病理学讲义.pdf",
     "病理解剖学/第二章 损伤的修复.md",
     "病理解剖学/实验课部分.pdf",
     "人卫九版教材/《病理学（第10版）》.pdf",
