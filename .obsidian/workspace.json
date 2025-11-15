@@ -30,7 +30,7 @@
           {
             "id": "2012611e09d2770e",
             "type": "tabs",
-            "dimension": 23.174971031286212,
+            "dimension": 51.44843568945539,
             "children": [
               {
                 "id": "75d7992650278d0e",
@@ -107,7 +107,7 @@
           {
             "id": "4a55f6289cac908a",
             "type": "tabs",
-            "dimension": 76.8250289687138,
+            "dimension": 48.551564310544606,
             "children": [
               {
                 "id": "00dee12cc220c5d8",
@@ -116,11 +116,11 @@
                   "type": "webviewer",
                   "state": {
                     "url": "https://chat.deepseek.com/a/chat/s/be5cd8c9-8147-4ab0-8abd-96610dfebae7",
-                    "title": "胃黏膜下异位胰腺与化生区别 - DeepSeek",
+                    "title": "DeepSeek - 探索未至之境",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "胃黏膜下异位胰腺与化生区别 - DeepSeek"
+                  "title": "DeepSeek - 探索未至之境"
                 }
               }
             ]
