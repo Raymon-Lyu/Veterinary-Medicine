@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/gem/6cd563640231/3bc3ab32edaca97f",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "gemini.google.com/gem/6cd563640231/3bc3ab32edaca97f",
+                "mode": "error"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "gemini.google.com/gem/6cd563640231/3bc3ab32edaca97f"
             }
           }
         ]
@@ -99,7 +99,8 @@
               "title": "复习part"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,7 +265,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00dee12cc220c5d8",
+  "active": "a5f17ce097e25380",
   "lastOpenFiles": [
     "病理解剖学/2024刘忠保西综病理学讲义.pdf",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
