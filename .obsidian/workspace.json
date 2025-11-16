@@ -6,7 +6,7 @@
       {
         "id": "dc18b7cb15aa90c2",
         "type": "tabs",
-        "dimension": 48.663101604278076,
+        "dimension": 48.66310160427807,
         "children": [
           {
             "id": "00dee12cc220c5d8",
@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/gem/6cd563640231/3bc3ab32edaca97f",
-                "title": "Google Gemini",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "data:text/plain,"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "2012611e09d2770e",
         "type": "tabs",
-        "dimension": 51.336898395721924,
+        "dimension": 51.33689839572193,
         "children": [
           {
             "id": "75d7992650278d0e",
