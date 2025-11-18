@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blue Prince/Pantry.md",
+                "file": "Blue Prince/Observatory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pantry"
+              "title": "Observatory"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 200
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -188,6 +188,7 @@
   "active": "45e428292154ebfe",
   "lastOpenFiles": [
     "Blue Prince/Pantry.md",
+    "Blue Prince/Observatory.md",
     "Blue Prince",
     "兽医药理学/血液循环系统药理.md",
     "兽医药理学/text.pdf",
@@ -227,7 +228,6 @@
     "病理解剖学/肿瘤分类.md",
     "template/Insert Image by URL.md",
     "Pasted image 20251102202302.png",
-    "生物分离工程/DDD.md",
     "Pasted image 20251025221057.png",
     "病理解剖学/未命名.canvas",
     "656f04c8dcac10225296b39f6a11efab.png",
