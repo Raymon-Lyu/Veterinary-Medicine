@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "动物育种学/ppt/Chapter02.pdf"
+                "file": "动物育种学/ppt/Chapter03.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Chapter02"
+              "title": "Chapter03"
             }
           }
         ]
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -204,7 +203,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45e428292154ebfe",
+  "active": "bd0663a08c229bc0",
   "lastOpenFiles": [
     "动物育种学/ppt/Chapter02.pdf",
     "动物育种学/家畜生产性能测定.md",
