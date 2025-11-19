@@ -4,28 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "ebfb688ed9b63204",
-        "type": "tabs",
-        "dimension": 32.59557344064387,
-        "children": [
-          {
-            "id": "14d3a9dc203c5c42",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医药理学/text.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "text"
-            }
-          }
-        ]
-      },
-      {
         "id": "62c63a967c224d44",
         "type": "tabs",
-        "dimension": 34.0710932260228,
+        "dimension": 50.54726368159205,
         "children": [
           {
             "id": "b85b209d4b85b062",
@@ -57,7 +38,7 @@
       {
         "id": "ad576725f23d0d32",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 49.452736318407965,
         "children": [
           {
             "id": "44f291d7e3d1c395",
