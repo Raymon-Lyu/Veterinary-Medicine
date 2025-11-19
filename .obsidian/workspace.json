@@ -4,8 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "ebfb688ed9b63204",
+        "type": "tabs",
+        "dimension": 32.59557344064387,
+        "children": [
+          {
+            "id": "14d3a9dc203c5c42",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "兽医药理学/text.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "text"
+            }
+          }
+        ]
+      },
+      {
         "id": "62c63a967c224d44",
         "type": "tabs",
+        "dimension": 34.0710932260228,
         "children": [
           {
             "id": "b85b209d4b85b062",
@@ -24,6 +44,7 @@
       {
         "id": "ad576725f23d0d32",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "7a0109686015e948",
@@ -206,9 +227,9 @@
   },
   "active": "7a0109686015e948",
   "lastOpenFiles": [
-    "兽医药理学/祖传ppt/第四章 血液循环系统药理.pdf",
     "兽医药理学/text.pdf",
     "兽医药理学/血液循环系统药理.md",
+    "兽医药理学/祖传ppt/第四章 血液循环系统药理.pdf",
     "病理生理学/第六章 缺氧.md",
     "动物育种学/家畜生产性能测定.md",
     "动物育种学/ppt/Chapter02.pdf",
@@ -219,7 +240,6 @@
     "动物育种学/ppt/Chapter08.pdf",
     "动物育种学/ppt/Chapter07.pdf",
     "动物育种学/ppt/Chapter06.pdf",
-    "动物育种学/ppt/Chapter05.pdf",
     "动物育种学/动物的起源、驯化与品质.md",
     "Blue Prince/Commissary.md",
     "Blue Prince/Observatory.md",
