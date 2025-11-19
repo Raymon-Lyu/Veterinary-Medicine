@@ -4,21 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f5be025a0f87c26d",
+        "id": "62c63a967c224d44",
         "type": "tabs",
         "children": [
           {
-            "id": "45eda94fa29a63ec",
+            "id": "b85b209d4b85b062",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "兽医药理学/祖传ppt/第四章 血液循环系统药理.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第四章 血液循环系统药理"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ad576725f23d0d32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a0109686015e948",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病理生理学/第六章 缺氧.md",
+                "file": "兽医药理学/血液循环系统药理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第六章 缺氧"
+              "title": "血液循环系统药理"
             }
           }
         ]
@@ -186,8 +204,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45eda94fa29a63ec",
+  "active": "7a0109686015e948",
   "lastOpenFiles": [
+    "兽医药理学/祖传ppt/第四章 血液循环系统药理.pdf",
+    "兽医药理学/text.pdf",
+    "兽医药理学/血液循环系统药理.md",
+    "病理生理学/第六章 缺氧.md",
     "动物育种学/家畜生产性能测定.md",
     "动物育种学/ppt/Chapter02.pdf",
     "动物育种学/ppt/Chapter03.pdf",
@@ -198,12 +220,10 @@
     "动物育种学/ppt/Chapter07.pdf",
     "动物育种学/ppt/Chapter06.pdf",
     "动物育种学/ppt/Chapter05.pdf",
-    "动物育种学/ppt/Chapter04.pdf",
     "动物育种学/动物的起源、驯化与品质.md",
     "Blue Prince/Commissary.md",
     "Blue Prince/Observatory.md",
     "Blue Prince/Pantry.md",
-    "兽医药理学/血液循环系统药理.md",
     "兽医药理学/外周神经系统药理.md",
     "兽医药理学/水盐代谢.md",
     "兽医药理学/呼吸系统.md",
@@ -212,7 +232,6 @@
     "动物免疫学/总论.md",
     "兽医病毒学/总论.md",
     "病理解剖学/复习part.md",
-    "病理生理学/第六章 缺氧.md",
     "病理解剖学/第五章 肿瘤.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/第二章 损伤的修复.md",
