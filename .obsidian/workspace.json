@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "00c1df9c399f60e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0663a08c229bc0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter02.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter02"
+            }
+          }
+        ]
+      },
+      {
         "id": "1b9f90746c249e24",
         "type": "tabs",
         "children": [
@@ -188,23 +206,23 @@
   },
   "active": "45e428292154ebfe",
   "lastOpenFiles": [
-    "动物育种学/动物的起源、驯化与品质.md",
+    "动物育种学/ppt/Chapter02.pdf",
     "动物育种学/家畜生产性能测定.md",
+    "动物育种学/ppt/Chapter03.pdf",
+    "动物育种学/ppt/Chapter01.pdf",
+    "动物育种学/ppt/Chapter10.pdf",
+    "动物育种学/ppt/Chapter09.pdf",
+    "动物育种学/ppt/Chapter08.pdf",
+    "动物育种学/ppt/Chapter07.pdf",
+    "动物育种学/ppt/Chapter06.pdf",
+    "动物育种学/ppt/Chapter05.pdf",
+    "动物育种学/ppt/Chapter04.pdf",
+    "动物育种学/动物的起源、驯化与品质.md",
     "Blue Prince/Commissary.md",
     "Blue Prince/Observatory.md",
     "Blue Prince/Pantry.md",
-    "Blue Prince",
     "兽医药理学/血液循环系统药理.md",
-    "兽医药理学/text.pdf",
-    "兽医药理学/祖传ppt/第四章 血液循环系统药理.pdf",
-    "兽医药理学/祖传ppt/1. 外周神经药理.pdf",
     "兽医药理学/外周神经系统药理.md",
-    "兽医药理学/祖传ppt/0-1 绪论.pdf",
-    "兽医药理学/祖传ppt/0-2 总论-1.pdf",
-    "兽医药理学/祖传ppt/2. 肾上腺素能神经药.pdf",
-    "兽医药理学/2025_11_18_第八章 皮质激素类药理/0-2 总论-1.pdf.crdownload",
-    "兽医药理学/祖传ppt/0-2 总论-2.pdf",
-    "兽医药理学/2025_11_18_第八章 皮质激素类药理/2. 肾上腺素能神经药.pdf.crdownload",
     "兽医药理学/水盐代谢.md",
     "兽医药理学/呼吸系统.md",
     "兽医药理学/中枢神经系统药理.md",
@@ -224,7 +242,6 @@
     "template/Two Image Compare.md",
     "生物分离工程/乙醇浓度.jpg",
     "gemini.md",
-    "病理解剖学/实验课部分.md",
     "生物分离工程/分离方法汇总.jpg",
     "Pasted image 20251103214211.png",
     "Pasted image 20251103151622.png",
