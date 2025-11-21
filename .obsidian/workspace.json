@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "d9ee2fe76b2d69a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3da4cb6cc3bf6e45",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter03.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter03"
+            }
+          }
+        ]
+      },
+      {
         "id": "5fafc33e518a79ad",
         "type": "tabs",
         "children": [
@@ -13,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blue Prince/Boudoir.md",
+                "file": "动物育种学/畜禽主要性状的遗传.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boudoir"
+              "title": "畜禽主要性状的遗传"
             }
           }
         ]
@@ -187,8 +205,10 @@
   },
   "active": "37cb7e1cbfd3389d",
   "lastOpenFiles": [
-    "Blue Prince/Guset Bedroom.md",
+    "动物育种学/ppt/Chapter03.pdf",
+    "动物育种学/畜禽主要性状的遗传.md",
     "Blue Prince/Boudoir.md",
+    "Blue Prince/Guset Bedroom.md",
     "Blue Prince/Commissary.md",
     "Blue Prince/Nook.md",
     "Blue Prince/Pantry.md",
@@ -202,7 +222,6 @@
     "兽医药理学/祖传ppt/第四章 血液循环系统药理.pdf",
     "动物育种学/家畜生产性能测定.md",
     "动物育种学/ppt/Chapter02.pdf",
-    "动物育种学/ppt/Chapter03.pdf",
     "动物育种学/ppt/Chapter01.pdf",
     "动物育种学/ppt/Chapter10.pdf",
     "动物育种学/ppt/Chapter09.pdf",
@@ -221,8 +240,6 @@
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "病理解剖学/第二章 损伤的修复.md",
     "未命名.md",
-    "病理解剖学/第四章 炎症.md",
-    "病理解剖学/第三章 局部血液循环障碍.md",
     "生物分离工程/乙醇浓度.jpg",
     "生物分离工程/分离方法汇总.jpg",
     "Pasted image 20251103214211.png",
