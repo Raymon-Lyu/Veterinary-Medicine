@@ -1,70 +1,54 @@
 {
   "main": {
-    "id": "3deaa63f3fd4caaa",
+    "id": "db9d2da5a1d08c8b",
     "type": "split",
     "children": [
       {
-        "id": "e0da802cc491a402",
+        "id": "b7b6e41abd3aa436",
         "type": "tabs",
         "children": [
           {
-            "id": "d96faca902cdf104",
+            "id": "42b4022b879ed7d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blue Prince/Security.md",
+                "file": "Review/Preparations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security"
-            }
-          },
-          {
-            "id": "1cbceb223e18df52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "兽医药理学/总论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "总论"
-            }
-          },
-          {
-            "id": "c0499861d294af3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blue Prince/Security.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Security"
+              "title": "Preparations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "06a612ccd6a95261",
+    "id": "a439b61f5525999c",
     "type": "split",
     "children": [
       {
-        "id": "445d90c840ebb567",
+        "id": "c104d1396233051a",
         "type": "tabs",
         "children": [
           {
-            "id": "d1a8f1996a83f1fc",
+            "id": "1af6f839c4b0081d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "95e879707f77fa06",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +65,7 @@
             }
           },
           {
-            "id": "5bb3729d24515dc7",
+            "id": "a40acb7d1d3407c9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,42 +73,28 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
-          },
-          {
-            "id": "a50c7cba2bbba794",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 300
   },
   "right": {
-    "id": "fbc1bacdc541d8a6",
+    "id": "4ad4f6c0e67339ca",
     "type": "split",
     "children": [
       {
-        "id": "7ccfdd43e08801fd",
+        "id": "730581e45c7aceeb",
         "type": "tabs",
         "children": [
           {
-            "id": "70b5367656ff1aa0",
+            "id": "96940f0c6abcb80a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "病理解剖学/概念混淆总结.md",
+                "file": "欢迎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "概念混淆总结 的反向链接列表"
+              "title": "欢迎 的反向链接列表"
             }
           },
           {
-            "id": "19add346a1a36a3c",
+            "id": "f44eea31aa0051fc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "病理解剖学/第一章 细胞和组织的适应与损伤.md",
+                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "第一章 细胞和组织的适应与损伤 的出链列表"
+              "title": "欢迎 的出链列表"
             }
           },
           {
-            "id": "03bb2004de386d8b",
+            "id": "a885220348aa86d0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -167,42 +137,54 @@
             }
           },
           {
-            "id": "eac461e22a5fa0ff",
+            "id": "3ed4e44529f4daa6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b65d1e7f4d4e4104",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医药理学/总论.md",
+                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "总论 的大纲"
+              "title": "欢迎 的大纲"
             }
           },
           {
-            "id": "01d3e01d314f1fbf",
+            "id": "b9b73089f1493b8f",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "planner-timeline",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:创建新看板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -210,58 +192,21 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:创建新看板": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1cbceb223e18df52",
+  "active": "42b4022b879ed7d5",
   "lastOpenFiles": [
-    "兽医药理学/中枢神经系统药理.md",
-    "兽医药理学/血液循环系统药理.md",
-    "兽医药理学/绪论.md",
-    "兽医药理学/消化系统药理.md",
-    "兽医药理学/外周神经系统药理.md",
-    "兽医药理学/水盐代谢.md",
-    "兽医药理学/兽医药理学-2025-10-14第1-2节.pdf",
-    "兽医药理学/呼吸系统.md",
-    "大纲.md",
-    "Blue Prince/Security.md",
-    "Blue Prince/Observatory.md",
-    "Blue Prince/Guset Bedroom.md",
-    "Blue Prince/Commissary.md",
-    "Blue Prince/Boudoir.md",
-    "www.baidu.com.md",
-    "Blue Prince/Nook.md",
-    "Blue Prince/Pantry.md",
-    "动物育种学/畜禽主要性状的遗传.md",
-    "动物育种学/ppt/Chapter03.pdf",
-    "病理生理学/第六章 缺氧.md",
-    "病理生理学/第七章 水和电解质代谢紊乱.md",
-    "兽医药理学/祖传ppt/第五章 消化系统药理.pdf",
-    "兽医药理学/text.pdf",
-    "兽医药理学/祖传ppt/第四章 血液循环系统药理.pdf",
-    "动物育种学/家畜生产性能测定.md",
-    "动物育种学/ppt/Chapter02.pdf",
-    "动物育种学/ppt/Chapter01.pdf",
-    "动物育种学/ppt/Chapter10.pdf",
-    "动物育种学/ppt/Chapter09.pdf",
-    "动物育种学/ppt/Chapter08.pdf",
-    "动物育种学/动物的起源、驯化与品质.md",
-    "动物免疫学/抗原.md",
-    "动物免疫学/总论.md",
-    "兽医病毒学/总论.md",
-    "病理解剖学/复习part.md",
-    "生物分离工程/乙醇浓度.jpg",
-    "生物分离工程/分离方法汇总.jpg",
-    "Pasted image 20251103214211.png",
-    "Pasted image 20251103151622.png",
-    "Pasted image 20251102202302.png",
-    "Pasted image 20251025221057.png",
-    "病理解剖学/未命名.canvas",
-    "656f04c8dcac10225296b39f6a11efab.png",
-    "Pasted image 20251015152633.png",
-    "未命名.canvas",
-    "Pasted image 20251003105047.png",
-    "Pasted image 20251003104046.png"
+    "未命名.md",
+    "Review/Preparations.md",
+    "Review",
+    "欢迎.md",
+    "未命名"
   ]
 }
