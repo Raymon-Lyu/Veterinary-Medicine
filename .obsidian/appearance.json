@@ -1,8 +1,12 @@
 {
-  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "mermaid"
+  ],
   "theme": "moonstone",
+  "interfaceFontFamily": "Berlin Sans FB",
+  "textFontFamily": "Lucida Handwriting,华文仿宋",
+  "cssTheme": "Things",
   "monospaceFontFamily": "Times New Roman",
-  "textFontFamily": "方正书宋简体,Comic Sans MS",
   "baseFontSizeAction": true,
-  "baseFontSize": 21
+  "baseFontSize": 25
 }
