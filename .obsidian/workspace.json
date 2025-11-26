@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "免疫系统"
             }
-          },
-          {
-            "id": "1da1dc7417e1b0c0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,7 +200,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1da1dc7417e1b0c0",
+  "active": "50bc952b7bac69bb",
   "lastOpenFiles": [
     "动物免疫学/抗体.md",
     "动物免疫学/抗原.md",
