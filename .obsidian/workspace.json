@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "03a02082b1c95a47",
+        "id": "6e8f6b5b5b3b86f8",
         "type": "tabs",
         "children": [
           {
-            "id": "7debcd0a257acdad",
+            "id": "a6c5a94f20957d58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病理生理学/第六章 缺氧.md",
+                "file": "兽医药理学/抗微生物药理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第六章 缺氧"
-            }
-          },
-          {
-            "id": "1994ef4b86d43ff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理生理学/第七章 水和电解质代谢紊乱.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第七章 水和电解质代谢紊乱"
+              "title": "抗微生物药理"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,22 +185,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1994ef4b86d43ff1",
+  "active": "a6c5a94f20957d58",
   "lastOpenFiles": [
-    "动物育种学/ppt/Chapter04.pdf",
-    "兽医药理学/祖传ppt/第六章 呼吸系统药理.pdf",
-    "兽医药理学/祖传ppt/第六章 呼吸系统药理.pdf.crdownload",
+    "兽医药理学/祖传ppt/第五章 消化系统药理.pdf",
+    "兽医药理学/祖传ppt/第四章 血液循环系统药理.pdf",
     "兽医药理学/祖传ppt/第十章 体液和电解质平衡药理.pdf",
-    "兽医药理学/祖传ppt/第十章 体液和电解质平衡药理.pdf.crdownload",
-    "动物育种学/ppt/Chapter05.pdf",
-    "动物育种学/ppt/Chapter03.pdf",
-    "兽医药理学/祖传ppt/5.中枢神经系统概论+镇静药和安定药.pdf",
-    "兽医药理学/祖传ppt/6. 镇痛药.pdf",
-    "兽医药理学/祖传ppt/7 全身麻醉药.pdf",
-    "兽医药理学/祖传ppt/4. 局部麻醉药.pdf",
-    "兽医药理学/血液循环系统药理.md",
-    "病理生理学/第七章 水和电解质代谢紊乱.md",
+    "兽医药理学/祖传ppt/第六章 呼吸系统药理.pdf",
+    "兽医药理学/祖传ppt/第九章 解热镇痛抗炎药理.pdf",
+    "兽医药理学/祖传ppt/第八章 皮质激素类药理.pdf",
+    "兽医药理学/祖传ppt/中枢神经系统药理/5.中枢神经系统概论+镇静药和安定药.pdf",
+    "兽医药理学/祖传ppt/外周神经系统药物/3. 胆碱能神经药.pdf",
+    "兽医药理学/祖传ppt/中枢神经系统药理/7 全身麻醉药.pdf",
+    "兽医药理学/祖传ppt/中枢神经系统药理",
+    "兽医药理学/祖传ppt/中枢神经系统药理/6. 镇痛药.pdf",
     "病理生理学/第六章 缺氧.md",
+    "病理生理学/第七章 水和电解质代谢紊乱.md",
+    "兽医药理学/血液循环系统药理.md",
     "动物免疫学/抗原.md",
     "动物免疫学/免疫系统.md",
     "动物免疫学/抗体.md",
