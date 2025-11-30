@@ -46,9 +46,19 @@
               "icon": "lucide-file-text",
               "title": "Chapter04"
             }
+          },
+          {
+            "id": "4d744c711676418d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,11 +222,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc4157c43901f7b6",
+  "active": "4d744c711676418d",
   "lastOpenFiles": [
+    "动物育种学/ppt/Chapter04.pdf",
     "动物育种学/ppt/Chapter05.pdf",
     "动物育种学/ppt/Chapter03.pdf",
-    "动物育种学/ppt/Chapter04.pdf",
     "兽医药理学/祖传ppt/5.中枢神经系统概论+镇静药和安定药.pdf",
     "兽医药理学/祖传ppt/6. 镇痛药.pdf",
     "兽医药理学/祖传ppt/7 全身麻醉药.pdf",
