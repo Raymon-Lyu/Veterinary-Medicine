@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动物免疫学/细胞因子.md",
+                "file": "动物免疫学/适应性免疫应答.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "细胞因子"
+              "title": "适应性免疫应答"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "病理解剖学/概念混淆总结.md",
+                "file": "动物免疫学/适应性免疫应答.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "概念混淆总结 的反向链接列表"
+              "title": "适应性免疫应答 的反向链接列表"
             }
           },
           {
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +186,9 @@
   },
   "active": "23205d9f87fa5c6d",
   "lastOpenFiles": [
-    "未命名.md",
     "动物免疫学/细胞因子.md",
+    "动物免疫学/适应性免疫应答.md",
+    "未命名.md",
     "兽医病毒学/总论.md",
     "兽医药理学/抗微生物药理.md",
     "兽医药理学/抗生素.md",
@@ -222,7 +222,6 @@
     "Blue Prince/Guset Bedroom.md",
     "Blue Prince/Commissary.md",
     "Blue Prince/Boudoir.md",
-    "www.baidu.com.md",
     "生物分离工程/乙醇浓度.jpg",
     "生物分离工程/分离方法汇总.jpg",
     "Pasted image 20251103214211.png",
