@@ -4,8 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "305589a1c79f444d",
+        "type": "tabs",
+        "dimension": 49.2627345844504,
+        "children": [
+          {
+            "id": "ad770d2096276af6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "兽医药理学/text.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "text"
+            }
+          }
+        ]
+      },
+      {
         "id": "3d52c87ddb75f976",
         "type": "tabs",
+        "dimension": 50.737265415549594,
         "children": [
           {
             "id": "a4c06189d439b76a",
@@ -32,9 +52,23 @@
               "icon": "lucide-file",
               "title": "抗生素"
             }
+          },
+          {
+            "id": "7ed7d8c6828e626f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "兽医药理学/抗微生物药理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "抗微生物药理"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -198,11 +233,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "855d6a5c6d4bb962",
+  "active": "7ed7d8c6828e626f",
   "lastOpenFiles": [
+    "兽医药理学/text.pdf",
     "兽医药理学/抗微生物药理.md",
-    "兽医药理学/抗生素.md",
     "兽医药理学/祖传ppt/第十章 体液和电解质平衡药理.pdf",
+    "兽医药理学/抗生素.md",
     "兽医药理学/祖传ppt/第九章 解热镇痛抗炎药理.pdf",
     "动物免疫学/免疫系统.md",
     "病理生理学/狗屎.md",
@@ -217,7 +253,6 @@
     "兽医药理学/祖传ppt/第八章 皮质激素类药理.pdf",
     "兽医药理学/祖传ppt/中枢神经系统药理/5.中枢神经系统概论+镇静药和安定药.pdf",
     "兽医药理学/祖传ppt/外周神经系统药物/3. 胆碱能神经药.pdf",
-    "兽医药理学/祖传ppt/中枢神经系统药理/7 全身麻醉药.pdf",
     "病理生理学/第六章 缺氧.md",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
     "动物免疫学/抗原.md",
@@ -235,7 +270,6 @@
     "www.baidu.com.md",
     "Blue Prince/Nook.md",
     "Blue Prince/Pantry.md",
-    "动物育种学/畜禽主要性状的遗传.md",
     "生物分离工程/乙醇浓度.jpg",
     "生物分离工程/分离方法汇总.jpg",
     "Pasted image 20251103214211.png",
