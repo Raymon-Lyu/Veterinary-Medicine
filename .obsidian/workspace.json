@@ -45,11 +45,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/ff1174228e5ba5cb",
-                "title": "‎Google Gemini",
-                "mode": "blank"
+                "title": "Google Gemini",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "‎Google Gemini"
+              "title": "Google Gemini"
             }
           }
         ]
@@ -266,10 +266,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c8388fccfc13255",
+  "active": "9b3ddf76dc6f96e1",
   "lastOpenFiles": [
-    "动物育种学/ppt/Chapter04.pdf",
     "动物育种学/选择原理与方法.md",
+    "动物育种学/ppt/Chapter04.pdf",
     "动物育种学/个体遗传的评定.md",
     "动物育种学/ppt/Chapter05.pdf",
     "动物免疫学/细胞因子.md",
