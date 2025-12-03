@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "8a07b560cc1e24b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "202621da9f0baab1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter05.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter05"
+            }
+          }
+        ]
+      },
+      {
         "id": "72aac988cfd8f7f5",
         "type": "tabs",
         "children": [
@@ -11,12 +29,14 @@
             "id": "23205d9f87fa5c6d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "动物育种学/ppt/Chapter04.pdf"
+                "file": "动物育种学/个体遗传的评定.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Chapter04"
+              "icon": "lucide-file",
+              "title": "个体遗传的评定"
             }
           },
           {
@@ -91,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -107,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "动物育种学/ppt/Chapter04.pdf",
+                "file": "动物育种学/个体遗传的评定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Chapter04 的反向链接列表"
+              "title": "个体遗传的评定 的反向链接列表"
             }
           },
           {
@@ -199,11 +220,12 @@
   "active": "23205d9f87fa5c6d",
   "lastOpenFiles": [
     "动物育种学/ppt/Chapter05.pdf",
+    "动物育种学/个体遗传的评定.md",
+    "动物免疫学/细胞因子.md",
+    "动物育种学/ppt/Chapter04.pdf",
     "动物育种学/畜禽主要性状的遗传.md",
     "动物育种学/家畜生产性能测定.md",
     "动物育种学/ppt/Chapter01.pdf",
-    "动物育种学/ppt/Chapter04.pdf",
-    "动物免疫学/细胞因子.md",
     "动物免疫学/适应性免疫应答.md",
     "未命名.md",
     "兽医病毒学/总论.md",
@@ -232,7 +254,6 @@
     "兽医药理学/绪论.md",
     "兽医药理学/外周神经系统药理.md",
     "大纲.md",
-    "Blue Prince/Observatory.md",
     "生物分离工程/乙醇浓度.jpg",
     "生物分离工程/分离方法汇总.jpg",
     "Pasted image 20251103214211.png",
