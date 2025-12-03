@@ -46,11 +46,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/gem/00def474f339/40bd28a3a6657eca",
-                "title": "Gemini",
-                "mode": "webview"
+                "title": "‎Google Gemini",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Gemini"
+              "title": "‎Google Gemini"
             }
           }
         ]
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
