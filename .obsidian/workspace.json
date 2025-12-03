@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "适应性免疫应答"
             }
+          },
+          {
+            "id": "c4b49508b9beacd5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter04.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter04"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "动物免疫学/适应性免疫应答.md",
+                "file": "动物育种学/ppt/Chapter04.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "适应性免疫应答 的反向链接列表"
+              "title": "Chapter04 的反向链接列表"
             }
           },
           {
@@ -184,10 +197,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "23205d9f87fa5c6d",
+  "active": "c4b49508b9beacd5",
   "lastOpenFiles": [
-    "动物免疫学/细胞因子.md",
     "动物免疫学/适应性免疫应答.md",
+    "动物免疫学/细胞因子.md",
     "未命名.md",
     "兽医病毒学/总论.md",
     "兽医药理学/抗微生物药理.md",
