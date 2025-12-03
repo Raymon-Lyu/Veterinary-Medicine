@@ -45,11 +45,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/ff1174228e5ba5cb",
-                "title": "Google Gemini",
-                "mode": "webview"
+                "title": "‎Google Gemini",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "‎Google Gemini"
             }
           }
         ]
