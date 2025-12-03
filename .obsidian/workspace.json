@@ -34,6 +34,26 @@
         ]
       },
       {
+        "id": "b8953c2fbf9654f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b3ddf76dc6f96e1",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app/65dbd5f5b96708a6",
+                "title": "Google Gemini",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google Gemini"
+            }
+          }
+        ]
+      },
+      {
         "id": "72aac988cfd8f7f5",
         "type": "tabs",
         "children": [
@@ -211,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
