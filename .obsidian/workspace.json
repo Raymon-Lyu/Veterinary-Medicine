@@ -18,6 +18,18 @@
               "icon": "lucide-file-text",
               "title": "Chapter05"
             }
+          },
+          {
+            "id": "9e99b3c88528cc7a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter04.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter04"
+            }
           }
         ]
       },
@@ -221,8 +233,8 @@
   "lastOpenFiles": [
     "动物育种学/ppt/Chapter05.pdf",
     "动物育种学/个体遗传的评定.md",
-    "动物免疫学/细胞因子.md",
     "动物育种学/ppt/Chapter04.pdf",
+    "动物免疫学/细胞因子.md",
     "动物育种学/畜禽主要性状的遗传.md",
     "动物育种学/家畜生产性能测定.md",
     "动物育种学/ppt/Chapter01.pdf",
