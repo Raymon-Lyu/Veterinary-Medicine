@@ -4,102 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "039d2e1c4afff117",
+        "id": "5bd38d46e40ed57a",
         "type": "tabs",
         "children": [
           {
-            "id": "fa2f2ea389a76787",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter01.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter01"
-            }
-          },
-          {
-            "id": "ce3b706c33ad27ea",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter02.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter02"
-            }
-          },
-          {
-            "id": "8edce9fb9e1c5ec0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter03.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter03"
-            }
-          },
-          {
-            "id": "438979f9dd9ffe07",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter04.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter04"
-            }
-          },
-          {
-            "id": "c3b5e71a659db711",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter05.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter05"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "e3f26a24c9dd6ae3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3a6de4ca5d5d9f9a",
+            "id": "c13513059141200d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动物育种学/个体遗传的评定.md",
+                "file": "兽医病毒学/总论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "个体遗传的评定"
-            }
-          },
-          {
-            "id": "5656d6b6ca4c0059",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动物育种学/个体选配.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "个体选配"
+              "title": "总论"
             }
           }
         ]
@@ -160,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -267,16 +185,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3b5e71a659db711",
+  "active": "c13513059141200d",
   "lastOpenFiles": [
+    "动物免疫学/适应性免疫应答.md",
+    "动物育种学/个体选配.md",
+    "动物育种学/个体遗传的评定.md",
+    "动物育种学/ppt/Chapter05.pdf",
     "动物育种学/ppt/Chapter04.pdf",
     "动物育种学/ppt/Chapter03.pdf",
-    "动物育种学/ppt/Chapter05.pdf",
     "动物育种学/ppt/Chapter02.pdf",
     "动物育种学/ppt/Chapter01.pdf",
     "动物育种学/ppt/Chapter06.pdf",
-    "动物育种学/个体遗传的评定.md",
-    "动物育种学/个体选配.md",
     "病理生理学/第八章 酸碱平衡紊乱.md",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
     "动物育种学/选择原理与方法.md",
@@ -289,12 +208,10 @@
     "病理生理学/家畜病理学  第5版_14567003.pdf",
     "病理生理学/狗屎.pdf",
     "动物免疫学/细胞因子.md",
-    "动物免疫学/适应性免疫应答.md",
     "未命名.md",
     "兽医药理学/抗微生物药理.md",
     "兽医药理学/抗生素.md",
     "兽医病毒学/2025-第1-3讲-病毒的复制.pdf.crdownload",
-    "兽医药理学/text.pdf",
     "动物免疫学/免疫系统.md",
     "动物免疫学/抗体.md",
     "兽医药理学/呼吸系统.md",
