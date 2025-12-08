@@ -6,7 +6,7 @@
       {
         "id": "035cd4d558eac132",
         "type": "tabs",
-        "dimension": 33.042895442359246,
+        "dimension": 50.33512064343163,
         "children": [
           {
             "id": "9e4718a3309edccf",
@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://classroom.zju.edu.cn/livingroom?course_id=75058&sub_id=1807361&tenant_code=112",
-                "title": "动物免疫学2025-12-08第6-7节",
+                "title": "智云课堂",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "动物免疫学2025-12-08第6-7节"
+              "title": "智云课堂"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "f922325b1e48e8ad",
         "type": "tabs",
-        "dimension": 20.17426273458445,
+        "dimension": 13.404825737265417,
         "children": [
           {
             "id": "7e66b79e58c96f6d",
@@ -36,11 +36,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/11f4edaa33b85d0b",
-                "title": "Google Gemini",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "data:text/plain,"
             }
           }
         ]
@@ -48,7 +48,7 @@
       {
         "id": "5bd38d46e40ed57a",
         "type": "tabs",
-        "dimension": 46.7828418230563,
+        "dimension": 36.26005361930295,
         "children": [
           {
             "id": "c13513059141200d",
