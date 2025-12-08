@@ -6,6 +6,7 @@
       {
         "id": "035cd4d558eac132",
         "type": "tabs",
+        "dimension": 41.957104557640754,
         "children": [
           {
             "id": "9e4718a3309edccf",
@@ -24,8 +25,30 @@
         ]
       },
       {
+        "id": "f922325b1e48e8ad",
+        "type": "tabs",
+        "dimension": 14.745308310991955,
+        "children": [
+          {
+            "id": "7e66b79e58c96f6d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app/11f4edaa33b85d0b",
+                "title": "Google Gemini",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google Gemini"
+            }
+          }
+        ]
+      },
+      {
         "id": "5bd38d46e40ed57a",
         "type": "tabs",
+        "dimension": 43.297587131367294,
         "children": [
           {
             "id": "c13513059141200d",
@@ -220,7 +243,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e4718a3309edccf",
+  "active": "7e66b79e58c96f6d",
   "lastOpenFiles": [
     "动物免疫学/适应性免疫应答.md",
     "动物免疫学/免疫系统.md",
