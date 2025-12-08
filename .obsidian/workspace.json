@@ -6,7 +6,7 @@
       {
         "id": "035cd4d558eac132",
         "type": "tabs",
-        "dimension": 13.404825737265416,
+        "dimension": 33.042895442359246,
         "children": [
           {
             "id": "9e4718a3309edccf",
@@ -27,7 +27,7 @@
       {
         "id": "f922325b1e48e8ad",
         "type": "tabs",
-        "dimension": 44.50402144772118,
+        "dimension": 20.17426273458445,
         "children": [
           {
             "id": "7e66b79e58c96f6d",
@@ -48,7 +48,7 @@
       {
         "id": "5bd38d46e40ed57a",
         "type": "tabs",
-        "dimension": 42.0911528150134,
+        "dimension": 46.7828418230563,
         "children": [
           {
             "id": "c13513059141200d",
@@ -243,7 +243,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e66b79e58c96f6d",
+  "active": "c13513059141200d",
   "lastOpenFiles": [
     "动物免疫学/适应性免疫应答.md",
     "动物免疫学/免疫系统.md",
