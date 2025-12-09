@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医病毒学/总论.md",
+                "file": "动物育种学/家畜生产性能测定.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总论"
+              "title": "家畜生产性能测定"
+            }
+          },
+          {
+            "id": "0a883bac98020a77",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter03.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter03"
+            }
+          },
+          {
+            "id": "a47bc729ec4410ad",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter04.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter04"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,27 +210,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9a6d4f767823262",
+  "active": "a47bc729ec4410ad",
   "lastOpenFiles": [
+    "动物育种学/ppt/Chapter03.pdf",
+    "动物育种学/家畜生产性能测定.md",
+    "动物育种学/个体选配.md",
+    "动物育种学/个体遗传的评定.md",
+    "动物育种学/动物的起源、驯化与品质.md",
+    "动物育种学/畜禽主要性状的遗传.md",
+    "兽医药理学/外周神经系统药理.md",
+    "兽医病毒学/总论.md",
     "兽医病毒学/未命名.md",
     "动物免疫学/适应性免疫应答.md",
     "兽医药理学/抗生素.md",
     "兽医药理学/抗微生物药理.md",
     "动物免疫学/免疫系统.md",
-    "兽医病毒学/总论.md",
-    "动物育种学/个体选配.md",
-    "动物育种学/个体遗传的评定.md",
     "动物育种学/ppt/Chapter05.pdf",
     "动物育种学/ppt/Chapter04.pdf",
-    "动物育种学/ppt/Chapter03.pdf",
     "动物育种学/ppt/Chapter02.pdf",
     "动物育种学/ppt/Chapter01.pdf",
     "动物育种学/ppt/Chapter06.pdf",
     "病理生理学/第八章 酸碱平衡紊乱.md",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
     "动物育种学/选择原理与方法.md",
-    "动物育种学/畜禽主要性状的遗传.md",
-    "动物育种学/家畜生产性能测定.md",
     "www.baidu.com.md",
     "兽医病毒学/2025-第1-3讲-病毒的复制.pdf",
     "病理生理学/狗屎.md",
@@ -220,9 +247,6 @@
     "兽医药理学/血液循环系统药理.md",
     "病理生理学/第六章 缺氧.md",
     "动物免疫学/抗原.md",
-    "兽医药理学/水盐代谢.md",
-    "Blue Prince/Security.md",
-    "兽医药理学/总论.md",
     "生物分离工程/乙醇浓度.jpg",
     "生物分离工程/分离方法汇总.jpg",
     "Pasted image 20251103214211.png",
