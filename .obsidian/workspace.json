@@ -44,9 +44,33 @@
               "icon": "lucide-file-text",
               "title": "Chapter04"
             }
+          },
+          {
+            "id": "62a4e6e9a2ee1f21",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter05.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter05"
+            }
+          },
+          {
+            "id": "28332853eacaa6c4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter06.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter06"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -210,8 +234,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a47bc729ec4410ad",
+  "active": "28332853eacaa6c4",
   "lastOpenFiles": [
+    "动物育种学/ppt/Chapter05.pdf",
+    "动物育种学/ppt/Chapter04.pdf",
     "动物育种学/ppt/Chapter03.pdf",
     "动物育种学/家畜生产性能测定.md",
     "动物育种学/个体选配.md",
@@ -225,8 +251,6 @@
     "兽医药理学/抗生素.md",
     "兽医药理学/抗微生物药理.md",
     "动物免疫学/免疫系统.md",
-    "动物育种学/ppt/Chapter05.pdf",
-    "动物育种学/ppt/Chapter04.pdf",
     "动物育种学/ppt/Chapter02.pdf",
     "动物育种学/ppt/Chapter01.pdf",
     "动物育种学/ppt/Chapter06.pdf",
