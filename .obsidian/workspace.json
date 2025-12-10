@@ -68,9 +68,21 @@
               "icon": "lucide-file-text",
               "title": "Chapter06"
             }
+          },
+          {
+            "id": "920805495f38676a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter07.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter07"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -235,7 +246,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28332853eacaa6c4",
+  "active": "920805495f38676a",
   "lastOpenFiles": [
     "动物育种学/ppt/Chapter06.pdf",
     "动物育种学/ppt/Chapter04.pdf",
