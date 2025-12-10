@@ -25,14 +25,12 @@
             "id": "6692080317ce14ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "病理生理学/第八章 酸碱平衡紊乱.md",
-                "mode": "source",
-                "source": false
+                "file": "动物育种学/ppt/Chapter06.pdf"
               },
-              "icon": "lucide-file",
-              "title": "第八章 酸碱平衡紊乱"
+              "icon": "lucide-file-text",
+              "title": "Chapter06"
             }
           }
         ],
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "病理生理学/第八章 酸碱平衡紊乱.md",
+                "file": "动物育种学/ppt/Chapter06.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第八章 酸碱平衡紊乱 的反向链接列表"
+              "title": "Chapter06 的反向链接列表"
             }
           },
           {
@@ -202,11 +200,13 @@
   },
   "active": "6692080317ce14ae",
   "lastOpenFiles": [
-    "病理生理学/第七章 水和电解质代谢紊乱.md",
     "动物育种学/ppt/Chapter07.pdf",
+    "动物育种学/ppt/Chapter08.pdf",
+    "动物育种学/ppt/Chapter04.pdf",
+    "病理生理学/第八章 酸碱平衡紊乱.md",
+    "病理生理学/第七章 水和电解质代谢紊乱.md",
     "动物育种学/ppt/Chapter06.pdf",
     "动物育种学/ppt/Chapter05.pdf",
-    "动物育种学/ppt/Chapter04.pdf",
     "动物育种学/ppt/Chapter03.pdf",
     "动物免疫学/先天性免疫.md",
     "动物免疫学/适应性免疫应答.md",
@@ -223,7 +223,6 @@
     "动物免疫学/免疫系统.md",
     "动物育种学/ppt/Chapter02.pdf",
     "动物育种学/ppt/Chapter01.pdf",
-    "病理生理学/第八章 酸碱平衡紊乱.md",
     "动物育种学/选择原理与方法.md",
     "www.baidu.com.md",
     "兽医病毒学/2025-第1-3讲-病毒的复制.pdf",
