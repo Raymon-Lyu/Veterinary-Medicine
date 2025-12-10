@@ -4,7 +4,7 @@
   ],
   "theme": "moonstone",
   "interfaceFontFamily": "Berlin Sans FB",
-  "textFontFamily": "Lucida Handwriting,华文仿宋",
+  "textFontFamily": "华文仿宋,Comic Sans MS",
   "cssTheme": "Things",
   "monospaceFontFamily": "Times New Roman",
   "baseFontSizeAction": true,

@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -297,7 +296,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "293b8dc9c7b74db3",
+  "active": "009c2c81e71e5b99",
   "lastOpenFiles": [
     "动物免疫学/适应性免疫应答.md",
     "动物育种学/ppt/Chapter06.pdf",
