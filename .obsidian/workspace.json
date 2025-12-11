@@ -4,41 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a1f887beb76eb64f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b69194e058b121da",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/",
-                "title": "智云课堂",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "智云课堂"
-            }
-          },
-          {
-            "id": "2eaf77db135ffce1",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/livingroom?course_id=75441&sub_id=1809765&tenant_code=112",
-                "title": "智云课堂",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "智云课堂"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "2eb1b204f4ee2204",
         "type": "tabs",
         "children": [
@@ -82,8 +47,7 @@
               "title": "Chapter06"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,7 +211,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2eaf77db135ffce1",
+  "active": "072c5f16d750382a",
   "lastOpenFiles": [
     "病理生理学/第八章 酸碱平衡紊乱.md",
     "病理生理学/第七章 水和电解质代谢紊乱.md",

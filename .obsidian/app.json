@@ -9,5 +9,6 @@
   },
   "readableLineLength": true,
   "alwaysUpdateLinks": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "showInlineTitle": false
 }

@@ -2,11 +2,14 @@
   "enabledCssSnippets": [
     "mermaid"
   ],
-  "theme": "moonstone",
+  "theme": "system",
   "interfaceFontFamily": "Berlin Sans FB",
   "textFontFamily": "华文仿宋,Comic Sans MS",
   "cssTheme": "Minimal",
   "monospaceFontFamily": "Times New Roman",
   "baseFontSizeAction": true,
-  "baseFontSize": 19
+  "baseFontSize": 19,
+  "showRibbon": true,
+  "showViewHeader": false,
+  "accentColor": ""
 }
