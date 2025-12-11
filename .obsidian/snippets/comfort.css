@@ -1,46 +1,66 @@
-/* --- 暴力强制版：教科书高对比风格 --- */
-/* 使用 !important 强制覆盖 Style Settings 的任何设置 */
+/* ============================================================
+   Obsidian Medical Heading Theme (High Contrast Edition)
+   Style: Professional, Deep Ink, High Readability
+   ============================================================ */
 
-/* H1: 深邃海军蓝 - 就像书本的大标题 */
-.cm-header-1, .markdown-preview-view h1 { 
-    color: #1a237e !important; 
-    font-weight: 900 !important; /* 特粗 */
-    font-size: 1.8em !important;
-    border-bottom: 2px solid #e0e0e0 !important; /* 强制显示下划线 */
+/* ------------------ H1: 核心主题 (深海蓝) ------------------ */
+.markdown-source-view.mod-cm6 .cm-header-1,
+.markdown-preview-view h1 {
+    color: #0E4C66;            /* 深邃的海蓝色，稳重且对比度高 */
+    font-weight: 700;
+    font-size: 2.2em;
+    letter-spacing: 0.02em;
+    border-bottom: 2px solid rgba(14, 76, 102, 0.3); /* 底部深色分割线 */
+    padding-bottom: 0.3em;
+    margin-top: 1em;
 }
 
-/* H2: 标准蓝 - 清晰醒目 */
-.cm-header-2, .markdown-preview-view h2 { 
-    color: #1565C0 !important; 
-    font-weight: 800 !important; 
-    font-size: 1.5em !important;
+/* ------------------ H2: 主要板块 (深森绿) ------------------ */
+.markdown-source-view.mod-cm6 .cm-header-2,
+.markdown-preview-view h2 {
+    color: #00695C;            /* 深孔雀绿，医学经典色，白底上非常清晰 */
+    font-weight: 600;
+    font-size: 1.8em; 
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
 }
 
-/* H3: 深青色 - 区分板块 */
-.cm-header-3, .markdown-preview-view h3 { 
-    color: #00695C !important; 
-    font-weight: 700 !important; 
-    font-size: 1.3em !important;
+/* ------------------ H3: 细分层级 (深钢蓝) ------------------ */
+.markdown-source-view.mod-cm6 .cm-header-3,
+.markdown-preview-view h3 {
+    color: #28527A;            /* 深蓝色，完全去除了灰度，阅读不费力 */
+    font-weight: 600;
+    font-size: 1.5em;
+    margin-top: 1em;
 }
 
-/* H4: 森林绿 - 你的重点内容，必须清晰！ */
-.cm-header-4, .markdown-preview-view h4 { 
-    color: #2E7D32 !important; 
-    font-weight: 700 !important; 
-    font-size: 1.2em !important;
+/* ------------------ H4: 关键点 (午夜蓝) ------------------ */
+.markdown-source-view.mod-cm6 .cm-header-4,
+.markdown-preview-view h4 {
+    color: #2C3E50;            /* 极深的蓝黑灰色，像钢笔墨水 */
+    font-weight: 600;
+    font-size: 1.25em;
+    text-decoration: underline;
+    text-decoration-color: rgba(44, 62, 80, 0.4);
+    text-underline-offset: 4px;
 }
 
-/* H5: 砖红/赭石 - 警告或注意 */
-.cm-header-5, .markdown-preview-view h5 { 
-    color: #A04000 !important; 
-    font-weight: 700 !important; 
-    font-size: 1.1em !important;
+/* ------------------ H5: 细节/列表头 (深焦褐) ------------------ */
+.markdown-source-view.mod-cm6 .cm-header-5,
+.markdown-preview-view h5 {
+    color: #5D4037;            /* 深咖啡色，暖色调，用于区分之前的冷色标题 */
+    font-weight: 700;
+    font-size: 1.1em;
 }
 
-/* H6: 深紫 - 备注，但也要看得清 */
-.cm-header-6, .markdown-preview-view h6 { 
-    color: #4527A0 !important; 
-    font-weight: 700 !important; 
-    font-size: 1.0em !important;
-    font-style: normal !important; /* 强制取消斜体 */
+/* ------------------ H6: 备注/注释 (深紫罗兰) ------------------ */
+.markdown-source-view.mod-cm6 .cm-header-6,
+.markdown-preview-view h6 {
+    color: #4A148C;            /* 深紫色，醒目且独特 */
+    font-weight: 600;          
+    font-size: 1em;
+    font-family: monospace;    
+    background-color: rgba(74, 20, 140, 0.08); /* 淡紫色背景块，确保绝对不被忽略 */
+    padding: 2px 6px;          
+    border-radius: 4px;
 }
