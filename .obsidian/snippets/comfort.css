@@ -92,56 +92,82 @@
     transform: translateX(0); /* 回到正常位置 */
     box-shadow: 4px 0 15px rgba(0, 0, 0, 0.3); /* 加上阴影，像抽屉一样浮起来 */
 }
-
 /* ============================================================
-   交互优化：顶部标签栏 - 稳态悬停 + 窗口拖动 (Drag Support)
-   1. 鼠标悬停 -> 显示
-   2. 顶部留白 -> 可拖动窗口
+   交互优化：顶部标签栏 - 幽灵模式 V3 (修复加号残留 + 按钮无法点击)
+   逻辑：
+   1. 窗口控制按钮 (关闭/最小化) -> 永远可见，层级最高
+   2. 标签页滚轮区域 (Tab Scroll) -> 平时隐藏，悬停显示
+   3. 新建标签按钮 (+号) -> 平时隐藏，悬停显示
    ============================================================ */
 
+/* --- 1. 容器：设为透明，确立领地 --- */
 .workspace-split.mod-root .workspace-tab-header-container {
-    /* --- 布局设置 --- */
     position: absolute !important;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 999; /* 保证在最上层 */
-
-    /* --- 关键修复：允许拖动窗口 --- */
-    /* 这一行代码让这块区域变成了“标题栏”，按住它可以移动窗口 */
-    -webkit-app-region: drag !important;
-
-    /* --- 视觉设置 --- */
-    background-color: var(--background-primary); 
-    border-bottom: 1px solid var(--background-modifier-border);
+    top: 0; left: 0; right: 0;
+    height: 40px !important;
+    z-index: 1000;
     
-    /* ⚠️ 这里的 padding-top 就是你画红线的区域 */
-    /* 我把它设为 12px，给你留出足够的空间去“抓”窗口 */
-    padding-top: 12px !important; 
-    padding-bottom: 6px;
+    /* 背景平时透明 */
+    background-color: transparent !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
 
-    /* --- 动画逻辑 --- */
-    opacity: 0; 
-    transition: opacity 0.3s ease-in-out; 
+    /* 允许拖动窗口 */
+    -webkit-app-region: drag !important;
+    
+    /* 背景色过渡动画 */
+    transition: background-color 0.2s ease;
 }
 
-/* --- 必须设置：排除点击区域 --- */
-/* 既然整个条都能拖动，我们必须把“标签”和“按钮”排除在外，否则点标签也会变成拖窗口 */
-.workspace-split.mod-root .workspace-tab-header-container .workspace-tab-header,
-.workspace-split.mod-root .workspace-tab-header-container .workspace-tab-header-new-tab-button,
-.workspace-split.mod-root .workspace-tab-header-container .window-controls-container {
-    -webkit-app-region: no-drag !important;
-    cursor: default; /* 恢复鼠标指针 */
-}
-
-/* --- 交互状态：鼠标只要在这儿，就一直显示 --- */
+/* --- 2. 交互：鼠标移入容器时，背景变实 --- */
 .workspace-split.mod-root .workspace-tab-header-container:hover {
-    opacity: 1;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-    transition: opacity 0s; 
+    background-color: var(--background-primary) !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1) !important;
 }
 
-/* 调整正文顶部留白 */
+/* --- 3. 精准隐藏目标 A：标签页列表 --- */
+.workspace-split.mod-root .workspace-tab-header-scroll-container {
+    opacity: 0 !important;
+    transition: opacity 0.2s ease;
+}
+
+/* --- 4. 精准隐藏目标 B：那个讨厌的加号 (+) 按钮 --- */
+.workspace-split.mod-root .workspace-tab-header-new-tab-button {
+    opacity: 0 !important;
+    transition: opacity 0.2s ease;
+}
+
+/* --- 5. 精准隐藏目标 C：标签页间隔符 (如果有) --- */
+.workspace-split.mod-root .workspace-tab-header-spacer {
+    opacity: 0 !important;
+    transition: opacity 0.2s ease;
+}
+
+/* --- 6. 显形时刻：鼠标悬停在容器上时，上述 ABC 统统显示 --- */
+.workspace-split.mod-root .workspace-tab-header-container:hover .workspace-tab-header-scroll-container,
+.workspace-split.mod-root .workspace-tab-header-container:hover .workspace-tab-header-new-tab-button,
+.workspace-split.mod-root .workspace-tab-header-container:hover .workspace-tab-header-spacer {
+    opacity: 1 !important;
+}
+
+/* --- 7. 🚨 绝对特权：窗口控制按钮 (最小化/关闭) 🚨 --- */
+.workspace-split.mod-root .window-controls-container {
+    /* 必须强制可见 */
+    opacity: 1 !important; 
+    display: flex !important;
+    
+    /* 强制固定在右上角 */
+    position: absolute !important;
+    top: 0; right: 0;
+    height: 40px !important;
+    z-index: 1002; /* 必须比容器(1000)高！否则会被透明层挡住导致点不到 */
+    
+    /* 恢复点击功能 */
+    -webkit-app-region: no-drag !important;
+}
+
+/* --- 8. 调整正文顶部留白 --- */
 .view-header {
+    padding-top: 10px !important; 
     border-bottom: none !important;
 }
