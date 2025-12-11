@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1dda13014b20c832",
+        "id": "d13c7a8f12aab03c",
         "type": "tabs",
         "children": [
           {
-            "id": "865699c29614b61a",
+            "id": "5f019900f4e18cba",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter03.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter03"
-            }
-          },
-          {
-            "id": "fbaf5db2fd10f853",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter02.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter02"
-            }
-          },
-          {
-            "id": "ad631460d172aafe",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter01.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter01"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad631460d172aafe",
+  "active": "5f019900f4e18cba",
   "lastOpenFiles": [
     "动物育种学/ppt/Chapter02.pdf",
     "动物育种学/ppt/Chapter01.pdf",
