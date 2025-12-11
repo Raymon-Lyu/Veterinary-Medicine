@@ -10,7 +10,6 @@
     font-weight: 700;
     font-size: 2.2em;
     letter-spacing: 0.02em;
-    border-bottom: 2px solid rgba(14, 76, 102, 0.3); /* 底部深色分割线 */
     padding-bottom: 0.3em;
     margin-top: 1em;
 }
