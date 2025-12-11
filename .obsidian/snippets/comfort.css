@@ -1,0 +1,40 @@
+/* 深邃清晰配色 - 拒绝看不清 */
+body {
+  /* 颜色变量：全部加深，提高对比度 */
+  --h1-color: #202020; /* 碳黑 - 绝对的视觉中心 */
+  --h2-color: #2C3E50; /* 午夜蓝 - 稳重清晰 */
+  --h3-color: #2962FF; /* 宝石蓝 - 稍微提亮，引导阅读 */
+  --h4-color: #00695C; /* 深青色 - 替代之前的浅薄荷，清晰可见 */
+  --h5-color: #8D6E63; /* 可可棕 - 温暖且深沉 */
+  --h6-color: #616161; /* 实心深灰 - 绝不再是淡淡的灰色 */
+}
+
+/* 统一加粗设置 */
+/* H1, H2 使用特粗，拉开差距 */
+.cm-header-1, .markdown-preview-view h1 { 
+    color: var(--h1-color); 
+    font-weight: 800 !important; /* 特粗 */
+    letter-spacing: -0.02em; /* 稍微收紧字间距，更精致 */
+}
+.cm-header-2, .markdown-preview-view h2 { 
+    color: var(--h2-color); 
+    font-weight: 700 !important; /* 粗体 */
+}
+
+/* H3-H6 使用中粗，比正文粗，比大标题细 */
+.cm-header-3, .markdown-preview-view h3 { 
+    color: var(--h3-color); 
+    font-weight: 600 !important; 
+}
+.cm-header-4, .markdown-preview-view h4 { 
+    color: var(--h4-color); 
+    font-weight: 600 !important; 
+}
+.cm-header-5, .markdown-preview-view h5 { 
+    color: var(--h5-color); 
+    font-weight: 600 !important; 
+}
+.cm-header-6, .markdown-preview-view h6 { 
+    color: var(--h6-color); 
+    font-weight: 600 !important; 
+}
