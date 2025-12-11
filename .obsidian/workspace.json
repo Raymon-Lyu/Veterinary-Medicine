@@ -4,20 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "d13c7a8f12aab03c",
+        "id": "e0d01ddf1f189919",
         "type": "tabs",
         "children": [
           {
-            "id": "5f019900f4e18cba",
+            "id": "52ad8ec2e62d1bad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter01.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter01"
+            }
+          },
+          {
+            "id": "cd08ac95ec9a207a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter02.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter02"
+            }
+          },
+          {
+            "id": "4f4b0134d6289c46",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter03.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter03"
+            }
+          },
+          {
+            "id": "4ab014bbf83ca2a1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter04.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter04"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,12 +232,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f019900f4e18cba",
+  "active": "cd08ac95ec9a207a",
   "lastOpenFiles": [
+    "动物育种学/ppt/Chapter04.pdf",
+    "动物育种学/ppt/Chapter03.pdf",
     "动物育种学/ppt/Chapter02.pdf",
     "动物育种学/ppt/Chapter01.pdf",
-    "动物育种学/ppt/Chapter03.pdf",
-    "动物育种学/ppt/Chapter04.pdf",
+    "656f04c8dcac10225296b39f6a11efab.png",
     "未命名.md",
     "动物育种学/畜禽主要性状的遗传.md",
     "动物育种学/选择原理与方法.md",
@@ -237,7 +277,6 @@
     "Pasted image 20251102202302.png",
     "Pasted image 20251025221057.png",
     "病理解剖学/未命名.canvas",
-    "656f04c8dcac10225296b39f6a11efab.png",
     "Pasted image 20251015152633.png",
     "未命名.canvas",
     "Pasted image 20251003105047.png",
