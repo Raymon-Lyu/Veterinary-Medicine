@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "Chapter03"
             }
+          },
+          {
+            "id": "fbaf5db2fd10f853",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter04.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter04"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +208,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "865699c29614b61a",
+  "active": "fbaf5db2fd10f853",
   "lastOpenFiles": [
-    "动物育种学/畜禽主要性状的遗传.md",
     "动物育种学/ppt/Chapter03.pdf",
+    "动物育种学/畜禽主要性状的遗传.md",
     "动物育种学/选择原理与方法.md",
     "兽医药理学/外周神经系统药理.md",
     "兽医药理学/text.pdf",
