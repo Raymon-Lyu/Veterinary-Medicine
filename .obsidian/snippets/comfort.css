@@ -63,6 +63,85 @@
     padding: 2px 6px;          
     border-radius: 4px;
 }
+
+/*隐藏标签栏模块*/
 .workspace-ribbon {
-    display: none !important;
+    /* 1. 布局模式：改为绝对定位 */
+    position: absolute !important; 
+    left: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 999;            /* 确保它浮在最上层，不会被文字挡住 */
+    
+    /* 2. 默认状态：隐藏 */
+    width: 45px !important;  /* 设置标准宽度 */
+    opacity: 0;              /* 完全透明，看不见 */
+    transform: translateX(-35px); /* 向左缩进，只留 10px 的“感应区”在屏幕边缘 */
+    
+    /* 3. 动画效果 */
+    transition: all 0.3s ease-in-out; /* 丝滑的 0.3秒 过渡动画 */
+    
+    /* 4. 视觉修饰 */
+    background-color: var(--background-secondary); /* 给它加个背景色，否则滑出来时文字会重叠 */
+    border-right: 1px solid var(--background-modifier-border); /* 右侧加条细线，增加层次感 */
+}
+
+/* 5. 交互状态：鼠标放上去时 */
+.workspace-ribbon:hover {
+    opacity: 1;              /* 变清晰 */
+    transform: translateX(0); /* 回到正常位置 */
+    box-shadow: 4px 0 15px rgba(0, 0, 0, 0.3); /* 加上阴影，像抽屉一样浮起来 */
+}
+
+/* ============================================================
+   交互优化：顶部标签栏 - 稳态悬停 + 窗口拖动 (Drag Support)
+   1. 鼠标悬停 -> 显示
+   2. 顶部留白 -> 可拖动窗口
+   ============================================================ */
+
+.workspace-split.mod-root .workspace-tab-header-container {
+    /* --- 布局设置 --- */
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999; /* 保证在最上层 */
+
+    /* --- 关键修复：允许拖动窗口 --- */
+    /* 这一行代码让这块区域变成了“标题栏”，按住它可以移动窗口 */
+    -webkit-app-region: drag !important;
+
+    /* --- 视觉设置 --- */
+    background-color: var(--background-primary); 
+    border-bottom: 1px solid var(--background-modifier-border);
+    
+    /* ⚠️ 这里的 padding-top 就是你画红线的区域 */
+    /* 我把它设为 12px，给你留出足够的空间去“抓”窗口 */
+    padding-top: 12px !important; 
+    padding-bottom: 6px;
+
+    /* --- 动画逻辑 --- */
+    opacity: 0; 
+    transition: opacity 0.3s ease-in-out; 
+}
+
+/* --- 必须设置：排除点击区域 --- */
+/* 既然整个条都能拖动，我们必须把“标签”和“按钮”排除在外，否则点标签也会变成拖窗口 */
+.workspace-split.mod-root .workspace-tab-header-container .workspace-tab-header,
+.workspace-split.mod-root .workspace-tab-header-container .workspace-tab-header-new-tab-button,
+.workspace-split.mod-root .workspace-tab-header-container .window-controls-container {
+    -webkit-app-region: no-drag !important;
+    cursor: default; /* 恢复鼠标指针 */
+}
+
+/* --- 交互状态：鼠标只要在这儿，就一直显示 --- */
+.workspace-split.mod-root .workspace-tab-header-container:hover {
+    opacity: 1;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: opacity 0s; 
+}
+
+/* 调整正文顶部留白 */
+.view-header {
+    border-bottom: none !important;
 }

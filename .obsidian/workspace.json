@@ -25,13 +25,26 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "动物育种学/ppt/Chapter04.pdf"
+                "file": "动物育种学/ppt/Chapter02.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Chapter04"
+              "title": "Chapter02"
+            }
+          },
+          {
+            "id": "ad631460d172aafe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter01.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,11 +220,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "865699c29614b61a",
+  "active": "fbaf5db2fd10f853",
   "lastOpenFiles": [
+    "动物育种学/ppt/Chapter01.pdf",
+    "动物育种学/ppt/Chapter02.pdf",
     "动物育种学/ppt/Chapter04.pdf",
-    "未命名.md",
     "动物育种学/ppt/Chapter03.pdf",
+    "未命名.md",
     "动物育种学/畜禽主要性状的遗传.md",
     "动物育种学/选择原理与方法.md",
     "兽医药理学/外周神经系统药理.md",
@@ -235,8 +250,6 @@
     "兽医药理学/抗生素.md",
     "兽医药理学/抗微生物药理.md",
     "动物免疫学/免疫系统.md",
-    "动物育种学/ppt/Chapter02.pdf",
-    "动物育种学/ppt/Chapter01.pdf",
     "www.baidu.com.md",
     "病理生理学/狗屎.md",
     "动物免疫学/细胞因子.md",
