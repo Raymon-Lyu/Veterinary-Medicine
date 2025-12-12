@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52ad8ec2e62d1bad",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter01.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter01"
-            }
-          },
-          {
-            "id": "cd08ac95ec9a207a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter02.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter02"
-            }
-          },
-          {
-            "id": "4f4b0134d6289c46",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter03.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter03"
-            }
-          },
-          {
-            "id": "1376a36d04902a44",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter04.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter04"
-            }
-          },
-          {
-            "id": "3383c29a3cba16c1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter05.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter05"
-            }
-          },
-          {
             "id": "4ab014bbf83ca2a1",
             "type": "leaf",
             "state": {
@@ -81,8 +21,7 @@
               "title": "第八章 酸碱平衡紊乱"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,14 +197,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1376a36d04902a44",
+  "active": "4ab014bbf83ca2a1",
   "lastOpenFiles": [
-    "动物育种学/ppt/Chapter01.pdf",
-    "动物育种学/ppt/Chapter02.pdf",
-    "动物育种学/ppt/Chapter04.pdf",
-    "病理生理学/第八章 酸碱平衡紊乱.md",
     "动物育种学/ppt/Chapter05.pdf",
+    "动物育种学/ppt/Chapter04.pdf",
     "动物育种学/ppt/Chapter03.pdf",
+    "动物育种学/ppt/Chapter02.pdf",
+    "动物育种学/ppt/Chapter01.pdf",
+    "病理生理学/第八章 酸碱平衡紊乱.md",
     "656f04c8dcac10225296b39f6a11efab.png",
     "未命名.md",
     "动物育种学/畜禽主要性状的遗传.md",
