@@ -20,8 +20,37 @@
               "icon": "globe-2",
               "title": "智云课堂"
             }
+          },
+          {
+            "id": "5b72e9d4fb89f23e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://classroom.zju.edu.cn/livingroom?course_id=75441&sub_id=1809765&tenant_code=112",
+                "title": "动物病理生理学2025-12-11第1-2节",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "动物病理生理学2025-12-11第1-2节"
+            }
+          },
+          {
+            "id": "427334775d05a163",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://classroom.zju.edu.cn/livingroom?course_id=75441&sub_id=1806107&tenant_code=112",
+                "title": "动物病理生理学2025-12-04第1-2节",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "动物病理生理学2025-12-04第1-2节"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e0d01ddf1f189919",
@@ -217,7 +246,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "838cd5b0a2eff4f8",
+  "active": "427334775d05a163",
   "lastOpenFiles": [
     "病理生理学/第八章 酸碱平衡紊乱.md",
     "动物育种学/ppt/Chapter05.pdf",
