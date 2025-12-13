@@ -6,7 +6,7 @@
       {
         "id": "1ab88afd1b6403be",
         "type": "tabs",
-        "dimension": 28.125,
+        "dimension": 47.39583333333333,
         "children": [
           {
             "id": "838cd5b0a2eff4f8",
@@ -43,11 +43,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://classroom.zju.edu.cn/livingroom?course_id=75441&sub_id=1806107&tenant_code=112",
-                "title": "智云课堂",
+                "title": "动物病理生理学2025-12-04第1-2节",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "智云课堂"
+              "title": "动物病理生理学2025-12-04第1-2节"
             }
           }
         ],
@@ -56,7 +56,7 @@
       {
         "id": "e0d01ddf1f189919",
         "type": "tabs",
-        "dimension": 71.875,
+        "dimension": 52.604166666666664,
         "children": [
           {
             "id": "4ab014bbf83ca2a1",
