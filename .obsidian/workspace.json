@@ -6,6 +6,7 @@
       {
         "id": "4eaf9e2c154a6f44",
         "type": "tabs",
+        "dimension": 34.9609375,
         "children": [
           {
             "id": "d44f0621679448b8",
@@ -22,8 +23,30 @@
         ]
       },
       {
+        "id": "cf55c7c5122bac7e",
+        "type": "tabs",
+        "dimension": 32.16145833333333,
+        "children": [
+          {
+            "id": "281afde80fbc95d0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app/ce6e5226447ff07e",
+                "title": "Google Gemini",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google Gemini"
+            }
+          }
+        ]
+      },
+      {
         "id": "e0d01ddf1f189919",
         "type": "tabs",
+        "dimension": 32.87760416666667,
         "children": [
           {
             "id": "0cbf398049d2a4f5",
