@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "6c77ce8fc9f8e34b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e730c4a715a45610",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物免疫学/祖传ppt/第六章 先天性免疫应答.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第六章 先天性免疫应答"
+            }
+          }
+        ]
+      },
+      {
         "id": "e0d01ddf1f189919",
         "type": "tabs",
         "children": [
@@ -214,25 +232,26 @@
   },
   "active": "7e1943acc5bedd22",
   "lastOpenFiles": [
-    "兽医药理学/祖传ppt/外周神经系统药物/2. 肾上腺素能神经药.pdf",
+    "蛋白质化学/build/蛋白质刷题神器/localpycs/struct.pyc",
+    "蛋白质化学/build/蛋白质刷题神器/localpycs/pyimod04_pywin32.pyc",
+    "蛋白质化学/build/蛋白质刷题神器/localpycs/pyimod03_ctypes.pyc",
+    "蛋白质化学/build/蛋白质刷题神器/localpycs/pyimod02_importers.pyc",
+    "蛋白质化学/build/蛋白质刷题神器/localpycs/pyimod01_archive.pyc",
+    "蛋白质化学/build/蛋白质刷题神器/xref-蛋白质刷题神器.html",
+    "蛋白质化学/build/蛋白质刷题神器/蛋白质刷题神器.pkg",
+    "蛋白质化学/build/蛋白质刷题神器/warn-蛋白质刷题神器.txt",
+    "蛋白质化学/build/蛋白质刷题神器/PYZ-00.toc",
+    "蛋白质化学/build/蛋白质刷题神器/EXE-00.toc",
+    "蛋白质化学/build/蛋白质刷题神器/PKG-00.toc",
     "动物免疫学/先天性免疫.md",
     "兽医药理学/外周神经系统药理.md",
-    "兽医药理学/祖传ppt/外周神经系统药物/1. 外周神经药理.pdf",
     "病理生理学/第八章 酸碱平衡紊乱.md",
-    "动物育种学/ppt/Chapter05.pdf",
-    "动物育种学/ppt/Chapter04.pdf",
-    "动物育种学/ppt/Chapter03.pdf",
-    "动物育种学/ppt/Chapter02.pdf",
-    "动物育种学/ppt/Chapter01.pdf",
     "656f04c8dcac10225296b39f6a11efab.png",
     "未命名.md",
     "动物育种学/畜禽主要性状的遗传.md",
     "动物育种学/选择原理与方法.md",
-    "兽医药理学/text.pdf",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
     "病理生理学/第六章 缺氧.md",
-    "动物育种学/ppt/Chapter06.pdf",
-    "动物育种学/ppt/Chapter07.pdf",
     "动物免疫学/适应性免疫应答.md",
     "动物育种学/家畜生产性能测定.md",
     "动物育种学/个体选配.md",
