@@ -50,6 +50,7 @@
     color: #5D4037;            /* 深咖啡色，暖色调，用于区分之前的冷色标题 */
     font-weight: 700;
     font-size: 1.1em;
+    text-transform: none !important;
 }
 
 /* ------------------ H6: 备注/注释 (深紫罗兰) ------------------ */
