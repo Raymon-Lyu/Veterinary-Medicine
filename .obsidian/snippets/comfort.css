@@ -47,12 +47,16 @@
 /* ------------------ H5: 细节/列表头 (深焦褐) ------------------ */
 .markdown-source-view.mod-cm6 .cm-header-5,
 .markdown-preview-view h5 {
-    color: #5D4037;            /* 深咖啡色，暖色调，用于区分之前的冷色标题 */
+    color: #5D4037;
     font-weight: 700;
     font-size: 1.1em;
-    text-transform: none !important;
+    
+    /* 暴力重置所有可能导致大写的属性 */
+    text-transform: none !important;  /* 取消强制全大写 */
+    font-variant: normal !important;  /* 关键：取消小型大写字母 */
+    font-style: normal !important;    /* 防止有些主题带斜体 */
+    letter-spacing: normal !important;/* 恢复默认字间距 */
 }
-
 /* ------------------ H6: 备注/注释 (深紫罗兰) ------------------ */
 .markdown-source-view.mod-cm6 .cm-header-6,
 .markdown-preview-view h6 {

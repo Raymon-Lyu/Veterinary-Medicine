@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "deabc1c60fcc0e0b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "兽医药理学/祖传ppt/外周神经系统药物/3. 胆碱能神经药.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3. 胆碱能神经药"
+            }
+          },
+          {
             "id": "af6ce21746eb39e1",
             "type": "leaf",
             "state": {
@@ -262,6 +274,7 @@
   },
   "active": "c269e8a20ef4a8db",
   "lastOpenFiles": [
+    "兽医药理学/祖传ppt/外周神经系统药物/3. 胆碱能神经药.pdf",
     "兽医药理学/祖传ppt/外周神经系统药物/2. 肾上腺素能神经药.pdf",
     "兽医药理学/外周神经系统药理.md",
     "兽医药理学/text.pdf",
