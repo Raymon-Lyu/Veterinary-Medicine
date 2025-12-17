@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f26dd4c73731e086",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "784dd9bb3b31c7fd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医病毒学/2025-第1-3讲-病毒的复制.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2025-第1-3讲-病毒的复制"
-            }
-          }
-        ]
-      },
-      {
         "id": "a722630f09cf6896",
         "type": "tabs",
         "children": [
@@ -31,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医病毒学/总论.md",
+                "file": "动物免疫学/补体系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总论"
+              "title": "补体系统"
             }
           }
         ]
@@ -217,8 +199,8 @@
   },
   "active": "731ee764822089a2",
   "lastOpenFiles": [
-    "兽医病毒学/2025-第1-3讲-病毒的复制.pdf",
     "兽医病毒学/总论.md",
+    "兽医病毒学/2025-第1-3讲-病毒的复制.pdf",
     "兽医药理学/外周神经系统药理.md",
     "兽医药理学/text.pdf",
     "兽医药理学/祖传ppt/外周神经系统药物/3. 胆碱能神经药.pdf",
@@ -233,7 +215,6 @@
     "蛋白质化学/build/蛋白质刷题神器/localpycs/pyimod04_pywin32.pyc",
     "蛋白质化学/build/蛋白质刷题神器/localpycs/pyimod03_ctypes.pyc",
     "蛋白质化学/build/蛋白质刷题神器/localpycs/pyimod02_importers.pyc",
-    "蛋白质化学/build/蛋白质刷题神器/localpycs/pyimod01_archive.pyc",
     "病理生理学/第八章 酸碱平衡紊乱.md",
     "656f04c8dcac10225296b39f6a11efab.png",
     "动物育种学/畜禽主要性状的遗传.md",
