@@ -72,6 +72,18 @@
               "icon": "lucide-file-text",
               "title": "6. 镇痛药"
             }
+          },
+          {
+            "id": "c6c106f7981c70de",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "兽医药理学/祖传ppt/中枢神经系统药理/7 全身麻醉药.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "7 全身麻醉药"
+            }
           }
         ],
         "currentTab": 3
@@ -286,11 +298,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "0ec0b72096bba44f",
+  "active": "7b24b0db3eef53b3",
   "lastOpenFiles": [
+    "兽医药理学/祖传ppt/中枢神经系统药理/7 全身麻醉药.pdf",
+    "兽医药理学/中枢神经系统药理.md",
     "兽医药理学/祖传ppt/中枢神经系统药理/6. 镇痛药.pdf",
     "兽医药理学/祖传ppt/中枢神经系统药理/5.中枢神经系统概论+镇静药和安定药.pdf",
-    "兽医药理学/中枢神经系统药理.md",
     "病理生理学/第九章 发热.md",
     "病理生理学/第八章 酸碱平衡紊乱.md",
     "兽医药理学/外周神经系统药理.md",
@@ -307,7 +320,6 @@
     "兽医药理学/抗生素.md",
     "动物免疫学/先天性免疫.md",
     "动物免疫学/祖传ppt/第六章 先天性免疫应答.pdf",
-    "蛋白质化学/build/蛋白质刷题神器/localpycs/struct.pyc",
     "656f04c8dcac10225296b39f6a11efab.png",
     "动物育种学/畜禽主要性状的遗传.md",
     "动物育种学/选择原理与方法.md",
