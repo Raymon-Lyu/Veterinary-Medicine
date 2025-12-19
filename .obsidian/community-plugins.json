@@ -13,7 +13,6 @@
   "obsidian-functionplot",
   "image-captions",
   "better-export-pdf",
-  "chem",
   "obsidian-excel-to-markdown-table",
   "table-editor-obsidian",
   "quickadd",
@@ -22,5 +21,6 @@
   "editing-toolbar",
   "obsidian-minimal-settings",
   "obsidian-hider",
-  "obsidian-charts"
+  "obsidian-charts",
+  "chem"
 ]
