@@ -119,10 +119,14 @@
                 "id": "9e23ed7a47d43fef",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "兽医药理学/呼吸系统药理.md",
+                    "mode": "source",
+                    "source": false
+                  },
                   "icon": "lucide-file",
-                  "title": "新标签页"
+                  "title": "呼吸系统药理"
                 }
               }
             ],
@@ -304,7 +308,7 @@
         }
       },
       "active": "9e23ed7a47d43fef",
-      "mtime": "2025-12-20T11:12:04+08:00"
+      "mtime": "2025-12-20T11:57:19+08:00"
     }
   },
   "active": "兽医药理学"
