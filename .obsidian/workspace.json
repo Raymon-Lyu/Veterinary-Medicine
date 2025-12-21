@@ -6,6 +6,7 @@
       {
         "id": "97e4fa5a5ddc7375",
         "type": "tabs",
+        "dimension": 33.7890625,
         "children": [
           {
             "id": "a0fdfd8b85198297",
@@ -24,6 +25,7 @@
       {
         "id": "0504705d5baeccd4",
         "type": "tabs",
+        "dimension": 32.87760416666667,
         "children": [
           {
             "id": "df79b35a0b414012",
@@ -42,6 +44,7 @@
       {
         "id": "5c0936b554fe57b9",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "424a1697288f15f6",
@@ -263,15 +266,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a0fdfd8b85198297",
+  "active": "90b0a1a90ac69670",
   "lastOpenFiles": [
+    "兽医药理学/祖传ppt/第十章 体液和电解质平衡药理.pdf",
     "兽医药理学/水盐代谢.md",
+    "兽医药理学/text.pdf",
     "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf",
     "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf.crdownload",
     "兽医药理学/呼吸系统药理.md",
-    "兽医药理学/祖传ppt/第十章 体液和电解质平衡药理.pdf",
     "兽医药理学/祖传ppt/第五章 消化系统药理.pdf",
-    "兽医药理学/text.pdf",
     "兽医药理学/消化系统药理.md",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
     "兽医病毒学/病毒与宿主的互作.md",
