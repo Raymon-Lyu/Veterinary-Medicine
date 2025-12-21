@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "兽医病毒学/总论.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
