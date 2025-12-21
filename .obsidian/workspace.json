@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "2025-第1-3讲-病毒的复制"
             }
+          },
+          {
+            "id": "42cbab6aece3a7e4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2025-第4-5讲-病毒与宿主相互作用及致病机理"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2e88b8b945e44d42",
@@ -38,8 +51,23 @@
               "icon": "lucide-file",
               "title": "总论"
             }
+          },
+          {
+            "id": "37f576cf0ecd6ac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "兽医病毒学/病毒与宿主的互作.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "病毒与宿主的互作"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "动物育种学/ppt/Chapter06.pdf",
+                "file": "兽医病毒学/病毒与宿主的互作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Chapter06 的反向链接列表"
+              "title": "病毒与宿主的互作 的反向链接列表"
             }
           },
           {
@@ -191,8 +219,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,15 +243,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "19f12f7996ca94b2",
+  "active": "37f576cf0ecd6ac9",
   "lastOpenFiles": [
+    "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf",
+    "兽医病毒学/病毒与宿主的互作.md",
+    "兽医病毒学/总论.md",
     "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "兽医病毒学/第5-6讲-DNA病毒.pdf.crdownload",
-    "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf",
     "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf.crdownload",
     "兽医病毒学/2025-第1-3讲-病毒的复制.pdf",
-    "兽医病毒学/总论.md",
-    "兽医病毒学/未命名.md",
     "兽医药理学/呼吸系统药理.md",
     "兽医药理学/祖传ppt/第五章 消化系统药理.pdf",
     "兽医药理学/text.pdf",
@@ -232,7 +259,6 @@
     "兽医药理学/祖传ppt/第六章 呼吸系统药理.pdf",
     "兽医药理学/祖传ppt/外周神经系统药物/4. 局部麻醉药.pdf",
     "兽医药理学/祖传ppt/外周神经系统药物/3. 胆碱能神经药.pdf",
-    "兽医药理学/祖传ppt/中枢神经系统药理/5.中枢神经系统概论+镇静药和安定药.pdf",
     "兽医药理学/外周神经系统药理.md",
     "兽医药理学/中枢神经系统药理.md",
     "兽医药理学/血液循环系统药理.md",
