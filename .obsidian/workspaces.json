@@ -563,7 +563,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "茶碱",
+                    "query": "",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -597,8 +597,7 @@
                   "title": "文件列表"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal",
@@ -722,7 +721,7 @@
         }
       },
       "active": "9d48d6deb569c7e9",
-      "mtime": "2025-12-21T22:50:11+08:00"
+      "mtime": "2025-12-22T12:01:07+08:00"
     }
   },
   "active": "兽医药理学"
