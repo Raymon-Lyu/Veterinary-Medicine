@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "茶碱",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,8 +142,7 @@
               "title": "文件列表"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
