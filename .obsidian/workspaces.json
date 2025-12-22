@@ -736,10 +736,14 @@
                 "id": "c78c82bfae9f8f9c",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "动物免疫学/变态反应.md",
+                    "mode": "source",
+                    "source": false
+                  },
                   "icon": "lucide-file",
-                  "title": "新标签页"
+                  "title": "变态反应"
                 }
               }
             ]
@@ -795,7 +799,8 @@
                   "title": "文件列表"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal",
@@ -919,7 +924,7 @@
         }
       },
       "active": "c78c82bfae9f8f9c",
-      "mtime": "2025-12-22T13:17:15+08:00"
+      "mtime": "2025-12-22T14:40:55+08:00"
     }
   },
   "active": "动物免疫学"
