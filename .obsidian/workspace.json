@@ -114,23 +114,6 @@
             }
           },
           {
-            "id": "842fa45ce819e0af",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "兽医病毒学/Baltimore System.canvas",
-                "viewState": {
-                  "x": -880,
-                  "y": 1379.833333333333,
-                  "zoom": -1.5374341306385704
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Baltimore System"
-            }
-          },
-          {
             "id": "aa0417bd4859da5c",
             "type": "leaf",
             "state": {
@@ -143,9 +126,26 @@
               "icon": "lucide-file",
               "title": "RNA病毒"
             }
+          },
+          {
+            "id": "842fa45ce819e0af",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "兽医病毒学/Baltimore System.canvas",
+                "viewState": {
+                  "x": -992.2120940599872,
+                  "y": 1494.7867709524944,
+                  "zoom": -1.5374341306385704
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Baltimore System"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -321,13 +321,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "482df4f04544e88f",
+  "active": "aa0417bd4859da5c",
   "lastOpenFiles": [
+    "兽医病毒学/Baltimore System.canvas",
     "兽医病毒学/RNA病毒.md",
+    "兽医病毒学/DNA病毒.md",
     "兽医病毒学/第7讲-RNA病毒.pdf",
     "兽医病毒学/总论.md",
-    "兽医病毒学/DNA病毒.md",
-    "兽医病毒学/Baltimore System.canvas",
     "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "动物免疫学/总论.md",
     "兽医病毒学/病毒与宿主的互作.md",
