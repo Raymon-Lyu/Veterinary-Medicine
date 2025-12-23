@@ -77,17 +77,14 @@
             "id": "19f12f7996ca94b2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "兽医病毒学/Baltimore System.canvas",
-                "viewState": {
-                  "x": -766.3506020973693,
-                  "y": 228.35498544250802,
-                  "zoom": -1.6430178324659486
-                }
+                "file": "兽医病毒学/总论.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Baltimore System"
+              "icon": "lucide-file",
+              "title": "总论"
             }
           },
           {
@@ -300,11 +297,12 @@
   },
   "active": "37f576cf0ecd6ac9",
   "lastOpenFiles": [
-    "兽医病毒学/第5-6讲-DNA病毒.pdf",
-    "兽医病毒学/DNA病毒.md",
     "兽医病毒学/Baltimore System.canvas",
-    "兽医病毒学/病毒与宿主的互作.md",
+    "兽医病毒学/DNA病毒.md",
     "兽医病毒学/总论.md",
+    "动物免疫学/总论.md",
+    "兽医病毒学/第5-6讲-DNA病毒.pdf",
+    "兽医病毒学/病毒与宿主的互作.md",
     "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf",
     "兽医病毒学/第7讲-RNA病毒.pdf",
     "兽医病毒学/2025-第1-3讲-病毒的复制.pdf",
@@ -336,7 +334,6 @@
     "动物免疫学/适应性免疫应答.md",
     "动物育种学/家畜生产性能测定.md",
     "动物育种学/个体选配.md",
-    "动物育种学/个体遗传的评定.md",
     "生物分离工程/乙醇浓度.jpg",
     "生物分离工程/分离方法汇总.jpg",
     "Pasted image 20251103214211.png",
