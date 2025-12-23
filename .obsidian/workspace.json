@@ -59,11 +59,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/b4c14e2ba191948f",
-                "title": "‎Google Gemini",
+                "title": "Google Gemini",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "‎Google Gemini"
+              "title": "Google Gemini"
             }
           }
         ]
@@ -298,7 +298,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "482df4f04544e88f",
+  "active": "37f576cf0ecd6ac9",
   "lastOpenFiles": [
     "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "兽医病毒学/DNA病毒.md",
