@@ -6,7 +6,7 @@
       {
         "id": "9f4f8f1e4edd6685",
         "type": "tabs",
-        "dimension": 37.17447916666667,
+        "dimension": 34.50520833333333,
         "children": [
           {
             "id": "9b1c0d6c40b4ac04",
@@ -33,7 +33,7 @@
             }
           },
           {
-            "id": "75f758e4dbbf76c3",
+            "id": "1a399fc56f690af8",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -43,14 +43,26 @@
               "icon": "lucide-file-text",
               "title": "第5-6讲-DNA病毒"
             }
+          },
+          {
+            "id": "b8c647732dba0ea8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "兽医病毒学/第7讲-RNA病毒.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第7讲-RNA病毒"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "8b21a57ce9253f3b",
         "type": "tabs",
-        "dimension": 29.8828125,
+        "dimension": 29.4921875,
         "children": [
           {
             "id": "482df4f04544e88f",
@@ -71,7 +83,7 @@
       {
         "id": "2e88b8b945e44d42",
         "type": "tabs",
-        "dimension": 32.94270833333333,
+        "dimension": 36.00260416666667,
         "children": [
           {
             "id": "19f12f7996ca94b2",
@@ -133,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -308,17 +321,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "37f576cf0ecd6ac9",
+  "active": "482df4f04544e88f",
   "lastOpenFiles": [
     "兽医病毒学/RNA病毒.md",
-    "兽医病毒学/DNA病毒.md",
-    "兽医病毒学/第5-6讲-DNA病毒.pdf",
-    "兽医病毒学/Baltimore System.canvas",
     "兽医病毒学/总论.md",
+    "兽医病毒学/DNA病毒.md",
+    "兽医病毒学/Baltimore System.canvas",
+    "兽医病毒学/第7讲-RNA病毒.pdf",
+    "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "动物免疫学/总论.md",
     "兽医病毒学/病毒与宿主的互作.md",
     "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf",
-    "兽医病毒学/第7讲-RNA病毒.pdf",
     "兽医病毒学/2025-第1-3讲-病毒的复制.pdf",
     "兽医病毒学/第7讲-RNA病毒.pdf.crdownload",
     "兽医药理学/中枢神经系统药理.md",
@@ -347,7 +360,6 @@
     "病理生理学/第六章 缺氧.md",
     "动物免疫学/适应性免疫应答.md",
     "动物育种学/家畜生产性能测定.md",
-    "动物育种学/个体选配.md",
     "生物分离工程/乙醇浓度.jpg",
     "生物分离工程/分离方法汇总.jpg",
     "Pasted image 20251103214211.png",
