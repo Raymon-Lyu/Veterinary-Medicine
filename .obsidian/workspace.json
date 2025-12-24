@@ -15,7 +15,7 @@
               "state": {
                 "url": "https://gemini.google.com/app/417fbbb9aae5beaf",
                 "title": "Google Gemini",
-                "mode": "webview"
+                "mode": "blank"
               },
               "icon": "globe-2",
               "title": "Google Gemini"
@@ -217,7 +217,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c78c82bfae9f8f9c",
+  "active": "29f3403f31caba5c",
   "lastOpenFiles": [
     "动物免疫学/变态反应.md",
     "动物育种学/ppt/Chapter07.pdf",
