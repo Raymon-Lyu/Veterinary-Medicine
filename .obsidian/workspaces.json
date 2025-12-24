@@ -860,6 +860,7 @@
           {
             "id": "9528795586bebdb6",
             "type": "tabs",
+            "dimension": 14.970059880239521,
             "children": [
               {
                 "id": "29f3403f31caba5c",
@@ -867,9 +868,9 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://gemini.google.com/app/b4c14e2ba191948f",
+                    "url": "https://gemini.google.com/app/417fbbb9aae5beaf",
                     "title": "Google Gemini",
-                    "mode": "blank"
+                    "mode": "webview"
                   },
                   "icon": "globe-2",
                   "title": "Google Gemini"
@@ -880,6 +881,7 @@
           {
             "id": "7122a8f192fae50c",
             "type": "tabs",
+            "dimension": 85.02994011976048,
             "children": [
               {
                 "id": "c78c82bfae9f8f9c",
@@ -914,7 +916,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "",
+                    "query": "半抗原",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -1072,8 +1074,8 @@
           "workspaces:管理工作区布局": false
         }
       },
-      "active": "29f3403f31caba5c",
-      "mtime": "2025-12-24T09:48:12+08:00"
+      "active": "c78c82bfae9f8f9c",
+      "mtime": "2025-12-24T22:32:41+08:00"
     }
   },
   "active": "动物免疫学"

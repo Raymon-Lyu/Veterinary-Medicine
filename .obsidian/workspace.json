@@ -6,6 +6,7 @@
       {
         "id": "9528795586bebdb6",
         "type": "tabs",
+        "dimension": 14.970059880239521,
         "children": [
           {
             "id": "29f3403f31caba5c",
@@ -14,29 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/417fbbb9aae5beaf",
-                "title": "Google Gemini",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Google Gemini"
-            }
-          }
-        ]
-      },
-      {
-        "id": "fecd897605d4b59b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7a284209edba584a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物免疫学/祖传ppt/第八章 变态反应.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第八章 变态反应"
+              "title": "data:text/plain,"
             }
           }
         ]
@@ -44,6 +27,7 @@
       {
         "id": "7122a8f192fae50c",
         "type": "tabs",
+        "dimension": 85.02994011976048,
         "children": [
           {
             "id": "c78c82bfae9f8f9c",
@@ -236,7 +220,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "29f3403f31caba5c",
+  "active": "c78c82bfae9f8f9c",
   "lastOpenFiles": [
     "动物免疫学/变态反应.md",
     "动物免疫学/祖传ppt/第八章 变态反应.pdf",
