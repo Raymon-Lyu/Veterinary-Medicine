@@ -4,64 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "38e5869383091ee6",
+        "id": "7122a8f192fae50c",
         "type": "tabs",
         "children": [
           {
-            "id": "5e30a54cb4a009fb",
+            "id": "c78c82bfae9f8f9c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "动物育种学/ppt/Chapter06.pdf"
+                "file": "动物免疫学/变态反应.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Chapter06"
-            }
-          },
-          {
-            "id": "f9d7b590c03e9b91",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter07.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter07"
-            }
-          },
-          {
-            "id": "b59c3a4442c3b72b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter08.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter08"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "109ec30ce56ac5fa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "668c09bcf3e24076",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/app/b4c14e2ba191948f",
-                "title": "data:text/plain,",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "data:text/plain,"
+              "icon": "lucide-file",
+              "title": "变态反应"
             }
           }
         ]
@@ -241,7 +198,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "668c09bcf3e24076",
+  "active": "c78c82bfae9f8f9c",
   "lastOpenFiles": [
     "动物育种学/ppt/Chapter07.pdf",
     "动物育种学/ppt/Chapter06.pdf",
