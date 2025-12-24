@@ -858,6 +858,26 @@
         "type": "split",
         "children": [
           {
+            "id": "9528795586bebdb6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "29f3403f31caba5c",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://gemini.google.com/app/b4c14e2ba191948f",
+                    "title": "Google Gemini",
+                    "mode": "blank"
+                  },
+                  "icon": "globe-2",
+                  "title": "Google Gemini"
+                }
+              }
+            ]
+          },
+          {
             "id": "7122a8f192fae50c",
             "type": "tabs",
             "children": [
@@ -1052,8 +1072,8 @@
           "workspaces:管理工作区布局": false
         }
       },
-      "active": "c78c82bfae9f8f9c",
-      "mtime": "2025-12-22T14:40:55+08:00"
+      "active": "29f3403f31caba5c",
+      "mtime": "2025-12-24T09:48:12+08:00"
     }
   },
   "active": "动物免疫学"

@@ -4,6 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "9528795586bebdb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29f3403f31caba5c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app/417fbbb9aae5beaf",
+                "title": "Google Gemini",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google Gemini"
+            }
+          }
+        ]
+      },
+      {
         "id": "7122a8f192fae50c",
         "type": "tabs",
         "children": [
@@ -198,8 +218,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c78c82bfae9f8f9c",
+  "active": "29f3403f31caba5c",
   "lastOpenFiles": [
+    "动物免疫学/变态反应.md",
     "动物育种学/ppt/Chapter07.pdf",
     "动物育种学/ppt/Chapter06.pdf",
     "动物育种学/ppt/Chapter08.pdf",
@@ -218,11 +239,9 @@
     "动物免疫学/总论.md",
     "兽医病毒学/病毒与宿主的互作.md",
     "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf",
-    "兽医病毒学/2025-第1-3讲-病毒的复制.pdf",
     "兽医药理学/化学合成抗菌药.md",
     "兽医药理学/抗生素.md",
     "兽医药理学/水盐代谢.md",
-    "动物免疫学/变态反应.md",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
     "兽医药理学/呼吸系统药理.md",
     "病理生理学/第八章 酸碱平衡紊乱.md",
