@@ -15,10 +15,28 @@
               "state": {
                 "url": "https://gemini.google.com/app/417fbbb9aae5beaf",
                 "title": "Google Gemini",
-                "mode": "blank"
+                "mode": "webview"
               },
               "icon": "globe-2",
               "title": "Google Gemini"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fecd897605d4b59b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a284209edba584a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物免疫学/祖传ppt/第八章 变态反应.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第八章 变态反应"
             }
           }
         ]
@@ -94,7 +112,8 @@
               "title": "文件列表"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -220,6 +239,10 @@
   "active": "29f3403f31caba5c",
   "lastOpenFiles": [
     "动物免疫学/变态反应.md",
+    "动物免疫学/祖传ppt/第八章 变态反应.pdf",
+    "动物免疫学/祖传ppt/第八章 变态反应.pdf.crdownload",
+    "动物免疫学/祖传ppt/第七章 补体系统.pdf",
+    "动物免疫学/祖传ppt/第七章 补体系统.pdf.crdownload",
     "动物育种学/ppt/Chapter07.pdf",
     "动物育种学/ppt/Chapter06.pdf",
     "动物育种学/ppt/Chapter08.pdf",
@@ -227,17 +250,13 @@
     "兽医药理学/中枢神经系统药理.md",
     "兽医药理学/祖传ppt/中枢神经系统药理/6. 镇痛药.pdf",
     "兽医药理学/祖传ppt/中枢神经系统药理/7 全身麻醉药.pdf",
-    "兽医药理学/text.pdf",
     "兽医药理学/外周神经系统药理.md",
     "兽医病毒学/RNA病毒.md",
-    "兽医病毒学/第7讲-RNA病毒.pdf",
     "兽医病毒学/Baltimore System.canvas",
     "兽医病毒学/DNA病毒.md",
     "兽医病毒学/总论.md",
-    "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "动物免疫学/总论.md",
     "兽医病毒学/病毒与宿主的互作.md",
-    "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf",
     "兽医药理学/化学合成抗菌药.md",
     "兽医药理学/抗生素.md",
     "兽医药理学/水盐代谢.md",
