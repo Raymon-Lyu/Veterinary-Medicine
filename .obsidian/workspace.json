@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "半抗原",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +94,7 @@
               "title": "文件列表"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,7 +217,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "29f3403f31caba5c",
+  "active": "c78c82bfae9f8f9c",
   "lastOpenFiles": [
     "动物免疫学/变态反应.md",
     "动物育种学/ppt/Chapter07.pdf",
