@@ -14,11 +14,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/417fbbb9aae5beaf",
-                "title": "gemini.google.com/app/417fbbb9aae5beaf",
-                "mode": "error"
+                "title": "Google Gemini",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "gemini.google.com/app/417fbbb9aae5beaf"
+              "title": "Google Gemini"
             }
           }
         ]
