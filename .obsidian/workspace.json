@@ -6,7 +6,6 @@
       {
         "id": "97e4fa5a5ddc7375",
         "type": "tabs",
-        "dimension": 48.275862068965516,
         "children": [
           {
             "id": "a0fdfd8b85198297",
@@ -36,12 +35,11 @@
         "currentTab": 1
       },
       {
-        "id": "c62c2dfb7bf3dcef",
+        "id": "719eb4adf7a89cf5",
         "type": "tabs",
-        "dimension": 51.724137931034484,
         "children": [
           {
-            "id": "1ce7ea0d42af72cf",
+            "id": "300ad94c9593c708",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -231,9 +229,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1ce7ea0d42af72cf",
+  "active": "300ad94c9593c708",
   "lastOpenFiles": [
     "兽医药理学/祖传ppt/第八章 皮质激素类药理.pdf",
+    "动物免疫学/适应性免疫应答.md",
     "兽医药理学/皮质激素药理.md",
     "兽医药理学/自体活性物质和解热镇痛抗炎药.md",
     "兽医药理学/祖传ppt/第九章 解热镇痛抗炎药理.pdf",
@@ -269,7 +268,6 @@
     "动物免疫学/先天性免疫.md",
     "656f04c8dcac10225296b39f6a11efab.png",
     "动物育种学/畜禽主要性状的遗传.md",
-    "动物育种学/选择原理与方法.md",
     "生物分离工程/乙醇浓度.jpg",
     "生物分离工程/分离方法汇总.jpg",
     "Pasted image 20251103214211.png",
