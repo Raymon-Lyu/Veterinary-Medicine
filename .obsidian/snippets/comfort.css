@@ -57,6 +57,20 @@
     font-style: normal !important;    /* 防止有些主题带斜体 */
     letter-spacing: normal !important;/* 恢复默认字间距 */
 }
+
+/* 修复阅读模式 (Reading View) 下 H5 内公式颜色浅的问题 */
+.markdown-preview-view h5 .math,
+.markdown-preview-view h5 .MathJax,
+.markdown-preview-view h5 .mjx-container {
+    color: inherit !important;
+    fill: currentcolor !important; /* 某些 SVG 渲染模式需要这个 */
+}
+
+/* 修复实时预览模式 (Live Preview) 下 H5 内公式颜色浅的问题 */
+.cm-s-obsidian .cm-header-5 .cm-math,
+.cm-s-obsidian .cm-header-5 .math {
+    color: inherit !important;
+}
 /* ------------------ H6: 备注/注释 (深紫罗兰) ------------------ */
 .markdown-source-view.mod-cm6 .cm-header-6,
 .markdown-preview-view h6 {
