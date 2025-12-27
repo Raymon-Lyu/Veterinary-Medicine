@@ -30,9 +30,21 @@
               "icon": "lucide-file-text",
               "title": "第八章 皮质激素类药理"
             }
+          },
+          {
+            "id": "ac7f3200eb8abba6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第十二章 抗微生物药理"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "719eb4adf7a89cf5",
@@ -246,6 +258,8 @@
   },
   "active": "095798b8f838be87",
   "lastOpenFiles": [
+    "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf",
+    "兽医药理学/抗微生物药理.md",
     "兽医药理学/皮质激素药理.md",
     "兽医药理学/祖传ppt/第八章 皮质激素类药理.pdf",
     "动物免疫学/适应性免疫应答.md",
@@ -282,7 +296,6 @@
     "动物免疫学/补体系统.md",
     "动物免疫学/先天性免疫.md",
     "656f04c8dcac10225296b39f6a11efab.png",
-    "动物育种学/畜禽主要性状的遗传.md",
     "生物分离工程/乙醇浓度.jpg",
     "生物分离工程/分离方法汇总.jpg",
     "Pasted image 20251103214211.png",
