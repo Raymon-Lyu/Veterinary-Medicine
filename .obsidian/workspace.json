@@ -51,8 +51,23 @@
               "icon": "lucide-file",
               "title": "皮质激素药理"
             }
+          },
+          {
+            "id": "095798b8f838be87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "兽医药理学/抗微生物药理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "抗微生物药理"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,11 +244,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "300ad94c9593c708",
+  "active": "095798b8f838be87",
   "lastOpenFiles": [
+    "兽医药理学/皮质激素药理.md",
     "兽医药理学/祖传ppt/第八章 皮质激素类药理.pdf",
     "动物免疫学/适应性免疫应答.md",
-    "兽医药理学/皮质激素药理.md",
     "兽医药理学/自体活性物质和解热镇痛抗炎药.md",
     "兽医药理学/祖传ppt/第九章 解热镇痛抗炎药理.pdf",
     "兽医药理学/text.pdf",
