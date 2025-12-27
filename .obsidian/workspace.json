@@ -4,78 +4,142 @@
     "type": "split",
     "children": [
       {
-        "id": "97e4fa5a5ddc7375",
+        "id": "9f4f8f1e4edd6685",
         "type": "tabs",
+        "dimension": 32.421875,
         "children": [
           {
-            "id": "a0fdfd8b85198297",
+            "id": "9b1c0d6c40b4ac04",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "兽医药理学/text.pdf"
+                "file": "兽医病毒学/2025-第1-3讲-病毒的复制.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "text"
+              "title": "2025-第1-3讲-病毒的复制"
             }
           },
           {
-            "id": "797d31975050e375",
+            "id": "42cbab6aece3a7e4",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "兽医药理学/祖传ppt/第八章 皮质激素类药理.pdf"
+                "file": "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "第八章 皮质激素类药理"
+              "title": "2025-第4-5讲-病毒与宿主相互作用及致病机理"
             }
           },
           {
-            "id": "ac7f3200eb8abba6",
+            "id": "1a399fc56f690af8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf"
+                "file": "兽医病毒学/第5-6讲-DNA病毒.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "第十二章 抗微生物药理"
+              "title": "第5-6讲-DNA病毒"
+            }
+          },
+          {
+            "id": "b8c647732dba0ea8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "兽医病毒学/第7讲-RNA病毒.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第7讲-RNA病毒"
             }
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "719eb4adf7a89cf5",
+        "id": "8b21a57ce9253f3b",
         "type": "tabs",
+        "dimension": 34.83072916666667,
         "children": [
           {
-            "id": "300ad94c9593c708",
+            "id": "482df4f04544e88f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "兽医药理学/皮质激素药理.md",
-                "mode": "source",
-                "source": false
+                "url": "https://classroom.zju.edu.cn/",
+                "title": "智云课堂",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "皮质激素药理"
+              "icon": "globe-2",
+              "title": "智云课堂"
             }
           },
           {
-            "id": "095798b8f838be87",
+            "id": "6fdbb4d53f4b58e8",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://classroom.zju.edu.cn/livingroom?course_id=75252&sub_id=1811255&tenant_code=112",
+                "title": "兽医病毒学2025-12-16第6-8节",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "兽医病毒学2025-12-16第6-8节"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2e88b8b945e44d42",
+        "type": "tabs",
+        "dimension": 32.74739583333333,
+        "children": [
+          {
+            "id": "19f12f7996ca94b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医药理学/抗微生物药理.md",
+                "file": "兽医病毒学/总论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "抗微生物药理"
+              "title": "总论"
+            }
+          },
+          {
+            "id": "37f576cf0ecd6ac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "兽医病毒学/DNA病毒.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DNA病毒"
+            }
+          },
+          {
+            "id": "aa0417bd4859da5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "兽医病毒学/RNA病毒.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RNA病毒"
             }
           }
         ],
@@ -98,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "异丙嗪",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "动物育种学/ppt/Chapter06.pdf",
+                "file": "兽医病毒学/病毒与宿主的互作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +228,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Chapter06 的反向链接列表"
+              "title": "病毒与宿主的互作 的反向链接列表"
             }
           },
           {
@@ -231,8 +295,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,10 +319,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "095798b8f838be87",
+  "active": "6fdbb4d53f4b58e8",
   "lastOpenFiles": [
-    "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf",
+    "兽医病毒学/DNA病毒.md",
+    "兽医病毒学/总论.md",
+    "兽医病毒学/RNA病毒.md",
+    "兽医病毒学/Baltimore System.canvas",
+    "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "兽医药理学/抗微生物药理.md",
+    "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf",
     "兽医药理学/皮质激素药理.md",
     "兽医药理学/祖传ppt/第八章 皮质激素类药理.pdf",
     "动物免疫学/适应性免疫应答.md",
@@ -272,18 +340,12 @@
     "动物育种学/ppt/Chapter08.pdf",
     "动物育种学/ppt/Chapter07.pdf",
     "动物育种学/ppt/Chapter09.pdf",
-    "兽医药理学/祖传ppt/中枢神经系统药理/5.中枢神经系统概论+镇静药和安定药.pdf",
     "兽医药理学/血液循环系统药理.md",
     "病理生理学/第十章 休克.md",
     "病理生理学/第九章 发热.md",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
     "动物免疫学/变态反应.md",
-    "动物免疫学/祖传ppt/第八章 变态反应.pdf",
     "兽医药理学/外周神经系统药理.md",
-    "兽医病毒学/RNA病毒.md",
-    "兽医病毒学/Baltimore System.canvas",
-    "兽医病毒学/DNA病毒.md",
-    "兽医病毒学/总论.md",
     "动物免疫学/总论.md",
     "兽医病毒学/病毒与宿主的互作.md",
     "兽医药理学/化学合成抗菌药.md",
