@@ -4,146 +4,80 @@
     "type": "split",
     "children": [
       {
-        "id": "9f4f8f1e4edd6685",
+        "id": "f6836a37d7a5e897",
         "type": "tabs",
-        "dimension": 32.421875,
         "children": [
           {
-            "id": "9b1c0d6c40b4ac04",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医病毒学/2025-第1-3讲-病毒的复制.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2025-第1-3讲-病毒的复制"
-            }
-          },
-          {
-            "id": "42cbab6aece3a7e4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2025-第4-5讲-病毒与宿主相互作用及致病机理"
-            }
-          },
-          {
-            "id": "1a399fc56f690af8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医病毒学/第5-6讲-DNA病毒.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第5-6讲-DNA病毒"
-            }
-          },
-          {
-            "id": "b8c647732dba0ea8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医病毒学/第7讲-RNA病毒.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第7讲-RNA病毒"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "8b21a57ce9253f3b",
-        "type": "tabs",
-        "dimension": 34.83072916666667,
-        "children": [
-          {
-            "id": "482df4f04544e88f",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/",
-                "title": "智云课堂",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "智云课堂"
-            }
-          },
-          {
-            "id": "6fdbb4d53f4b58e8",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/livingroom?course_id=75252&sub_id=1811255&tenant_code=112",
-                "title": "兽医病毒学2025-12-16第6-8节",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "兽医病毒学2025-12-16第6-8节"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2e88b8b945e44d42",
-        "type": "tabs",
-        "dimension": 32.74739583333333,
-        "children": [
-          {
-            "id": "19f12f7996ca94b2",
+            "id": "d66f202a22cce663",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医病毒学/总论.md",
+                "file": "病理生理学/第六章 缺氧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总论"
+              "title": "第六章 缺氧"
             }
           },
           {
-            "id": "37f576cf0ecd6ac9",
+            "id": "3762b01205745737",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医病毒学/DNA病毒.md",
+                "file": "病理生理学/第七章 水和电解质代谢紊乱.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNA病毒"
+              "title": "第七章 水和电解质代谢紊乱"
             }
           },
           {
-            "id": "aa0417bd4859da5c",
+            "id": "958fa299f521add5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医病毒学/RNA病毒.md",
+                "file": "病理生理学/第八章 酸碱平衡紊乱.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RNA病毒"
+              "title": "第八章 酸碱平衡紊乱"
+            }
+          },
+          {
+            "id": "bc4d5c408539ac59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "病理生理学/第九章 发热.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第九章 发热"
+            }
+          },
+          {
+            "id": "53ab4e71cf47660c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "病理生理学/第十章 休克.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第十章 休克"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -218,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "兽医病毒学/病毒与宿主的互作.md",
+                "file": "动物育种学/ppt/Chapter06.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "病毒与宿主的互作 的反向链接列表"
+              "title": "Chapter06 的反向链接列表"
             }
           },
           {
@@ -295,7 +228,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -319,11 +253,16 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6fdbb4d53f4b58e8",
+  "active": "d66f202a22cce663",
   "lastOpenFiles": [
+    "病理生理学/第八章 酸碱平衡紊乱.md",
+    "病理生理学/第九章 发热.md",
+    "病理生理学/第十章 休克.md",
+    "病理生理学/第六章 缺氧.md",
+    "病理生理学/第七章 水和电解质代谢紊乱.md",
+    "兽医病毒学/RNA病毒.md",
     "兽医病毒学/DNA病毒.md",
     "兽医病毒学/总论.md",
-    "兽医病毒学/RNA病毒.md",
     "兽医病毒学/Baltimore System.canvas",
     "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "兽医药理学/抗微生物药理.md",
@@ -341,9 +280,6 @@
     "动物育种学/ppt/Chapter07.pdf",
     "动物育种学/ppt/Chapter09.pdf",
     "兽医药理学/血液循环系统药理.md",
-    "病理生理学/第十章 休克.md",
-    "病理生理学/第九章 发热.md",
-    "病理生理学/第七章 水和电解质代谢紊乱.md",
     "动物免疫学/变态反应.md",
     "兽医药理学/外周神经系统药理.md",
     "动物免疫学/总论.md",
@@ -352,7 +288,6 @@
     "兽医药理学/抗生素.md",
     "兽医药理学/水盐代谢.md",
     "兽医药理学/呼吸系统药理.md",
-    "病理生理学/第八章 酸碱平衡紊乱.md",
     "兽医药理学/消化系统药理.md",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "动物免疫学/补体系统.md",
