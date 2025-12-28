@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9e4fd8a90107614",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/livingroom?course_id=58507&sub_id=1123780&tenant_code=112",
-                "title": "动物免疫学2024-06-03第3-4节",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "动物免疫学2024-06-03第3-4节"
-            }
-          },
-          {
-            "id": "88e081e207024d47",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/livingroom?course_id=58507&sub_id=1123788&tenant_code=112",
-                "title": "动物免疫学2024-06-04第3-4节",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "动物免疫学2024-06-04第3-4节"
-            }
-          },
-          {
             "id": "7dad8b924497aed8",
             "type": "leaf",
             "state": {
@@ -48,9 +20,23 @@
               "icon": "globe-2",
               "title": "智云课堂"
             }
+          },
+          {
+            "id": "45e270d0ff574199",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://classroom.zju.edu.cn/livingroom?course_id=75058&sub_id=1815480&tenant_code=112",
+                "title": "动物免疫学2025-12-24第1-2节",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "动物免疫学2025-12-24第1-2节"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "2f7cd3f675ef163d",
@@ -247,7 +233,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7dad8b924497aed8",
+  "active": "45e270d0ff574199",
   "lastOpenFiles": [
     "动物免疫学/抗感染免疫.md",
     "动物免疫学/变态反应.md",
