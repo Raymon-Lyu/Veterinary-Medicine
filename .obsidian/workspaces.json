@@ -796,12 +796,12 @@
         "type": "split",
         "children": [
           {
-            "id": "9528795586bebdb6",
+            "id": "2b0172cb62634340",
             "type": "tabs",
-            "dimension": 14.970059880239521,
+            "dimension": 48.99866488651535,
             "children": [
               {
-                "id": "29f3403f31caba5c",
+                "id": "25a22fbd67e99a8c",
                 "type": "leaf",
                 "state": {
                   "type": "webviewer",
@@ -817,22 +817,22 @@
             ]
           },
           {
-            "id": "7122a8f192fae50c",
+            "id": "2f7cd3f675ef163d",
             "type": "tabs",
-            "dimension": 85.02994011976048,
+            "dimension": 51.00133511348465,
             "children": [
               {
-                "id": "c78c82bfae9f8f9c",
+                "id": "30891a5cf9f2fceb",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "动物免疫学/变态反应.md",
+                    "file": "动物免疫学/抗感染免疫.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "变态反应"
+                  "title": "抗感染免疫"
                 }
               }
             ]
@@ -1012,9 +1012,9 @@
           "workspaces:管理工作区布局": false
         }
       },
-      "active": "c78c82bfae9f8f9c",
-      "mtime": "2025-12-24T22:32:41+08:00"
+      "active": "30891a5cf9f2fceb",
+      "mtime": "2025-12-28T22:27:53+08:00"
     }
   },
-  "active": "动物免疫学"
+  "active": "兽医药理学"
 }
