@@ -6,6 +6,7 @@
       {
         "id": "329103a629650cdf",
         "type": "tabs",
+        "dimension": 36.19791666666667,
         "children": [
           {
             "id": "7dad8b924497aed8",
@@ -53,8 +54,30 @@
         "currentTab": 2
       },
       {
+        "id": "2b0172cb62634340",
+        "type": "tabs",
+        "dimension": 30.46875,
+        "children": [
+          {
+            "id": "25a22fbd67e99a8c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app/417fbbb9aae5beaf",
+                "title": "Google Gemini",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google Gemini"
+            }
+          }
+        ]
+      },
+      {
         "id": "2f7cd3f675ef163d",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "30891a5cf9f2fceb",
@@ -63,8 +86,8 @@
               "type": "markdown",
               "state": {
                 "file": "动物免疫学/抗感染免疫.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "抗感染免疫"
@@ -247,7 +270,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "582c0f84614b32cb",
+  "active": "30891a5cf9f2fceb",
   "lastOpenFiles": [
     "动物免疫学/抗感染免疫.md",
     "动物免疫学/变态反应.md",
