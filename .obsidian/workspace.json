@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "812d2dc88ecb8a01",
+            "id": "c9e4fd8a90107614",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://classroom.zju.edu.cn/",
-                "title": "智云课堂",
+                "url": "https://classroom.zju.edu.cn/livingroom?course_id=58507&sub_id=1123780&tenant_code=112",
+                "title": "动物免疫学2024-06-03第3-4节",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "智云课堂"
-            }
-          },
-          {
-            "id": "347874d9d75caa40",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/searchContent?title=%E5%8A%A8%E7%89%A9%E5%85%8D%E7%96%AB%E5%AD%A6&realname=&trans=&page=1&tenant_code=112",
-                "title": "智云课堂",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "智云课堂"
-            }
-          },
-          {
-            "id": "3fc40971903f4f01",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/coursedetail?course_id=58507&tenant_code=112",
-                "title": "智云课堂",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "智云课堂"
-            }
-          },
-          {
-            "id": "08568188d03bcd3d",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/livingroom?course_id=75058&sub_id=1813473&tenant_code=112",
-                "title": "动物免疫学2025-12-22第6-7节",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "动物免疫学2025-12-22第6-7节"
+              "title": "动物免疫学2024-06-03第3-4节"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "2f7cd3f675ef163d",
@@ -261,7 +218,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3fc40971903f4f01",
+  "active": "c9e4fd8a90107614",
   "lastOpenFiles": [
     "动物免疫学/抗感染免疫.md",
     "动物免疫学/变态反应.md",
