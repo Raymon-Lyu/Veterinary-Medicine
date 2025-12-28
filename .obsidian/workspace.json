@@ -49,9 +49,23 @@
               "icon": "globe-2",
               "title": "动物免疫学2025-12-22第6-7节"
             }
+          },
+          {
+            "id": "81d85684ce756d5a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://classroom.zju.edu.cn/livingroom?course_id=75058&sub_id=1815480&tenant_code=112",
+                "title": "动物免疫学2025-12-24第1-2节",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "动物免疫学2025-12-24第1-2节"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "2b0172cb62634340",
@@ -270,7 +284,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "582c0f84614b32cb",
+  "active": "81d85684ce756d5a",
   "lastOpenFiles": [
     "动物免疫学/抗感染免疫.md",
     "动物免疫学/变态反应.md",
