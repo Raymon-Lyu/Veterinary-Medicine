@@ -6,7 +6,7 @@
       {
         "id": "329103a629650cdf",
         "type": "tabs",
-        "dimension": 55.794270833333336,
+        "dimension": 51.236979166666664,
         "children": [
           {
             "id": "7dad8b924497aed8",
@@ -56,7 +56,7 @@
       {
         "id": "2b0172cb62634340",
         "type": "tabs",
-        "dimension": 19.3359375,
+        "dimension": 23.893229166666664,
         "children": [
           {
             "id": "25a22fbd67e99a8c",
@@ -270,7 +270,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "25a22fbd67e99a8c",
+  "active": "582c0f84614b32cb",
   "lastOpenFiles": [
     "动物免疫学/抗感染免疫.md",
     "动物免疫学/变态反应.md",
