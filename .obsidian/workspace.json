@@ -20,8 +20,37 @@
               "icon": "globe-2",
               "title": "动物免疫学2024-06-03第3-4节"
             }
+          },
+          {
+            "id": "88e081e207024d47",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://classroom.zju.edu.cn/livingroom?course_id=58507&sub_id=1123788&tenant_code=112",
+                "title": "动物免疫学2024-06-04第3-4节",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "动物免疫学2024-06-04第3-4节"
+            }
+          },
+          {
+            "id": "7dad8b924497aed8",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://classroom.zju.edu.cn/?tenant_code=112",
+                "title": "智云课堂",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "智云课堂"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "2f7cd3f675ef163d",
@@ -218,7 +247,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "30891a5cf9f2fceb",
+  "active": "7dad8b924497aed8",
   "lastOpenFiles": [
     "动物免疫学/抗感染免疫.md",
     "动物免疫学/变态反应.md",
