@@ -4,73 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "329103a629650cdf",
-        "type": "tabs",
-        "dimension": 51.236979166666664,
-        "children": [
-          {
-            "id": "7dad8b924497aed8",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/?tenant_code=112",
-                "title": "智云课堂",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "智云课堂"
-            }
-          },
-          {
-            "id": "45e270d0ff574199",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/livingroom?course_id=75058&sub_id=1815480&tenant_code=112",
-                "title": "动物免疫学2025-12-24第1-2节",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "动物免疫学2025-12-24第1-2节"
-            }
-          },
-          {
-            "id": "582c0f84614b32cb",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/livingroom?course_id=75058&sub_id=1813473&tenant_code=112",
-                "title": "动物免疫学2025-12-22第6-7节",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "动物免疫学2025-12-22第6-7节"
-            }
-          },
-          {
-            "id": "81d85684ce756d5a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/livingroom?course_id=75058&sub_id=1815480&tenant_code=112",
-                "title": "动物免疫学2025-12-24第1-2节",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "动物免疫学2025-12-24第1-2节"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
         "id": "2b0172cb62634340",
         "type": "tabs",
-        "dimension": 23.893229166666664,
+        "dimension": 48.99866488651536,
         "children": [
           {
             "id": "25a22fbd67e99a8c",
@@ -91,7 +27,7 @@
       {
         "id": "2f7cd3f675ef163d",
         "type": "tabs",
-        "dimension": 24.869791666666664,
+        "dimension": 51.00133511348465,
         "children": [
           {
             "id": "30891a5cf9f2fceb",
