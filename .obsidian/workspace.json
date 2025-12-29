@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/417fbbb9aae5beaf",
-                "title": "Google Gemini",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "data:text/plain,"
             }
           }
         ]
@@ -82,8 +82,8 @@
               "state": {
                 "file": "兽医病毒学/病毒学复习.canvas",
                 "viewState": {
-                  "x": -461.90592115609786,
-                  "y": -2874.791216236255,
+                  "x": -705.8482739564115,
+                  "y": -2616.7180005370883,
                   "zoom": 0.10522726080249145
                 }
               },
@@ -283,7 +283,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "988ab02d5758ab07",
+  "active": "f7a4292d0543e917",
   "lastOpenFiles": [
     "兽医病毒学/病毒学复习.canvas",
     "兽医病毒学/总论.md",
