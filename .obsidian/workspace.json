@@ -4,47 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97e4fa5a5ddc7375",
+        "id": "2b0172cb62634340",
         "type": "tabs",
+        "dimension": 48.99866488651535,
         "children": [
           {
-            "id": "a0fdfd8b85198297",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医药理学/text.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "text"
-            }
-          },
-          {
-            "id": "7a58a9c395bdbd0c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第十二章 抗微生物药理"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f852be8ef908a1a6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "988ab02d5758ab07",
+            "id": "25a22fbd67e99a8c",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/417fbbb9aae5beaf",
+                "url": "https://gemini.google.com/app/4a429beed7278b02",
                 "title": "Google Gemini",
                 "mode": "webview"
               },
@@ -55,53 +25,25 @@
         ]
       },
       {
-        "id": "719eb4adf7a89cf5",
+        "id": "2f7cd3f675ef163d",
         "type": "tabs",
+        "dimension": 51.00133511348465,
         "children": [
           {
-            "id": "300ad94c9593c708",
+            "id": "30891a5cf9f2fceb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医药理学/皮质激素药理.md",
+                "file": "动物免疫学/免疫调节.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "皮质激素药理"
-            }
-          },
-          {
-            "id": "095798b8f838be87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "兽医药理学/抗微生物药理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "抗微生物药理"
-            }
-          },
-          {
-            "id": "a29a34e92d218640",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "兽医药理学/抗生素.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "抗生素"
+              "title": "免疫调节"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "丙磺舒",
+                "query": "半抗原",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -278,17 +219,18 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a29a34e92d218640",
+  "active": "25a22fbd67e99a8c",
   "lastOpenFiles": [
+    "动物免疫学/免疫调节.md",
+    "动物免疫学/抗感染免疫.md",
+    "兽医药理学/抗生素.md",
     "兽医药理学/抗微生物药理.md",
     "兽医药理学/外周神经系统药理.md",
-    "兽医药理学/抗生素.md",
     "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf",
     "兽医药理学/text.pdf",
     "兽医药理学/祖传ppt/第八章 皮质激素类药理.pdf",
     "未命名.base",
     "兽医药理学/皮质激素药理.md",
-    "动物免疫学/抗感染免疫.md",
     "动物免疫学/变态反应.md",
     "病理生理学/第六章 缺氧.md",
     "病理生理学/第八章 酸碱平衡紊乱.md",
