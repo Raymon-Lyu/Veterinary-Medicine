@@ -1,15 +1,17 @@
 {
 	"nodes":[
-		{"id":"81e5e66ee77fb428","x":-60,"y":-500,"width":200,"height":80,"type":"text","text":"<center><font size=\"6\">病毒</font></center>"},
-		{"id":"da98437d196ea969","x":710,"y":-307,"width":540,"height":400,"type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒感染"},
-		{"id":"489630457a723a74","x":710,"y":-760,"width":540,"height":340,"type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒的复制"},
-		{"id":"90bc28e5a7618e93","x":710,"y":-1160,"width":540,"height":280,"type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒的组成"},
-		{"id":"4257661483147cab","x":-120,"y":-1212,"width":320,"height":105,"type":"text","text":"<center><font size=\"10\"><strong>兽医病毒学</strong></font></center>"},
-		{"id":"5f5e9bbdd06887dd","x":-505,"y":-820,"width":250,"height":60,"type":"text","text":"<center><font size=\"6\">DNA病毒</font></center>"},
-		{"id":"5bb5212abaedce98","x":-1280,"y":-1330,"width":560,"height":400,"type":"file","file":"兽医病毒学/DNA病毒.md","subpath":"#双股DNA病毒"},
-		{"id":"fff476b9e9b4e8b3","x":-1280,"y":-820,"width":560,"height":400,"type":"file","file":"兽医病毒学/DNA病毒.md","subpath":"#单股DNA病毒"},
-		{"id":"e96c9e526adce55b","x":-755,"y":-167,"width":250,"height":60,"type":"text","text":"<center><font size=\"6\">RNA病毒</font></center>"},
-		{"id":"84e887eba3e584ab","x":650,"y":460,"width":660,"height":400,"type":"file","file":"兽医病毒学/总论.md","subpath":"#生物合成"}
+		{"id":"81e5e66ee77fb428","type":"text","text":"<center><font size=\"6\">病毒</font></center>","x":-60,"y":-500,"width":200,"height":80},
+		{"id":"da98437d196ea969","type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒感染","x":710,"y":-307,"width":540,"height":400},
+		{"id":"489630457a723a74","type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒的复制","x":710,"y":-760,"width":540,"height":340},
+		{"id":"90bc28e5a7618e93","type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒的组成","x":710,"y":-1160,"width":540,"height":280},
+		{"id":"4257661483147cab","type":"text","text":"<center><font size=\"10\"><strong>兽医病毒学</strong></font></center>","x":-120,"y":-1212,"width":320,"height":105},
+		{"id":"5f5e9bbdd06887dd","type":"text","text":"<center><font size=\"6\">DNA病毒</font></center>","x":-505,"y":-820,"width":250,"height":60},
+		{"id":"5bb5212abaedce98","type":"file","file":"兽医病毒学/DNA病毒.md","subpath":"#双股DNA病毒","x":-1280,"y":-1330,"width":560,"height":400},
+		{"id":"fff476b9e9b4e8b3","type":"file","file":"兽医病毒学/DNA病毒.md","subpath":"#单股DNA病毒","x":-1280,"y":-820,"width":560,"height":400},
+		{"id":"84e887eba3e584ab","type":"file","file":"兽医病毒学/总论.md","subpath":"#生物合成","x":650,"y":460,"width":660,"height":400},
+		{"id":"e96c9e526adce55b","type":"text","text":"<center><font size=\"6\">RNA病毒</font></center>","x":-505,"y":40,"width":250,"height":60},
+		{"id":"6e9d0de4d78a7a49","type":"file","file":"兽医病毒学/RNA病毒.md","subpath":"#双股RNA病毒","x":-1280,"y":-330,"width":560,"height":400},
+		{"id":"5d6eb2e1ac049736","type":"file","file":"兽医病毒学/RNA病毒.md","subpath":"#单股RNA病毒","x":-1280,"y":220,"width":560,"height":400}
 	],
 	"edges":[
 		{"id":"bfc020643314a7ba","fromNode":"4257661483147cab","fromSide":"bottom","toNode":"81e5e66ee77fb428","toSide":"top","label":"研究载体"},
@@ -18,8 +20,10 @@
 		{"id":"b3c14f6f3eae7e72","fromNode":"81e5e66ee77fb428","fromSide":"right","toNode":"da98437d196ea969","toSide":"left","label":"感染宿主的过程"},
 		{"id":"9f5ba70c90883658","fromNode":"da98437d196ea969","fromSide":"bottom","toNode":"84e887eba3e584ab","toSide":"top","label":"病毒的生物合成"},
 		{"id":"e3d5a658d0596947","fromNode":"81e5e66ee77fb428","fromSide":"left","toNode":"5f5e9bbdd06887dd","toSide":"right"},
-		{"id":"91c7bc3e3b4fd5f7","fromNode":"81e5e66ee77fb428","fromSide":"left","toNode":"e96c9e526adce55b","toSide":"top"},
+		{"id":"91c7bc3e3b4fd5f7","fromNode":"81e5e66ee77fb428","fromSide":"left","toNode":"e96c9e526adce55b","toSide":"right"},
 		{"id":"3f53a173a0c21b3f","fromNode":"5f5e9bbdd06887dd","fromSide":"left","toNode":"5bb5212abaedce98","toSide":"right"},
-		{"id":"a0e701bc8c678787","fromNode":"5f5e9bbdd06887dd","fromSide":"left","toNode":"fff476b9e9b4e8b3","toSide":"right"}
+		{"id":"a0e701bc8c678787","fromNode":"5f5e9bbdd06887dd","fromSide":"left","toNode":"fff476b9e9b4e8b3","toSide":"right"},
+		{"id":"97c5ee0cb1268888","fromNode":"e96c9e526adce55b","fromSide":"left","toNode":"6e9d0de4d78a7a49","toSide":"right"},
+		{"id":"4865a8deb36558fd","fromNode":"e96c9e526adce55b","fromSide":"left","toNode":"5d6eb2e1ac049736","toSide":"right"}
 	]
 }
