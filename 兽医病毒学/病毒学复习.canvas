@@ -4,14 +4,16 @@
 		{"id":"489630457a723a74","x":380,"y":-720,"width":540,"height":340,"type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒的复制"},
 		{"id":"90bc28e5a7618e93","x":380,"y":-1060,"width":540,"height":280,"type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒的组成"},
 		{"id":"81e5e66ee77fb428","x":-60,"y":-500,"width":200,"height":80,"type":"text","text":"<center><font size=\"6\">病毒</font></center>"},
-		{"id":"da98437d196ea969","x":380,"y":-307,"width":540,"height":400,"type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒感染"},
-		{"id":"84e887eba3e584ab","x":1220,"y":-920,"width":660,"height":400,"type":"file","file":"兽医病毒学/总论.md","subpath":"#生物合成"}
+		{"id":"84e887eba3e584ab","x":-240,"y":380,"width":660,"height":400,"type":"file","file":"兽医病毒学/总论.md","subpath":"#生物合成"},
+		{"id":"da98437d196ea969","x":380,"y":-300,"width":540,"height":400,"type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒感染"},
+		{"id":"5f5e9bbdd06887dd","x":-646,"y":35,"width":250,"height":60,"type":"text","text":"DNA病毒<>"}
 	],
 	"edges":[
 		{"id":"bfc020643314a7ba","fromNode":"4257661483147cab","fromSide":"right","toNode":"81e5e66ee77fb428","toSide":"left","label":"研究载体"},
 		{"id":"e7c42ab26bb626b3","fromNode":"81e5e66ee77fb428","fromSide":"right","toNode":"90bc28e5a7618e93","toSide":"left","label":"结构"},
 		{"id":"c208597c1134e338","fromNode":"81e5e66ee77fb428","fromSide":"right","toNode":"489630457a723a74","toSide":"left","label":"病毒的生长"},
 		{"id":"b3c14f6f3eae7e72","fromNode":"81e5e66ee77fb428","fromSide":"right","toNode":"da98437d196ea969","toSide":"left","label":"过程感染"},
-		{"id":"9f5ba70c90883658","fromNode":"da98437d196ea969","fromSide":"right","toNode":"84e887eba3e584ab","toSide":"left","label":"病毒的生物合成"}
+		{"id":"9f5ba70c90883658","fromNode":"da98437d196ea969","fromSide":"bottom","toNode":"84e887eba3e584ab","toSide":"top","label":"病毒的生物合成"},
+		{"id":"e3d5a658d0596947","fromNode":"81e5e66ee77fb428","fromSide":"bottom","toNode":"5f5e9bbdd06887dd","toSide":"top"}
 	]
 }
