@@ -45,11 +45,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/417fbbb9aae5beaf",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "Google Gemini",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "Google Gemini"
             }
           }
         ]
@@ -278,12 +278,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a29a34e92d218640",
+  "active": "988ab02d5758ab07",
   "lastOpenFiles": [
+    "兽医药理学/抗生素.md",
     "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf",
     "动物免疫学/免疫调节.md",
     "动物免疫学/抗感染免疫.md",
-    "兽医药理学/抗生素.md",
     "兽医药理学/抗微生物药理.md",
     "兽医药理学/外周神经系统药理.md",
     "兽医药理学/text.pdf",
