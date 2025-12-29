@@ -6,7 +6,7 @@
       {
         "id": "f852be8ef908a1a6",
         "type": "tabs",
-        "dimension": 32.35677083333333,
+        "dimension": 32.356770833333336,
         "children": [
           {
             "id": "988ab02d5758ab07",
@@ -16,7 +16,7 @@
               "state": {
                 "url": "https://gemini.google.com/app/417fbbb9aae5beaf",
                 "title": "Google Gemini",
-                "mode": "webview"
+                "mode": "blank"
               },
               "icon": "globe-2",
               "title": "Google Gemini"
@@ -27,7 +27,7 @@
       {
         "id": "719eb4adf7a89cf5",
         "type": "tabs",
-        "dimension": 67.64322916666666,
+        "dimension": 67.64322916666667,
         "children": [
           {
             "id": "300ad94c9593c708",
@@ -77,15 +77,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "兽医药理学/药理学复习.canvas",
+                "file": "兽医病毒学/Baltimore System.canvas",
                 "viewState": {
-                  "x": 54.800048828125,
-                  "y": -406,
+                  "x": -1821.5999755859375,
+                  "y": 1283.0000076293945,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "药理学复习"
+              "title": "Baltimore System"
             }
           }
         ],
@@ -268,8 +268,9 @@
   },
   "active": "67374fab8180df0f",
   "lastOpenFiles": [
-    "兽医药理学/抗寄生虫药理.md",
+    "兽医病毒学/Baltimore System.canvas",
     "兽医药理学/药理学复习.canvas",
+    "兽医药理学/抗寄生虫药理.md",
     "兽医药理学/抗微生物药理.md",
     "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf",
     "兽医药理学/抗微生物药.md",
@@ -289,7 +290,6 @@
     "兽医病毒学/RNA病毒.md",
     "兽医病毒学/DNA病毒.md",
     "兽医病毒学/总论.md",
-    "兽医病毒学/Baltimore System.canvas",
     "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "动物免疫学/适应性免疫应答.md",
     "兽医药理学/自体活性物质和解热镇痛抗炎药.md",
