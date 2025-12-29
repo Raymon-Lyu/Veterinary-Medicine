@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7558be298597e364","x":-420,"y":-680,"width":320,"height":420,"type":"file","file":"兽医药理学/总论.md"},
+		{"id":"919effc308d19087","x":100,"y":-720,"width":400,"height":400,"type":"file","file":"兽医药理学/外周神经系统药理.md"}
+	],
+	"edges":[
+		{"id":"6705476d6c1fe6ee","fromNode":"7558be298597e364","fromSide":"right","toNode":"919effc308d19087","toSide":"left","label":"对的"}
+	]
+}

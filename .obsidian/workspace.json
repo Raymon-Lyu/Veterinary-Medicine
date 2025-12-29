@@ -4,41 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "97e4fa5a5ddc7375",
-        "type": "tabs",
-        "dimension": 35.7421875,
-        "children": [
-          {
-            "id": "a0fdfd8b85198297",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医药理学/text.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "text"
-            }
-          },
-          {
-            "id": "7a58a9c395bdbd0c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第十二章 抗微生物药理"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "f852be8ef908a1a6",
         "type": "tabs",
-        "dimension": 30.46875,
+        "dimension": 32.35677083333333,
         "children": [
           {
             "id": "988ab02d5758ab07",
@@ -59,7 +27,7 @@
       {
         "id": "719eb4adf7a89cf5",
         "type": "tabs",
-        "dimension": 33.7890625,
+        "dimension": 67.64322916666666,
         "children": [
           {
             "id": "300ad94c9593c708",
@@ -102,9 +70,26 @@
               "icon": "lucide-file",
               "title": "抗微生物药"
             }
+          },
+          {
+            "id": "67374fab8180df0f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "兽医药理学/药理学复习.canvas",
+                "viewState": {
+                  "x": 54.800048828125,
+                  "y": -406,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "药理学复习"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -281,8 +266,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "988ab02d5758ab07",
+  "active": "67374fab8180df0f",
   "lastOpenFiles": [
+    "兽医药理学/抗寄生虫药理.md",
+    "兽医药理学/药理学复习.canvas",
     "兽医药理学/抗微生物药理.md",
     "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf",
     "兽医药理学/抗微生物药.md",
@@ -318,7 +305,6 @@
     "兽医药理学/化学合成抗菌药.md",
     "兽医药理学/水盐代谢.md",
     "兽医药理学/呼吸系统药理.md",
-    "兽医药理学/消化系统药理.md",
     "656f04c8dcac10225296b39f6a11efab.png",
     "生物分离工程/乙醇浓度.jpg",
     "生物分离工程/分离方法汇总.jpg",
