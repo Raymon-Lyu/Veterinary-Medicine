@@ -828,7 +828,7 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://gemini.google.com/app/417fbbb9aae5beaf",
+                    "url": "https://gemini.google.com/app/4a429beed7278b02",
                     "title": "Google Gemini",
                     "mode": "webview"
                   },
@@ -849,12 +849,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "动物免疫学/抗感染免疫.md",
+                    "file": "动物免疫学/免疫调节.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "抗感染免疫"
+                  "title": "免疫调节"
                 }
               }
             ]
@@ -1034,9 +1034,9 @@
           "workspaces:管理工作区布局": false
         }
       },
-      "active": "30891a5cf9f2fceb",
-      "mtime": "2025-12-28T22:27:53+08:00"
+      "active": "25a22fbd67e99a8c",
+      "mtime": "2025-12-29T17:42:02+08:00"
     }
   },
-  "active": "动物免疫学"
+  "active": "兽医药理学"
 }
