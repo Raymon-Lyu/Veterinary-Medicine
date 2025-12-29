@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"81e5e66ee77fb428","x":-100,"y":-660,"width":200,"height":80,"type":"text","text":"<center><font size=\"6\">病毒</font></center>"},
+		{"id":"4257661483147cab","x":-660,"y":-360,"width":320,"height":105,"type":"text","text":"<center><font size=\"10\"><strong>兽医病毒学</strong></font></center>"},
+		{"id":"489630457a723a74","x":380,"y":-720,"width":540,"height":340,"type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒的复制"},
+		{"id":"90bc28e5a7618e93","x":380,"y":-1060,"width":540,"height":280,"type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒的组成"}
+	],
+	"edges":[
+		{"id":"bfc020643314a7ba","fromNode":"4257661483147cab","fromSide":"right","toNode":"81e5e66ee77fb428","toSide":"left","label":"研究载体"},
+		{"id":"e7c42ab26bb626b3","fromNode":"81e5e66ee77fb428","fromSide":"right","toNode":"90bc28e5a7618e93","toSide":"left","label":"结构"},
+		{"id":"c208597c1134e338","fromNode":"81e5e66ee77fb428","fromSide":"right","toNode":"489630457a723a74","toSide":"left","label":"病毒的生长"}
+	]
+}
