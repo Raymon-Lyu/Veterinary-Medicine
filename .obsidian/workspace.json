@@ -47,6 +47,26 @@
         "currentTab": 2
       },
       {
+        "id": "f852be8ef908a1a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "988ab02d5758ab07",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app/417fbbb9aae5beaf",
+                "title": "Google Gemini",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google Gemini"
+            }
+          }
+        ]
+      },
+      {
         "id": "719eb4adf7a89cf5",
         "type": "tabs",
         "children": [
@@ -112,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "异丙嗪",
+                "query": "丙磺舒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,8 +166,7 @@
               "title": "文件列表"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -270,8 +289,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1ae3959459a13aff",
+  "active": "988ab02d5758ab07",
   "lastOpenFiles": [
+    "兽医药理学/抗生素.md",
     "兽医药理学/抗微生物药理.md",
     "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf",
     "兽医药理学/皮质激素药理.md",
@@ -303,7 +323,6 @@
     "动物免疫学/总论.md",
     "兽医病毒学/病毒与宿主的互作.md",
     "兽医药理学/化学合成抗菌药.md",
-    "兽医药理学/抗生素.md",
     "兽医药理学/水盐代谢.md",
     "兽医药理学/呼吸系统药理.md",
     "兽医药理学/消化系统药理.md",
