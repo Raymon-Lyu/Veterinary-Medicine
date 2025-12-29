@@ -6,6 +6,7 @@
       {
         "id": "97e4fa5a5ddc7375",
         "type": "tabs",
+        "dimension": 35.7421875,
         "children": [
           {
             "id": "a0fdfd8b85198297",
@@ -37,6 +38,7 @@
       {
         "id": "f852be8ef908a1a6",
         "type": "tabs",
+        "dimension": 30.46875,
         "children": [
           {
             "id": "988ab02d5758ab07",
@@ -57,6 +59,7 @@
       {
         "id": "719eb4adf7a89cf5",
         "type": "tabs",
+        "dimension": 33.7890625,
         "children": [
           {
             "id": "300ad94c9593c708",
@@ -278,11 +281,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7a58a9c395bdbd0c",
+  "active": "988ab02d5758ab07",
   "lastOpenFiles": [
     "兽医药理学/抗微生物药理.md",
-    "兽医药理学/抗微生物药.md",
     "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf",
+    "兽医药理学/抗微生物药.md",
     "动物免疫学/免疫调节.md",
     "动物免疫学/抗感染免疫.md",
     "兽医药理学/外周神经系统药理.md",
