@@ -6,7 +6,7 @@
       {
         "id": "9f4f8f1e4edd6685",
         "type": "tabs",
-        "dimension": 59.505208333333336,
+        "dimension": 47.00520833333333,
         "children": [
           {
             "id": "9b1c0d6c40b4ac04",
@@ -57,12 +57,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "2e88b8b945e44d42",
         "type": "tabs",
-        "dimension": 40.49479166666667,
+        "dimension": 52.994791666666664,
         "children": [
           {
             "id": "19f12f7996ca94b2",
@@ -114,9 +114,9 @@
               "state": {
                 "file": "兽医病毒学/病毒学复习.canvas",
                 "viewState": {
-                  "x": 937.6576627907967,
-                  "y": 759.9723987360459,
-                  "zoom": -0.03177090275581118
+                  "x": 446.93920616152815,
+                  "y": -284.1026970138182,
+                  "zoom": -0.6984375694224778
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -300,12 +300,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b8c647732dba0ea8",
+  "active": "1f8b902609e5d948",
   "lastOpenFiles": [
-    "兽医病毒学/RNA病毒.md",
-    "兽医病毒学/病毒学复习.canvas",
-    "兽医病毒学/总论.md",
+    "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf",
     "兽医病毒学/2025-第1-3讲-病毒的复制.pdf",
+    "兽医病毒学/病毒学复习.canvas",
+    "兽医病毒学/第7讲-RNA病毒.pdf",
+    "兽医病毒学/RNA病毒.md",
+    "兽医病毒学/总论.md",
     "兽医病毒学/DNA病毒.md",
     "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "兽医药理学/抗寄生虫药理.md",
@@ -334,7 +336,6 @@
     "兽医药理学/中枢神经系统药理.md",
     "动物育种学/ppt/Chapter06.pdf",
     "动物育种学/ppt/Chapter10.pdf",
-    "动物育种学/ppt/Chapter08.pdf",
     "兽医药理学/血液循环系统药理.md",
     "动物免疫学/总论.md",
     "兽医病毒学/病毒与宿主的互作.md",
