@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"81e5e66ee77fb428","type":"text","text":"<center><font size=\"6\">病毒</font></center>","x":-60,"y":-500,"width":200,"height":80},
+		{"id":"81e5e66ee77fb428","type":"text","text":"<center><strong><font size=\"10\">病毒</font>\n</strong>\n</center>","x":-60,"y":-500,"width":200,"height":100},
 		{"id":"da98437d196ea969","type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒感染","x":710,"y":-307,"width":540,"height":400},
 		{"id":"489630457a723a74","type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒的复制","x":710,"y":-760,"width":540,"height":340},
 		{"id":"90bc28e5a7618e93","type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒的组成","x":710,"y":-1160,"width":540,"height":280},
@@ -12,7 +12,8 @@
 		{"id":"e96c9e526adce55b","type":"text","text":"<center><font size=\"6\">RNA病毒</font></center>","x":-505,"y":40,"width":250,"height":60},
 		{"id":"6e9d0de4d78a7a49","type":"file","file":"兽医病毒学/RNA病毒.md","subpath":"#双股RNA病毒","x":-1280,"y":-330,"width":560,"height":400},
 		{"id":"5d6eb2e1ac049736","type":"file","file":"兽医病毒学/RNA病毒.md","subpath":"#单股RNA病毒","x":-1280,"y":220,"width":560,"height":400},
-		{"id":"0bf49c74ef4f0a8d","type":"text","text":"```mermaid\ngraph TD\n    %% 核心节点\n    mRNA(正股 mRNA)\n\n    %% 第一类\n    I[I: dsDNA - 疱疹/腺/痘病毒] -->|转录| mRNA\n\n    %% 第二类\n    II[II: ssDNA - 细小/圆环病毒] -->|修复| RF[dsDNA 中间体]\n    RF -->|转录| mRNA\n\n    %% 第三类\n    III[III: dsRNA - 轮状病毒] -->|自带RdRp转录| mRNA\n\n    %% 第四类\n    IV[IV: +ssRNA - 冠状/小RNA病毒] -->|直接作为| mRNA\n\n    %% 第五类\n    V[V: -ssRNA - 流感/狂犬病毒] -->|自带RdRp转录| mRNA\n\n    %% 第六类\n    VI[VI: +ssRNA-RT - 逆转录病毒] -->|逆转录| DNA_int[dsDNA 中间体]\n    DNA_int -->|整合入宿主并转录| mRNA\n\n    %% 第七类\n    VII[VII: Gapped dsDNA - 乙肝病毒] -->|修补| cccDNA[cccDNA]\n    cccDNA -->|转录| mRNA\n\n    %% 样式设置\n    style mRNA fill:#f96,stroke:#333,stroke-width:2px\n    style I fill:#bbf\n    style IV fill:#dfd\n    style VI fill:#fdb\n```\n","x":-940,"y":-3060,"width":1160,"height":460}
+		{"id":"0bf49c74ef4f0a8d","type":"text","text":"```mermaid\ngraph TD\n    %% 核心节点\n    mRNA(正股 mRNA)\n\n    %% 第一类\n    I[I: dsDNA - 疱疹/腺/痘病毒] -->|转录| mRNA\n\n    %% 第二类\n    II[II: ssDNA - 细小/圆环病毒] -->|修复| RF[dsDNA 中间体]\n    RF -->|转录| mRNA\n\n    %% 第三类\n    III[III: dsRNA - 轮状病毒] -->|自带RdRp转录| mRNA\n\n    %% 第四类\n    IV[IV: +ssRNA - 冠状/小RNA病毒] -->|直接作为| mRNA\n\n    %% 第五类\n    V[V: -ssRNA - 流感/狂犬病毒] -->|自带RdRp转录| mRNA\n\n    %% 第六类\n    VI[VI: +ssRNA-RT - 逆转录病毒] -->|逆转录| DNA_int[dsDNA 中间体]\n    DNA_int -->|整合入宿主并转录| mRNA\n\n    %% 第七类\n    VII[VII: Gapped dsDNA - 乙肝病毒] -->|修补| cccDNA[cccDNA]\n    cccDNA -->|转录| mRNA\n\n    %% 样式设置\n    style mRNA fill:#f96,stroke:#333,stroke-width:2px\n    style I fill:#bbf\n    style IV fill:#dfd\n    style VI fill:#fdb\n```\n","x":-940,"y":-3060,"width":1160,"height":460},
+		{"id":"66cc3c670e4b486d","type":"text","text":"##### 病毒的特点\n\n","x":-85,"y":-103,"width":485,"height":263}
 	],
 	"edges":[
 		{"id":"bfc020643314a7ba","fromNode":"4257661483147cab","fromSide":"bottom","toNode":"81e5e66ee77fb428","toSide":"top","label":"研究载体"},
@@ -25,6 +26,7 @@
 		{"id":"3f53a173a0c21b3f","fromNode":"5f5e9bbdd06887dd","fromSide":"left","toNode":"5bb5212abaedce98","toSide":"right"},
 		{"id":"a0e701bc8c678787","fromNode":"5f5e9bbdd06887dd","fromSide":"left","toNode":"fff476b9e9b4e8b3","toSide":"right"},
 		{"id":"97c5ee0cb1268888","fromNode":"e96c9e526adce55b","fromSide":"left","toNode":"6e9d0de4d78a7a49","toSide":"right"},
-		{"id":"4865a8deb36558fd","fromNode":"e96c9e526adce55b","fromSide":"left","toNode":"5d6eb2e1ac049736","toSide":"right"}
+		{"id":"4865a8deb36558fd","fromNode":"e96c9e526adce55b","fromSide":"left","toNode":"5d6eb2e1ac049736","toSide":"right"},
+		{"id":"7be9cd9cd72bd610","fromNode":"81e5e66ee77fb428","fromSide":"bottom","toNode":"66cc3c670e4b486d","toSide":"top"}
 	]
 }
