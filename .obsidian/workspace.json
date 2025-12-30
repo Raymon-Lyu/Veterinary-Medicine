@@ -135,23 +135,6 @@
             }
           },
           {
-            "id": "842fa45ce819e0af",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "兽医病毒学/Baltimore System.canvas",
-                "viewState": {
-                  "x": -992.2120940599872,
-                  "y": 1494.7867709524944,
-                  "zoom": -1.5374341306385704
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Baltimore System"
-            }
-          },
-          {
             "id": "1f8b902609e5d948",
             "type": "leaf",
             "state": {
@@ -348,13 +331,13 @@
   "active": "653a08ea00bdce59",
   "lastOpenFiles": [
     "兽医病毒学/RNA病毒.md",
+    "兽医病毒学/病毒学复习.canvas",
+    "兽医病毒学/总论.md",
     "兽医病毒学/2025-第1-3讲-病毒的复制.pdf",
     "兽医病毒学/DNA病毒.md",
-    "兽医病毒学/病毒学复习.canvas",
     "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "兽医药理学/抗寄生虫药理.md",
     "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf",
-    "兽医病毒学/总论.md",
     "病理解剖学/总论.md",
     "兽医病毒学/未命名.md",
     "兽医药理学/药理学复习.canvas",
