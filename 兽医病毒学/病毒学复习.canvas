@@ -13,7 +13,8 @@
 		{"id":"5d6eb2e1ac049736","type":"file","file":"兽医病毒学/RNA病毒.md","subpath":"#单股RNA病毒","x":-1280,"y":220,"width":560,"height":400},
 		{"id":"0bf49c74ef4f0a8d","type":"text","text":"```mermaid\ngraph TD\n    %% 核心节点\n    mRNA(正股 mRNA)\n\n    %% 第一类\n    I[I: dsDNA - 疱疹/腺/痘病毒] -->|转录| mRNA\n\n    %% 第二类\n    II[II: ssDNA - 细小/圆环病毒] -->|修复| RF[dsDNA 中间体]\n    RF -->|转录| mRNA\n\n    %% 第三类\n    III[III: dsRNA - 轮状病毒] -->|自带RdRp转录| mRNA\n\n    %% 第四类\n    IV[IV: +ssRNA - 冠状/小RNA病毒] -->|直接作为| mRNA\n\n    %% 第五类\n    V[V: -ssRNA - 流感/狂犬病毒] -->|自带RdRp转录| mRNA\n\n    %% 第六类\n    VI[VI: +ssRNA-RT - 逆转录病毒] -->|逆转录| DNA_int[dsDNA 中间体]\n    DNA_int -->|整合入宿主并转录| mRNA\n\n    %% 第七类\n    VII[VII: Gapped dsDNA - 乙肝病毒] -->|修补| cccDNA[cccDNA]\n    cccDNA -->|转录| mRNA\n\n    %% 样式设置\n    style mRNA fill:#f96,stroke:#333,stroke-width:2px\n    style I fill:#bbf\n    style IV fill:#dfd\n    style VI fill:#fdb\n```\n","x":-940,"y":-3060,"width":1160,"height":460},
 		{"id":"fff476b9e9b4e8b3","type":"file","file":"兽医病毒学/DNA病毒.md","subpath":"#单股DNA病毒","x":-1280,"y":-820,"width":560,"height":400},
-		{"id":"66cc3c670e4b486d","type":"text","text":"##### 病毒的特点\n1. 严格宿主依赖\n\n","x":-445,"y":328,"width":485,"height":263}
+		{"id":"66cc3c670e4b486d","type":"text","text":"##### 病毒的特点\n1. 严格宿主依赖\n\n","x":-445,"y":328,"width":485,"height":263},
+		{"id":"1a7cca5cc701ad2f","x":1500,"y":-307,"width":620,"height":400,"type":"text","text":"### 病毒的预防治疗\n##### 病毒的检测\n1. 免疫\n2. RT-qPCR\n##### 病毒的治疗"}
 	],
 	"edges":[
 		{"id":"bfc020643314a7ba","fromNode":"4257661483147cab","fromSide":"bottom","toNode":"81e5e66ee77fb428","toSide":"top","label":"研究载体"},
@@ -27,6 +28,7 @@
 		{"id":"a0e701bc8c678787","fromNode":"5f5e9bbdd06887dd","fromSide":"left","toNode":"fff476b9e9b4e8b3","toSide":"right"},
 		{"id":"97c5ee0cb1268888","fromNode":"e96c9e526adce55b","fromSide":"left","toNode":"6e9d0de4d78a7a49","toSide":"right"},
 		{"id":"4865a8deb36558fd","fromNode":"e96c9e526adce55b","fromSide":"left","toNode":"5d6eb2e1ac049736","toSide":"right"},
-		{"id":"7be9cd9cd72bd610","fromNode":"81e5e66ee77fb428","fromSide":"bottom","toNode":"66cc3c670e4b486d","toSide":"top"}
+		{"id":"7be9cd9cd72bd610","fromNode":"81e5e66ee77fb428","fromSide":"bottom","toNode":"66cc3c670e4b486d","toSide":"top"},
+		{"id":"2ab0817aaf670990","fromNode":"da98437d196ea969","fromSide":"right","toNode":"1a7cca5cc701ad2f","toSide":"left"}
 	]
 }
