@@ -55,37 +55,9 @@
               "icon": "lucide-file-text",
               "title": "第7讲-RNA病毒"
             }
-          },
-          {
-            "id": "6e92761b1dedf102",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/",
-                "title": "智云课堂",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "智云课堂"
-            }
-          },
-          {
-            "id": "653a08ea00bdce59",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/livingroom?course_id=75252&sub_id=1817527&tenant_code=112",
-                "title": "兽医病毒学2025-12-30第6-8节",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "兽医病毒学2025-12-30第6-8节"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "2e88b8b945e44d42",
@@ -328,7 +300,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "653a08ea00bdce59",
+  "active": "b8c647732dba0ea8",
   "lastOpenFiles": [
     "兽医病毒学/RNA病毒.md",
     "兽医病毒学/病毒学复习.canvas",
