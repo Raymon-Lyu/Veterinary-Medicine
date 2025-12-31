@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "2e88b8b945e44d42",
@@ -110,17 +110,14 @@
             "id": "1f8b902609e5d948",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "兽医病毒学/病毒学复习.canvas",
-                "viewState": {
-                  "x": 793.5575037669804,
-                  "y": 509.0956072821908,
-                  "zoom": -0.6984375694224778
-                }
+                "file": "兽医病毒学/RNA病毒.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "病毒学复习"
+              "icon": "lucide-file",
+              "title": "RNA病毒"
             }
           }
         ],
@@ -143,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "虫媒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -302,14 +299,14 @@
   },
   "active": "1f8b902609e5d948",
   "lastOpenFiles": [
-    "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf",
     "兽医病毒学/病毒学复习.canvas",
+    "兽医病毒学/第5-6讲-DNA病毒.pdf",
+    "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf",
     "兽医病毒学/2025-第1-3讲-病毒的复制.pdf",
     "兽医病毒学/第7讲-RNA病毒.pdf",
     "兽医病毒学/RNA病毒.md",
     "兽医病毒学/总论.md",
     "兽医病毒学/DNA病毒.md",
-    "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "兽医药理学/抗寄生虫药理.md",
     "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf",
     "病理解剖学/总论.md",
