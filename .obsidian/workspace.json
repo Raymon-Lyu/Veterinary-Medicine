@@ -119,9 +119,26 @@
               "icon": "lucide-file",
               "title": "RNA病毒"
             }
+          },
+          {
+            "id": "b57593949b46efff",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "兽医病毒学/病毒学复习.canvas",
+                "viewState": {
+                  "x": -757.7598528699874,
+                  "y": 717.0510940756859,
+                  "zoom": -0.6542580469068838
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "病毒学复习"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -297,14 +314,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1f8b902609e5d948",
+  "active": "b57593949b46efff",
   "lastOpenFiles": [
+    "兽医病毒学/RNA病毒.md",
     "兽医病毒学/病毒学复习.canvas",
     "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf",
     "兽医病毒学/2025-第1-3讲-病毒的复制.pdf",
     "兽医病毒学/第7讲-RNA病毒.pdf",
-    "兽医病毒学/RNA病毒.md",
     "兽医病毒学/总论.md",
     "兽医病毒学/DNA病毒.md",
     "兽医药理学/抗寄生虫药理.md",
