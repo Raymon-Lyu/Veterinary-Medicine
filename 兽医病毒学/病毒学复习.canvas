@@ -15,8 +15,8 @@
 		{"id":"66cc3c670e4b486d","type":"text","text":"##### 病毒的特点\n1. 严格宿主依赖\n\n","x":-445,"y":328,"width":485,"height":263},
 		{"id":"1a7cca5cc701ad2f","type":"text","text":"### 病毒的预防治疗\n##### 病毒的检测\n1. 免疫\n2. RT-qPCR\n##### 病毒的治疗","x":1500,"y":-307,"width":620,"height":400},
 		{"id":"b8e019ceffaca28d","type":"file","file":"兽医病毒学/病毒与宿主的互作.md","x":147,"y":13,"width":533,"height":400},
-		{"id":"5d6eb2e1ac049736","type":"file","file":"兽医病毒学/RNA病毒.md","subpath":"#单股RNA病毒","x":-1280,"y":128,"width":560,"height":400},
-		{"id":"0fe94a5be54e9edf","x":-1280,"y":620,"width":560,"height":400,"type":"file","file":"兽医病毒学/RNA病毒.md","subpath":"#单股正链RNA病毒"}
+		{"id":"0fe94a5be54e9edf","x":-1280,"y":100,"width":560,"height":400,"type":"file","file":"兽医病毒学/RNA病毒.md","subpath":"#单股负链RNA病毒"},
+		{"id":"5d6eb2e1ac049736","type":"file","file":"兽医病毒学/RNA病毒.md","subpath":"#单股正链RNA病毒","x":-1280,"y":540,"width":560,"height":400}
 	],
 	"edges":[
 		{"id":"bfc020643314a7ba","fromNode":"4257661483147cab","fromSide":"bottom","toNode":"81e5e66ee77fb428","toSide":"top","label":"研究载体"},
@@ -33,7 +33,6 @@
 		{"id":"7be9cd9cd72bd610","fromNode":"81e5e66ee77fb428","fromSide":"bottom","toNode":"66cc3c670e4b486d","toSide":"top"},
 		{"id":"2ab0817aaf670990","fromNode":"da98437d196ea969","fromSide":"right","toNode":"1a7cca5cc701ad2f","toSide":"left"},
 		{"id":"2da43315989eccf5","fromNode":"66cc3c670e4b486d","fromSide":"right","toNode":"b8e019ceffaca28d","toSide":"left"},
-		{"id":"e1eabc2765a7d1a2","fromNode":"e96c9e526adce55b","fromSide":"left","toNode":"0fe94a5be54e9edf","toSide":"right"},
-		{"id":"6423f3a1f1827706","fromNode":"0fe94a5be54e9edf","fromSide":"right","toNode":"77d88a12b16bf62a","toSide":"left"}
+		{"id":"e1eabc2765a7d1a2","fromNode":"e96c9e526adce55b","fromSide":"left","toNode":"0fe94a5be54e9edf","toSide":"right"}
 	]
 }
