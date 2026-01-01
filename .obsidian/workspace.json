@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b0172cb62634340",
+        "id": "4ccb77c70bb9eba2",
         "type": "tabs",
-        "dimension": 48.99866488651535,
         "children": [
           {
-            "id": "25a22fbd67e99a8c",
+            "id": "67cabee80f592b98",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/4a429beed7278b02",
+                "url": "https://gemini.google.com/app",
                 "title": "Google Gemini",
                 "mode": "webview"
               },
@@ -25,22 +24,21 @@
         ]
       },
       {
-        "id": "2f7cd3f675ef163d",
+        "id": "f6836a37d7a5e897",
         "type": "tabs",
-        "dimension": 51.00133511348465,
         "children": [
           {
-            "id": "30891a5cf9f2fceb",
+            "id": "3762b01205745737",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动物免疫学/免疫调节.md",
+                "file": "病理生理学/第七章 水和电解质代谢紊乱.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "免疫调节"
+              "title": "第七章 水和电解质代谢紊乱"
             }
           }
         ]
@@ -62,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "半抗原",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,8 +218,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "25a22fbd67e99a8c",
+  "active": "67cabee80f592b98",
   "lastOpenFiles": [
+    "病理生理学/第七章 水和电解质代谢紊乱.md",
     "兽医病毒学/病毒学复习.canvas",
     "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "兽医病毒学/RNA病毒.md",
@@ -251,7 +250,6 @@
     "病理生理学/第八章 酸碱平衡紊乱.md",
     "病理生理学/第九章 发热.md",
     "病理生理学/第十章 休克.md",
-    "病理生理学/第七章 水和电解质代谢紊乱.md",
     "动物免疫学/适应性免疫应答.md",
     "兽医药理学/自体活性物质和解热镇痛抗炎药.md",
     "兽医药理学/中枢神经系统药理.md",
