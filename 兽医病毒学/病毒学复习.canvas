@@ -5,8 +5,6 @@
 		{"id":"489630457a723a74","type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒的复制","x":710,"y":-760,"width":540,"height":340},
 		{"id":"90bc28e5a7618e93","type":"file","file":"兽医病毒学/总论.md","subpath":"#病毒的组成","x":710,"y":-1160,"width":540,"height":280},
 		{"id":"4257661483147cab","type":"text","text":"<center><font size=\"10\"><strong>兽医病毒学</strong></font></center>","x":-120,"y":-1212,"width":320,"height":105},
-		{"id":"5f5e9bbdd06887dd","type":"text","text":"<center><font size=\"6\">DNA病毒</font></center>","x":-505,"y":-820,"width":250,"height":60},
-		{"id":"5bb5212abaedce98","type":"file","file":"兽医病毒学/DNA病毒.md","subpath":"#双股DNA病毒","x":-1280,"y":-1330,"width":560,"height":400},
 		{"id":"84e887eba3e584ab","type":"file","file":"兽医病毒学/总论.md","subpath":"#生物合成","x":650,"y":460,"width":660,"height":400},
 		{"id":"e96c9e526adce55b","type":"text","text":"<center><font size=\"6\">RNA病毒</font></center>","x":-505,"y":40,"width":250,"height":60},
 		{"id":"6e9d0de4d78a7a49","type":"file","file":"兽医病毒学/RNA病毒.md","subpath":"#双股RNA病毒","x":-1280,"y":-330,"width":560,"height":400},
@@ -15,8 +13,11 @@
 		{"id":"1a7cca5cc701ad2f","type":"text","text":"### 病毒的预防治疗\n#### 病毒的检测\n##### 通用方法\n目标是检测病毒物质(抗原/核酸)，或是机体针对此的免疫应答(抗体)\n1. 血清学检测：\n\t- ELISA检测抗体\n\t- 免疫中和试验\n2. 病原学检测：\n\t- RT-qPCR\n\t- 分离培养\n\t- 电镜观察\n\n> [!note] 科赫法则\n> 1. 特异性存在\n> 2. 分离培养\n> 3. 致病性\n> 4. 重新分离\n\n##### 特殊方法\n利用病毒的某些特定性质也可以建立新的方法\n###### 血凝与血凝抑制实验\n- 检测目标：表面存在血凝素(HA)的病毒\n- 如：正粘病毒(禽流感)、副粘病毒(新城疫)、细小病毒、腺病毒\n###### 红细胞吸附实验\n- 非洲猪瘟病毒\n- **机理**：非洲猪瘟病毒感染细胞后，细胞表面会吸附红细胞形成玫瑰花环状结构\n###### 包涵体检查\n- **机理**：病毒在细胞内形成的蛋白质聚集体\n- 如：狂犬病病毒、痘病毒、疱疹病毒/腺病毒\n##### 病毒的治疗\n1. 高免血清/抗体注射\n2. 紧急接种\n3. 扑杀与生物安全","x":1500,"y":-307,"width":620,"height":400},
 		{"id":"b8e019ceffaca28d","type":"file","file":"兽医病毒学/病毒与宿主的互作.md","x":147,"y":13,"width":533,"height":400},
 		{"id":"5d6eb2e1ac049736","type":"file","file":"兽医病毒学/RNA病毒.md","subpath":"#单股正链RNA病毒","x":-1280,"y":540,"width":560,"height":400},
-		{"id":"fff476b9e9b4e8b3","type":"file","file":"兽医病毒学/DNA病毒.md","subpath":"#单股DNA病毒","x":-1280,"y":-820,"width":560,"height":400},
-		{"id":"0fe94a5be54e9edf","type":"file","file":"兽医病毒学/RNA病毒.md","subpath":"#单股负链RNA病毒","x":-1280,"y":100,"width":560,"height":400}
+		{"id":"0fe94a5be54e9edf","type":"file","file":"兽医病毒学/RNA病毒.md","subpath":"#单股负链RNA病毒","x":-1280,"y":100,"width":560,"height":400},
+		{"id":"5bb5212abaedce98","type":"file","file":"兽医病毒学/DNA病毒.md","subpath":"#双股DNA病毒","x":-1280,"y":-1359,"width":560,"height":400},
+		{"id":"fff476b9e9b4e8b3","type":"file","file":"兽医病毒学/DNA病毒.md","subpath":"#单股DNA病毒","x":-1280,"y":-849,"width":560,"height":400},
+		{"id":"5f5e9bbdd06887dd","type":"text","text":"<center><font size=\"6\">DNA病毒</font></center>","x":-505,"y":-849,"width":250,"height":60},
+		{"id":"27a62dbf03525807","type":"text","text":"<center><strong><font size=\"10\">Baltimore System</font>\n</strong>\n</center>\n\n- 目标是生成可以翻译mRNA\n- 不同化学物质背景的的病毒采取不同的复制和转录途径","x":-3080,"y":-160,"width":460,"height":340}
 	],
 	"edges":[
 		{"id":"bfc020643314a7ba","fromNode":"4257661483147cab","fromSide":"bottom","toNode":"81e5e66ee77fb428","toSide":"top","label":"研究载体"},
@@ -33,6 +34,8 @@
 		{"id":"7be9cd9cd72bd610","fromNode":"81e5e66ee77fb428","fromSide":"bottom","toNode":"66cc3c670e4b486d","toSide":"top"},
 		{"id":"2ab0817aaf670990","fromNode":"da98437d196ea969","fromSide":"right","toNode":"1a7cca5cc701ad2f","toSide":"left"},
 		{"id":"2da43315989eccf5","fromNode":"66cc3c670e4b486d","fromSide":"right","toNode":"b8e019ceffaca28d","toSide":"left"},
-		{"id":"e1eabc2765a7d1a2","fromNode":"e96c9e526adce55b","fromSide":"left","toNode":"0fe94a5be54e9edf","toSide":"right"}
+		{"id":"e1eabc2765a7d1a2","fromNode":"e96c9e526adce55b","fromSide":"left","toNode":"0fe94a5be54e9edf","toSide":"right"},
+		{"id":"57297a75d60d2296","fromNode":"84e887eba3e584ab","fromSide":"bottom","toNode":"27a62dbf03525807","toSide":"bottom"},
+		{"id":"7619b68c67234fd2","fromNode":"27a62dbf03525807","fromSide":"right","toNode":"5bb5212abaedce98","toSide":"left"}
 	]
 }

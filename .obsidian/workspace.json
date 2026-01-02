@@ -4,65 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "9f4f8f1e4edd6685",
-        "type": "tabs",
-        "dimension": 38.93229166666667,
-        "children": [
-          {
-            "id": "9b1c0d6c40b4ac04",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医病毒学/2025-第1-3讲-病毒的复制.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2025-第1-3讲-病毒的复制"
-            }
-          },
-          {
-            "id": "42cbab6aece3a7e4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2025-第4-5讲-病毒与宿主相互作用及致病机理"
-            }
-          },
-          {
-            "id": "1a399fc56f690af8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医病毒学/第5-6讲-DNA病毒.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第5-6讲-DNA病毒"
-            }
-          },
-          {
-            "id": "b8c647732dba0ea8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医病毒学/第7讲-RNA病毒.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第7讲-RNA病毒"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
         "id": "71961d310322e184",
         "type": "tabs",
-        "dimension": 32.03125,
+        "dimension": 47.4609375,
         "children": [
           {
             "id": "4ec92cb6be86be31",
@@ -83,7 +27,7 @@
       {
         "id": "2e88b8b945e44d42",
         "type": "tabs",
-        "dimension": 29.036458333333332,
+        "dimension": 52.5390625,
         "children": [
           {
             "id": "19f12f7996ca94b2",
@@ -133,19 +77,19 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "兽医病毒学/Baltimore System.canvas",
+                "file": "兽医病毒学/病毒学复习.canvas",
                 "viewState": {
-                  "x": -992.2120940599872,
-                  "y": 1494.7867709524944,
-                  "zoom": -1.5374341306385704
+                  "x": -957.0773353922891,
+                  "y": -1058.802060842408,
+                  "zoom": -0.6834043925664006
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Baltimore System"
+              "title": "病毒学复习"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -323,12 +267,13 @@
   },
   "active": "4ec92cb6be86be31",
   "lastOpenFiles": [
+    "兽医病毒学/病毒学复习.canvas",
+    "兽医病毒学/DNA病毒.md",
     "兽医病毒学/RNA病毒.md",
     "动物免疫学/疫苗.md",
     "动物免疫学/免疫调节.md",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
     "病理生理学/第八章 酸碱平衡紊乱.md",
-    "兽医病毒学/病毒学复习.canvas",
     "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "兽医病毒学/第8讲-RNA病毒及其他.pdf",
     "兽医病毒学/第8讲-RNA病毒及其他.pdf.crdownload",
@@ -336,7 +281,6 @@
     "兽医病毒学/2025-第1-3讲-病毒的复制.pdf",
     "兽医病毒学/第7讲-RNA病毒.pdf",
     "兽医病毒学/总论.md",
-    "兽医病毒学/DNA病毒.md",
     "兽医药理学/抗寄生虫药理.md",
     "兽医药理学/祖传ppt/第十二章 抗微生物药理.pdf",
     "病理解剖学/总论.md",
@@ -360,7 +304,6 @@
     "兽医药理学/血液循环系统药理.md",
     "动物免疫学/总论.md",
     "兽医病毒学/病毒与宿主的互作.md",
-    "兽医药理学/化学合成抗菌药.md",
     "656f04c8dcac10225296b39f6a11efab.png",
     "生物分离工程/乙醇浓度.jpg",
     "生物分离工程/分离方法汇总.jpg",
