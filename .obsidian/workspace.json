@@ -6,7 +6,7 @@
       {
         "id": "2b0172cb62634340",
         "type": "tabs",
-        "dimension": 47.721354166666664,
+        "dimension": 38.622754491017965,
         "children": [
           {
             "id": "25a22fbd67e99a8c",
@@ -27,7 +27,7 @@
       {
         "id": "2f7cd3f675ef163d",
         "type": "tabs",
-        "dimension": 52.278645833333336,
+        "dimension": 61.377245508982035,
         "children": [
           {
             "id": "30891a5cf9f2fceb",
@@ -51,9 +51,9 @@
               "state": {
                 "file": "动物免疫学/免疫学复习.canvas",
                 "viewState": {
-                  "x": 316.399658203125,
-                  "y": 205.20001220703125,
-                  "zoom": -1
+                  "x": 738,
+                  "y": -840,
+                  "zoom": -0.10813860449089605
                 }
               },
               "icon": "lucide-layout-dashboard",

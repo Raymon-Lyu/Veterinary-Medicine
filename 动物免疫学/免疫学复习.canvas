@@ -1,12 +1,20 @@
 {
 	"nodes":[
-		{"id":"3d3b685ae3c3cbfe","x":276,"y":-1040,"width":744,"height":400,"type":"file","file":"动物免疫学/抗原.md"},
-		{"id":"197ccc7bd0de448c","x":276,"y":-120,"width":744,"height":400,"type":"file","file":"动物免疫学/免疫系统.md"},
+		{"id":"3d3b685ae3c3cbfe","x":276,"y":-1040,"width":924,"height":400,"type":"file","file":"动物免疫学/抗原.md"},
 		{"id":"a9f049e2f0189e12","x":-640,"y":-368,"width":360,"height":168,"type":"text","text":"### 免疫基础要素\n搞清楚免疫过程的物质基础"},
-		{"id":"8df80141eba2dd47","x":-1480,"y":200,"width":620,"height":420,"type":"text","text":"## 总述\n### 免疫\n- **传统概念**：免除疫病，主要指机体对病原微生物的防御能力。\n- **现代概念**：免疫是机体的一种**生理性保护功能**。它主要通过识别“**自身**”与“**非自身**”抗原，从而排斥和清除抗原性异物，以维持机体的生理平衡和稳定。\n### 免疫系统\n- 执行免疫功能的物质基础\n- 由三部分构成\n\n"},
-		{"id":"7ba49cf81f3bfc0a","x":-647,"y":382,"width":250,"height":60,"type":"text","text":"免疫应答"},
-		{"id":"dac6390fd2c9eb5f","x":-634,"y":644,"width":250,"height":60,"type":"text","text":"免疫临床使用"},
-		{"id":"ec215880c6a92087","x":276,"y":-600,"width":744,"height":400,"type":"file","file":"动物免疫学/抗体.md"}
+		{"id":"8df80141eba2dd47","x":-1960,"y":200,"width":1100,"height":1080,"type":"text","text":"## 总述\n### 免疫\n- **传统概念**：免除疫病，主要指机体对病原微生物的防御能力。\n- **现代概念**：免疫是机体的一种**生理性保护功能**。它主要通过识别“**自身**”与“**非自身**”抗原，从而排斥和清除抗原性异物，以维持机体的生理平衡和稳定。\n### 免疫系统\n- 执行免疫功能的物质基础\n- 由三部分构成：\n- **免疫器官**\n    - **中枢免疫器官**（生成与成熟）：**骨髓**（B细胞成熟、造血）、**胸腺**（T细胞成熟）。\n    - **外周免疫器官**（定居与应答）：**淋巴结**、**脾脏**、黏膜相关淋巴组织（MALT，如扁桃体）。\n- **免疫细胞**\n    - **淋巴细胞**：T细胞（细胞免疫）、B细胞（体液免疫）、NK细胞（自然杀伤）。\n    - **抗原提呈细胞 (APC)**：树突状细胞 (DC)、巨噬细胞、B细胞。\n    - **其他**：粒细胞（中性粒细胞等）、肥大细胞等。\n- **免疫分子**\n    - **抗体**、**补体**、**细胞因子**、MHC分子、CD分子等。\n### 免疫方式\n|**特性**|**固有免疫 (Innate Immunity)**|**适应性免疫 (Adaptive Immunity)**|\n|---|---|---|\n|**别名**|非特异性免疫，先天免疫|特异性免疫，获得性免疫|\n|**获得时间**|生来就有，遗传获得|后天接触抗原后获得|\n|**作用范围**|广泛，无特异性|针对特定抗原|\n|**反应速度**|快（数分钟至数小时）|慢（数天至数周）|\n|**免疫记忆**|无|**有**（再次接触反应更强）|\n|**主要组分**|屏障、吞噬细胞、补体|T细胞、B细胞、抗体|\n### 免疫的基本特性\n- **识别自身与非自身**\n    - 这是免疫系统的核心逻辑。机体必须能够区分哪些是自己的细胞（保护），哪些是外来的病毒、细菌或变异细胞（攻击）。\n    - _机制关键_：主要依赖于**MHC分子**（主要组织相容性复合体）作为“身份证”。\n- **特异性**\n    - 免疫应答不是针对所有异物，而是针对**特定的抗原决定簇**。\n    - _例如_：针对流感病毒产生的抗体通常不能中和新冠病毒。\n- **免疫记忆**\n    - 适应性免疫系统的特征。初次接触抗原后，部分淋巴细胞分化为**记忆细胞**。\n    - _意义_：当再次接触同一抗原时，反应潜伏期短、强度大、维持时间长（疫苗接种的原理）。\n- **免疫耐受**\n    - 免疫系统对特定抗原（通常是自身抗原）表现为**不应答**或**负应答**的状态。\n    - _意义_：防止免疫系统攻击自身组织，避免自身免疫病。\n### 免疫的功能\n| **功能名称**            | **正常生理功能**                          | **异常（病理）状态**                         |\n| ------------------- | ----------------------------------- | ------------------------------------ |\n| **1. 免疫防御**<br>     | **抗感染**：清除外来病原体（细菌、病毒等）及毒素。         | **过高**：超敏反应（过敏）<br>**过低**：免疫缺陷病（易感染） |\n| **2. 免疫稳定**<br><br> | **清垃圾**：清除体内衰老、损伤、变性或凋亡的细胞，维持内环境稳定。 | **异常**：自身免疫病（攻击自身正常细胞）               |\n| **3. 免疫监视**         | **查内奸**：识别并清除体内突变的细胞（如肿瘤细胞）或病毒感染细胞。 | **低下**：肿瘤发生、病毒持续感染                   |"},
+		{"id":"197ccc7bd0de448c","x":276,"y":-484,"width":924,"height":400,"type":"file","file":"动物免疫学/免疫系统.md"},
+		{"id":"9880bfb785ac22d4","x":276,"y":600,"width":924,"height":400,"type":"file","file":"动物免疫学/适应性免疫应答.md"},
+		{"id":"d5a309cfe51205cb","x":276,"y":80,"width":924,"height":400,"type":"file","file":"动物免疫学/补体系统.md"},
+		{"id":"172d928001402461","x":276,"y":1080,"width":924,"height":400,"type":"file","file":"动物免疫学/免疫调节.md"},
+		{"id":"dac6390fd2c9eb5f","x":-640,"y":1780,"width":280,"height":140,"type":"text","text":"### 免疫临床使用\n将理论应用到现实的"},
+		{"id":"2092a091290cf870","x":276,"y":1600,"width":924,"height":400,"type":"file","file":"动物免疫学/抗感染免疫.md"},
+		{"id":"c25728608d8f15bb","x":276,"y":2120,"width":924,"height":400,"type":"file","file":"动物免疫学/变态反应.md"},
+		{"id":"412e04fd5182191f","x":1360,"y":600,"width":924,"height":400,"type":"file","file":"动物免疫学/先天性免疫.md"},
+		{"id":"72a1240bae4142ac","x":1360,"y":-484,"width":924,"height":400,"type":"file","file":"动物免疫学/细胞因子.md"},
+		{"id":"ec215880c6a92087","x":1360,"y":-1040,"width":924,"height":400,"type":"file","file":"动物免疫学/抗体.md"},
+		{"id":"e1cb3b5854cfff18","x":1360,"y":1600,"width":924,"height":400,"type":"file","file":"动物免疫学/疫苗.md"},
+		{"id":"7ba49cf81f3bfc0a","x":-560,"y":560,"width":400,"height":180,"type":"text","text":"### 免疫应答\n即执行免疫过程"}
 	],
 	"edges":[
 		{"id":"ccaabe1fad1743e9","fromNode":"8df80141eba2dd47","fromSide":"right","toNode":"a9f049e2f0189e12","toSide":"left"},
@@ -14,6 +22,14 @@
 		{"id":"17c7705076e951bc","fromNode":"8df80141eba2dd47","fromSide":"right","toNode":"dac6390fd2c9eb5f","toSide":"left"},
 		{"id":"65b1ab6cb3205ddf","fromNode":"a9f049e2f0189e12","fromSide":"right","toNode":"3d3b685ae3c3cbfe","toSide":"left"},
 		{"id":"2b08eb10ad2418ce","fromNode":"a9f049e2f0189e12","fromSide":"right","toNode":"ec215880c6a92087","toSide":"left"},
-		{"id":"1bd77eed328f1059","fromNode":"a9f049e2f0189e12","fromSide":"right","toNode":"197ccc7bd0de448c","toSide":"left"}
+		{"id":"1bd77eed328f1059","fromNode":"a9f049e2f0189e12","fromSide":"right","toNode":"197ccc7bd0de448c","toSide":"left"},
+		{"id":"1466ff9379e20d52","fromNode":"a9f049e2f0189e12","fromSide":"right","toNode":"72a1240bae4142ac","toSide":"left"},
+		{"id":"e88d2697f775b1b4","fromNode":"a9f049e2f0189e12","fromSide":"right","toNode":"d5a309cfe51205cb","toSide":"left"},
+		{"id":"1c6895f1487b33ae","fromNode":"7ba49cf81f3bfc0a","fromSide":"right","toNode":"9880bfb785ac22d4","toSide":"left"},
+		{"id":"1fbdbeb60407767a","fromNode":"7ba49cf81f3bfc0a","fromSide":"right","toNode":"412e04fd5182191f","toSide":"left"},
+		{"id":"ad0a57df0900db6f","fromNode":"7ba49cf81f3bfc0a","fromSide":"right","toNode":"172d928001402461","toSide":"left"},
+		{"id":"005682f09cd2bb1c","fromNode":"dac6390fd2c9eb5f","fromSide":"right","toNode":"2092a091290cf870","toSide":"left"},
+		{"id":"0ac0aa688b1c5a11","fromNode":"dac6390fd2c9eb5f","fromSide":"right","toNode":"c25728608d8f15bb","toSide":"left"},
+		{"id":"ea6bab1f864d56a8","fromNode":"dac6390fd2c9eb5f","fromSide":"right","toNode":"e1cb3b5854cfff18","toSide":"left"}
 	]
 }
