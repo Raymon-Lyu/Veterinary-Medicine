@@ -21,6 +21,18 @@
               "icon": "globe-2",
               "title": "Google Gemini"
             }
+          },
+          {
+            "id": "fa5bcc9a8afbe111",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "兽医病毒学/第5-6讲-DNA病毒.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第5-6讲-DNA病毒"
+            }
           }
         ]
       },
@@ -79,8 +91,8 @@
               "state": {
                 "file": "兽医病毒学/病毒学复习.canvas",
                 "viewState": {
-                  "x": -999.4736929071114,
-                  "y": -1054.9478509782366,
+                  "x": -1260.2759295108087,
+                  "y": -1010.9455195936608,
                   "zoom": -0.6834043925664006
                 }
               },
@@ -265,16 +277,16 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "842fa45ce819e0af",
+  "active": "4ec92cb6be86be31",
   "lastOpenFiles": [
     "兽医病毒学/DNA病毒.md",
     "兽医病毒学/病毒学复习.canvas",
+    "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "兽医病毒学/RNA病毒.md",
     "动物免疫学/疫苗.md",
     "动物免疫学/免疫调节.md",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
     "病理生理学/第八章 酸碱平衡紊乱.md",
-    "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "兽医病毒学/第8讲-RNA病毒及其他.pdf",
     "兽医病毒学/第8讲-RNA病毒及其他.pdf.crdownload",
     "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf",
