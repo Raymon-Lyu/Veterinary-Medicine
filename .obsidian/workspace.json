@@ -6,7 +6,7 @@
       {
         "id": "9f4f8f1e4edd6685",
         "type": "tabs",
-        "dimension": 41.08072916666667,
+        "dimension": 38.93229166666667,
         "children": [
           {
             "id": "9b1c0d6c40b4ac04",
@@ -62,7 +62,7 @@
       {
         "id": "71961d310322e184",
         "type": "tabs",
-        "dimension": 29.8828125,
+        "dimension": 32.03125,
         "children": [
           {
             "id": "4ec92cb6be86be31",
@@ -70,12 +70,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/",
-                "title": "‎Google Gemini",
+                "url": "https://gemini.google.com/app/b4fd7787df06f5b9",
+                "title": "Google Gemini",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "‎Google Gemini"
+              "title": "Google Gemini"
             }
           }
         ]
