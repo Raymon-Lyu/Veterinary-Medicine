@@ -17,7 +17,8 @@
 		{"id":"5bb5212abaedce98","type":"file","file":"兽医病毒学/DNA病毒.md","subpath":"#双股DNA病毒","x":-1280,"y":-1359,"width":560,"height":400},
 		{"id":"fff476b9e9b4e8b3","type":"file","file":"兽医病毒学/DNA病毒.md","subpath":"#单股DNA病毒","x":-1280,"y":-849,"width":560,"height":400},
 		{"id":"5f5e9bbdd06887dd","type":"text","text":"<center><font size=\"6\">DNA病毒</font></center>","x":-505,"y":-849,"width":250,"height":60},
-		{"id":"27a62dbf03525807","type":"text","text":"<center><strong><font size=\"10\">Baltimore System</font>\n</strong>\n</center>\n\n- 目标是生成可以翻译mRNA\n- 不同化学物质背景的的病毒采取不同的复制和转录途径","x":-3080,"y":-160,"width":460,"height":340}
+		{"id":"27a62dbf03525807","type":"text","text":"<center><strong><font size=\"10\">Baltimore System</font>\n</strong>\n</center>\n\n- 目标是生成可以翻译mRNA\n- 不同化学物质背景的的病毒采取不同的复制和转录途径","x":-3080,"y":-160,"width":460,"height":340},
+		{"id":"7b2cc5c49248c9c8","x":-2186,"y":-1742,"width":606,"height":622,"type":"text","text":"#### 虫媒病毒\n\n> [!note] 虫媒病毒的区分\n> 虫媒病毒是指病毒在虫子体内会进行复制扩增，虫子作为**病毒的生物学宿主**，而只是途径病毒进行传播并不属于虫媒病毒，如痘病毒、马传染性贫血病毒\n##### DNA病毒\n- 非洲猪瘟病毒\n##### RNA病毒\n- 黄病毒科\n- 呼肠孤病毒科\n- 布尼亚病毒科\n- 披膜病毒科\n"}
 	],
 	"edges":[
 		{"id":"bfc020643314a7ba","fromNode":"4257661483147cab","fromSide":"bottom","toNode":"81e5e66ee77fb428","toSide":"top","label":"研究载体"},
@@ -36,6 +37,7 @@
 		{"id":"2da43315989eccf5","fromNode":"66cc3c670e4b486d","fromSide":"right","toNode":"b8e019ceffaca28d","toSide":"left"},
 		{"id":"e1eabc2765a7d1a2","fromNode":"e96c9e526adce55b","fromSide":"left","toNode":"0fe94a5be54e9edf","toSide":"right"},
 		{"id":"57297a75d60d2296","fromNode":"84e887eba3e584ab","fromSide":"bottom","toNode":"27a62dbf03525807","toSide":"bottom"},
-		{"id":"7619b68c67234fd2","fromNode":"27a62dbf03525807","fromSide":"right","toNode":"5bb5212abaedce98","toSide":"left"}
+		{"id":"7619b68c67234fd2","fromNode":"27a62dbf03525807","fromSide":"right","toNode":"5bb5212abaedce98","toSide":"left"},
+		{"id":"1394ca377ed7cdd5","fromNode":"5bb5212abaedce98","fromSide":"left","toNode":"7b2cc5c49248c9c8","toSide":"right"}
 	]
 }
