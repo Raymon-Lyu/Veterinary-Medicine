@@ -6,36 +6,26 @@
         "type": "split",
         "children": [
           {
-            "id": "9f4f8f1e4edd6685",
+            "id": "71961d310322e184",
             "type": "tabs",
-            "dimension": 34.50520833333333,
+            "dimension": 47.4609375,
             "children": [
               {
-                "id": "9b1c0d6c40b4ac04",
+                "id": "4ec92cb6be86be31",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "webviewer",
                   "state": {
-                    "file": "兽医病毒学/2025-第1-3讲-病毒的复制.pdf"
+                    "url": "https://gemini.google.com/app/b4fd7787df06f5b9",
+                    "title": "Google Gemini",
+                    "mode": "webview"
                   },
-                  "icon": "lucide-file-text",
-                  "title": "2025-第1-3讲-病毒的复制"
+                  "icon": "globe-2",
+                  "title": "Google Gemini"
                 }
               },
               {
-                "id": "42cbab6aece3a7e4",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "2025-第4-5讲-病毒与宿主相互作用及致病机理"
-                }
-              },
-              {
-                "id": "1a399fc56f690af8",
+                "id": "fa5bcc9a8afbe111",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -45,47 +35,13 @@
                   "icon": "lucide-file-text",
                   "title": "第5-6讲-DNA病毒"
                 }
-              },
-              {
-                "id": "b8c647732dba0ea8",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "兽医病毒学/第7讲-RNA病毒.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "第7讲-RNA病毒"
-                }
-              }
-            ],
-            "currentTab": 3
-          },
-          {
-            "id": "8b21a57ce9253f3b",
-            "type": "tabs",
-            "dimension": 29.4921875,
-            "children": [
-              {
-                "id": "482df4f04544e88f",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://gemini.google.com/app/b4c14e2ba191948f",
-                    "title": "Google Gemini",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Google Gemini"
-                }
               }
             ]
           },
           {
             "id": "2e88b8b945e44d42",
             "type": "tabs",
-            "dimension": 36.00260416666667,
+            "dimension": 52.5390625,
             "children": [
               {
                 "id": "19f12f7996ca94b2",
@@ -135,19 +91,19 @@
                 "state": {
                   "type": "canvas",
                   "state": {
-                    "file": "兽医病毒学/Baltimore System.canvas",
+                    "file": "兽医病毒学/病毒学复习.canvas",
                     "viewState": {
-                      "x": -992.2120940599872,
-                      "y": 1494.7867709524944,
-                      "zoom": -1.5374341306385704
+                      "x": -1664.521219288031,
+                      "y": 651.9925132057682,
+                      "zoom": -1.0167377258997339
                     }
                   },
                   "icon": "lucide-layout-dashboard",
-                  "title": "Baltimore System"
+                  "title": "病毒学复习"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -323,8 +279,8 @@
           "workspaces:管理工作区布局": false
         }
       },
-      "active": "aa0417bd4859da5c",
-      "mtime": "2025-12-23T18:36:53+08:00"
+      "active": "842fa45ce819e0af",
+      "mtime": "2026-01-02T18:09:33+08:00"
     },
     "动物病理生理学": {
       "main": {
@@ -1086,5 +1042,5 @@
       "mtime": "2026-01-02T15:35:29+08:00"
     }
   },
-  "active": "兽医病毒学"
+  "active": "兽医药理学"
 }
