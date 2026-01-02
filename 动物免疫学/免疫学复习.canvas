@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"3d3b685ae3c3cbfe","x":276,"y":-1040,"width":744,"height":400,"type":"file","file":"动物免疫学/抗原.md"},
+		{"id":"197ccc7bd0de448c","x":276,"y":-120,"width":744,"height":400,"type":"file","file":"动物免疫学/免疫系统.md"},
+		{"id":"a9f049e2f0189e12","x":-640,"y":-368,"width":360,"height":168,"type":"text","text":"### 免疫基础要素\n搞清楚免疫过程的物质基础"},
+		{"id":"8df80141eba2dd47","x":-1480,"y":200,"width":620,"height":420,"type":"text","text":"## 总述\n### 免疫\n- **传统概念**：免除疫病，主要指机体对病原微生物的防御能力。\n- **现代概念**：免疫是机体的一种**生理性保护功能**。它主要通过识别“**自身**”与“**非自身**”抗原，从而排斥和清除抗原性异物，以维持机体的生理平衡和稳定。\n### 免疫系统\n- 执行免疫功能的物质基础\n- 由三部分构成\n\n"},
+		{"id":"7ba49cf81f3bfc0a","x":-647,"y":382,"width":250,"height":60,"type":"text","text":"免疫应答"},
+		{"id":"dac6390fd2c9eb5f","x":-634,"y":644,"width":250,"height":60,"type":"text","text":"免疫临床使用"},
+		{"id":"ec215880c6a92087","x":276,"y":-600,"width":744,"height":400,"type":"file","file":"动物免疫学/抗体.md"}
+	],
+	"edges":[
+		{"id":"ccaabe1fad1743e9","fromNode":"8df80141eba2dd47","fromSide":"right","toNode":"a9f049e2f0189e12","toSide":"left"},
+		{"id":"d95af3e74223c52e","fromNode":"8df80141eba2dd47","fromSide":"right","toNode":"7ba49cf81f3bfc0a","toSide":"left"},
+		{"id":"17c7705076e951bc","fromNode":"8df80141eba2dd47","fromSide":"right","toNode":"dac6390fd2c9eb5f","toSide":"left"},
+		{"id":"65b1ab6cb3205ddf","fromNode":"a9f049e2f0189e12","fromSide":"right","toNode":"3d3b685ae3c3cbfe","toSide":"left"},
+		{"id":"2b08eb10ad2418ce","fromNode":"a9f049e2f0189e12","fromSide":"right","toNode":"ec215880c6a92087","toSide":"left"},
+		{"id":"1bd77eed328f1059","fromNode":"a9f049e2f0189e12","fromSide":"right","toNode":"197ccc7bd0de448c","toSide":"left"}
+	]
+}
