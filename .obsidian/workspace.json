@@ -23,20 +23,6 @@
             }
           },
           {
-            "id": "8f92004bfba976a3",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.youtube.com/watch?v=CaFq9cnfTZI",
-                "title": "Visualization of multiple displacement amplification of a circular DNA molecule - YouTube",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "Visualization of multiple displacement amplification of a circular DNA molecule - YouTube"
-            }
-          },
-          {
             "id": "fa5bcc9a8afbe111",
             "type": "leaf",
             "state": {
@@ -48,8 +34,7 @@
               "title": "第5-6讲-DNA病毒"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2e88b8b945e44d42",
@@ -106,8 +91,8 @@
               "state": {
                 "file": "兽医病毒学/病毒学复习.canvas",
                 "viewState": {
-                  "x": -995.2002563476562,
-                  "y": -1035.1999206542969,
+                  "x": -1024.7999877929688,
+                  "y": 48.79998779296875,
                   "zoom": 0
                 }
               },
@@ -292,9 +277,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8f92004bfba976a3",
+  "active": "842fa45ce819e0af",
   "lastOpenFiles": [
     "兽医病毒学/病毒学复习.canvas",
+    "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "病理生理学/第八章 酸碱平衡紊乱.md",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
     "动物免疫学/免疫学复习.canvas",
@@ -308,7 +294,6 @@
     "动物免疫学/un_locked_pdfs/unlocked_第七章 补体系统.pdf",
     "动物免疫学/un_locked_pdfs/unlocked_第一章  绪论、抗原.pdf",
     "动物免疫学/un_locked_pdfs",
-    "动物免疫学/unlcok.py",
     "动物免疫学/抗原.md",
     "动物免疫学/总论.md",
     "656f04c8dcac10225296b39f6a11efab.png",
