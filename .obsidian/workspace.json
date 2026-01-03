@@ -14,7 +14,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/b4fd7787df06f5b9",
+                "url": "https://gemini.google.com/app/0285cf77c2f24808",
                 "title": "Google Gemini",
                 "mode": "webview"
               },
@@ -91,9 +91,9 @@
               "state": {
                 "file": "兽医病毒学/病毒学复习.canvas",
                 "viewState": {
-                  "x": -1903.7390112213932,
-                  "y": 1011.591711947643,
-                  "zoom": -0.09394715776319533
+                  "x": -1036.0960113960114,
+                  "y": 1010.9504667059309,
+                  "zoom": -0.36692492386700004
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "蓝耳",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,13 +154,11 @@
               "title": "文件列表"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -280,6 +278,7 @@
   "active": "4ec92cb6be86be31",
   "lastOpenFiles": [
     "兽医病毒学/病毒学复习.canvas",
+    "生物分离工程/DDD.md",
     "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "病理生理学/第八章 酸碱平衡紊乱.md",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
@@ -317,7 +316,6 @@
     "病理生理学/第六章 缺氧.md",
     "病理生理学/第九章 发热.md",
     "病理生理学/第十章 休克.md",
-    "动物免疫学/适应性免疫应答.md",
     "生物分离工程/乙醇浓度.jpg",
     "生物分离工程/分离方法汇总.jpg",
     "Pasted image 20251103214211.png",
