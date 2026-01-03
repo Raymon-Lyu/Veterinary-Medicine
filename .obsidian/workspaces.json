@@ -16,7 +16,7 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://gemini.google.com/app/b4fd7787df06f5b9",
+                    "url": "https://gemini.google.com/app/0285cf77c2f24808",
                     "title": "Google Gemini",
                     "mode": "webview"
                   },
@@ -93,9 +93,9 @@
                   "state": {
                     "file": "兽医病毒学/病毒学复习.canvas",
                     "viewState": {
-                      "x": -1664.521219288031,
-                      "y": 651.9925132057682,
-                      "zoom": -1.0167377258997339
+                      "x": -1883.1060241438383,
+                      "y": 156.718640349733,
+                      "zoom": -0.36692492386700004
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -122,7 +122,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "",
+                    "query": "蓝耳",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -156,8 +156,7 @@
                   "title": "文件列表"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal",
@@ -280,7 +279,7 @@
         }
       },
       "active": "842fa45ce819e0af",
-      "mtime": "2026-01-02T18:09:33+08:00"
+      "mtime": "2026-01-03T21:38:38+08:00"
     },
     "动物病理生理学": {
       "main": {
@@ -1060,5 +1059,5 @@
       "mtime": "2026-01-03T17:32:32+08:00"
     }
   },
-  "active": "兽医病毒学"
+  "active": "动物免疫学"
 }
