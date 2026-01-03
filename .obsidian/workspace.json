@@ -14,9 +14,9 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/04a7a80546dc6c86",
+                "url": "https://gemini.google.com/app",
                 "title": "Google Gemini",
-                "mode": "webview"
+                "mode": "blank"
               },
               "icon": "globe-2",
               "title": "Google Gemini"
@@ -52,7 +52,7 @@
                 "file": "动物免疫学/免疫学复习.canvas",
                 "viewState": {
                   "x": 726.3001638728084,
-                  "y": 168.38330563332528,
+                  "y": 961.7602840505916,
                   "zoom": -0.285348991721329
                 }
               },
