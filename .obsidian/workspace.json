@@ -91,9 +91,9 @@
               "state": {
                 "file": "兽医病毒学/病毒学复习.canvas",
                 "viewState": {
-                  "x": -1024.7999877929688,
-                  "y": 48.79998779296875,
-                  "zoom": 0
+                  "x": -1910.569538964481,
+                  "y": 101.40998236787365,
+                  "zoom": -0.09394715776319533
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -277,7 +277,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "842fa45ce819e0af",
+  "active": "4ec92cb6be86be31",
   "lastOpenFiles": [
     "兽医病毒学/病毒学复习.canvas",
     "兽医病毒学/第5-6讲-DNA病毒.pdf",
