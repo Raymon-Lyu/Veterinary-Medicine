@@ -16,7 +16,7 @@
               "state": {
                 "url": "https://gemini.google.com/app",
                 "title": "Google Gemini",
-                "mode": "blank"
+                "mode": "webview"
               },
               "icon": "globe-2",
               "title": "Google Gemini"
@@ -51,9 +51,9 @@
               "state": {
                 "file": "动物免疫学/免疫学复习.canvas",
                 "viewState": {
-                  "x": 726.3001638728084,
-                  "y": 961.7602840505916,
-                  "zoom": -0.285348991721329
+                  "x": -1363.7939601044684,
+                  "y": 935.9170639571998,
+                  "zoom": -0.6186823250546623
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -252,7 +252,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c0b42ee4fd854ef0",
+  "active": "383b0a6ce204aa0f",
   "lastOpenFiles": [
     "动物免疫学/免疫学复习.canvas",
     "动物免疫学/un_locked_pdfs/unlocked_第三章  免疫系统.pdf",
