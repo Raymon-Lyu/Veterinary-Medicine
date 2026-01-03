@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "2b0172cb62634340",
-        "type": "tabs",
-        "dimension": 38.622754491017965,
-        "children": [
-          {
-            "id": "25a22fbd67e99a8c",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/app/04a7a80546dc6c86",
-                "title": "Google Gemini",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Google Gemini"
-            }
-          }
-        ]
-      },
-      {
         "id": "2f7cd3f675ef163d",
         "type": "tabs",
-        "dimension": 61.377245508982035,
         "children": [
           {
             "id": "30891a5cf9f2fceb",
@@ -53,7 +31,7 @@
                 "viewState": {
                   "x": 1822,
                   "y": -840,
-                  "zoom": -0.10813860449089605
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -254,8 +232,8 @@
   },
   "active": "383b0a6ce204aa0f",
   "lastOpenFiles": [
-    "动物免疫学/抗原.md",
     "动物免疫学/免疫学复习.canvas",
+    "动物免疫学/抗原.md",
     "动物免疫学/总论.md",
     "656f04c8dcac10225296b39f6a11efab.png",
     "动物免疫学/免疫调节.md",
@@ -293,7 +271,6 @@
     "病理生理学/第十章 休克.md",
     "动物免疫学/适应性免疫应答.md",
     "兽医药理学/自体活性物质和解热镇痛抗炎药.md",
-    "兽医药理学/中枢神经系统药理.md",
     "生物分离工程/乙醇浓度.jpg",
     "生物分离工程/分离方法汇总.jpg",
     "Pasted image 20251103214211.png",
