@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,10 +219,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "fc0e45310f890077",
+  "active": "a7bab291d4f65b81",
   "lastOpenFiles": [
-    "动物育种学/ppt/Chapter06.pdf",
     "动物育种学/ppt/Chapter07.pdf",
+    "动物育种学/ppt/Chapter06.pdf",
     "动物育种学/ppt/Chapter08.pdf",
     "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "兽医病毒学/病毒学复习.canvas",
