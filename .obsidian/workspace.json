@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "71961d310322e184",
-        "type": "tabs",
-        "dimension": 47.4609375,
-        "children": [
-          {
-            "id": "fa5bcc9a8afbe111",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医病毒学/第5-6讲-DNA病毒.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第5-6讲-DNA病毒"
-            }
-          }
-        ]
-      },
-      {
         "id": "2e88b8b945e44d42",
         "type": "tabs",
-        "dimension": 52.5390625,
         "children": [
           {
             "id": "19f12f7996ca94b2",
@@ -73,21 +53,40 @@
             "id": "842fa45ce819e0af",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "兽医病毒学/病毒学复习.canvas",
-                "viewState": {
-                  "x": 413.5,
-                  "y": 213,
-                  "zoom": 0
-                }
+                "file": "动物育种学/ppt/Chapter08.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "病毒学复习"
+              "icon": "lucide-file-text",
+              "title": "Chapter08"
+            }
+          },
+          {
+            "id": "2a4eff2acfe06488",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter06.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter06"
+            }
+          },
+          {
+            "id": "978c7566e6368b3b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter05.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter05"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -262,25 +261,25 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "842fa45ce819e0af",
+  "active": "978c7566e6368b3b",
   "lastOpenFiles": [
+    "兽医病毒学/2025-第1-3讲-病毒的复制 - 副本.pdf",
+    "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理 - 副本.pdf",
+    "动物育种学/ppt/Chapter06.pdf",
     "动物育种学/ppt/Chapter08.pdf",
+    "兽医病毒学/病毒学复习.canvas",
     "蛋白质化学/~$题目_2_3_10_18_28_33_41_48_64_75_98_110_134_142_146_147_159_164_174.docx",
     "蛋白质化学/提取题目_2_3_10_18_28_33_41_48_64_75_98_110_134_142_146_147_159_164_174.docx",
     "蛋白质化学/mistake_extract.py",
     "动物育种学/ppt/Chapter10.pdf",
     "动物育种学/ppt/Chapter07.pdf",
-    "动物育种学/ppt/Chapter06.pdf",
     "兽医病毒学/第5-6讲-DNA病毒.pdf",
-    "兽医病毒学/病毒学复习.canvas",
     "兽医药理学/祖传ppt/抗寄生虫.pdf",
-    "兽医药理学/祖传ppt/抗寄生虫.pdf.crdownload",
     "动物免疫学/免疫学复习.canvas",
     "动物免疫学/免疫调节.md",
     "生物分离工程/DDD.md",
     "病理生理学/第八章 酸碱平衡紊乱.md",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
-    "动物免疫学/un_locked_pdfs/unlocked_第三章  免疫系统.pdf",
     "动物免疫学/免疫系统.md",
     "动物免疫学/抗原.md",
     "动物免疫学/总论.md",
