@@ -1,166 +1,140 @@
-import re
-from docx import Document
-from docx.shared import Pt
-from docx.enum.text import WD_ALIGN_PARAGRAPH
-import zipfile
-import xml.etree.ElementTree as ET
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.widgets import RectangleSelector
+import os
 
-def read_docx_content(docx_path):
-    """读取.docx文件的内容"""
-    try:
-        # 直接使用python-docx库读取
-        doc = Document(docx_path)
-        content = []
-        for para in doc.paragraphs:
-            if para.text.strip():  # 只添加非空段落
-                content.append(para.text)
-        return '\n'.join(content)
-    except Exception as e:
-        print(f"使用python-docx读取失败: {e}")
-        # 如果python-docx失败，尝试直接解析ZIP内容
-        return read_docx_as_zip(docx_path)
+# 用于存储选定时间范围的全局变量
+selected_time_range = []
 
-def read_docx_as_zip(docx_path):
-    """将.docx作为ZIP文件读取"""
-    try:
-        content = []
-        with zipfile.ZipFile(docx_path, 'r') as docx:
-            # 读取主要的文档内容
-            xml_content = docx.read('word/document.xml').decode('utf-8')
-            
-            # 简化的XML解析，提取文本
-            # 移除XML命名空间以简化解析
-            xml_content = xml_content.replace('xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"', '')
-            
-            # 使用正则表达式提取<w:t>标签中的文本
-            text_matches = re.findall(r'<w:t[^>]*>([^<]+)</w:t>', xml_content)
-            
-            # 合并文本
-            content = []
-            current_paragraph = []
-            
-            for text in text_matches:
-                # 简化处理：假设每个<w:t>对应一行
-                content.append(text)
-            
-        return '\n'.join(content)
-    except Exception as e:
-        print(f"解析ZIP文件失败: {e}")
-        return ""
+def line_select_callback(eclick, erelease):
+    """
+    鼠标框选的回调函数。
+    当鼠标释放时，记录选定的时间范围。
+    """
+    global selected_time_range
+    # eclick 和 erelease 分别是鼠标按下和释放的事件
+    x1 = eclick.xdata
+    x2 = erelease.xdata
+    
+    # 获取时间范围（x轴）
+    t_start = min(x1, x2)
+    t_end = max(x1, x2)
+    
+    selected_time_range = [t_start, t_end]
+    print(f"已选择时间范围: {t_start:.2f} 秒 到 {t_end:.2f} 秒")
 
-def extract_questions(content, question_numbers):
-    """提取指定题号的题目"""
-    questions = {}
-    current_question = None
-    current_content = []
+def analyze_and_select_region():
+    # ================= 配置区域 =================
+    # 请确保文件名与您本地的文件名完全一致
+    filename = '12_25休克.dat'
     
-    lines = content.split('\n')
+    # 采样率
+    fs = 800.0
     
-    for line in lines:
-        # 检查是否是题目的开始（以数字开头，可能带有特殊字符）
-        match = re.match(r'^(\d+)[、\.]', line.strip())
-        if match:
-            # 保存上一个题目
-            if current_question is not None:
-                questions[current_question] = '\n'.join(current_content)
-            
-            # 开始新题目
-            question_num = int(match.group(1))
-            current_question = question_num
-            current_content = [line]
-        elif current_question is not None:
-            # 继续当前题目
-            current_content.append(line)
-    
-    # 保存最后一个题目
-    if current_question is not None:
-        questions[current_question] = '\n'.join(current_content)
-    
-    # 提取指定题号
-    selected_questions = {}
-    for num in question_numbers:
-        if num in questions:
-            selected_questions[num] = questions[num]
-        else:
-            print(f"警告：未找到第 {num} 题")
-    
-    return selected_questions
+    # 血压换算比例
+    scale_bp = 90.0 / 7486.0 
+    # ===========================================
 
-def create_word_document(questions, output_filename):
-    """创建Word文档"""
-    doc = Document()
-    
-    # 添加标题
-    title = doc.add_heading('选择题提取结果', 0)
-    title.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    
-    # 添加说明
-    doc.add_paragraph(f'提取了以下题号：{", ".join(map(str, sorted(questions.keys())))}')
-    doc.add_paragraph()
-    
-    # 按题号顺序添加题目
-    for num in sorted(questions.keys()):
-        # 添加题目
-        question_text = questions[num]
-        # 处理题目文本中的特殊格式
-        lines = question_text.split('\n')
-        
-        for i, line in enumerate(lines):
-            if i == 0:  # 第一行是题号，加粗
-                p = doc.add_paragraph()
-                run = p.add_run(line)
-                run.bold = True
-                run.font.size = Pt(12)
-            else:
-                if line.strip():  # 非空行
-                    p = doc.add_paragraph(line)
-                    p.paragraph_format.space_after = Pt(6)
-        
-        # 添加空行分隔
-        doc.add_paragraph()
-    
-    # 保存文档
-    doc.save(output_filename)
-    print(f"文档已保存为：{output_filename}")
-
-def main():
-    # 读取文档内容
-    docx_path = '选择题.docx'
-    content = read_docx_content(docx_path)
-    
-    if not content:
-        print("无法读取文档内容，请确保文件格式正确")
+    # 1. 检查文件是否存在
+    if not os.path.exists(filename):
+        print(f"错误: 找不到文件 '{filename}'")
+        print("请确认数据文件和本脚本在同一个目录下。")
         return
-    
-    # 获取用户输入的题号
-    input_str = input("请输入要提取的题号（用逗号隔开，例如：1,3,5,7）：")
+
+    print(f"正在读取文件: {filename} ...")
     
     try:
-        # 解析输入
-        question_numbers = [int(num.strip()) for num in input_str.split(',')]
+        # 2. 读取数据
+        data_raw = np.fromfile(filename, dtype=np.int16)
         
-        # 提取题目
-        selected_questions = extract_questions(content, question_numbers)
+        # 处理数据长度
+        if data_raw.size % 4 != 0:
+            valid_len = (data_raw.size // 4) * 4
+            data_raw = data_raw[:valid_len]
+            
+        data_4ch = data_raw.reshape(-1, 4)
         
-        if selected_questions:
-            # 生成输出文件名
-            numbers_str = '_'.join(map(str, sorted(question_numbers)))
-            output_filename = f"提取题目_{numbers_str}.docx"
+        # 提取 Channel 1 并转换为 mmHg
+        ch1_raw = data_4ch[:, 0]
+        ch1_mmhg = ch1_raw * scale_bp
+        
+        # 创建时间轴
+        time = np.arange(len(ch1_mmhg)) / fs
+        
+        print("数据读取成功。")
+
+        # 3. 交互式选择
+        fig, ax = plt.subplots(figsize=(12, 6))
+        ax.plot(time, ch1_mmhg, color='#1f77b4', linewidth=0.5, label='Raw Waveform')
+        ax.set_title('请用鼠标框选您感兴趣的区域 (Select ROI)', fontsize=14)
+        ax.set_xlabel('Time (s)', fontsize=12)
+        ax.set_ylabel('Pressure (mmHg)', fontsize=12)
+        ax.grid(True, linestyle='--', alpha=0.7)
+        ax.legend()
+
+        # 创建矩形选择器
+        # drawtype='box' 绘制矩形框
+        # useblit=True 使用光栅技术加速绘制
+        # button=[1] 仅响应鼠标左键
+        # interactive=True 允许在选择完成后调整框的大小和位置
+        rs = RectangleSelector(ax, line_select_callback,
+                               drawtype='box', useblit=True,
+                               button=[1], minspanx=5, minspany=5,
+                               spancoords='pixels', interactive=True)
+
+        print("\n【操作说明】")
+        print("1. 在弹出的图像上，按住鼠标左键拖动，框选您想要放大的波形区域。")
+        print("2. 选择完成后，请关闭该窗口。程序将自动绘制并保存您选定的区域。")
+        
+        # 阻塞程序，直到窗口关闭
+        plt.show() 
+
+        # 4. 绘制选定区域
+        if selected_time_range:
+            t_start, t_end = selected_time_range
             
-            # 创建Word文档
-            create_word_document(selected_questions, output_filename)
+            # 将时间转换为索引
+            idx_start = int(t_start * fs)
+            idx_end = int(t_end * fs)
             
-            print(f"成功提取了 {len(selected_questions)} 个题目")
+            # 确保索引在有效范围内
+            idx_start = max(0, idx_start)
+            idx_end = min(len(time), idx_end)
+            
+            if idx_start >= idx_end:
+                print("选择的区域无效（时间过短或范围错误），请重新运行并选择。")
+                return
+
+            # 提取选定片段的数据
+            time_seg = time[idx_start:idx_end]
+            signal_seg = ch1_mmhg[idx_start:idx_end]
+            
+            print(f"\n正在生成选定区域 ({t_start:.2f}-{t_end:.2f} s) 的图像...")
+
+            # 绘制选定片段
+            fig_sel, ax_sel = plt.subplots(figsize=(10, 6))
+            ax_sel.plot(time_seg, signal_seg, color='#1f77b4', linewidth=1.0)
+            ax_sel.set_title(f'Selected Waveform Fragment ({t_start:.2f} - {t_end:.2f} s)', fontsize=14)
+            ax_sel.set_xlabel('Time (s)', fontsize=12)
+            ax_sel.set_ylabel('Pressure (mmHg)', fontsize=12)
+            ax_sel.grid(True, linestyle='--', alpha=0.7)
+            
+            # 保存图像
+            output_file = 'selected_waveform.png'
+            plt.savefig(output_file, dpi=300, bbox_inches='tight')
+            print(f"成功！选定区域的波形图已保存为: {output_file}")
+            
+            # 显示结果图像
+            plt.show()
         else:
-            print("未找到任何匹配的题目")
-            
-    except ValueError:
-        print("输入格式错误，请确保输入的是用逗号隔开的数字")
+            print("\n您未选择任何区域就关闭了窗口，未生成新的图像。")
+
     except Exception as e:
-        print(f"发生错误：{e}")
+        print(f"运行时发生错误: {e}")
+        import traceback
+        traceback.print_exc()
 
 if __name__ == "__main__":
-    # 需要安装的库：
-    # pip install python-docx
-    
-    main()
+    # 运行前重置全局变量
+    selected_time_range = []
+    analyze_and_select_region()
