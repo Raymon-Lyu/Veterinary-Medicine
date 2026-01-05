@@ -14,10 +14,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "兽医病毒学/第5-6讲-DNA病毒.pdf"
+                "file": "兽医病毒学/第7讲-RNA病毒.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "第5-6讲-DNA病毒"
+              "title": "第7讲-RNA病毒"
             }
           }
         ]
@@ -77,8 +77,8 @@
               "state": {
                 "file": "兽医病毒学/病毒学复习.canvas",
                 "viewState": {
-                  "x": -1757.2412992471964,
-                  "y": -1241.9826651440053,
+                  "x": -1852.1558329264305,
+                  "y": -1309.0418653700094,
                   "zoom": -0.36692492386700004
                 }
               },
@@ -145,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fbc1bacdc541d8a6",
@@ -262,10 +263,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a50c7cba2bbba794",
+  "active": "842fa45ce819e0af",
   "lastOpenFiles": [
-    "个人总结.md",
+    "兽医病毒学/第7讲-RNA病毒.pdf",
     "兽医病毒学/病毒学复习.canvas",
+    "个人总结.md",
     "动物育种学/ppt/Chapter05.pdf",
     "兽医病毒学/2025-第1-3讲-病毒的复制 - 副本.pdf",
     "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理 - 副本.pdf",
