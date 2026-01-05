@@ -9,6 +9,18 @@
         "dimension": 47.4609375,
         "children": [
           {
+            "id": "f44355257125b3d8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "兽医病毒学/第8讲-RNA病毒及其他.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第8讲-RNA病毒及其他"
+            }
+          },
+          {
             "id": "fa5bcc9a8afbe111",
             "type": "leaf",
             "state": {
@@ -77,8 +89,8 @@
               "state": {
                 "file": "兽医病毒学/病毒学复习.canvas",
                 "viewState": {
-                  "x": -1852.1558329264305,
-                  "y": -1309.0418653700094,
+                  "x": -1848.0290935375058,
+                  "y": -1326.5804487396856,
                   "zoom": -0.36692492386700004
                 }
               },
@@ -263,7 +275,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "842fa45ce819e0af",
+  "active": "f44355257125b3d8",
   "lastOpenFiles": [
     "兽医病毒学/第7讲-RNA病毒.pdf",
     "兽医病毒学/病毒学复习.canvas",
@@ -277,7 +289,6 @@
     "蛋白质化学/提取题目_2_3_10_18_28_33_41_48_64_75_98_110_134_142_146_147_159_164_174.docx",
     "蛋白质化学/mistake_extract.py",
     "动物育种学/ppt/Chapter10.pdf",
-    "动物育种学/ppt/Chapter07.pdf",
     "动物免疫学/免疫学复习.canvas",
     "动物免疫学/免疫调节.md",
     "生物分离工程/DDD.md",
