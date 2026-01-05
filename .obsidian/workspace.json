@@ -77,12 +77,17 @@
             "id": "978c7566e6368b3b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "动物育种学/ppt/Chapter05.pdf"
+                "file": "兽医病毒学/病毒学复习.canvas",
+                "viewState": {
+                  "x": -972.020644880579,
+                  "y": 1024.7123252996942,
+                  "zoom": -0.487574582983002
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Chapter05"
+              "icon": "lucide-layout-dashboard",
+              "title": "病毒学复习"
             }
           }
         ],
@@ -263,6 +268,7 @@
   },
   "active": "978c7566e6368b3b",
   "lastOpenFiles": [
+    "动物育种学/ppt/Chapter05.pdf",
     "兽医病毒学/2025-第1-3讲-病毒的复制 - 副本.pdf",
     "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理 - 副本.pdf",
     "动物育种学/ppt/Chapter06.pdf",
@@ -274,7 +280,6 @@
     "动物育种学/ppt/Chapter10.pdf",
     "动物育种学/ppt/Chapter07.pdf",
     "兽医病毒学/第5-6讲-DNA病毒.pdf",
-    "兽医药理学/祖传ppt/抗寄生虫.pdf",
     "动物免疫学/免疫学复习.canvas",
     "动物免疫学/免疫调节.md",
     "生物分离工程/DDD.md",
