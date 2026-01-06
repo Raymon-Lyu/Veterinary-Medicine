@@ -38,7 +38,7 @@ def batch_unlock_pdfs(input_folder, output_folder, open_password=None):
 
 # --- 配置路径 ---
 # 请修改下方的路径为您电脑上的实际路径
-source_dir = r'D:\just_soso\horse cow\Veterinary Medicine\动物免疫学\祖传ppt'      # 原始 PDF 文件夹
+source_dir = r'D:\just_soso\horse cow\Veterinary Medicine\动物免疫学'      # 原始 PDF 文件夹
 target_dir = r'D:\just_soso\horse cow\Veterinary Medicine\动物免疫学\un_locked_pdfs'  # 解密后的保存文件夹
 
 # 如果所有文件都有同一个“打开密码”，请填入引号中；否则保持 None
