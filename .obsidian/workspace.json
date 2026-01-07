@@ -35,7 +35,8 @@
               "title": "第八章 酸碱平衡紊乱"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +213,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3762b01205745737",
+  "active": "29979b0c3438cd19",
   "lastOpenFiles": [
-    "兽医病毒学/病毒学复习.canvas",
     "病理生理学/救治方案.md",
+    "兽医病毒学/病毒学复习.canvas",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
     "兽医病毒学/第8讲-RNA病毒及其他.pdf",
     "兽医病毒学/第7讲-RNA病毒.pdf",
