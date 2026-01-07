@@ -287,26 +287,6 @@
         "type": "split",
         "children": [
           {
-            "id": "4ccb77c70bb9eba2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "67cabee80f592b98",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://gemini.google.com/app/5f3f4e7fd01e3795",
-                    "title": "Google Gemini",
-                    "mode": "blank"
-                  },
-                  "icon": "globe-2",
-                  "title": "Google Gemini"
-                }
-              }
-            ]
-          },
-          {
             "id": "f6836a37d7a5e897",
             "type": "tabs",
             "children": [
@@ -316,12 +296,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "病理生理学/第七章 水和电解质代谢紊乱.md",
+                    "file": "病理生理学/救治方案.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "第七章 水和电解质代谢紊乱"
+                  "title": "救治方案"
                 }
               },
               {
@@ -515,8 +495,8 @@
           "workspaces:管理工作区布局": false
         }
       },
-      "active": "67cabee80f592b98",
-      "mtime": "2026-01-02T12:39:17+08:00"
+      "active": "3762b01205745737",
+      "mtime": "2026-01-07T13:00:17+08:00"
     },
     "兽医药理学": {
       "main": {
@@ -1059,5 +1039,5 @@
       "mtime": "2026-01-03T17:32:32+08:00"
     }
   },
-  "active": "动物病理生理学"
+  "active": "兽医病毒学"
 }
