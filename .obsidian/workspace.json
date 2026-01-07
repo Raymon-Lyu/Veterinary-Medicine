@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/0285cf77c2f24808",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "gemini.google.com/app/0285cf77c2f24808",
+                "mode": "error"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "gemini.google.com/app/0285cf77c2f24808"
             }
           },
           {
