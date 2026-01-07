@@ -4,104 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "71961d310322e184",
+        "id": "f6836a37d7a5e897",
         "type": "tabs",
-        "dimension": 47.4609375,
         "children": [
           {
-            "id": "4ec92cb6be86be31",
+            "id": "3762b01205745737",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://gemini.google.com/app/0285cf77c2f24808",
-                "title": "gemini.google.com/app/0285cf77c2f24808",
-                "mode": "error"
+                "file": "病理生理学/救治方案.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "gemini.google.com/app/0285cf77c2f24808"
+              "icon": "lucide-file",
+              "title": "救治方案"
             }
           },
           {
-            "id": "fa5bcc9a8afbe111",
+            "id": "29979b0c3438cd19",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "兽医病毒学/第5-6讲-DNA病毒.pdf"
+                "file": "病理生理学/第八章 酸碱平衡紊乱.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "第5-6讲-DNA病毒"
+              "icon": "lucide-file",
+              "title": "第八章 酸碱平衡紊乱"
             }
           }
         ]
-      },
-      {
-        "id": "2e88b8b945e44d42",
-        "type": "tabs",
-        "dimension": 52.5390625,
-        "children": [
-          {
-            "id": "19f12f7996ca94b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "兽医病毒学/总论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "总论"
-            }
-          },
-          {
-            "id": "37f576cf0ecd6ac9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "兽医病毒学/DNA病毒.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DNA病毒"
-            }
-          },
-          {
-            "id": "aa0417bd4859da5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "兽医病毒学/RNA病毒.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RNA病毒"
-            }
-          },
-          {
-            "id": "842fa45ce819e0af",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "兽医病毒学/病毒学复习.canvas",
-                "viewState": {
-                  "x": -1928.5,
-                  "y": 980,
-                  "zoom": -0.09394715776319533
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "病毒学复习"
-            }
-          }
-        ],
-        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "蓝耳",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +88,8 @@
               "title": "文件列表"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -175,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "兽医病毒学/病毒与宿主的互作.md",
+                "file": "动物育种学/ppt/Chapter06.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "病毒与宿主的互作 的反向链接列表"
+              "title": "Chapter06 的反向链接列表"
             }
           },
           {
@@ -252,7 +187,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -276,13 +212,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "842fa45ce819e0af",
+  "active": "3762b01205745737",
   "lastOpenFiles": [
+    "兽医病毒学/病毒学复习.canvas",
     "病理生理学/救治方案.md",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
     "兽医病毒学/第8讲-RNA病毒及其他.pdf",
     "兽医病毒学/第7讲-RNA病毒.pdf",
-    "兽医病毒学/病毒学复习.canvas",
     "个人总结.md",
     "动物育种学/ppt/Chapter05.pdf",
     "兽医病毒学/2025-第1-3讲-病毒的复制 - 副本.pdf",
@@ -317,7 +253,6 @@
     "动物免疫学/变态反应.md",
     "病理生理学/第六章 缺氧.md",
     "病理生理学/第九章 发热.md",
-    "病理生理学/第十章 休克.md",
     "生物分离工程/乙醇浓度.jpg",
     "生物分离工程/分离方法汇总.jpg",
     "Pasted image 20251103214211.png",
