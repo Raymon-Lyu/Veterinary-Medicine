@@ -9,20 +9,6 @@
         "dimension": 47.4609375,
         "children": [
           {
-            "id": "4ec92cb6be86be31",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/app/0285cf77c2f24808",
-                "title": "Google Gemini",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Google Gemini"
-            }
-          },
-          {
             "id": "fa5bcc9a8afbe111",
             "type": "leaf",
             "state": {
@@ -91,8 +77,8 @@
               "state": {
                 "file": "兽医病毒学/病毒学复习.canvas",
                 "viewState": {
-                  "x": -859.6784338187621,
-                  "y": 1038.8058591924162,
+                  "x": -828.7280064683347,
+                  "y": 690.0977189153687,
                   "zoom": -0.36692492386700004
                 }
               },
@@ -101,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +140,8 @@
               "title": "文件列表"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -276,11 +263,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "842fa45ce819e0af",
+  "active": "aa0417bd4859da5c",
   "lastOpenFiles": [
+    "兽医病毒学/DNA病毒.md",
+    "兽医病毒学/RNA病毒.md",
+    "兽医病毒学/病毒学复习.canvas",
+    "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "病理生理学/第八章 酸碱平衡紊乱.md",
     "病理生理学/救治方案.md",
-    "兽医病毒学/病毒学复习.canvas",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
     "兽医病毒学/第8讲-RNA病毒及其他.pdf",
     "兽医病毒学/第7讲-RNA病毒.pdf",
@@ -292,7 +282,6 @@
     "动物育种学/ppt/Chapter08.pdf",
     "蛋白质化学/~$题目_2_3_10_18_28_33_41_48_64_75_98_110_134_142_146_147_159_164_174.docx",
     "蛋白质化学/提取题目_2_3_10_18_28_33_41_48_64_75_98_110_134_142_146_147_159_164_174.docx",
-    "蛋白质化学/mistake_extract.py",
     "动物免疫学/免疫学复习.canvas",
     "动物免疫学/免疫调节.md",
     "生物分离工程/DDD.md",
@@ -303,8 +292,6 @@
     "大纲.md",
     "动物免疫学/疫苗.md",
     "兽医药理学/抗寄生虫药理.md",
-    "兽医病毒学/DNA病毒.md",
-    "兽医病毒学/RNA病毒.md",
     "兽医病毒学/总论.md",
     "病理解剖学/总论.md",
     "兽医病毒学/未命名.md",
