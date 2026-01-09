@@ -92,9 +92,9 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/0285cf77c2f24808",
+                "url": "https://gemini.google.com/app/79b6ea93a79e2a66",
                 "title": "Google Gemini",
-                "mode": "blank"
+                "mode": "webview"
               },
               "icon": "globe-2",
               "title": "Google Gemini"
@@ -340,14 +340,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b9080944b32687e7",
+  "active": "ac728040eb561e2a",
   "lastOpenFiles": [
     "病理生理学/第九章 发热.md",
+    "病理生理学/ppt/第九章 发热(1).pdf",
     "病理生理学/第八章 酸碱平衡紊乱.md",
     "病理生理学/ppt/第十章 休克(1).pdf",
     "病理生理学/ppt/第六章 缺氧(1).pdf",
     "病理生理学/ppt/第十一章 应激(1).pdf",
-    "病理生理学/ppt/第九章 发热(1).pdf",
     "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf",
     "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf",
     "病理生理学/ppt",
