@@ -1,9 +1,19 @@
 {
 	"nodes":[
-		{"id":"5bdc82057eb95140","x":-1820,"y":-7657,"width":398,"height":237,"type":"text","text":"### 抗利尿激素"},
-		{"id":"bb803356fc1a8580","x":-1186,"y":-8223,"width":400,"height":400,"type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#水中毒"}
+		{"id":"5bdc82057eb95140","type":"text","text":"### 抗利尿激素\n又名ADH\n- 主要受体及作用：\n\t- V2$\\to$肾脏集合管吸水\n\t- V1$\\to$血管平滑肌缩血管","x":-1860,"y":-7657,"width":380,"height":257},
+		{"id":"bb803356fc1a8580","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#水中毒","x":-1186,"y":-8223,"width":400,"height":400},
+		{"id":"b2c8da35afd1825b","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#高渗性脱水","x":-1186,"y":-7040,"width":400,"height":400},
+		{"id":"ee99da244c194ae3","x":-1860,"y":-7280,"width":380,"height":257,"type":"text","text":"### 糖皮质激素\n- **受体：** **糖皮质激素受体 (GR)**（几乎全身细胞**内部**都有）。\n- **生理变化：**\n    - **升糖：** 促蛋白质转糖，升血糖\n    - **抗炎：** 让白细胞“冷静”，减轻红肿热痛\n    - **抗应激：** 帮助身体耐受手术、创伤等压力"},
+		{"id":"6cbca24dbd47b372","x":-2400,"y":-7280,"width":360,"height":257,"type":"text","text":"### 胰岛素\n- 作用于胰岛素受体，广泛分布于机体内\n- 引起**降糖、降钾、长肉**"},
+		{"id":"981efa1cc09e4200","x":-2400,"y":-7657,"width":360,"height":257,"type":"text","text":"### 醛固酮\n- 作用于盐皮质激素受体，受体位于肾脏远曲小管/集合管细胞内部(脂溶性激素)\n- 作用：升高血钠、升高血压、排钾酸，间接吸水"},
+		{"id":"3416df48e2153d03","x":-3040,"y":-7423,"width":400,"height":400,"type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#低渗性脱水"},
+		{"id":"be20f9b336beefc5","x":-3040,"y":-8057,"width":400,"height":400,"type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#盐中毒"},
+		{"id":"77d6a4d2b8694cbf","x":-2360,"y":-8400,"width":432,"height":396,"type":"text","text":"\n| **病理过程** | **核心致病激素 (异常方向)**                       | **关键词**      |\n| -------- | --------------------------------------- | ------------ |\n| **水中毒**  | **ADH $\\uparrow$**                      | SIADH, 稀释性低钠 |\n| **盐中毒**  | **醛固酮 $\\uparrow$**                      | 保钠过度         |\n| **水肿**   | **醛固酮 $\\uparrow$** (继发), ADH $\\uparrow$ | 水钠潴留         |\n| **高渗脱水** | **ADH $\\downarrow$**                    | 尿崩症, 丢水保钠    |\n| **低渗脱水** | **醛固酮 $\\downarrow$**                    | 艾迪生, 丢钠保水    |\n| **高钾血症** | **醛固酮 $\\downarrow$**, 胰岛素 $\\downarrow$  | 排不出, 进不去     |\n| **低钾血症** | **醛固酮 $\\uparrow$**, 胰岛素 $\\uparrow$      | 排太多, 进太多     |\n| **代酸**   | **胰岛素 $\\downarrow$**, 醛固酮 $\\downarrow$  | 酮体, 排酸障碍     |\n| **代碱**   | **醛固酮 $\\uparrow$**                      | 排酸过度         |\n| **呼酸**   | 甲状腺素 $\\downarrow\\downarrow$ (罕见)        | 呼吸无力         |\n| **呼碱**   | **甲状腺素 $\\uparrow$**, 肾上腺素 $\\uparrow$    | 过度通气         |"}
 	],
 	"edges":[
-		{"id":"eb5fae986399db1c","fromNode":"5bdc82057eb95140","fromSide":"right","toNode":"bb803356fc1a8580","toSide":"left"}
+		{"id":"eb5fae986399db1c","fromNode":"5bdc82057eb95140","fromSide":"right","toNode":"bb803356fc1a8580","toSide":"left","color":"1","label":"分泌↑"},
+		{"id":"2eb67d139b963028","fromNode":"5bdc82057eb95140","fromSide":"right","toNode":"b2c8da35afd1825b","toSide":"left","color":"5","label":"分泌↓"},
+		{"id":"68f441c47d0440e1","fromNode":"981efa1cc09e4200","fromSide":"left","toNode":"be20f9b336beefc5","toSide":"right","color":"1","label":"分泌↑"},
+		{"id":"775bec3704f376fd","fromNode":"981efa1cc09e4200","fromSide":"left","toNode":"3416df48e2153d03","toSide":"right","color":"5","label":"分泌↓"}
 	]
 }
