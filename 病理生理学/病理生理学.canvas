@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"c19d7cfbb7f26bdd","x":-280,"y":-260,"width":395,"height":540,"type":"text","text":"```mermaid\ngraph TD\n    A[<b>应激原 Stressor</b>] --> B{下丘脑}\n    \n    subgraph 蓝军: SAS系统\n    B -->|交感神经| C[肾上腺髓质]\n    C --> D[<b>儿茶酚胺 CA</b>]\n    D --> E1[心率↑ 血压↑]\n    D --> E2[血液重分布]\n    D --> E3[糖原分解 -> 血糖↑]\n    end\n    \n    subgraph 红军: HPA系统\n    B -->|CRH -> ACTH| F[肾上腺皮质]\n    F --> G[<b>糖皮质激素 GC</b>]\n    G --> H1[糖异生 -> 血糖↑]\n    G --> H2[抗炎 / 免疫抑制]\n    G --> H3[胃酸↑ -> 溃疡]\n    end\n    \n    E2 --> I[胃黏膜缺血]\n    H3 --> J[<b>应激性溃疡</b>]\n    I --> J\n    \n    style D fill:#cce5ff,stroke:#004085\n    style G fill:#f8d7da,stroke:#721c24\n    style J fill:#fff3cd,stroke:#856404\n```"}
+		{"id":"5bdc82057eb95140","x":-1820,"y":-7657,"width":398,"height":237,"type":"text","text":"### 抗利尿激素"},
+		{"id":"bb803356fc1a8580","x":-1186,"y":-8223,"width":400,"height":400,"type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#水中毒"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"eb5fae986399db1c","fromNode":"5bdc82057eb95140","fromSide":"right","toNode":"bb803356fc1a8580","toSide":"left"}
+	]
 }
