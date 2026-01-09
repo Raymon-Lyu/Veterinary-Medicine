@@ -4,6 +4,105 @@
     "type": "split",
     "children": [
       {
+        "id": "d5fc85020318b0a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c09451926e581a3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理生理学/ppt/第六章 缺氧(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第六章 缺氧(1)"
+            }
+          },
+          {
+            "id": "fa5c8e127a2d626f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第七章 水盐代谢障碍(1)"
+            }
+          },
+          {
+            "id": "278871da2153ffc5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第八章 酸碱平衡紊乱(1)"
+            }
+          },
+          {
+            "id": "b9080944b32687e7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理生理学/ppt/第九章 发热(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第九章 发热(1)"
+            }
+          },
+          {
+            "id": "64141e820880c40b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理生理学/ppt/第十章 休克(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第十章 休克(1)"
+            }
+          },
+          {
+            "id": "ec985832cf38a018",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理生理学/ppt/第十一章 应激(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第十一章 应激(1)"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "338ffc40f6565aa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac728040eb561e2a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app/0285cf77c2f24808",
+                "title": "Google Gemini",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "Google Gemini"
+            }
+          }
+        ]
+      },
+      {
         "id": "f6836a37d7a5e897",
         "type": "tabs",
         "children": [
@@ -48,9 +147,23 @@
               "icon": "lucide-file",
               "title": "第六章 缺氧"
             }
+          },
+          {
+            "id": "a50b85839ddd5728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "病理生理学/第九章 发热.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第九章 发热"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,26 +340,27 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "f5fa81011f1793c9",
+  "active": "b9080944b32687e7",
   "lastOpenFiles": [
+    "病理生理学/第九章 发热.md",
+    "病理生理学/第八章 酸碱平衡紊乱.md",
+    "病理生理学/ppt/第十章 休克(1).pdf",
+    "病理生理学/ppt/第六章 缺氧(1).pdf",
+    "病理生理学/ppt/第十一章 应激(1).pdf",
+    "病理生理学/ppt/第九章 发热(1).pdf",
+    "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf",
+    "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf",
+    "病理生理学/ppt",
+    "病理生理学/动物病理生理学/第十章 休克(1).pdf",
+    "病理生理学/动物病理生理学/第九章 发热(1).pdf",
+    "病理生理学/动物病理生理学/第六章 缺氧(1).pdf",
+    "病理生理学/第六章 缺氧.md",
     "病理生理学/救治方案.md",
-    "兽医病毒学/第5-6讲-DNA病毒.pdf",
     "兽医病毒学/病毒学复习.canvas",
     "兽医病毒学/RNA病毒.md",
-    "兽医病毒学/兽医病毒学生物合成部分.pdf",
-    "兽医病毒学/兽医病毒学_重点章节_Baltimore分类.pdf",
-    "兽医病毒学/extract.py",
-    "兽医病毒学/新建 文本文档.txt",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
-    "病理生理学/第六章 缺氧.md",
-    "病理生理学/第八章 酸碱平衡紊乱.md",
     "兽医病毒学/DNA病毒.md",
-    "兽医病毒学/第8讲-RNA病毒及其他.pdf",
-    "兽医病毒学/第7讲-RNA病毒.pdf",
     "个人总结.md",
-    "动物育种学/ppt/Chapter05.pdf",
-    "兽医病毒学/2025-第1-3讲-病毒的复制 - 副本.pdf",
-    "兽医病毒学/2025-第4-5讲-病毒与宿主相互作用及致病机理 - 副本.pdf",
     "动物免疫学/免疫学复习.canvas",
     "动物免疫学/免疫调节.md",
     "生物分离工程/DDD.md",
@@ -267,7 +381,6 @@
     "兽医药理学/外周神经系统药理.md",
     "兽医药理学/皮质激素药理.md",
     "动物免疫学/变态反应.md",
-    "病理生理学/第九章 发热.md",
     "生物分离工程/乙醇浓度.jpg",
     "生物分离工程/分离方法汇总.jpg",
     "Pasted image 20251103214211.png",
