@@ -4,94 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "d5fc85020318b0a7",
+        "id": "b6bd33608620a082",
         "type": "tabs",
+        "dimension": 34.244791666666664,
         "children": [
           {
-            "id": "4c09451926e581a3",
+            "id": "00b573113f5c7cf7",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "病理生理学/ppt/第六章 缺氧(1).pdf"
+                "file": "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "第六章 缺氧(1)"
-            }
-          },
-          {
-            "id": "fa5c8e127a2d626f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第七章 水盐代谢障碍(1)"
-            }
-          },
-          {
-            "id": "278871da2153ffc5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第八章 酸碱平衡紊乱(1)"
-            }
-          },
-          {
-            "id": "b9080944b32687e7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/ppt/第九章 发热(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第九章 发热(1)"
-            }
-          },
-          {
-            "id": "64141e820880c40b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/ppt/第十章 休克(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第十章 休克(1)"
-            }
-          },
-          {
-            "id": "ec985832cf38a018",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/ppt/第十一章 应激(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第十一章 应激(1)"
+              "title": "unlocked_2025-2026冬学期复习"
             }
           }
         ]
       },
       {
-        "id": "338ffc40f6565aa8",
+        "id": "21eec5d08cd58582",
         "type": "tabs",
+        "dimension": 33.854166666666664,
         "children": [
           {
-            "id": "ac728040eb561e2a",
+            "id": "c0b42ee4fd854ef0",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/5cdf3453a339c0db",
+                "url": "https://gemini.google.com/app/5908822832c5be3d",
                 "title": "Google Gemini",
                 "mode": "webview"
               },
@@ -102,84 +44,43 @@
         ]
       },
       {
-        "id": "f6836a37d7a5e897",
+        "id": "2f7cd3f675ef163d",
         "type": "tabs",
+        "dimension": 31.901041666666664,
         "children": [
           {
-            "id": "3762b01205745737",
+            "id": "30891a5cf9f2fceb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病理生理学/救治方案.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "救治方案"
-            }
-          },
-          {
-            "id": "f5fa81011f1793c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理生理学/第六章 缺氧.md",
+                "file": "动物免疫学/疫苗.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第六章 缺氧"
+              "title": "疫苗"
             }
           },
           {
-            "id": "a50b85839ddd5728",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理生理学/第九章 发热.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第九章 发热"
-            }
-          },
-          {
-            "id": "2863e14ee96b501f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理生理学/第十章 休克.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第十章 休克"
-            }
-          },
-          {
-            "id": "42bf73e590704e7b",
+            "id": "383b0a6ce204aa0f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "病理生理学/病理生理学.canvas",
+                "file": "动物免疫学/免疫学复习.canvas",
                 "viewState": {
-                  "x": -725.5216976369794,
-                  "y": -5022.407569724769,
-                  "zoom": -0.7561833553060886
+                  "x": -841.7762025669646,
+                  "y": 854.2767993164064,
+                  "zoom": -1.0526146261634222
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "病理生理学"
+              "title": "免疫学复习"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#免疫的概念",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -356,12 +257,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "42bf73e590704e7b",
+  "active": "c0b42ee4fd854ef0",
   "lastOpenFiles": [
+    "动物免疫学/免疫学复习.canvas",
+    "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习.pdf",
+    "病理生理学/病理生理学.canvas",
     "病理生理学/ppt/第六章 缺氧(1).pdf",
     "病理生理学/ppt/第九章 发热(1).pdf",
     "病理生理学/ppt/第十章 休克(1).pdf",
-    "病理生理学/病理生理学.canvas",
     "病理生理学/第六章 缺氧.md",
     "病理生理学/ppt/第十一章 应激(1).pdf",
     "template/Insert Image by URL.md",
@@ -373,12 +276,9 @@
     "蛋白质化学/~$题目_108_123_146_147_157.docx",
     "蛋白质化学/提取题目_108_123_146_147_157.docx",
     "兽医药理学/抗寄生虫药理.md",
-    "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习.pdf",
-    "动物免疫学/免疫学复习.canvas",
     "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习_cropped.pdf",
     "动物免疫学/总论.md",
     "动物免疫学/un_locked_pdfs/Drawing 2026-01-09 20.57.32.excalidraw.md",
-    "病理生理学/shock.py",
     "病理生理学/第九章 发热.md",
     "兽医病毒学/病毒学复习.canvas",
     "兽医病毒学/RNA病毒.md",
