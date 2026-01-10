@@ -7,10 +7,14 @@
 		{"id":"6cbca24dbd47b372","type":"text","text":"### 胰岛素\n- 作用于胰岛素受体，广泛分布于机体内\n- 引起**降糖、降钾、长肉**","x":-2400,"y":-7280,"width":360,"height":257},
 		{"id":"981efa1cc09e4200","type":"text","text":"### 醛固酮\n- 作用于盐皮质激素受体，受体位于肾脏远曲小管/集合管细胞内部(脂溶性激素)\n- 作用：升高血钠、升高血压、排钾酸，间接吸水","x":-2400,"y":-7657,"width":360,"height":257},
 		{"id":"3416df48e2153d03","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#低渗性脱水","x":-3040,"y":-7423,"width":400,"height":400},
-		{"id":"be20f9b336beefc5","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#盐中毒","x":-3040,"y":-8057,"width":400,"height":400},
 		{"id":"77d6a4d2b8694cbf","type":"text","text":"\n| **病理过程** | **核心致病激素 (异常方向)**                       | **关键词**      |\n| -------- | --------------------------------------- | ------------ |\n| **水中毒**  | **ADH $\\uparrow$**                      | SIADH, 稀释性低钠 |\n| **盐中毒**  | **醛固酮 $\\uparrow$**                      | 保钠过度         |\n| **水肿**   | **醛固酮 $\\uparrow$** (继发), ADH $\\uparrow$ | 水钠潴留         |\n| **高渗脱水** | **ADH $\\downarrow$**                    | 尿崩症, 丢水保钠    |\n| **低渗脱水** | **醛固酮 $\\downarrow$**                    | 艾迪生, 丢钠保水    |\n| **高钾血症** | **醛固酮 $\\downarrow$**, 胰岛素 $\\downarrow$  | 排不出, 进不去     |\n| **低钾血症** | **醛固酮 $\\uparrow$**, 胰岛素 $\\uparrow$      | 排太多, 进太多     |\n| **代酸**   | **胰岛素 $\\downarrow$**, 醛固酮 $\\downarrow$  | 酮体, 排酸障碍     |\n| **代碱**   | **醛固酮 $\\uparrow$**                      | 排酸过度         |\n| **呼酸**   | 甲状腺素 $\\downarrow\\downarrow$ (罕见)        | 呼吸无力         |\n| **呼碱**   | **甲状腺素 $\\uparrow$**, 肾上腺素 $\\uparrow$    | 过度通气         |","x":-2230,"y":-8960,"width":560,"height":480},
 		{"id":"64cc7ab7bc5040ae","x":-2150,"y":-8400,"width":400,"height":400,"type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#水肿"},
-		{"id":"0ddd743fd334b12a","x":-2576,"y":-8400,"width":356,"height":400,"type":"text","text":"> [!note] 注意\n> 此处讨论的**有效循环血量降低**的水肿，即组织间隙中充满液体，但是血管内是空的，因此机体会分泌激素尽可能去保水、盐\n> 注意区分原发性肾脏疾病导致的排泄障碍，即“先有堵，再有肿”"}
+		{"id":"0ddd743fd334b12a","x":-2576,"y":-8400,"width":356,"height":400,"type":"text","text":"> [!note] 注意\n> 此处激素*分泌失调*讨论的**有效循环血量降低**的水肿，即组织间隙中充满液体，但是血管内是空的，因此机体会分泌激素尽可能去保水、盐\n> 注意区分原发性肾脏疾病导致的排泄障碍，即“先有堵，再有肿”"},
+		{"id":"40de9b200193161f","x":-3040,"y":-6940,"width":400,"height":400,"type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#高钾血症"},
+		{"id":"328c733f5c5e837a","x":-3040,"y":-7960,"width":400,"height":400,"type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#低钾血症"},
+		{"id":"be20f9b336beefc5","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#盐中毒","x":-3040,"y":-8480,"width":400,"height":400},
+		{"id":"dfeb1822b0c867f8","x":-3560,"y":-7728,"width":400,"height":400,"type":"file","file":"病理生理学/第八章 酸碱平衡紊乱.md","subpath":"#代谢性酸中毒"},
+		{"id":"1425aa91d4ee9a39","x":-3560,"y":-7253,"width":400,"height":413,"type":"text","text":"> [!note] 类型\n> 醛固酮分泌减少引起的是**AG正常型**代谢性酸中毒\n> 因为醛固酮的分泌减少，$H^+$的堆积会引起$HCO_3^-$的减少，会平衡电荷，肾脏会重吸收更多的$Cl^-$导致AG不变"}
 	],
 	"edges":[
 		{"id":"eb5fae986399db1c","fromNode":"5bdc82057eb95140","fromSide":"right","toNode":"bb803356fc1a8580","toSide":"left","color":"1","label":"分泌↑"},
@@ -19,6 +23,12 @@
 		{"id":"775bec3704f376fd","fromNode":"981efa1cc09e4200","fromSide":"left","toNode":"3416df48e2153d03","toSide":"right","color":"5","label":"分泌↓"},
 		{"id":"fd40ef05bf94a97e","fromNode":"981efa1cc09e4200","fromSide":"top","toNode":"64cc7ab7bc5040ae","toSide":"bottom","color":"1","label":"继发性增多"},
 		{"id":"45ac08252d6a4dfe","fromNode":"5bdc82057eb95140","fromSide":"top","toNode":"64cc7ab7bc5040ae","toSide":"bottom","color":"1","label":"增多"},
-		{"id":"dfd158aa36a2ad74","fromNode":"64cc7ab7bc5040ae","fromSide":"left","toNode":"0ddd743fd334b12a","toSide":"right"}
+		{"id":"dfd158aa36a2ad74","fromNode":"64cc7ab7bc5040ae","fromSide":"left","toNode":"0ddd743fd334b12a","toSide":"right"},
+		{"id":"f03aa5db737313fb","fromNode":"981efa1cc09e4200","fromSide":"left","toNode":"40de9b200193161f","toSide":"right","color":"5","label":"分泌↓"},
+		{"id":"48111d11e80fcdfc","fromNode":"981efa1cc09e4200","fromSide":"left","toNode":"328c733f5c5e837a","toSide":"right","color":"1","label":"分泌↑"},
+		{"id":"9a7081a1b42578b0","fromNode":"6cbca24dbd47b372","fromSide":"left","toNode":"40de9b200193161f","toSide":"right","color":"5","label":"分泌↓"},
+		{"id":"2c9b540b3c96c43d","fromNode":"6cbca24dbd47b372","fromSide":"left","toNode":"328c733f5c5e837a","toSide":"right","color":"1","label":"分泌↑"},
+		{"id":"c460b5a291e2ba7d","fromNode":"981efa1cc09e4200","fromSide":"left","toNode":"dfeb1822b0c867f8","toSide":"right","color":"5","label":"分泌↓"},
+		{"id":"1b88fa57137d08f0","fromNode":"dfeb1822b0c867f8","fromSide":"bottom","toNode":"1425aa91d4ee9a39","toSide":"top"}
 	]
 }
