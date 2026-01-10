@@ -170,9 +170,9 @@
               "state": {
                 "file": "病理生理学/病理生理学.canvas",
                 "viewState": {
-                  "x": -3356.7999267578125,
-                  "y": -7805.999969482422,
-                  "zoom": 0
+                  "x": -2484.1259760120647,
+                  "y": -7754.054395800717,
+                  "zoom": -1.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -357,7 +357,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ac728040eb561e2a",
+  "active": "42bf73e590704e7b",
   "lastOpenFiles": [
     "病理生理学/病理生理学.canvas",
     "病理生理学/ppt/第十一章 应激(1).pdf",
