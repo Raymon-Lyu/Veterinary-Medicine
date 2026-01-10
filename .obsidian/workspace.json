@@ -79,8 +79,7 @@
               "title": "第十一章 应激(1)"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "338ffc40f6565aa8",
@@ -170,9 +169,9 @@
               "state": {
                 "file": "病理生理学/病理生理学.canvas",
                 "viewState": {
-                  "x": -1859.5,
-                  "y": -6257.5,
-                  "zoom": -1.3408515267296977
+                  "x": -2082.2106932023225,
+                  "y": -6091.007047399462,
+                  "zoom": -0.6741848600630311
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -180,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -357,10 +356,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ac728040eb561e2a",
+  "active": "4c09451926e581a3",
   "lastOpenFiles": [
-    "病理生理学/第六章 缺氧.md",
+    "病理生理学/ppt/第九章 发热(1).pdf",
+    "病理生理学/ppt/第十章 休克(1).pdf",
     "病理生理学/病理生理学.canvas",
+    "病理生理学/第六章 缺氧.md",
     "病理生理学/ppt/第十一章 应激(1).pdf",
     "template/Insert Image by URL.md",
     "病理生理学/第八章 酸碱平衡紊乱.md",
@@ -376,10 +377,8 @@
     "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习_cropped.pdf",
     "动物免疫学/总论.md",
     "动物免疫学/un_locked_pdfs/Drawing 2026-01-09 20.57.32.excalidraw.md",
-    "病理生理学/ppt/第十章 休克(1).pdf",
     "病理生理学/shock.py",
     "病理生理学/第九章 发热.md",
-    "病理生理学/ppt/第九章 发热(1).pdf",
     "兽医病毒学/病毒学复习.canvas",
     "兽医病毒学/RNA病毒.md",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
