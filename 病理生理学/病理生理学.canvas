@@ -15,7 +15,8 @@
 		{"id":"b2c8da35afd1825b","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#高渗性脱水","x":-1186,"y":-7400,"width":400,"height":400},
 		{"id":"bb803356fc1a8580","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#水中毒","x":-1186,"y":-8057,"width":400,"height":400},
 		{"id":"7fa617f288ca9c72","x":-2449,"y":-6740,"width":1179,"height":965,"type":"file","file":"病理生理学/救治方案.md"},
-		{"id":"328c733f5c5e837a","x":-3040,"y":-8000,"width":400,"height":400,"type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#低钾血症"}
+		{"id":"328c733f5c5e837a","x":-3040,"y":-8000,"width":400,"height":400,"type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#低钾血症"},
+		{"id":"64b3bb43ccd06de6","x":-2381,"y":-5237,"width":1981,"height":637,"type":"text","text":"```mermaid\ngraph LR\n    A[有效循环血量减少 <br> Hypovolemia] -->|刺激| B(RAAS系统激活 <br> 醛固酮分泌)\n    B -->|指令1: 保钠保水| C[肾小管重吸收 Na+]\n    C -->|代价: 必须排出一个正电荷| D{排 K+ 还是排 H+?}\n    \n    D -->|通常情况| E[排 K+ <br> 导致低钾血症]\n    D -->|如果缺钾严重| F[排 H+ <br> 导致代谢性碱中毒]\n    \n    style A fill:#f9f,stroke:#333,stroke-width:2px\n    style B fill:#ffd,stroke:#333,stroke-width:2px\n    style D fill:#bbf,stroke:#333,stroke-width:2px\n    style F fill:#f96,stroke:#333,stroke-width:4px\n```"}
 	],
 	"edges":[
 		{"id":"eb5fae986399db1c","fromNode":"5bdc82057eb95140","fromSide":"right","toNode":"bb803356fc1a8580","toSide":"left","color":"1","label":"分泌↑"},
