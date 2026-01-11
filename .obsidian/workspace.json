@@ -6,6 +6,7 @@
       {
         "id": "f6249561c5c5b265",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "eb5642af37a48104",
@@ -80,11 +81,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3eca75c2f0b095d9",
         "type": "tabs",
+        "dimension": 23.502604166666664,
         "children": [
           {
             "id": "a1e08920979028a6",
@@ -94,8 +96,8 @@
               "state": {
                 "file": "病理生理学/病理生理学.canvas",
                 "viewState": {
-                  "x": -1505.9127441315131,
-                  "y": -4693.7387361994915,
+                  "x": -1982.7540780248096,
+                  "y": -7051.135525117784,
                   "zoom": -1.2592920041479772
                 }
               },
@@ -108,6 +110,7 @@
       {
         "id": "26e4c6f6f552bd98",
         "type": "tabs",
+        "dimension": 43.1640625,
         "children": [
           {
             "id": "c0a281a30edda131",
@@ -253,12 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "病理生理学/病理生理学.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "病理生理学 的大纲"
             }
           },
           {
@@ -296,13 +300,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0a281a30edda131",
+  "active": "a1e08920979028a6",
   "lastOpenFiles": [
     "病理生理学/病理生理学.canvas",
+    "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf",
     "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf",
     "病理生理学/第六章 缺氧.md",
     "病理生理学/ppt/第六章 缺氧(1).pdf",
-    "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf",
     "病理生理学/ppt/第十一章 应激(1).pdf",
     "病理生理学/ppt/第十章 休克(1).pdf",
     "病理生理学/ppt/第九章 发热(1).pdf",
