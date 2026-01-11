@@ -6,7 +6,7 @@
       {
         "id": "d5fc85020318b0a7",
         "type": "tabs",
-        "dimension": 32.94270833333333,
+        "dimension": 32.942708333333336,
         "children": [
           {
             "id": "4c09451926e581a3",
@@ -79,28 +79,6 @@
               "icon": "lucide-file-text",
               "title": "第十一章 应激(1)"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "338ffc40f6565aa8",
-        "type": "tabs",
-        "dimension": 33.72395833333333,
-        "children": [
-          {
-            "id": "ac728040eb561e2a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/app/12ea46f50bbab6de",
-                "title": "Google Gemini",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Google Gemini"
-            }
           },
           {
             "id": "751a12eb2e66e173",
@@ -114,12 +92,34 @@
               "title": "《病理生理学》人卫第9版教材--高清彩色"
             }
           }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "338ffc40f6565aa8",
+        "type": "tabs",
+        "dimension": 33.723958333333336,
+        "children": [
+          {
+            "id": "ac728040eb561e2a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app/12ea46f50bbab6de",
+                "title": "Google Gemini",
+                "mode": "error"
+              },
+              "icon": "globe-2",
+              "title": "Google Gemini"
+            }
+          }
         ]
       },
       {
         "id": "f6836a37d7a5e897",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "3762b01205745737",
@@ -185,9 +185,9 @@
               "state": {
                 "file": "病理生理学/病理生理学.canvas",
                 "viewState": {
-                  "x": -1909.8771091164658,
-                  "y": -7610.842209141291,
-                  "zoom": -0.7561833553060886
+                  "x": -2841.599853515625,
+                  "y": -7215,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -386,10 +386,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ac728040eb561e2a",
+  "active": "42bf73e590704e7b",
   "lastOpenFiles": [
-    "人卫九版教材/《病理生理学》人卫第9版教材--高清彩色.pdf",
     "病理生理学/病理生理学.canvas",
+    "人卫九版教材/《病理生理学》人卫第9版教材--高清彩色.pdf",
     "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf",
     "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf",
     "病理生理学/第七章 水和电解质代谢紊乱.md",

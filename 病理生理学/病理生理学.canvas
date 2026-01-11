@@ -5,18 +5,20 @@
 		{"id":"6cbca24dbd47b372","type":"text","text":"### 胰岛素\n- 作用于胰岛素受体，广泛分布于机体内\n- 引起**降糖、降钾、长肉**","x":-2400,"y":-7280,"width":360,"height":257},
 		{"id":"981efa1cc09e4200","type":"text","text":"### 醛固酮\n- 作用于盐皮质激素受体，受体位于肾脏远曲小管/集合管细胞内部(脂溶性激素)\n- 作用：升高血钠、升高血压、排钾酸，间接吸水","x":-2400,"y":-7657,"width":360,"height":257},
 		{"id":"3416df48e2153d03","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#低渗性脱水","x":-3040,"y":-7423,"width":400,"height":400},
-		{"id":"64cc7ab7bc5040ae","x":-2150,"y":-8400,"width":400,"height":400,"type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#水肿"},
-		{"id":"0ddd743fd334b12a","x":-2576,"y":-8400,"width":356,"height":400,"type":"text","text":"> [!note] 注意\n> 此处激素*分泌失调*讨论的**有效循环血量降低**的水肿，即组织间隙中充满液体，但是血管内是空的，因此机体会分泌激素尽可能去保水、盐\n> 注意区分原发性肾脏疾病导致的排泄障碍，即“先有堵，再有肿”"},
-		{"id":"40de9b200193161f","x":-3040,"y":-6940,"width":400,"height":400,"type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#高钾血症"},
+		{"id":"64cc7ab7bc5040ae","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#水肿","x":-2150,"y":-8400,"width":400,"height":400},
+		{"id":"0ddd743fd334b12a","type":"text","text":"> [!note] 注意\n> 此处激素*分泌失调*讨论的**有效循环血量降低**的水肿，即组织间隙中充满液体，但是血管内是空的，因此机体会分泌激素尽可能去保水、盐\n> 注意区分原发性肾脏疾病导致的排泄障碍，即“先有堵，再有肿”","x":-2576,"y":-8400,"width":356,"height":400},
+		{"id":"40de9b200193161f","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#高钾血症","x":-3040,"y":-6940,"width":400,"height":400},
 		{"id":"be20f9b336beefc5","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#盐中毒","x":-3040,"y":-8480,"width":400,"height":400},
-		{"id":"dfeb1822b0c867f8","x":-3560,"y":-7728,"width":400,"height":400,"type":"file","file":"病理生理学/第八章 酸碱平衡紊乱.md","subpath":"#代谢性酸中毒"},
-		{"id":"1425aa91d4ee9a39","x":-3560,"y":-7253,"width":400,"height":413,"type":"text","text":"> [!note] 类型\n> 醛固酮分泌减少引起的是**AG正常型**代谢性酸中毒\n> 因为醛固酮的分泌减少，$H^+$的堆积会引起$HCO_3^-$的减少，会平衡电荷，肾脏会重吸收更多的$Cl^-$导致AG不变"},
-		{"id":"3ed9bd48a231c044","x":-3560,"y":-8240,"width":400,"height":400,"type":"file","file":"病理生理学/第八章 酸碱平衡紊乱.md","subpath":"#代谢性碱中毒"},
+		{"id":"dfeb1822b0c867f8","type":"file","file":"病理生理学/第八章 酸碱平衡紊乱.md","subpath":"#代谢性酸中毒","x":-3560,"y":-7728,"width":400,"height":400},
+		{"id":"1425aa91d4ee9a39","type":"text","text":"> [!note] 类型\n> 醛固酮分泌减少引起的是**AG正常型**代谢性酸中毒\n> 因为醛固酮的分泌减少，$H^+$的堆积会引起$HCO_3^-$的减少，会平衡电荷，肾脏会重吸收更多的$Cl^-$导致AG不变","x":-3560,"y":-7253,"width":400,"height":413},
+		{"id":"3ed9bd48a231c044","type":"file","file":"病理生理学/第八章 酸碱平衡紊乱.md","subpath":"#代谢性碱中毒","x":-3560,"y":-8240,"width":400,"height":400},
 		{"id":"b2c8da35afd1825b","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#高渗性脱水","x":-1186,"y":-7400,"width":400,"height":400},
 		{"id":"bb803356fc1a8580","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#水中毒","x":-1186,"y":-8057,"width":400,"height":400},
-		{"id":"7fa617f288ca9c72","x":-2449,"y":-6740,"width":1179,"height":965,"type":"file","file":"病理生理学/救治方案.md"},
-		{"id":"328c733f5c5e837a","x":-3040,"y":-8000,"width":400,"height":400,"type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#低钾血症"},
-		{"id":"64b3bb43ccd06de6","x":-2381,"y":-5237,"width":1981,"height":637,"type":"text","text":"```mermaid\ngraph LR\n    A[有效循环血量减少 <br> Hypovolemia] -->|刺激| B(RAAS系统激活 <br> 醛固酮分泌)\n    B -->|指令1: 保钠保水| C[肾小管重吸收 Na+]\n    C -->|代价: 必须排出一个正电荷| D{排 K+ 还是排 H+?}\n    \n    D -->|通常情况| E[排 K+ <br> 导致低钾血症]\n    D -->|如果缺钾严重| F[排 H+ <br> 导致代谢性碱中毒]\n    \n    style A fill:#f9f,stroke:#333,stroke-width:2px\n    style B fill:#ffd,stroke:#333,stroke-width:2px\n    style D fill:#bbf,stroke:#333,stroke-width:2px\n    style F fill:#f96,stroke:#333,stroke-width:4px\n```"}
+		{"id":"328c733f5c5e837a","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#低钾血症","x":-3040,"y":-8000,"width":400,"height":400},
+		{"id":"64b3bb43ccd06de6","type":"text","text":"```mermaid\ngraph LR\n    A[有效循环血量减少 <br> Hypovolemia] -->|刺激| B(RAAS系统激活 <br> 醛固酮分泌)\n    B -->|指令1: 保钠保水| C[肾小管重吸收 Na+]\n    C -->|代价: 必须排出一个正电荷| D{排 K+ 还是排 H+?}\n    \n    D -->|通常情况| E[排 K+ <br> 导致低钾血症]\n    D -->|如果缺钾严重| F[排 H+ <br> 导致代谢性碱中毒]\n    \n    style A fill:#f9f,stroke:#333,stroke-width:2px\n    style B fill:#ffd,stroke:#333,stroke-width:2px\n    style D fill:#bbf,stroke:#333,stroke-width:2px\n    style F fill:#f96,stroke:#333,stroke-width:4px\n```","x":-2381,"y":-5237,"width":1981,"height":637},
+		{"id":"bbaf2a3af2856e83","type":"text","text":"> [!note] 经皮肤丢失体液\n> - 正常情况：生成等渗体液而后对盐离子进行重吸收，因此丢失的是**低渗性体液**；皮肤的无感蒸发属于水分的直接挥发\n> - 病理情况：大面积烧伤时，皮肤屏障被破坏，**等渗性体液**直接丢失","x":-703,"y":-6832,"width":503,"height":452},
+		{"id":"7fa617f288ca9c72","type":"file","file":"病理生理学/救治方案.md","x":-2520,"y":-6040,"width":1179,"height":965},
+		{"id":"f6562e5b577bd324","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#等渗性脱水","x":-1880,"y":-6606,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"eb5fae986399db1c","fromNode":"5bdc82057eb95140","fromSide":"right","toNode":"bb803356fc1a8580","toSide":"left","color":"1","label":"分泌↑"},
@@ -32,6 +34,9 @@
 		{"id":"2c9b540b3c96c43d","fromNode":"6cbca24dbd47b372","fromSide":"left","toNode":"328c733f5c5e837a","toSide":"right","color":"1","label":"分泌↑"},
 		{"id":"c460b5a291e2ba7d","fromNode":"981efa1cc09e4200","fromSide":"left","toNode":"dfeb1822b0c867f8","toSide":"right","color":"5","label":"分泌↓"},
 		{"id":"1b88fa57137d08f0","fromNode":"dfeb1822b0c867f8","fromSide":"bottom","toNode":"1425aa91d4ee9a39","toSide":"top"},
-		{"id":"4d60f27a480717ed","fromNode":"981efa1cc09e4200","fromSide":"left","toNode":"3ed9bd48a231c044","toSide":"right","color":"1"}
+		{"id":"4d60f27a480717ed","fromNode":"981efa1cc09e4200","fromSide":"left","toNode":"3ed9bd48a231c044","toSide":"right","color":"1"},
+		{"id":"e4a7f81c617c2c5a","fromNode":"b2c8da35afd1825b","fromSide":"right","toNode":"bbaf2a3af2856e83","toSide":"left"},
+		{"id":"4ad1f4fbaaf64ec7","fromNode":"f6562e5b577bd324","fromSide":"right","toNode":"b2c8da35afd1825b","toSide":"bottom","color":"2","label":"补液不及时\n无感蒸发丢失水分"},
+		{"id":"9d3106ccd62ff0c4","fromNode":"f6562e5b577bd324","fromSide":"left","toNode":"3416df48e2153d03","toSide":"bottom","color":"3","label":"补充水分过度"}
 	]
 }
