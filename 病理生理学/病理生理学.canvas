@@ -37,6 +37,7 @@
 		{"id":"4d60f27a480717ed","fromNode":"981efa1cc09e4200","fromSide":"left","toNode":"3ed9bd48a231c044","toSide":"right","color":"1"},
 		{"id":"e4a7f81c617c2c5a","fromNode":"b2c8da35afd1825b","fromSide":"right","toNode":"bbaf2a3af2856e83","toSide":"left"},
 		{"id":"4ad1f4fbaaf64ec7","fromNode":"f6562e5b577bd324","fromSide":"right","toNode":"b2c8da35afd1825b","toSide":"bottom","color":"2","label":"补液不及时\n无感蒸发丢失水分"},
-		{"id":"9d3106ccd62ff0c4","fromNode":"f6562e5b577bd324","fromSide":"left","toNode":"3416df48e2153d03","toSide":"bottom","color":"3","label":"补充水分过度"}
+		{"id":"9d3106ccd62ff0c4","fromNode":"f6562e5b577bd324","fromSide":"left","toNode":"3416df48e2153d03","toSide":"bottom","color":"3","label":"补充水分过度"},
+		{"id":"fd29882d17a78528","fromNode":"981efa1cc09e4200","fromSide":"right","toNode":"5bdc82057eb95140","toSide":"left","fromEnd":"arrow","color":"#31c1c4","label":"肝脏灭活\n肝脏异常\n导致增加"}
 	]
 }
