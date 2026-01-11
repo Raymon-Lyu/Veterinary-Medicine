@@ -33,35 +33,12 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://duckduckgo.com/?q=gemini",
-                    "title": "duckduckgo.com/?q=gemini",
-                    "mode": "error"
+                    "url": "https://gemini.google.com/app/3c7d584c8e9e66d1",
+                    "title": "Google Gemini",
+                    "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "duckduckgo.com/?q=gemini"
-                }
-              }
-            ]
-          },
-          {
-            "id": "b179f147dd7d032f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5ec16f6370fbb50e",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "动物免疫学/免疫学复习.canvas",
-                    "viewState": {
-                      "x": 162,
-                      "y": 740,
-                      "zoom": -2.1819483004247404
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "免疫学复习"
+                  "title": "Google Gemini"
                 }
               }
             ]
@@ -226,8 +203,8 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "391b159fb07a8385",
-      "mtime": "2026-01-11T14:43:05+08:00"
+      "active": "4f4296f9d550f5d5",
+      "mtime": "2026-01-11T17:11:52+08:00"
     }
   },
   "active": "动物免疫学"
