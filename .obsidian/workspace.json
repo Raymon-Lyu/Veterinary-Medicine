@@ -4,6 +4,85 @@
     "type": "split",
     "children": [
       {
+        "id": "f6249561c5c5b265",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5642af37a48104",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理生理学/ppt/第六章 缺氧(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第六章 缺氧(1)"
+            }
+          },
+          {
+            "id": "1bfdd3a5c682cb03",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第七章 水盐代谢障碍(1)"
+            }
+          },
+          {
+            "id": "c2caa7fa339e7887",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第八章 酸碱平衡紊乱(1)"
+            }
+          },
+          {
+            "id": "6fb261625317cd5d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理生理学/ppt/第九章 发热(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第九章 发热(1)"
+            }
+          },
+          {
+            "id": "93827248fdd05e20",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理生理学/ppt/第十章 休克(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第十章 休克(1)"
+            }
+          },
+          {
+            "id": "2e9257441c6a9210",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "病理生理学/ppt/第十一章 应激(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第十一章 应激(1)"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
         "id": "3eca75c2f0b095d9",
         "type": "tabs",
         "children": [
@@ -15,8 +94,8 @@
               "state": {
                 "file": "病理生理学/病理生理学.canvas",
                 "viewState": {
-                  "x": -2841.3669496380753,
-                  "y": -7140.916172200474,
+                  "x": -1536.0520373877816,
+                  "y": -6744.013651124648,
                   "zoom": -0.5926253374813106
                 }
               },
@@ -174,19 +253,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "病理生理学/病理生理学.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "病理生理学 的大纲"
+            }
+          },
+          {
+            "id": "5c8d070469efec54",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -206,8 +297,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0a281a30edda131",
+  "active": "a1e08920979028a6",
   "lastOpenFiles": [
+    "病理生理学/ppt/第十一章 应激(1).pdf",
+    "病理生理学/ppt/第十章 休克(1).pdf",
+    "病理生理学/ppt/第九章 发热(1).pdf",
+    "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf",
+    "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf",
+    "病理生理学/ppt/第六章 缺氧(1).pdf",
+    "Excalidraw/Drawing 2026-01-11 21.06.49.excalidraw.md",
+    "Excalidraw",
+    "病理生理学/第六章 缺氧.md",
     "病理生理学/病理生理学.canvas",
     "template/Two Image Compare.md",
     "656f04c8dcac10225296b39f6a11efab.png",
