@@ -40,29 +40,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "b179f147dd7d032f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5ec16f6370fbb50e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "动物免疫学/免疫学复习.canvas",
-                "viewState": {
-                  "x": 162,
-                  "y": -104.00463499420653,
-                  "zoom": -2.1819483004247404
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "免疫学复习"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
