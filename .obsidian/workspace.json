@@ -1,222 +1,100 @@
 {
   "main": {
-    "id": "3deaa63f3fd4caaa",
+    "id": "ed144906ce891c19",
     "type": "split",
     "children": [
       {
-        "id": "d5fc85020318b0a7",
+        "id": "0daa7947848e52e4",
         "type": "tabs",
-        "dimension": 32.942708333333336,
         "children": [
           {
-            "id": "4c09451926e581a3",
+            "id": "391b159fb07a8385",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "病理生理学/ppt/第六章 缺氧(1).pdf"
+                "file": "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "第六章 缺氧(1)"
-            }
-          },
-          {
-            "id": "fa5c8e127a2d626f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第七章 水盐代谢障碍(1)"
-            }
-          },
-          {
-            "id": "278871da2153ffc5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第八章 酸碱平衡紊乱(1)"
-            }
-          },
-          {
-            "id": "b9080944b32687e7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/ppt/第九章 发热(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第九章 发热(1)"
-            }
-          },
-          {
-            "id": "64141e820880c40b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/ppt/第十章 休克(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第十章 休克(1)"
-            }
-          },
-          {
-            "id": "ec985832cf38a018",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/ppt/第十一章 应激(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第十一章 应激(1)"
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "338ffc40f6565aa8",
-        "type": "tabs",
-        "dimension": 33.723958333333336,
-        "children": [
-          {
-            "id": "ac728040eb561e2a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/app/12ea46f50bbab6de",
-                "title": "Google Gemini",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "unlocked_2025-2026冬学期复习"
             }
           }
         ]
       },
       {
-        "id": "f6836a37d7a5e897",
+        "id": "2d4159e2ecfa134d",
         "type": "tabs",
-        "dimension": 33.333333333333336,
         "children": [
           {
-            "id": "3762b01205745737",
+            "id": "4f4296f9d550f5d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "病理生理学/救治方案.md",
-                "mode": "preview",
-                "source": true
+                "url": "https://duckduckgo.com/?q=gemini",
+                "title": "duckduckgo.com/?q=gemini",
+                "mode": "error"
               },
-              "icon": "lucide-file",
-              "title": "救治方案"
+              "icon": "globe-2",
+              "title": "duckduckgo.com/?q=gemini"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b179f147dd7d032f",
+        "type": "tabs",
+        "children": [
           {
-            "id": "f5fa81011f1793c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理生理学/第六章 缺氧.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第六章 缺氧"
-            }
-          },
-          {
-            "id": "a50b85839ddd5728",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理生理学/第九章 发热.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第九章 发热"
-            }
-          },
-          {
-            "id": "2863e14ee96b501f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理生理学/第十章 休克.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第十章 休克"
-            }
-          },
-          {
-            "id": "42bf73e590704e7b",
+            "id": "5ec16f6370fbb50e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "病理生理学/病理生理学.canvas",
+                "file": "动物免疫学/免疫学复习.canvas",
                 "viewState": {
-                  "x": -2631.6363769769673,
-                  "y": -7328.705635589363,
-                  "zoom": -1.3408515267296977
+                  "x": 162,
+                  "y": 740,
+                  "zoom": -2.1819483004247404
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "病理生理学"
-            }
-          },
-          {
-            "id": "c26699389cd023ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理生理学/第七章 水和电解质代谢紊乱.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第七章 水和电解质代谢紊乱"
+              "title": "免疫学复习"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "06a612ccd6a95261",
+    "id": "9f28066bd5ad8c31",
     "type": "split",
     "children": [
       {
-        "id": "445d90c840ebb567",
+        "id": "a41835534347a29c",
         "type": "tabs",
         "children": [
           {
-            "id": "d1a8f1996a83f1fc",
+            "id": "9417d413612a1b48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "45a7a07d165aab15",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "乙酰唑",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,7 +106,7 @@
             }
           },
           {
-            "id": "5bb3729d24515dc7",
+            "id": "4fb8ab83510d2482",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -238,40 +116,36 @@
             }
           },
           {
-            "id": "a50c7cba2bbba794",
+            "id": "28e8a5497a892f3b",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "fbc1bacdc541d8a6",
+    "id": "be2a306ddf7e6c09",
     "type": "split",
     "children": [
       {
-        "id": "7ccfdd43e08801fd",
+        "id": "8017fd4ef1ebd602",
         "type": "tabs",
         "children": [
           {
-            "id": "70b5367656ff1aa0",
+            "id": "b6e27a54e8f2fd37",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "动物育种学/ppt/Chapter06.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,25 +155,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Chapter06 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "19add346a1a36a3c",
+            "id": "b3a5604057d7a80b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "兽医药理学/化学合成抗菌药.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "化学合成抗菌药 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "03bb2004de386d8b",
+            "id": "b9b028c216a225ba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -314,117 +187,46 @@
             }
           },
           {
-            "id": "eac461e22a5fa0ff",
+            "id": "e4a27a2bf92ae123",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医药理学/总论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "总论 的大纲"
-            }
-          },
-          {
-            "id": "01d3e01d314f1fbf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "9f91a138cf86c965",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "title": "大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:创建新看板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
       "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "workspaces:管理工作区布局": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "42bf73e590704e7b",
+  "active": "4f4296f9d550f5d5",
   "lastOpenFiles": [
-    "病理生理学/病理生理学.canvas",
-    "人卫九版教材/《病理生理学》人卫第9版教材--高清彩色.pdf",
-    "病理生理学/第十章 休克.md",
-    "病理生理学/第六章 缺氧.md",
-    "病理生理学/第九章 发热.md",
-    "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf",
-    "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf",
-    "病理生理学/第七章 水和电解质代谢紊乱.md",
-    "人卫九版教材/《病理学（第10版）》.pdf",
-    "病理生理学/ppt/第十一章 应激(1).pdf",
-    "病理生理学/ppt/第十章 休克(1).pdf",
-    "病理生理学/ppt/第六章 缺氧(1).pdf",
-    "病理生理学/ppt/第九章 发热(1).pdf",
     "动物免疫学/免疫学复习.canvas",
-    "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习.pdf",
-    "template/Insert Image by URL.md",
-    "病理生理学/第八章 酸碱平衡紊乱.md",
-    "病理生理学/救治方案.md",
-    "兽医药理学/祖传ppt/0-1 绪论-已融合.pdf",
-    "兽医药理学/抗寄生虫药理.md",
-    "动物免疫学/总论.md",
-    "动物免疫学/un_locked_pdfs/Drawing 2026-01-09 20.57.32.excalidraw.md",
-    "兽医病毒学/病毒学复习.canvas",
-    "兽医病毒学/RNA病毒.md",
-    "兽医病毒学/DNA病毒.md",
-    "个人总结.md",
-    "动物免疫学/免疫调节.md",
-    "生物分离工程/DDD.md",
-    "动物免疫学/免疫系统.md",
-    "动物免疫学/抗原.md",
-    "656f04c8dcac10225296b39f6a11efab.png",
-    "大纲.md",
-    "动物免疫学/疫苗.md",
-    "兽医病毒学/总论.md",
-    "病理解剖学/总论.md",
-    "兽医病毒学/未命名.md",
-    "兽医药理学/药理学复习.canvas",
-    "兽医药理学/抗微生物药.md",
-    "兽医药理学/抗微生物药理.md",
-    "动物免疫学/抗感染免疫.md",
-    "生物分离工程/乙醇浓度.jpg",
-    "生物分离工程/分离方法汇总.jpg",
-    "Pasted image 20251103214211.png",
-    "Pasted image 20251103151622.png",
-    "Pasted image 20251102202302.png",
-    "Pasted image 20251025221057.png",
-    "病理解剖学/未命名.canvas",
-    "Pasted image 20251015152633.png",
-    "未命名.canvas",
-    "Pasted image 20251003105047.png",
-    "Pasted image 20251003104046.png"
+    "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习.pdf"
   ]
 }
