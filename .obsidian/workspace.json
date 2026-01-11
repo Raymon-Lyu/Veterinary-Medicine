@@ -79,8 +79,7 @@
               "title": "第十一章 应激(1)"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "3eca75c2f0b095d9",
@@ -94,8 +93,8 @@
               "state": {
                 "file": "病理生理学/病理生理学.canvas",
                 "viewState": {
-                  "x": -1536.0520373877816,
-                  "y": -6744.013651124648,
+                  "x": -2931.405889913263,
+                  "y": -5910.397620690337,
                   "zoom": -0.5926253374813106
                 }
               },
@@ -253,13 +252,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "病理生理学/病理生理学.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "病理生理学 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -297,25 +295,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1e08920979028a6",
+  "active": "c0a281a30edda131",
   "lastOpenFiles": [
+    "病理生理学/ppt/第六章 缺氧(1).pdf",
+    "病理生理学/病理生理学.canvas",
+    "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf",
     "病理生理学/ppt/第十一章 应激(1).pdf",
     "病理生理学/ppt/第十章 休克(1).pdf",
     "病理生理学/ppt/第九章 发热(1).pdf",
-    "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf",
     "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf",
-    "病理生理学/ppt/第六章 缺氧(1).pdf",
     "Excalidraw/Drawing 2026-01-11 21.06.49.excalidraw.md",
     "Excalidraw",
     "病理生理学/第六章 缺氧.md",
-    "病理生理学/病理生理学.canvas",
     "template/Two Image Compare.md",
     "656f04c8dcac10225296b39f6a11efab.png",
     "兽医药理学/药理学复习.canvas",
     "动物育种学整理-李燕 1.pdf",
     "动物育种学整理-李燕.pdf",
     "兽医药理学/祖传ppt/0-1 绪论-已融合.pdf",
-    "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习.pdf",
     "动物免疫学/免疫学复习.canvas"
   ]
 }
