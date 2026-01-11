@@ -15,13 +15,46 @@
               "state": {
                 "file": "兽医药理学/药理学复习.canvas",
                 "viewState": {
-                  "x": 1252.4011840820312,
-                  "y": 328.79998779296864,
-                  "zoom": -1.9999999999999998
+                  "x": 1292.0001464843758,
+                  "y": -333.7599023437497,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "药理学复习"
+            }
+          },
+          {
+            "id": "80ff22663cbc7f51",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "兽医药理学/祖传ppt/0-1 绪论-已融合.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "0-1 绪论-已融合"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "26e4c6f6f552bd98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0a281a30edda131",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app/baf3d131a62c5803",
+                "title": "Google Gemini",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google Gemini"
             }
           }
         ]
@@ -186,8 +219,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "daa6bb0a2d309dd6",
+  "active": "c0a281a30edda131",
   "lastOpenFiles": [
+    "兽医药理学/祖传ppt/0-1 绪论-已融合.pdf",
+    "兽医药理学/药理学复习.canvas",
     "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习.pdf",
     "动物免疫学/免疫学复习.canvas"
   ]

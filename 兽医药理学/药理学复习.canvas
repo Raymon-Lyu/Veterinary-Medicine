@@ -1,6 +1,17 @@
 {
 	"nodes":[
-		{"id":"3f991b68e61ea258","type":"file","file":"兽医药理学/总论.md","x":-127,"y":-173,"width":400,"height":400}
+		{"id":"3f991b68e61ea258","type":"file","file":"兽医药理学/总论.md","x":-127,"y":-173,"width":400,"height":400},
+		{"id":"78b12af1473d8371","x":939,"y":-936,"width":250,"height":96,"type":"text","text":"神经系统药理"},
+		{"id":"204b00e4b90e3536","x":1309,"y":-1326,"width":691,"height":400,"type":"file","file":"兽医药理学/外周神经系统药理.md"},
+		{"id":"64621fa3d3320afa","x":1304,"y":-876,"width":696,"height":400,"type":"file","file":"兽医药理学/中枢神经系统药理.md"},
+		{"id":"0545e2c05ae7ac7b","x":814,"y":-281,"width":250,"height":60,"type":"text","text":"心血管系统"},
+		{"id":"8929110628b4bde5","x":1304,"y":-373,"width":696,"height":400,"type":"file","file":"兽医药理学/血液循环系统药理.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"cab4a38f64ead6bb","fromNode":"3f991b68e61ea258","fromSide":"right","toNode":"78b12af1473d8371","toSide":"left"},
+		{"id":"c92304552b767cf7","fromNode":"78b12af1473d8371","fromSide":"right","toNode":"204b00e4b90e3536","toSide":"left"},
+		{"id":"f35910f9cd00bc33","fromNode":"78b12af1473d8371","fromSide":"right","toNode":"64621fa3d3320afa","toSide":"left"},
+		{"id":"7a6fb09d37f42007","fromNode":"3f991b68e61ea258","fromSide":"right","toNode":"0545e2c05ae7ac7b","toSide":"left"},
+		{"id":"69e70a325a8c0a63","fromNode":"0545e2c05ae7ac7b","fromSide":"right","toNode":"8929110628b4bde5","toSide":"left"}
+	]
 }
