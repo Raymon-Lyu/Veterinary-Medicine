@@ -20,7 +20,8 @@
 		{"id":"7fa617f288ca9c72","type":"file","file":"病理生理学/救治方案.md","x":-2520,"y":-6040,"width":1179,"height":965},
 		{"id":"f6562e5b577bd324","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#等渗性脱水","x":-1880,"y":-6606,"width":400,"height":400},
 		{"id":"62322208490d8204","x":-3280,"y":-6100,"width":720,"height":480,"type":"file","file":"病理生理学/第十章 休克.md"},
-		{"id":"b462fbf500902155","x":-3120,"y":-4600,"width":1043,"height":1203,"type":"file","file":"病理生理学/第六章 缺氧.md"}
+		{"id":"b462fbf500902155","x":-3120,"y":-4600,"width":1043,"height":1203,"type":"file","file":"病理生理学/第六章 缺氧.md"},
+		{"id":"9d2d7dc09490cc33","x":-3620,"y":-6716,"width":580,"height":396,"type":"text","text":"\n| 指标  | 高钾血症 | 低钾血症 |\n| --- | ---- | ---- |\n| 兴奋性 |      |      |\n| 传导性 |      |      |\n| 自律性 |      |      |\n| 收缩性 |      |      |\n"}
 	],
 	"edges":[
 		{"id":"eb5fae986399db1c","fromNode":"5bdc82057eb95140","fromSide":"right","toNode":"bb803356fc1a8580","toSide":"left","color":"1","label":"分泌↑"},
