@@ -8,15 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80ff22663cbc7f51",
+            "id": "a1e08920979028a6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "兽医药理学/祖传ppt/0-1 绪论-已融合.pdf"
+                "file": "病理生理学/病理生理学.canvas",
+                "viewState": {
+                  "x": -2424.4162792892866,
+                  "y": -7530.605587728835,
+                  "zoom": -1.2592920041479772
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "0-1 绪论-已融合"
+              "icon": "lucide-layout-dashboard",
+              "title": "病理生理学"
             }
           }
         ]
@@ -31,7 +36,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/593d552a3a6ea570",
+                "url": "https://gemini.google.com/app/5a2b36227d7e9453",
                 "title": "Google Gemini",
                 "mode": "webview"
               },
@@ -106,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -202,6 +208,7 @@
   },
   "active": "c0a281a30edda131",
   "lastOpenFiles": [
+    "病理生理学/病理生理学.canvas",
     "template/Two Image Compare.md",
     "656f04c8dcac10225296b39f6a11efab.png",
     "兽医药理学/药理学复习.canvas",

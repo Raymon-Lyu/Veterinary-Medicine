@@ -205,7 +205,213 @@
       },
       "active": "4f4296f9d550f5d5",
       "mtime": "2026-01-11T17:11:52+08:00"
+    },
+    "动物药理学": {
+      "main": {
+        "id": "ed144906ce891c19",
+        "type": "split",
+        "children": [
+          {
+            "id": "3eca75c2f0b095d9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "80ff22663cbc7f51",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "兽医药理学/祖传ppt/0-1 绪论-已融合.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "0-1 绪论-已融合"
+                }
+              }
+            ]
+          },
+          {
+            "id": "26e4c6f6f552bd98",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c0a281a30edda131",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://gemini.google.com/app/593d552a3a6ea570",
+                    "title": "Google Gemini",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Google Gemini"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f28066bd5ad8c31",
+        "type": "split",
+        "children": [
+          {
+            "id": "a41835534347a29c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9417d413612a1b48",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "45a7a07d165aab15",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "4fb8ab83510d2482",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              },
+              {
+                "id": "28e8a5497a892f3b",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "be2a306ddf7e6c09",
+        "type": "split",
+        "children": [
+          {
+            "id": "8017fd4ef1ebd602",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b6e27a54e8f2fd37",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "反向链接"
+                }
+              },
+              {
+                "id": "b3a5604057d7a80b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "出链"
+                }
+              },
+              {
+                "id": "b9b028c216a225ba",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "e4a27a2bf92ae123",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "大纲"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false,
+          "bases:创建新数据库": false,
+          "obsidian-git:Open Git source control": false,
+          "obsidian-kanban:创建新看板": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "c0a281a30edda131",
+      "mtime": "2026-01-11T19:23:40+08:00"
     }
   },
-  "active": "动物免疫学"
+  "active": "动物药理学"
 }
