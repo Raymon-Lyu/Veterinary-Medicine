@@ -1,11 +1,12 @@
 {
 	"nodes":[
 		{"id":"3f991b68e61ea258","type":"file","file":"兽医药理学/总论.md","x":-127,"y":-173,"width":400,"height":400},
-		{"id":"78b12af1473d8371","x":939,"y":-936,"width":250,"height":96,"type":"text","text":"神经系统药理"},
-		{"id":"204b00e4b90e3536","x":1309,"y":-1326,"width":691,"height":400,"type":"file","file":"兽医药理学/外周神经系统药理.md"},
-		{"id":"64621fa3d3320afa","x":1304,"y":-876,"width":696,"height":400,"type":"file","file":"兽医药理学/中枢神经系统药理.md"},
-		{"id":"0545e2c05ae7ac7b","x":814,"y":-281,"width":250,"height":60,"type":"text","text":"心血管系统"},
-		{"id":"8929110628b4bde5","x":1304,"y":-373,"width":696,"height":400,"type":"file","file":"兽医药理学/血液循环系统药理.md"}
+		{"id":"78b12af1473d8371","type":"text","text":"神经系统药理","x":939,"y":-936,"width":250,"height":96},
+		{"id":"204b00e4b90e3536","type":"file","file":"兽医药理学/外周神经系统药理.md","x":1309,"y":-1326,"width":691,"height":400},
+		{"id":"64621fa3d3320afa","type":"file","file":"兽医药理学/中枢神经系统药理.md","x":1304,"y":-876,"width":696,"height":400},
+		{"id":"0545e2c05ae7ac7b","type":"text","text":"心血管系统","x":814,"y":-281,"width":250,"height":60},
+		{"id":"8929110628b4bde5","type":"file","file":"兽医药理学/血液循环系统药理.md","x":1304,"y":-373,"width":696,"height":400},
+		{"id":"5d9ff10c72356b27","type":"text","text":"![[\"C:\\Users\\28140\\Downloads\\学习\\学习\\动物科学（含特动）\\大三\\1动科专业课\\动物育种学\\动物育种学-谢沁沁.pdf\"]]","x":177,"y":608,"width":863,"height":672}
 	],
 	"edges":[
 		{"id":"cab4a38f64ead6bb","fromNode":"3f991b68e61ea258","fromSide":"right","toNode":"78b12af1473d8371","toSide":"left"},
