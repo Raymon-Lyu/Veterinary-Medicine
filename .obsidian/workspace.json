@@ -32,11 +32,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://duckduckgo.com/?q=gemini",
-                "title": "duckduckgo.com/?q=gemini",
-                "mode": "error"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "duckduckgo.com/?q=gemini"
+              "title": "data:text/plain,"
             }
           }
         ]
