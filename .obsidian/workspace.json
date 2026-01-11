@@ -79,8 +79,7 @@
               "title": "第十一章 应激(1)"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "338ffc40f6565aa8",
@@ -180,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -357,8 +356,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ac728040eb561e2a",
+  "active": "4c09451926e581a3",
   "lastOpenFiles": [
+    "病理生理学/第六章 缺氧.md",
     "病理生理学/第九章 发热.md",
     "病理生理学/病理生理学.canvas",
     "病理生理学/ppt/第九章 发热(1).pdf",
@@ -368,7 +368,6 @@
     "动物免疫学/免疫学复习.canvas",
     "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习.pdf",
     "病理生理学/ppt/第六章 缺氧(1).pdf",
-    "病理生理学/第六章 缺氧.md",
     "template/Insert Image by URL.md",
     "病理生理学/第八章 酸碱平衡紊乱.md",
     "病理生理学/救治方案.md",
