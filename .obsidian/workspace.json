@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "338ffc40f6565aa8",
@@ -99,8 +99,21 @@
               "icon": "globe-2",
               "title": "Google Gemini"
             }
+          },
+          {
+            "id": "751a12eb2e66e173",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "人卫九版教材/《病理生理学》人卫第9版教材--高清彩色.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "《病理生理学》人卫第9版教材--高清彩色"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f6836a37d7a5e897",
@@ -171,7 +184,7 @@
                 "file": "病理生理学/病理生理学.canvas",
                 "viewState": {
                   "x": -2739.521893152444,
-                  "y": -7568.278974687932,
+                  "y": -7254.1219201879485,
                   "zoom": -0.7561833553060886
                 }
               },
@@ -180,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -357,16 +370,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ac728040eb561e2a",
+  "active": "751a12eb2e66e173",
   "lastOpenFiles": [
+    "人卫九版教材/《病理学（第10版）》.pdf",
+    "病理生理学/ppt/第十一章 应激(1).pdf",
+    "病理生理学/病理生理学.canvas",
     "病理生理学/第十章 休克.md",
-    "病理生理学/ppt/第十章 休克(1).pdf",
-    "病理生理学/ppt/第六章 缺氧(1).pdf",
     "病理生理学/第六章 缺氧.md",
     "病理生理学/第九章 发热.md",
-    "病理生理学/病理生理学.canvas",
+    "病理生理学/ppt/第十章 休克(1).pdf",
+    "病理生理学/ppt/第六章 缺氧(1).pdf",
     "病理生理学/ppt/第九章 发热(1).pdf",
-    "病理生理学/ppt/第十一章 应激(1).pdf",
     "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf",
     "动物免疫学/免疫学复习.canvas",
     "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习.pdf",
