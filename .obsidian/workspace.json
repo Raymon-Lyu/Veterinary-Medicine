@@ -80,8 +80,7 @@
               "title": "第十一章 应激(1)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3eca75c2f0b095d9",
@@ -119,11 +118,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/5a2b36227d7e9453",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "gemini.google.com/app/5a2b36227d7e9453",
+                "mode": "error"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "gemini.google.com/app/5a2b36227d7e9453"
             }
           }
         ]
@@ -299,7 +298,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0a281a30edda131",
+  "active": "eb5642af37a48104",
   "lastOpenFiles": [
     "病理生理学/病理生理学.canvas",
     "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf",
