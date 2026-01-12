@@ -16,12 +16,12 @@
 		{"id":"bb803356fc1a8580","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#水中毒","x":-1186,"y":-8057,"width":400,"height":400},
 		{"id":"328c733f5c5e837a","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#低钾血症","x":-3040,"y":-8000,"width":400,"height":400},
 		{"id":"bbaf2a3af2856e83","type":"text","text":"> [!note] 经皮肤丢失体液\n> - 正常情况：生成等渗体液而后对盐离子进行重吸收，因此丢失的是**低渗性体液**；皮肤的无感蒸发属于水分的直接挥发\n> - 病理情况：大面积烧伤时，皮肤屏障被破坏，**等渗性体液**直接丢失","x":-703,"y":-6832,"width":503,"height":452},
-		{"id":"7fa617f288ca9c72","type":"file","file":"病理生理学/救治方案.md","x":-2520,"y":-6040,"width":1179,"height":965},
 		{"id":"f6562e5b577bd324","type":"file","file":"病理生理学/第七章 水和电解质代谢紊乱.md","subpath":"#等渗性脱水","x":-1880,"y":-6606,"width":400,"height":400},
 		{"id":"62322208490d8204","type":"file","file":"病理生理学/第十章 休克.md","x":-3280,"y":-6100,"width":720,"height":480},
 		{"id":"b462fbf500902155","type":"file","file":"病理生理学/第六章 缺氧.md","x":-3120,"y":-4600,"width":1043,"height":1203},
 		{"id":"9d2d7dc09490cc33","type":"text","text":"\n| 指标  | 高钾血症  | 低钾血症 |\n| --- | ----- | ---- |\n| 兴奋性 | ↑，后期↓ | ↓    |\n| 传导性 | ↓     | ↓    |\n| 自律性 | ↓     | ↑    |\n| 收缩性 | ↓     | ↑，后↓ |\n","x":-3620,"y":-6716,"width":580,"height":396},
-		{"id":"64b3bb43ccd06de6","type":"text","text":"```mermaid\ngraph LR\n    A[有效循环血量减少 <br> Hypovolemia] -->|刺激| B(RAAS系统激活 <br> 醛固酮分泌)\n    B -->|指令1: 保钠保水| C[肾小管重吸收 Na+]\n    C -->|代价: 必须排出一个正电荷| D{排 K+ 还是排 H+?}\n    \n    D -->|通常情况| E[排 K+ <br> 导致低钾血症]\n    D -->|如果缺钾严重| F[排 H+ <br> 导致代谢性碱中毒]\n    \n    style A fill:#f9f,stroke:#333,stroke-width:2px\n    style B fill:#ffd,stroke:#333,stroke-width:2px\n    style D fill:#bbf,stroke:#333,stroke-width:2px\n    style F fill:#f96,stroke:#333,stroke-width:4px\n```","x":-2400,"y":-5237,"width":1981,"height":637}
+		{"id":"64b3bb43ccd06de6","type":"text","text":"```mermaid\ngraph LR\n    A[有效循环血量减少 <br> Hypovolemia] -->|刺激| B(RAAS系统激活 <br> 醛固酮分泌)\n    B -->|指令1: 保钠保水| C[肾小管重吸收 Na+]\n    C -->|代价: 必须排出一个正电荷| D{排 K+ 还是排 H+?}\n    \n    D -->|通常情况| E[排 K+ <br> 导致低钾血症]\n    D -->|如果缺钾严重| F[排 H+ <br> 导致代谢性碱中毒]\n    \n    style A fill:#f9f,stroke:#333,stroke-width:2px\n    style B fill:#ffd,stroke:#333,stroke-width:2px\n    style D fill:#bbf,stroke:#333,stroke-width:2px\n    style F fill:#f96,stroke:#333,stroke-width:4px\n```","x":-2400,"y":-5237,"width":1981,"height":637},
+		{"id":"7fa617f288ca9c72","type":"file","file":"病理生理学/救治方案.md","x":-2640,"y":-5960,"width":1179,"height":965}
 	],
 	"edges":[
 		{"id":"eb5fae986399db1c","fromNode":"5bdc82057eb95140","fromSide":"right","toNode":"bb803356fc1a8580","toSide":"left","color":"1","label":"分泌↑"},

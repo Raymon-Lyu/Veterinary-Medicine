@@ -85,7 +85,7 @@
       {
         "id": "3eca75c2f0b095d9",
         "type": "tabs",
-        "dimension": 30.078125,
+        "dimension": 35.80729166666667,
         "children": [
           {
             "id": "a1e08920979028a6",
@@ -95,9 +95,9 @@
               "state": {
                 "file": "病理生理学/病理生理学.canvas",
                 "viewState": {
-                  "x": -2710.0150556549784,
-                  "y": -6958.040745972115,
-                  "zoom": -0.9259586708146439
+                  "x": -2050.5,
+                  "y": -5477.5,
+                  "zoom": -1.2375637183176758
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -109,7 +109,7 @@
       {
         "id": "26e4c6f6f552bd98",
         "type": "tabs",
-        "dimension": 36.58854166666667,
+        "dimension": 30.859375,
         "children": [
           {
             "id": "c0a281a30edda131",
