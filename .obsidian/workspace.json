@@ -4,126 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f6249561c5c5b265",
+        "id": "0daa7947848e52e4",
         "type": "tabs",
-        "dimension": 33.33333333333333,
         "children": [
           {
-            "id": "eb5642af37a48104",
+            "id": "391b159fb07a8385",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "病理生理学/ppt/第六章 缺氧(1).pdf"
+                "file": "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "第六章 缺氧(1)"
-            }
-          },
-          {
-            "id": "1bfdd3a5c682cb03",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第七章 水盐代谢障碍(1)"
-            }
-          },
-          {
-            "id": "c2caa7fa339e7887",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第八章 酸碱平衡紊乱(1)"
-            }
-          },
-          {
-            "id": "6fb261625317cd5d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/ppt/第九章 发热(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第九章 发热(1)"
-            }
-          },
-          {
-            "id": "93827248fdd05e20",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/ppt/第十章 休克(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第十章 休克(1)"
-            }
-          },
-          {
-            "id": "2e9257441c6a9210",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "病理生理学/ppt/第十一章 应激(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第十一章 应激(1)"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3eca75c2f0b095d9",
-        "type": "tabs",
-        "dimension": 35.80729166666667,
-        "children": [
-          {
-            "id": "a1e08920979028a6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "病理生理学/病理生理学.canvas",
-                "viewState": {
-                  "x": -2573.0328863525397,
-                  "y": -3847.650083374026,
-                  "zoom": -1.2375637183176758
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "病理生理学"
+              "title": "unlocked_2025-2026冬学期复习"
             }
           }
         ]
       },
       {
-        "id": "26e4c6f6f552bd98",
+        "id": "2d4159e2ecfa134d",
         "type": "tabs",
-        "dimension": 30.859375,
         "children": [
           {
-            "id": "c0a281a30edda131",
+            "id": "4f4296f9d550f5d5",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/5a2b36227d7e9453",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "url": "https://gemini.google.com/app/3c7d584c8e9e66d1",
+                "title": "Google Gemini",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "Google Gemini"
             }
           }
         ]
@@ -263,23 +176,12 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
-          },
-          {
-            "id": "5c8d070469efec54",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -299,11 +201,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1bfdd3a5c682cb03",
+  "active": "4f4296f9d550f5d5",
   "lastOpenFiles": [
+    "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf",
     "病理生理学/病理生理学.canvas",
     "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf",
-    "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf",
     "病理生理学/ppt/第九章 发热(1).pdf",
     "病理生理学/ppt/第十章 休克(1).pdf",
     "病理生理学/ppt/第六章 缺氧(1).pdf",
