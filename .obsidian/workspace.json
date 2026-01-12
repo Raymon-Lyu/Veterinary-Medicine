@@ -80,7 +80,8 @@
               "title": "第十一章 应激(1)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3eca75c2f0b095d9",
@@ -95,8 +96,8 @@
               "state": {
                 "file": "病理生理学/病理生理学.canvas",
                 "viewState": {
-                  "x": -1982.7540780248096,
-                  "y": -7051.135525117784,
+                  "x": -3042.8155006405236,
+                  "y": -7265.714207188496,
                   "zoom": -1.2592920041479772
                 }
               },
@@ -118,11 +119,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/5a2b36227d7e9453",
-                "title": "gemini.google.com/app/5a2b36227d7e9453",
-                "mode": "error"
+                "title": "Google Gemini",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "gemini.google.com/app/5a2b36227d7e9453"
+              "title": "Google Gemini"
             }
           }
         ]
@@ -298,15 +299,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb5642af37a48104",
+  "active": "c0a281a30edda131",
   "lastOpenFiles": [
     "病理生理学/病理生理学.canvas",
     "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf",
+    "病理生理学/ppt/第十章 休克(1).pdf",
+    "病理生理学/ppt/第十一章 应激(1).pdf",
+    "病理生理学/ppt/第六章 缺氧(1).pdf",
     "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf",
     "病理生理学/第六章 缺氧.md",
-    "病理生理学/ppt/第六章 缺氧(1).pdf",
-    "病理生理学/ppt/第十一章 应激(1).pdf",
-    "病理生理学/ppt/第十章 休克(1).pdf",
     "病理生理学/ppt/第九章 发热(1).pdf",
     "Excalidraw/Drawing 2026-01-11 21.06.49.excalidraw.md",
     "Excalidraw",
