@@ -119,11 +119,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/5a2b36227d7e9453",
-                "title": "Google Gemini",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "data:text/plain,"
             }
           }
         ]
@@ -256,13 +256,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "病理生理学/病理生理学.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "病理生理学 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -300,7 +299,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1e08920979028a6",
+  "active": "c0a281a30edda131",
   "lastOpenFiles": [
     "病理生理学/病理生理学.canvas",
     "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf",
