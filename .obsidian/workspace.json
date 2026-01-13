@@ -43,6 +43,18 @@
         "dimension": 34.04947916666667,
         "children": [
           {
+            "id": "7e6e0f7bb62a6dce",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter07.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter07"
+            }
+          },
+          {
             "id": "82576dfe53d9b18a",
             "type": "leaf",
             "state": {
@@ -65,33 +77,8 @@
               "icon": "lucide-file-text",
               "title": "Chapter10"
             }
-          },
-          {
-            "id": "7e6e0f7bb62a6dce",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter07.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter07"
-            }
-          },
-          {
-            "id": "e844d84fb8257416",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter06.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter06"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "b9086ae262b77d39",
@@ -288,8 +275,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e31fa8051b1e1e4c",
+  "active": "5eef4cd9d641bb59",
   "lastOpenFiles": [
+    "动物育种学/ppt/动物育种学-谢沁沁.pdf",
     "动物育种学/review.md",
     "动物育种学/ppt/Chapter06.pdf",
     "动物育种学/ppt/Chapter07.pdf",
