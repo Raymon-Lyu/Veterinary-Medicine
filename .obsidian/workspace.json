@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "b9086ae262b77d39",
@@ -99,14 +99,27 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/07db8f6717eb5f53",
-                "title": "Google Gemini",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "data:text/plain,"
+            }
+          },
+          {
+            "id": "e5ec07d71c0aa21d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,6 +266,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -260,7 +274,6 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:创建新看板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
@@ -268,12 +281,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e31fa8051b1e1e4c",
+  "active": "e5ec07d71c0aa21d",
   "lastOpenFiles": [
+    "动物育种学/ppt/Chapter09.pdf",
     "动物育种学/ppt/Chapter08.pdf",
     "动物育种学/ppt/动物育种学-谢沁沁.pdf",
     "动物育种学/ppt/Chapter10.pdf",
-    "动物育种学/ppt/Chapter09.pdf",
     "生物分离工程/泄露曲线D-101.jpg",
     "动物育种学/ppt/Chapter07.pdf",
     "动物育种学/ppt/Chapter06.pdf",
