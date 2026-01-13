@@ -98,24 +98,26 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/07db8f6717eb5f53",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "url": "https://gemini.google.com/app/e23da919c7c47941",
+                "title": "Google Gemini",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "Google Gemini"
             }
           },
           {
-            "id": "e5ec07d71c0aa21d",
+            "id": "4e7e180d1680b255",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "病理解剖学/总论.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.4"
+              "icon": "lucide-file",
+              "title": "总论"
             }
           }
         ],
@@ -281,11 +283,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5ec07d71c0aa21d",
+  "active": "4e7e180d1680b255",
   "lastOpenFiles": [
+    "病理解剖学/总论.md",
+    "动物育种学/ppt/动物育种学-谢沁沁.pdf",
     "动物育种学/ppt/Chapter09.pdf",
     "动物育种学/ppt/Chapter08.pdf",
-    "动物育种学/ppt/动物育种学-谢沁沁.pdf",
     "动物育种学/ppt/Chapter10.pdf",
     "生物分离工程/泄露曲线D-101.jpg",
     "动物育种学/ppt/Chapter07.pdf",
