@@ -33,7 +33,7 @@
               "state": {
                 "url": "https://gemini.google.com/app/ddf4a2ae14bb910c",
                 "title": "Google Gemini",
-                "mode": "webview"
+                "mode": "blank"
               },
               "icon": "globe-2",
               "title": "Google Gemini"
