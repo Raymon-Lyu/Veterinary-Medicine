@@ -48,9 +48,21 @@
               "icon": "lucide-file-text",
               "title": "Chapter06"
             }
+          },
+          {
+            "id": "38ac5abd4eff1826",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter07.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter07"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "b9086ae262b77d39",
@@ -234,6 +246,7 @@
   },
   "active": "e31fa8051b1e1e4c",
   "lastOpenFiles": [
+    "动物育种学/ppt/Chapter07.pdf",
     "动物育种学/ppt/Chapter06.pdf",
     "动物育种学/ppt/动物育种学-谢沁沁.pdf",
     "动物育种学/ppt/Chapter10.pdf",
@@ -245,7 +258,6 @@
     "病理生理学/ppt/第九章 发热(1).pdf",
     "病理生理学/ppt/第十章 休克(1).pdf",
     "病理生理学/ppt/第六章 缺氧(1).pdf",
-    "病理生理学/ppt/第十一章 应激(1).pdf",
     "病理生理学/第六章 缺氧.md",
     "Excalidraw/Drawing 2026-01-11 21.06.49.excalidraw.md",
     "template/Two Image Compare.md",
