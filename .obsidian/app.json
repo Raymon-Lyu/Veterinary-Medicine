@@ -10,5 +10,6 @@
   "readableLineLength": true,
   "alwaysUpdateLinks": true,
   "spellcheck": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "attachmentFolderPath": "./"
 }
