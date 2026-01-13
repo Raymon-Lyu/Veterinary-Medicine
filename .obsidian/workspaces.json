@@ -1,39 +1,106 @@
 {
   "workspaces": {
-    "动物药理学": {
+    "动物育种学": {
       "main": {
         "id": "ed144906ce891c19",
         "type": "split",
         "children": [
           {
-            "id": "3eca75c2f0b095d9",
+            "id": "98c38e89c8ab279c",
             "type": "tabs",
             "children": [
               {
-                "id": "80ff22663cbc7f51",
+                "id": "e6a1fba79c248587",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "兽医药理学/祖传ppt/0-1 绪论-已融合.pdf"
+                    "file": "动物育种学/ppt/动物育种学-谢沁沁.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "0-1 绪论-已融合"
+                  "title": "动物育种学-谢沁沁"
                 }
               }
             ]
           },
           {
-            "id": "26e4c6f6f552bd98",
+            "id": "752c3388b77ca96d",
             "type": "tabs",
             "children": [
               {
-                "id": "c0a281a30edda131",
+                "id": "e4d1e7daf7392b56",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "动物育种学/ppt/Chapter06.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Chapter06"
+                }
+              },
+              {
+                "id": "38ac5abd4eff1826",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "动物育种学/ppt/Chapter07.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Chapter07"
+                }
+              },
+              {
+                "id": "a36d2cb5f8656789",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "动物育种学/ppt/Chapter08.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Chapter08"
+                }
+              },
+              {
+                "id": "82576dfe53d9b18a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "动物育种学/ppt/Chapter09.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Chapter09"
+                }
+              },
+              {
+                "id": "429cb8cd98c538f2",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "动物育种学/ppt/Chapter10.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Chapter10"
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "b9086ae262b77d39",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e31fa8051b1e1e4c",
                 "type": "leaf",
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://gemini.google.com/app/593d552a3a6ea570",
+                    "url": "https://gemini.google.com/app/07db8f6717eb5f53",
                     "title": "Google Gemini",
                     "mode": "webview"
                   },
@@ -203,9 +270,9 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "c0a281a30edda131",
-      "mtime": "2026-01-11T19:23:40+08:00"
+      "active": "429cb8cd98c538f2",
+      "mtime": "2026-01-13T11:21:18+08:00"
     }
   },
-  "active": "动物药理学"
+  "active": "动物育种学"
 }

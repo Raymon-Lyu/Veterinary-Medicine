@@ -26,18 +26,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "429cb8cd98c538f2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter10.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter10"
-            }
-          },
-          {
             "id": "e4d1e7daf7392b56",
             "type": "leaf",
             "state": {
@@ -59,6 +47,42 @@
               },
               "icon": "lucide-file-text",
               "title": "Chapter07"
+            }
+          },
+          {
+            "id": "a36d2cb5f8656789",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter08.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter08"
+            }
+          },
+          {
+            "id": "82576dfe53d9b18a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter09.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter09"
+            }
+          },
+          {
+            "id": "429cb8cd98c538f2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter10.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter10"
             }
           }
         ],
@@ -246,18 +270,18 @@
   },
   "active": "e31fa8051b1e1e4c",
   "lastOpenFiles": [
-    "动物育种学/ppt/Chapter07.pdf",
-    "动物育种学/ppt/Chapter06.pdf",
+    "动物育种学/ppt/Chapter08.pdf",
     "动物育种学/ppt/动物育种学-谢沁沁.pdf",
     "动物育种学/ppt/Chapter10.pdf",
+    "动物育种学/ppt/Chapter09.pdf",
+    "生物分离工程/泄露曲线D-101.jpg",
+    "动物育种学/ppt/Chapter07.pdf",
+    "动物育种学/ppt/Chapter06.pdf",
     "兽医药理学/祖传ppt/0-1 绪论-已融合.pdf",
     "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习.pdf",
     "病理生理学/ppt/第七章 水盐代谢障碍(1).pdf",
     "病理生理学/病理生理学.canvas",
     "病理生理学/ppt/第八章 酸碱平衡紊乱(1).pdf",
-    "病理生理学/ppt/第九章 发热(1).pdf",
-    "病理生理学/ppt/第十章 休克(1).pdf",
-    "病理生理学/ppt/第六章 缺氧(1).pdf",
     "病理生理学/第六章 缺氧.md",
     "Excalidraw/Drawing 2026-01-11 21.06.49.excalidraw.md",
     "template/Two Image Compare.md",
