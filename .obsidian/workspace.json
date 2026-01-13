@@ -6,6 +6,7 @@
       {
         "id": "98c38e89c8ab279c",
         "type": "tabs",
+        "dimension": 32.6171875,
         "children": [
           {
             "id": "e6a1fba79c248587",
@@ -39,19 +40,8 @@
       {
         "id": "752c3388b77ca96d",
         "type": "tabs",
+        "dimension": 34.04947916666667,
         "children": [
-          {
-            "id": "a36d2cb5f8656789",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "动物育种学/ppt/Chapter05.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter05"
-            }
-          },
           {
             "id": "82576dfe53d9b18a",
             "type": "leaf",
@@ -75,12 +65,38 @@
               "icon": "lucide-file-text",
               "title": "Chapter10"
             }
+          },
+          {
+            "id": "7e6e0f7bb62a6dce",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter07.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter07"
+            }
+          },
+          {
+            "id": "e844d84fb8257416",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter06.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter06"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b9086ae262b77d39",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "e31fa8051b1e1e4c",
@@ -272,19 +288,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e31fa8051b1e1e4c",
+  "active": "5eef4cd9d641bb59",
   "lastOpenFiles": [
+    "动物育种学/ppt/Chapter06.pdf",
+    "动物育种学/ppt/Chapter07.pdf",
+    "动物育种学/ppt/Chapter09.pdf",
     "动物育种学/review.md",
     "动物育种学/ppt/Chapter05.pdf",
     "动物育种学/ppt/Chapter08.pdf",
     "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习.pdf",
-    "动物育种学/ppt/Chapter07.pdf",
     "动物育种学/ppt/Chapter04.pdf",
     "兽医病毒学/map.html",
     "兽医病毒学/新建 文本文档.txt",
-    "动物育种学/ppt/Chapter06.pdf",
     "动物育种学/ppt/Chapter03.pdf",
-    "动物育种学/ppt/Chapter09.pdf",
     "动物育种学/5e050e5d9ad4def985143f1bbab7a00b.png",
     "动物育种学/06eae9009fa1e97c53720b8bb602173c.png",
     "病理解剖学/总论.md",
