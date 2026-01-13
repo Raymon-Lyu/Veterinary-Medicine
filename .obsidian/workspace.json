@@ -36,8 +36,21 @@
               "icon": "lucide-file-text",
               "title": "Chapter10"
             }
+          },
+          {
+            "id": "e4d1e7daf7392b56",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物育种学/ppt/Chapter06.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter06"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b9086ae262b77d39",
@@ -219,7 +232,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e31fa8051b1e1e4c",
+  "active": "e4d1e7daf7392b56",
   "lastOpenFiles": [
     "动物育种学/ppt/动物育种学-谢沁沁.pdf",
     "动物育种学/ppt/Chapter10.pdf",
