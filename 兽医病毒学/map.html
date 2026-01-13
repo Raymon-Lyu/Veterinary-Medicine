@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ASCII World Map</title>
+    <style>
+        body {
+            background: #000;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+        }
+        pre {
+            font-family: monospace;
+            font-size: 12px;
+            line-height: 10px;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        // 这是 aem1k "World" 的核心代码
+        // 原项目地址: https://github.com/aemkei/world
+        
+        // z 是要在 eval 中执行的代码字符串
+        // n 是被压缩的地图数据 (Base36)
+        // 这里的 n 必须完整，否则地图会缺损
+        
+        eval(z='p="<"+"pre>";for(y in n="zw24l6k4e3t4jnt4qj24xh2x42kty24wrt413n243n9h243pdxt41csbyz43iyb6k43pk7243nmr24".split(4)){for(a in t=parseInt(n[y],36)+(e=x=r=[]))for(r=!r,i=0;t[a]>i;i+=.05)with(Math)x-=.05,0>cos(o=new Date/1e3[e[x++]+e[x++]]||(S=("eval"+"(z=\'"+z.split(B="\\\\").join(B+B).split(Q="\'").join(B+Q)+Q+")//m1k")[x/2+61*y-1]).fontcolor(/\\w/.test(S)&&"#03B");document.body.innerHTML=p+=B+"\\n"}setTimeout(z)');
+        
+    </script>
+</body>
+</html>
