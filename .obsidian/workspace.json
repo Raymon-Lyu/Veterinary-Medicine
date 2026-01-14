@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "兽医药理学/all_drugs.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -53,7 +53,7 @@
               "state": {
                 "url": "https://gemini.google.com/app/8c28c709402dac11",
                 "title": "Google Gemini",
-                "mode": "webview"
+                "mode": "blank"
               },
               "icon": "globe-2",
               "title": "Google Gemini"
@@ -221,7 +221,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21058e75bd74d291",
+  "active": "545ba7cdcc02ff4c",
   "lastOpenFiles": [
     "兽医药理学/祖传ppt/0-1 绪论-已融合.pdf",
     "兽医药理学/all_drugs.md",
