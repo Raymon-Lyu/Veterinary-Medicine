@@ -8,6 +8,7 @@
           {
             "id": "43cb034d51fefa31",
             "type": "tabs",
+            "dimension": 33.984375,
             "children": [
               {
                 "id": "0a3b8e62e82a640a",
@@ -28,6 +29,7 @@
           {
             "id": "fb54871b7d539917",
             "type": "tabs",
+            "dimension": 32.68229166666667,
             "children": [
               {
                 "id": "7a7e802df34c2d11",
@@ -76,13 +78,25 @@
                   "icon": "lucide-file-text",
                   "title": "Chapter10"
                 }
+              },
+              {
+                "id": "2df779fcdf8f38e0",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "动物育种学/ppt/Chapter06.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Chapter06"
+                }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
             "id": "0b5d71ff79074ca9",
             "type": "tabs",
+            "dimension": 33.33333333333333,
             "children": [
               {
                 "id": "bf7c0001b84c9335",
@@ -260,8 +274,8 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "4b33f60edfd555c6",
-      "mtime": "2026-01-14T09:54:05+08:00"
+      "active": "bf7c0001b84c9335",
+      "mtime": "2026-01-14T16:00:55+08:00"
     },
     "兽医药理学": {
       "main": {
@@ -490,5 +504,5 @@
       "mtime": "2026-01-14T12:06:55+08:00"
     }
   },
-  "active": "动物育种学"
+  "active": "兽医药理学"
 }
