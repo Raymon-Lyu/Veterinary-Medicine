@@ -40,26 +40,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ae7109f39cc2a398",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "21058e75bd74d291",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/app/8c28c709402dac11",
-                "title": "Google Gemini",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "Google Gemini"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
