@@ -51,7 +51,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app",
+                "url": "https://gemini.google.com/app/8c28c709402dac11",
                 "title": "Google Gemini",
                 "mode": "webview"
               },
