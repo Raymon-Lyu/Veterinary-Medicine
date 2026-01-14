@@ -289,17 +289,39 @@
             ]
           },
           {
-            "id": "ae7109f39cc2a398",
+            "id": "6cc57b50a6a657e2",
             "type": "tabs",
             "children": [
               {
                 "id": "abe09a609086769a",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新标签页"
+                  "type": "pdf",
+                  "state": {
+                    "file": "兽医药理学/祖传ppt/0-1 绪论-已融合.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "0-1 绪论-已融合"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ae7109f39cc2a398",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "21058e75bd74d291",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://gemini.google.com/app/8c28c709402dac11",
+                    "title": "Google Gemini",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Google Gemini"
                 }
               }
             ]
@@ -464,9 +486,9 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "abe09a609086769a",
-      "mtime": "2026-01-14T09:54:32+08:00"
+      "active": "21058e75bd74d291",
+      "mtime": "2026-01-14T12:06:55+08:00"
     }
   },
-  "active": "兽医药理学"
+  "active": "动物育种学"
 }
