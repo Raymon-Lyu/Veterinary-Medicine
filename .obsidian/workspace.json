@@ -51,7 +51,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/087cc9c0f9958291",
+                "url": "https://gemini.google.com/app/667a5e4e8dc4213d",
                 "title": "Google Gemini",
                 "mode": "webview"
               },
@@ -221,10 +221,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "545ba7cdcc02ff4c",
+  "active": "0077f7fcbf33680f",
   "lastOpenFiles": [
-    "兽医药理学/祖传ppt/0-1 绪论-已融合.pdf",
     "兽医药理学/all_drugs.md",
+    "兽医药理学/祖传ppt/0-1 绪论-已融合.pdf",
     "动物育种学/review.md",
     "动物育种学/ppt/Chapter09.pdf",
     "动物育种学/ppt/Chapter10.pdf",
