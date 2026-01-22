@@ -52,11 +52,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/667a5e4e8dc4213d",
-                "title": "Google Gemini",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "data:text/plain,"
             }
           }
         ]
