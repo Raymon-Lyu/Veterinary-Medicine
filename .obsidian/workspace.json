@@ -4,59 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c0c1291c92a1b247",
+        "id": "ea1877a2197dbf8b",
         "type": "tabs",
         "children": [
           {
-            "id": "545ba7cdcc02ff4c",
+            "id": "908418d011181f2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "兽医药理学/all_drugs.md",
-                "mode": "source",
-                "source": false
+                "file": "Drawing 2026-02-11 15.06.59.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "all_drugs"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6cc57b50a6a657e2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "abe09a609086769a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医药理学/祖传ppt/0-1 绪论-已融合.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "0-1 绪论-已融合"
-            }
-          }
-        ]
-      },
-      {
-        "id": "48c6af029973f2d1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0077f7fcbf33680f",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/app/667a5e4e8dc4213d",
-                "title": "data:text/plain,",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "data:text/plain,"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-11 15.06.59.excalidraw"
             }
           }
         ]
@@ -126,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -221,8 +180,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0077f7fcbf33680f",
+  "active": "908418d011181f2e",
   "lastOpenFiles": [
+    "Drawing 2026-02-11 15.06.59.excalidraw.md",
     "兽医药理学/all_drugs.md",
     "兽医药理学/祖传ppt/0-1 绪论-已融合.pdf",
     "动物育种学/review.md",
