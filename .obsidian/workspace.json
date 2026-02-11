@@ -11,12 +11,14 @@
             "id": "908418d011181f2e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2026-02-11 15.06.59.excalidraw.md"
+                "file": "兽医药理学/中枢神经系统药理.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-11 15.06.59.excalidraw"
+              "icon": "lucide-file",
+              "title": "中枢神经系统药理"
             }
           }
         ]
@@ -182,9 +184,13 @@
   },
   "active": "908418d011181f2e",
   "lastOpenFiles": [
+    "兽医药理学/药理学复习.canvas",
+    "兽医药理学/绪论.md",
+    "兽医药理学/祖传ppt/总论/0-2 总论-1.pdf",
+    "兽医药理学/祖传ppt/0-1 绪论.pdf",
+    "Drawing 2026-02-11 15.06.59.excalidraw.md",
     "656f04c8dcac10225296b39f6a11efab.png",
     "Pasted image 20251002155138.png",
-    "Drawing 2026-02-11 15.06.59.excalidraw.md",
     "兽医药理学/all_drugs.md",
     "兽医药理学/祖传ppt/0-1 绪论-已融合.pdf",
     "动物育种学/review.md",
@@ -194,10 +200,8 @@
     "动物育种学/ppt/Chapter06.pdf",
     "动物育种学/06eae9009fa1e97c53720b8bb602173c.png",
     "动物育种学/ppt/Chapter08.pdf",
-    "兽医药理学/祖传ppt/0-1 绪论.pdf",
     "动物育种学/ppt/动物育种学-谢沁沁.pdf",
     "动物育种学/ppt/Chapter05.pdf",
-    "动物免疫学/un_locked_pdfs/unlocked_2025-2026冬学期复习.pdf",
     "动物育种学/5e050e5d9ad4def985143f1bbab7a00b.png",
     "病理解剖学/总论.md",
     "生物分离工程/泄露曲线D-101.jpg",
@@ -205,7 +209,6 @@
     "病理生理学/第六章 缺氧.md",
     "Excalidraw/Drawing 2026-01-11 21.06.49.excalidraw.md",
     "template/Two Image Compare.md",
-    "兽医药理学/药理学复习.canvas",
     "动物免疫学/免疫学复习.canvas"
   ]
 }
