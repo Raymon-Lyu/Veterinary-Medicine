@@ -3,9 +3,9 @@
     "mermaid"
   ],
   "theme": "moonstone",
-  "interfaceFontFamily": "Berlin Sans FB",
+  "interfaceFontFamily": "Berlin Sans FB,思源宋体",
   "textFontFamily": "霞鹜文楷",
-  "cssTheme": "Minimal",
+  "cssTheme": "Blue Topaz",
   "monospaceFontFamily": "Times New Roman,方正书宋简体",
   "baseFontSizeAction": true,
   "baseFontSize": 25,

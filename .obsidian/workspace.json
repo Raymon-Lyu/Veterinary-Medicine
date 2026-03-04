@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "作业一"
             }
+          },
+          {
+            "id": "181b6bec10f0e973",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.4"
+            }
           }
         ]
       }

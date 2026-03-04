@@ -1,85 +1,67 @@
-/* 兽医临床病例报告 - Markdown 导出 PDF 专用样式 */
+/* Obsidian 纯文本外观排版 CSS - 仅控制文本元素 */
 
-:root {
-  --primary-color: #2c3e50;      /* 深邃的临床蓝，显得沉稳专业 */
-  --secondary-color: #0066cc;    /* 医疗强调蓝，用于次级标题 */
-  --text-color: #2b2b2b;         /* 深灰正文色，比纯黑在纸质上更护眼 */
-  --bg-color: #ffffff;           /* 纯白背景，确保高对比度 */
-  --border-color: #e0e0e0;       /* 浅灰分割线 */
-}
-
-body {
-  font-family: -apple-system, "PingFang SC", "Microsoft YaHei", "Helvetica Neue", sans-serif;
-  line-height: 1.65;
-  color: var(--text-color);
-  background-color: var(--bg-color);
-  max-width: 850px;
-  margin: 0 auto;
-  padding: 30px;
-}
-
-/* 标题系统设计 */
-h1 {
-  text-align: center;
-  color: var(--primary-color);
-  font-size: 2.2em;
-  margin-bottom: 30px;
-  padding-bottom: 15px;
-  border-bottom: 3px solid var(--primary-color);
-  letter-spacing: 1px;
-}
-
-h2 {
-  color: var(--primary-color);
-  font-size: 1.5em;
-  margin-top: 1.8em;
-  margin-bottom: 16px;
-  padding-bottom: 8px;
-  border-bottom: 1px solid var(--border-color);
-}
-
-h3 {
-  color: var(--secondary-color);
-  font-size: 1.2em;
+/* 标题整体设定 */
+h1, h2, h3 {
+  font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
   margin-top: 1.5em;
-  margin-bottom: 10px;
+  margin-bottom: 0.8em;
+  line-height: 1.3;
 }
 
-/* 列表与段落排版 */
+/* 报告主标题 */
+h1 {
+  font-size: 2.2em;
+  color: #2c3e50; /* 深邃专业的灰蓝 */
+  text-align: center;
+  border-bottom: 3px solid #2c3e50;
+  padding-bottom: 0.4em;
+}
+
+/* 模块一级标题 (如：疫苗方案、驱虫方案) */
+h2 {
+  font-size: 1.6em;
+  color: #2980b9; /* 临床学术蓝 */
+  border-bottom: 1px solid #ecf0f1;
+  padding-bottom: 0.3em;
+}
+
+/* 模块二级标题 */
+h3 {
+  font-size: 1.25em;
+  color: #34495e;
+}
+
+/* 正文与段落 */
 p {
-  margin-bottom: 1em;
-  text-align: justify; /* 文本两端对齐，报告看起来更整齐 */
+  font-size: 1em;
+  line-height: 1.75;
+  color: #333333; /* 提高对比度且护眼的深灰 */
+  text-align: justify;
+  margin-bottom: 1.2em;
 }
 
+/* 列表项排版 (映射依据、执行方案等) */
 ul {
-  padding-left: 28px;
-  margin-bottom: 20px;
+  padding-left: 1.8em;
+  margin-bottom: 1.2em;
 }
 
 li {
-  margin-bottom: 8px;
+  line-height: 1.65;
+  color: #333333;
+  margin-bottom: 0.6em;
 }
 
 /* 强调文字 */
 strong {
-  color: var(--primary-color);
   font-weight: 600;
+  color: #c0392b; /* 用暗红色高亮核心药物和关键诊断信息，非常醒目 */
 }
 
-/* 打印及导出 PDF 专属优化 */
-@media print {
-  body {
-    max-width: 100%;
-    padding: 0;
-  }
-  
-  /* 防止分页时将标题和正文强行切断 */
-  h2, h3 {
-    page-break-after: avoid; 
-  }
-  
-  /* 尽量保持列表项和段落在同一页，避免孤行 */
-  p, ul, li {
-    page-break-inside: avoid; 
-  }
+/* 引用块或次要说明 */
+blockquote {
+  border-left: 4px solid #bdc3c7;
+  color: #7f8c8d;
+  margin-left: 0;
+  padding-left: 1em;
 }
