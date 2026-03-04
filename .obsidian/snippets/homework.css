@@ -1,0 +1,85 @@
+/* 兽医临床病例报告 - Markdown 导出 PDF 专用样式 */
+
+:root {
+  --primary-color: #2c3e50;      /* 深邃的临床蓝，显得沉稳专业 */
+  --secondary-color: #0066cc;    /* 医疗强调蓝，用于次级标题 */
+  --text-color: #2b2b2b;         /* 深灰正文色，比纯黑在纸质上更护眼 */
+  --bg-color: #ffffff;           /* 纯白背景，确保高对比度 */
+  --border-color: #e0e0e0;       /* 浅灰分割线 */
+}
+
+body {
+  font-family: -apple-system, "PingFang SC", "Microsoft YaHei", "Helvetica Neue", sans-serif;
+  line-height: 1.65;
+  color: var(--text-color);
+  background-color: var(--bg-color);
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+/* 标题系统设计 */
+h1 {
+  text-align: center;
+  color: var(--primary-color);
+  font-size: 2.2em;
+  margin-bottom: 30px;
+  padding-bottom: 15px;
+  border-bottom: 3px solid var(--primary-color);
+  letter-spacing: 1px;
+}
+
+h2 {
+  color: var(--primary-color);
+  font-size: 1.5em;
+  margin-top: 1.8em;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+h3 {
+  color: var(--secondary-color);
+  font-size: 1.2em;
+  margin-top: 1.5em;
+  margin-bottom: 10px;
+}
+
+/* 列表与段落排版 */
+p {
+  margin-bottom: 1em;
+  text-align: justify; /* 文本两端对齐，报告看起来更整齐 */
+}
+
+ul {
+  padding-left: 28px;
+  margin-bottom: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+/* 强调文字 */
+strong {
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+/* 打印及导出 PDF 专属优化 */
+@media print {
+  body {
+    max-width: 100%;
+    padding: 0;
+  }
+  
+  /* 防止分页时将标题和正文强行切断 */
+  h2, h3 {
+    page-break-after: avoid; 
+  }
+  
+  /* 尽量保持列表项和段落在同一页，避免孤行 */
+  p, ul, li {
+    page-break-inside: avoid; 
+  }
+}
