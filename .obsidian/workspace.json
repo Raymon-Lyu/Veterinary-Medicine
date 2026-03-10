@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医诊断学/dd.md",
+                "file": "小动物疾病防治/临床营养学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dd"
+              "title": "临床营养学"
             }
           }
         ]
@@ -185,6 +185,7 @@
   "active": "e729894b9dc1d022",
   "lastOpenFiles": [
     "兽医诊断学/dd.md",
+    "小动物疾病防治/临床营养学.md",
     "兽医传染病学",
     "未命名.md",
     "兽医诊断学",
