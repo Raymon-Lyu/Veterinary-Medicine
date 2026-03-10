@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5a04828275e05b3e",
+        "id": "25465271418afb34",
         "type": "tabs",
         "children": [
           {
-            "id": "e729894b9dc1d022",
+            "id": "3260604ebd5317fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "小动物疾病防治/临床营养学.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "临床营养学"
@@ -182,15 +182,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e729894b9dc1d022",
+  "active": "3260604ebd5317fa",
   "lastOpenFiles": [
-    "兽医诊断学/dd.md",
+    "小动物疾病防治/images/homework2_q1_2.png",
+    "小动物疾病防治/images/homework2_q1_1.png",
     "小动物疾病防治/临床营养学.md",
+    "小动物疾病防治/images",
+    "2026-03-05.md",
+    "小动物疾病防治/作业一.md",
+    "兽医诊断学/dd.md",
     "兽医传染病学",
     "未命名.md",
     "兽医诊断学",
     "病理解剖学/未命名",
-    "小动物疾病防治/作业一.md",
     "Drawing 2026-02-11 15.06.59.excalidraw.md",
     "小动物疾病防治",
     "656f04c8dcac10225296b39f6a11efab.png",
@@ -205,7 +209,6 @@
     "动物育种学/review.md",
     "动物育种学/ppt/Chapter09.pdf",
     "动物育种学/ppt/Chapter10.pdf",
-    "动物育种学/ppt/Chapter07.pdf",
     "动物育种学/06eae9009fa1e97c53720b8bb602173c.png",
     "动物育种学/5e050e5d9ad4def985143f1bbab7a00b.png",
     "病理解剖学/总论.md",
