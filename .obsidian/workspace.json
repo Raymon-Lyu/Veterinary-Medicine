@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小动物疾病防治/临床营养学.md",
-                "mode": "preview",
+                "file": "兽医诊断学/绪论.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "临床营养学"
+              "title": "绪论"
             }
           }
         ]
@@ -182,18 +182,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3260604ebd5317fa",
+  "active": "9417d413612a1b48",
   "lastOpenFiles": [
+    "兽医诊断学/血常规.md",
+    "兽医诊断学/绪论.md",
+    "小动物疾病防治/临床营养学.md",
     "小动物疾病防治/images/homework2_q2_food.png",
     "小动物疾病防治/images/homework2_q2_fooddetails.png",
     "小动物疾病防治/images/homework2_q2_cat.jpg",
     "小动物疾病防治/images/homework2_q1_2.png",
     "小动物疾病防治/images/homework2_q1_1.png",
-    "小动物疾病防治/临床营养学.md",
     "小动物疾病防治/images",
     "2026-03-05.md",
     "小动物疾病防治/作业一.md",
-    "兽医诊断学/dd.md",
     "兽医传染病学",
     "未命名.md",
     "兽医诊断学",
