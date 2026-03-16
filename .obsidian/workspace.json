@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医诊断学/绪论.md",
+                "file": "兽医诊断学/血常规.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "绪论"
+              "title": "血常规"
             }
           }
         ]
@@ -182,10 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9417d413612a1b48",
+  "active": "3260604ebd5317fa",
   "lastOpenFiles": [
-    "兽医诊断学/血常规.md",
     "兽医诊断学/绪论.md",
+    "兽医诊断学/血常规.md",
     "小动物疾病防治/临床营养学.md",
     "小动物疾病防治/images/homework2_q2_food.png",
     "小动物疾病防治/images/homework2_q2_fooddetails.png",
