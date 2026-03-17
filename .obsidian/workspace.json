@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "25465271418afb34",
+        "id": "9dd9fbfe9d246ce8",
         "type": "tabs",
         "children": [
           {
-            "id": "3260604ebd5317fa",
+            "id": "80064f4143acacd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医诊断学/血常规.md",
+                "file": "小动物疾病防治/作业三 宠主沟通.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "血常规"
+              "title": "作业三 宠主沟通"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -182,11 +183,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3260604ebd5317fa",
+  "active": "80064f4143acacd5",
   "lastOpenFiles": [
-    "兽医诊断学/绪论.md",
-    "兽医诊断学/血常规.md",
+    "小动物疾病防治/作业三 宠主沟通.md",
     "小动物疾病防治/临床营养学.md",
+    "兽医诊断学/血常规.md",
+    "兽医诊断学/绪论.md",
     "小动物疾病防治/images/homework2_q2_food.png",
     "小动物疾病防治/images/homework2_q2_fooddetails.png",
     "小动物疾病防治/images/homework2_q2_cat.jpg",
