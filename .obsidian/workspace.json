@@ -38,8 +38,19 @@
               "icon": "lucide-file",
               "title": "血常规"
             }
+          },
+          {
+            "id": "808c7ec8cc274407",
+            "type": "leaf",
+            "state": {
+              "type": "smart-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -123,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "兽医诊断学/血常规.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "血常规 的反向链接列表"
             }
           },
           {
@@ -176,13 +187,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "1c2f4d3b0b8508df",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +219,13 @@
       "obsidian-kanban:创建新看板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "dfd62af974c6c132",
+  "active": "1c2f4d3b0b8508df",
   "lastOpenFiles": [
     "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
     "兽医诊断学/血常规.md",
