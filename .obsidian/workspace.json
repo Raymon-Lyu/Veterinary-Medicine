@@ -38,19 +38,8 @@
               "icon": "lucide-file",
               "title": "血常规"
             }
-          },
-          {
-            "id": "808c7ec8cc274407",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#动物医学",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +102,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "兽医诊断学/血常规.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "血常规 的出链列表"
             }
           },
           {
@@ -180,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "兽医诊断学/血常规.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "血常规 的大纲"
             }
           },
           {
@@ -203,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 491.5
   },
   "left-ribbon": {
     "hiddenItems": {
