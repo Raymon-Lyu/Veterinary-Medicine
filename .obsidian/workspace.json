@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医诊断学/血常规.md",
+                "file": "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "血常规 的大纲"
+              "title": "Microsoft PowerPoint - 血常规 - student version 的大纲"
             }
           },
           {
@@ -215,10 +214,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a4ba1e3bf78ccd8d",
+  "active": "1264d39ebde17293",
   "lastOpenFiles": [
-    "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
     "兽医诊断学/血常规.md",
+    "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
     "copilot/copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20260319_082307.md",
     "copilot/copilot-conversations/你好！@20260318_214039.md",
     "copilot/copilot-conversations",

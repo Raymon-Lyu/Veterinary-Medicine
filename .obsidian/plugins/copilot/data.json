@@ -25,7 +25,7 @@
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
   "defaultModelKey": "qwen2.5:7b|ollama",
-  "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
+  "embeddingModelKey": "BAAI/bge-m3|siliconflow",
   "temperature": 0.1,
   "maxTokens": 6000,
   "contextTurns": 15,
@@ -316,7 +316,8 @@
       ],
       "stream": true,
       "displayName": "Vision-analysis",
-      "maxTokens": 9800
+      "maxTokens": 9800,
+      "temperature": 1
     }
   ],
   "activeEmbeddingModels": [
@@ -442,7 +443,7 @@
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
-  "enableSemanticSearchV3": false,
+  "enableSemanticSearchV3": true,
   "enableSelfHostMode": false,
   "enableMiyo": false,
   "selfHostModeValidatedAt": null,
