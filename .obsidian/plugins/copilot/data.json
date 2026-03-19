@@ -395,6 +395,18 @@
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true
+    },
+    {
+      "name": "BAAI/bge-m3",
+      "provider": "siliconflow",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.siliconflow.cn/v1",
+      "apiKey": "sk-dhgvoupsvmeiapgbrfyvxycbxcbjhamjsyumaearvfyeeurj",
+      "isEmbeddingModel": true,
+      "capabilities": [],
+      "displayName": "Embedding",
+      "enableCors": false
     }
   ],
   "embeddingRequestsPerMin": 60,
