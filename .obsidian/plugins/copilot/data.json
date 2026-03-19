@@ -302,6 +302,21 @@
       "capabilities": [],
       "stream": true,
       "displayName": "Qwen"
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-OCR",
+      "provider": "siliconflow",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.siliconflow.cn/v1",
+      "apiKey": "sk-dhgvoupsvmeiapgbrfyvxycbxcbjhamjsyumaearvfyeeurj",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "vision"
+      ],
+      "stream": true,
+      "displayName": "Vision-analysis",
+      "maxTokens": 9800
     }
   ],
   "activeEmbeddingModels": [

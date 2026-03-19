@@ -1,6 +1,6 @@
 ---
 epoch: 1773879787103
-modelKey: "qwen2.5:7b|ollama"
+modelKey: "deepseek-ai/DeepSeek-OCR|siliconflow"
 topic: "Free Fall Inquiry"
 
 
@@ -44,3 +44,76 @@ To summarize:
 
 如果你有任何具体的问题或者需要进一步的帮助，请告诉我！
 [Timestamp: 2026/03/19 08:30:22]
+
+**user**: 图中展现了什么信息
+[Timestamp: 2026/03/19 08:38:45]
+
+**ai**: 
+<errorChunk>Connection error.
+more message: Failed to fetch</errorChunk>
+[Timestamp: 2026/03/19 08:38:54]
+
+**user**: 图里面是什么
+[Timestamp: 2026/03/19 08:40:27]
+
+**ai**: 
+<errorChunk>Connection error.
+more message: Failed to fetch</errorChunk>
+[Timestamp: 2026/03/19 08:40:38]
+
+**user**: 你可以理解图片信息吗
+[Timestamp: 2026/03/19 08:43:55]
+
+**ai**: 
+<errorChunk>Something went wrong. Please check if you have set your API key.
+Path: Settings > copilot plugin > Basic Tab > Set Keys.
+Or check model config
+Error Details: 401 status code (no body)
+
+</errorChunk>
+[Timestamp: 2026/03/19 08:43:56]
+
+**user**: 111
+[Timestamp: 2026/03/19 08:45:52]
+
+**ai**: 
+<errorChunk>Something went wrong. Please check if you have set your API key.
+Path: Settings > copilot plugin > Basic Tab > Set Keys.
+Or check model config
+Error Details: 401 status code (no body)
+
+</errorChunk>
+[Timestamp: 2026/03/19 08:45:53]
+
+**user**: 图片里是什么？
+[Timestamp: 2026/03/19 08:46:16]
+
+**ai**: 
+<errorChunk>Something went wrong. Please check if you have set your API key.
+Path: Settings > copilot plugin > Basic Tab > Set Keys.
+Or check model config
+Error Details: 401 status code (no body)
+
+</errorChunk>
+[Timestamp: 2026/03/19 08:46:18]
+
+**user**: 111
+[Timestamp: 2026/03/19 08:47:18]
+
+**ai**: 
+<errorChunk>500 status code (no body)</errorChunk>
+[Timestamp: 2026/03/19 08:47:31]
+
+**user**: 1111
+[Timestamp: 2026/03/19 08:49:12]
+
+**ai**: 
+<errorChunk>400 status code (no body)</errorChunk>
+[Timestamp: 2026/03/19 08:49:13]
+
+**user**: 1111
+[Timestamp: 2026/03/19 08:49:15]
+
+**ai**: 
+<errorChunk>400 status code (no body)</errorChunk>
+[Timestamp: 2026/03/19 08:49:15]

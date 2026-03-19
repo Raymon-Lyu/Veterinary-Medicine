@@ -102,8 +102,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
+                "file": "兽医诊断学/血常规.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Microsoft PowerPoint - 血常规 - student version 的大纲"
+              "title": "血常规 的大纲"
             }
           },
           {
@@ -218,12 +217,12 @@
   },
   "active": "a4ba1e3bf78ccd8d",
   "lastOpenFiles": [
-    "copilot/copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20260319_082307.md",
+    "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
     "兽医诊断学/血常规.md",
+    "copilot/copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20260319_082307.md",
     "copilot/copilot-conversations/你好！@20260318_214039.md",
     "copilot/copilot-conversations",
     "copilot",
-    "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
     "小动物疾病防治/作业三 宠主沟通.md",
     "小动物疾病防治/临床营养学.md",
     "兽医诊断学/绪论.md",
