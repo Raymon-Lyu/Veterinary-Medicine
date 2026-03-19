@@ -12,7 +12,7 @@
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
-  "googleApiKey": "",
+  "googleApiKey": "AIzaSyAjNv4pk4nEwljQT0p3-8uvtwxse4aTt1s",
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
@@ -74,7 +74,8 @@
       "projectEnabled": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": "AIzaSyAjNv4pk4nEwljQT0p3-8uvtwxse4aTt1s"
     },
     {
       "name": "gpt-5.2",
@@ -318,6 +319,11 @@
       "displayName": "Vision-analysis",
       "maxTokens": 9800,
       "temperature": 1
+    },
+    {
+      "name": "gemini-2.0-flash",
+      "provider": "google",
+      "enabled": true
     }
   ],
   "activeEmbeddingModels": [
@@ -443,7 +449,7 @@
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
-  "enableSemanticSearchV3": true,
+  "enableSemanticSearchV3": false,
   "enableSelfHostMode": false,
   "enableMiyo": false,
   "selfHostModeValidatedAt": null,
