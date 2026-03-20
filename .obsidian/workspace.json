@@ -22,21 +22,21 @@
         ]
       },
       {
-        "id": "f31c1613df134778",
+        "id": "9e715fed03ba2ab2",
         "type": "tabs",
         "children": [
           {
-            "id": "70aab4f7ed0ebc6d",
+            "id": "1d8ef4e0c8a57688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医药理学/血液循环系统药理.md",
+                "file": "兽医诊断学/血常规.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "血液循环系统药理"
+              "title": "血常规"
             }
           }
         ]
@@ -215,12 +215,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a4ba1e3bf78ccd8d",
+  "active": "1d8ef4e0c8a57688",
   "lastOpenFiles": [
+    "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
+    "兽医诊断学/血常规.md",
+    "兽医药理学/血液循环系统药理.md",
     "copilot/copilot-conversations/贫血笔记搜索结果@20260320_095710.md",
     "copilot/Copilot-Indexed-Files-2026-3-20.md",
-    "兽医诊断学/血常规.md",
-    "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
     "copilot/memory/Recent Conversations.md",
     "生物分离工程/DDD.md",
     "copilot/copilot-conversations/寻找贫血笔记@20260320_095710.md",
