@@ -49,7 +49,7 @@
   "enableIndexSync": true,
   "debug": false,
   "enableEncryption": false,
-  "maxSourceChunks": 30,
+  "maxSourceChunks": 20,
   "enableInlineCitations": true,
   "groqApiKey": "",
   "activeModels": [
@@ -312,7 +312,8 @@
       "isEmbeddingModel": false,
       "capabilities": [],
       "stream": true,
-      "displayName": "Qwen"
+      "displayName": "Qwen",
+      "numCtx": 16384
     },
     {
       "name": "deepseek-ai/DeepSeek-OCR",
@@ -461,7 +462,7 @@
     }
   ],
   "embeddingRequestsPerMin": 60,
-  "embeddingBatchSize": 16,
+  "embeddingBatchSize": 32,
   "disableIndexOnMobile": true,
   "showSuggestedPrompts": true,
   "showRelevantNotes": true,
