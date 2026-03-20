@@ -25,7 +25,7 @@
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
   "defaultModelKey": "qwen2.5:7b|ollama",
-  "embeddingModelKey": "BAAI/bge-m3|siliconflow",
+  "embeddingModelKey": "bge-m3|ollama",
   "temperature": 0.1,
   "maxTokens": 6000,
   "contextTurns": 15,
@@ -447,6 +447,17 @@
       "capabilities": [],
       "displayName": "Embedding",
       "enableCors": false
+    },
+    {
+      "name": "bge-m3",
+      "provider": "ollama",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "http://localhost:11434",
+      "apiKey": "",
+      "isEmbeddingModel": true,
+      "capabilities": [],
+      "displayName": "BGE-M3"
     }
   ],
   "embeddingRequestsPerMin": 60,

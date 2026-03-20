@@ -4,21 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ed84f75618999cfa",
+        "id": "48e02dea4101c882",
         "type": "tabs",
         "children": [
           {
-            "id": "c965c3f27b542fd3",
+            "id": "12fa6f2f7235a44f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Microsoft PowerPoint - 血常规 - student version"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f31c1613df134778",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70aab4f7ed0ebc6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生物分离工程/DDD.md",
+                "file": "兽医药理学/血液循环系统药理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DDD"
+              "title": "血液循环系统药理"
             }
           }
         ]
@@ -84,12 +102,12 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -197,15 +215,16 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "45a7a07d165aab15",
+  "active": "70aab4f7ed0ebc6d",
   "lastOpenFiles": [
+    "copilot/Copilot-Indexed-Files-2026-3-20.md",
+    "兽医诊断学/血常规.md",
+    "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
+    "copilot/memory/Recent Conversations.md",
+    "生物分离工程/DDD.md",
     "copilot/copilot-conversations/寻找贫血笔记@20260320_095710.md",
     "copilot/copilot-conversations/你好@20260319_091250.md",
     "copilot/copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20260319_082307.md",
-    "copilot/memory/Recent Conversations.md",
-    "生物分离工程/DDD.md",
-    "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
-    "兽医诊断学/血常规.md",
     "copilot/memory",
     "copilot/copilot-conversations/你好！@20260318_214039.md",
     "copilot/copilot-conversations",
