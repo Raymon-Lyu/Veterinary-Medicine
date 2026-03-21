@@ -6,7 +6,7 @@
       {
         "id": "48e02dea4101c882",
         "type": "tabs",
-        "dimension": 39.09512761020882,
+        "dimension": 42.579075425790755,
         "children": [
           {
             "id": "12fa6f2f7235a44f",
@@ -25,7 +25,7 @@
       {
         "id": "9e715fed03ba2ab2",
         "type": "tabs",
-        "dimension": 60.90487238979119,
+        "dimension": 57.420924574209245,
         "children": [
           {
             "id": "1d8ef4e0c8a57688",
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
+                "file": "兽医诊断学/血常规.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Microsoft PowerPoint - 血常规 - student version 的大纲"
+              "title": "血常规 的大纲"
             }
           },
           {
@@ -211,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 259.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,7 +231,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1d8ef4e0c8a57688",
+  "active": "a4ba1e3bf78ccd8d",
   "lastOpenFiles": [
     "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
     "兽医诊断学/血常规.md",
