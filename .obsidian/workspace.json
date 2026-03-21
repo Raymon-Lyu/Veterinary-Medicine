@@ -69,8 +69,7 @@
               "title": "第七章 水和电解质代谢紊乱"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "病理生理学/第七章 水和电解质代谢紊乱.md",
+                "file": "兽医诊断学/血常规.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第七章 水和电解质代谢紊乱 的大纲"
+              "title": "血常规 的大纲"
             }
           },
           {
@@ -246,10 +245,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6eb3f5ed7495d05b",
+  "active": "1d8ef4e0c8a57688",
   "lastOpenFiles": [
-    "兽医诊断学/血常规.md",
     "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
+    "兽医诊断学/血常规.md",
+    "病理生理学/第七章 水和电解质代谢紊乱.md",
     "小动物疾病防治/作业三 宠主沟通.md",
     "copilot/copilot-conversations/##_血常规的意义及解释方法@20260320_222020.md",
     "兽医药理学/血液循环系统药理.md",
@@ -294,7 +294,6 @@
     "生物分离工程/泄露曲线D-101.jpg",
     "病理生理学/病理生理学.canvas",
     "病理生理学/第六章 缺氧.md",
-    "Excalidraw/Drawing 2026-01-11 21.06.49.excalidraw.md",
     "动物免疫学/免疫学复习.canvas"
   ]
 }
