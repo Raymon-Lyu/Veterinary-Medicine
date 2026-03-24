@@ -81,9 +81,21 @@
               "icon": "lucide-file",
               "title": "血生化"
             }
+          },
+          {
+            "id": "f92e8ca16264d1a2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -259,7 +271,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "58b56b1016685734",
+  "active": "f92e8ca16264d1a2",
   "lastOpenFiles": [
     "兽医诊断学/ppt/诊断 - 生化部分student version.pdf",
     "兽医诊断学/血生化.md",
