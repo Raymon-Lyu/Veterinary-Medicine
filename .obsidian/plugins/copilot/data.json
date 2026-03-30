@@ -338,7 +338,7 @@
       "displayName": "Deepseek"
     },
     {
-      "name": "cniongolo/biomistral:latest",
+      "name": "qwen2.5:7b-instruct",
       "provider": "ollama",
       "enabled": true,
       "isBuiltIn": false,
