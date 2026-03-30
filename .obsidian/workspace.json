@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小动物疾病防治/作业三 宠主沟通.md",
+                "file": "小动物疾病防治/CPR作业.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "作业三 宠主沟通"
+              "title": "CPR作业"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "传染病的防控"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,11 +224,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1fb482f0a95d5986",
+  "active": "edef80a899d5dca2",
   "lastOpenFiles": [
+    "小动物疾病防治/作业三 宠主沟通.md",
+    "动物传染病学/传染病的防控.md",
     "copilot/copilot-conversations/问候@20260330_101316.md",
     "兽医诊断学/呼吸系统诊断.md",
-    "动物传染病学/传染病的防控.md",
     "动物传染病学",
     "兽医诊断学/血生化.md",
     "兽医诊断学/ppt/诊断 - 生化部分student version.pdf",
@@ -248,7 +248,6 @@
     "copilot/copilot-conversations/知识点总结@20260323_084652.md",
     "兽医诊断学/血常规.md",
     "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
-    "小动物疾病防治/作业三 宠主沟通.md",
     "copilot/copilot-conversations/##_血常规的意义及解释方法@20260320_222020.md",
     "兽医药理学/血液循环系统药理.md",
     "copilot/copilot-conversations/贫血笔记搜索结果@20260320_095710.md",
