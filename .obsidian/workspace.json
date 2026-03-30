@@ -74,12 +74,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医诊断学/血生化.md",
+                "file": "兽医诊断学/呼吸系统诊断.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "血生化"
+              "title": "呼吸系统诊断"
             }
           }
         ],
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -261,9 +260,10 @@
   },
   "active": "1fb482f0a95d5986",
   "lastOpenFiles": [
+    "兽医诊断学/血生化.md",
+    "兽医诊断学/呼吸系统诊断.md",
     "兽医诊断学/ppt/诊断 - 生化部分student version.pdf",
     "copilot/copilot-conversations/钙磷双高与甲状旁腺功能异常及高脂血症@20260324_132122.md",
-    "兽医诊断学/血生化.md",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
     "小动物疾病防治/CPR作业.md",
     "copilot/copilot-conversations/急性胆管梗阻与肝后性黄疸及ALT升高的关系@20260324_114208.md",
