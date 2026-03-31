@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病理生理学/第七章 水和电解质代谢紊乱.md",
+                "file": "小动物疾病防治/draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第七章 水和电解质代谢紊乱"
+              "title": "draft"
             }
           },
           {
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -205,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 614.5
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,6 +228,8 @@
   },
   "active": "6eb3f5ed7495d05b",
   "lastOpenFiles": [
+    "病理生理学/第七章 水和电解质代谢紊乱.md",
+    "小动物疾病防治/draft.md",
     "小动物疾病防治/CPR作业.md",
     "小动物疾病防治/作业三 宠主沟通.md",
     "动物传染病学/传染病的防控.md",
@@ -236,7 +239,6 @@
     "兽医诊断学/血生化.md",
     "兽医诊断学/ppt/诊断 - 生化部分student version.pdf",
     "copilot/copilot-conversations/钙磷双高与甲状旁腺功能异常及高脂血症@20260324_132122.md",
-    "病理生理学/第七章 水和电解质代谢紊乱.md",
     "copilot/copilot-conversations/急性胆管梗阻与肝后性黄疸及ALT升高的关系@20260324_114208.md",
     "兽医诊断学/exp2_repo_img/~信图片_20260323192023_35_5.tmp",
     "兽医诊断学/exp2_repo_img/微信图片_20260323124805_33_5.jpg.~tmp",
@@ -271,7 +273,6 @@
     "小动物疾病防治/images/homework2_q1_1.png",
     "2026-03-05.md",
     "小动物疾病防治/作业一.md",
-    "未命名.md",
     "656f04c8dcac10225296b39f6a11efab.png",
     "兽医药理学/药理学复习.canvas",
     "病理生理学/病理生理学.canvas",
