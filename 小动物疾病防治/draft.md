@@ -1,7 +1,7 @@
 ## 反方二辩辩驳论
   
 刚才我方一辩已经指出，绝育可能带来癌症、骨骼与认知层面的严重代价。  
-而我方接下来进一步指出：**即便不重复这些风险，对方“绝育利大于弊”的论证依然站不住脚。**因为绝育带来的问题，并不只停留在我方一辩已经提到的那些重伤型后果上；在代谢、行为和手术本身的风险层面，同样存在清晰代价。 
+而我方接下来进一步指出：即便不重复这些风险，对方“绝育利大于弊”的论证依然站不住脚。因为绝育带来的问题，并不只停留在我方一辩已经提到的那些重伤型后果上；在代谢、行为和手术本身的风险层面，同样存在清晰代价。 
 
 ### 第一，对方把“减少部分疾病”偷换成了“整体更健康”
 健康不是只看某一类疾病有没有下降，而是看动物整体生活质量有没有提升。  
@@ -28,23 +28,19 @@
 
 ---
 
-## 参考文献（可单独附在稿后）
-
+## 参考文献
 1. **Pegram C, Brodbelt DC, Church DB, O’Neill DG.**  
    *Neutering of cats: the impact on health and welfare.*  
    Journal of Feline Medicine and Surgery, 2019.  
    主要用于支持：绝育与猫体重增加、脂肪沉积、肥胖风险上升相关。 
-
 2. **Farhoody P, Zink C.**  
    *Aggression toward Familiar People, Strangers, and Conspecifics in Gonadectomized and Intact Dogs.*  
    Frontiers in Veterinary Science, 2018.  
    主要用于支持：绝育对攻击行为并不存在稳定一致的改善效果，部分情境下甚至更差。 
-
 3. **Pollari FL, Bonnett BN, Bamsey SC, Meek AH, Allen DG.**  
    *Postoperative complications of elective surgeries in dogs and cats determined by examining electronic and paper medical records.*  
    Journal of the American Veterinary Medical Association, 1996.  
    主要用于支持：绝育等择期手术存在真实术后并发症风险。 
-
 4. **Urfer SR, Kaeberlein M.**  
    *Desexing Dogs: A Review of the Current Literature.*  
    Animals, 2019/2020 相关综述版本。  
