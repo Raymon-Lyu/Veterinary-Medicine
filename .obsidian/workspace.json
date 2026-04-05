@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "6eb3f5ed7495d05b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "小动物疾病防治/draft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "draft"
-            }
-          },
-          {
             "id": "1fb482f0a95d5986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动物传染病学/传染病的防控.md",
+                "file": "兽医诊断学/呼吸系统临床检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "传染病的防控"
+              "title": "呼吸系统临床检查"
             }
           }
         ],
@@ -117,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -226,8 +211,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6eb3f5ed7495d05b",
+  "active": "1fb482f0a95d5986",
   "lastOpenFiles": [
+    "动物传染病学/传染病的防控.md",
+    "兽医诊断学/呼吸系统临床检查.md",
+    "小动物疾病防治/draft.md",
     "兽医诊断学/exp3_repo_img/selected/fig11.jpg",
     "兽医诊断学/exp3_repo_img/selected/fig10.jpg",
     "兽医诊断学/exp3_repo_img/selected/fig9.jpg",
@@ -240,14 +228,11 @@
     "兽医诊断学/exp3_repo_img/新建文件夹",
     "兽医诊断学/exp3_repo_img/微信图片_20260330142311_5044_349.jpg",
     "兽医诊断学/exp3_repo_img/微信图片_20260330164301_5056_349.jpg",
-    "兽医诊断学/exp3_repo_img/微信图片_20260330164300_5055_349.jpg",
     "兽医诊断学/exp3_repo_img",
     "兽医诊断学/新建文件夹",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
-    "小动物疾病防治/draft.md",
     "小动物疾病防治/CPR作业.md",
     "小动物疾病防治/作业三 宠主沟通.md",
-    "动物传染病学/传染病的防控.md",
     "copilot/copilot-conversations/问候@20260330_101316.md",
     "兽医诊断学/呼吸系统诊断.md",
     "动物传染病学",
