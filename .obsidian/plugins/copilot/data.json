@@ -338,17 +338,22 @@
       "displayName": "Deepseek"
     },
     {
-      "name": "qwen2.5:7b-instruct",
+      "name": "gemma4:e4b",
       "provider": "ollama",
       "enabled": true,
       "isBuiltIn": false,
       "baseUrl": "http://localhost:11434",
       "apiKey": "",
       "isEmbeddingModel": false,
-      "capabilities": [],
+      "capabilities": [
+        "reasoning"
+      ],
       "stream": true,
-      "displayName": "Medical_helper",
-      "maxTokens": 8000
+      "displayName": "Memory-Helper",
+      "maxTokens": 4000,
+      "numCtx": 32768,
+      "temperature": 0.2,
+      "reasoningEffort": "medium"
     }
   ],
   "activeEmbeddingModels": [
