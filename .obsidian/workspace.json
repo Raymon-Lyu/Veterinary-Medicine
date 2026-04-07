@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医诊断学/呼吸系统临床检查.md",
+                "file": "小动物疾病防治/作业六.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "呼吸系统临床检查"
+              "title": "作业六"
             }
           }
         ],
@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 549.5
+    "width": 397.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +213,9 @@
   },
   "active": "1fb482f0a95d5986",
   "lastOpenFiles": [
-    "兽医诊断学/呼吸系统诊断.md",
     "兽医诊断学/呼吸系统临床检查.md",
+    "小动物疾病防治/作业六.md",
+    "兽医诊断学/呼吸系统诊断.md",
     "copilot/copilot-conversations/Gravity,_Feather,_and_Lead_Ball@20260407_105614.md",
     "copilot/copilot-conversations/模型身份询问@20260407_082639.md",
     "动物传染病学/传染病的防控.md",
@@ -258,7 +259,6 @@
     "copilot/copilot-conversations/你好@20260319_091250.md",
     "copilot/copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20260319_082307.md",
     "copilot/copilot-conversations/你好！@20260318_214039.md",
-    "小动物疾病防治/临床营养学.md",
     "兽医药理学/药理学复习.canvas",
     "病理生理学/病理生理学.canvas",
     "动物免疫学/免疫学复习.canvas"
