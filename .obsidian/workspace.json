@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +211,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a4ba1e3bf78ccd8d",
+  "active": "1fb482f0a95d5986",
   "lastOpenFiles": [
     "copilot/copilot-conversations/模型身份询问@20260407_082639.md",
     "动物传染病学/传染病的防控.md",
