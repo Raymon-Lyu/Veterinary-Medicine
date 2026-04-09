@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "mermaid"
+    "mermaid",
+    "comfort"
   ],
   "theme": "moonstone",
   "interfaceFontFamily": "Berlin Sans FB,思源宋体",
