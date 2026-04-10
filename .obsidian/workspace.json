@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0bcd6a8cefd6145e",
+        "id": "cde701d32a422ffe",
         "type": "tabs",
         "children": [
           {
-            "id": "bc9af9bc84e1291d",
+            "id": "3a1f3b6bd1fc769e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中国社会各阶级的分析.md",
+                "file": "兽医诊断学/呼吸系统临床检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "中国社会各阶级的分析"
+              "title": "呼吸系统临床检查"
             }
           }
         ]
@@ -197,10 +197,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bc9af9bc84e1291d",
+  "active": "3a1f3b6bd1fc769e",
   "lastOpenFiles": [
-    "兽医诊断学/呼吸系统临床检查.md",
+    "copilot/copilot-conversations/你好，AI对话尝试@20260410_103439.md",
     "中国社会各阶级的分析.md",
+    "兽医诊断学/呼吸系统临床检查.md",
     "copilot/copilot-conversations/你好_你是什么模型？@20260409_222204.md",
     "小动物疾病防治/作业六.md",
     "小动物疾病防治/CPR作业.md",
@@ -244,7 +245,6 @@
     "copilot/Copilot-Indexed-Files-2026-3-20.md",
     "copilot/memory/Recent Conversations.md",
     "生物分离工程/DDD.md",
-    "copilot/copilot-conversations/寻找贫血笔记@20260320_095710.md",
     "兽医药理学/药理学复习.canvas",
     "病理生理学/病理生理学.canvas",
     "动物免疫学/免疫学复习.canvas"
