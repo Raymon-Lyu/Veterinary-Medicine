@@ -11,10 +11,14 @@
             "id": "b6fa304b8ee37c75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "中国社会各阶级的分析.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "中国社会各阶级的分析"
             }
           }
         ]
