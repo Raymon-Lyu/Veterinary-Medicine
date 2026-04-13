@@ -535,7 +535,7 @@
   "autoAcceptEdits": false,
   "diffViewMode": "split",
   "userSystemPromptsFolder": "copilot/system-prompts",
-  "defaultSystemPromptTitle": "",
+  "defaultSystemPromptTitle": "知识整理助手",
   "autoCompactThreshold": 128000,
   "convertedDocOutputFolder": "",
   "miyoRemoteVaultPath": ""
