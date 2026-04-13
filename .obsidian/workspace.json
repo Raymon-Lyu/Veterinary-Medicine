@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -196,7 +197,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a4ba1e3bf78ccd8d",
+  "active": "fcf8855f5d147a31",
   "lastOpenFiles": [
     "copilot/copilot-conversations/Greeting_and_Error@20260413_183254.md",
     "copilot/system-prompts/知识整理助手.md",
