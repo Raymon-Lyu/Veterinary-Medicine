@@ -35,8 +35,7 @@
               "title": "心内杂音机制"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,10 +212,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fbacd4f63227c713",
+  "active": "b00b1d8f6cdc7c92",
   "lastOpenFiles": [
-    "兽医诊断学/心脏检查.md",
     "兽医诊断学/details/心内杂音机制.md",
+    "兽医诊断学/心脏检查.md",
     "兽医诊断学/details",
     "template/yaml.md",
     "兽医诊断学/呼吸系统临床检查.md",
