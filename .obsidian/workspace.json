@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e61dfa816ad8ae",
+        "id": "380ffe05f1c4705f",
         "type": "tabs",
         "children": [
           {
-            "id": "58e6df55a76b9901",
+            "id": "9282cae19b6c0ebd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "兽医诊断学/血常规.md",
+                "file": "兽医诊断学/泌尿系统检查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "血常规 的反向链接列表"
+              "title": "泌尿系统检查 的反向链接列表"
             }
           },
           {
@@ -123,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "兽医诊断学/血常规.md",
+                "file": "兽医诊断学/泌尿系统检查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "血常规 的出链列表"
+              "title": "泌尿系统检查 的出链列表"
             }
           },
           {
@@ -152,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医诊断学/血常规.md",
+                "file": "兽医诊断学/泌尿系统检查.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "血常规 的大纲"
+              "title": "泌尿系统检查 的大纲"
             }
           },
           {
@@ -171,12 +172,12 @@
               "title": "Copilot"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 524.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +197,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a4ba1e3bf78ccd8d",
+  "active": "9282cae19b6c0ebd",
   "lastOpenFiles": [
     "兽医诊断学/泌尿系统检查.md",
     "兽医诊断学/血管检查.md",
