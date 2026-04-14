@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -177,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 524.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +196,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "58e6df55a76b9901",
+  "active": "a4ba1e3bf78ccd8d",
   "lastOpenFiles": [
     "兽医诊断学/泌尿系统检查.md",
     "兽医诊断学/血管检查.md",
