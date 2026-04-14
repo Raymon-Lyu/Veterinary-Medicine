@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3b75ffb1ae35708f",
+        "id": "a8e61dfa816ad8ae",
         "type": "tabs",
         "children": [
           {
-            "id": "d76d89cb969c429c",
+            "id": "58e6df55a76b9901",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医诊断学/血管检查.md",
+                "file": "兽医诊断学/泌尿系统检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "血管检查"
+              "title": "泌尿系统检查"
             }
           }
         ]
@@ -198,14 +198,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d76d89cb969c429c",
+  "active": "58e6df55a76b9901",
   "lastOpenFiles": [
+    "兽医诊断学/泌尿系统检查.md",
+    "兽医诊断学/血管检查.md",
     "兽医诊断学/images/Pasted image 20260414194254.png",
     "兽医诊断学/images",
     "兽医诊断学/血常规.md",
     "兽医诊断学/绪论.md",
     "兽医诊断学/心脏检查.md",
-    "兽医诊断学/血管检查.md",
     "兽医诊断学/details/心内杂音机制.md",
     "兽医诊断学/details",
     "template/yaml.md",
@@ -238,7 +239,6 @@
     "兽医诊断学/exp3_repo_img/selected",
     "兽医诊断学/exp3_repo_img/新建文件夹",
     "兽医诊断学/exp3_repo_img/微信图片_20260330142311_5044_349.jpg",
-    "兽医诊断学/exp3_repo_img/微信图片_20260330164301_5056_349.jpg",
     "兽医诊断学/exp3_repo_img",
     "兽医诊断学/新建文件夹",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
