@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "380ffe05f1c4705f",
+        "id": "abb1b689b691fdc8",
         "type": "tabs",
         "children": [
           {
-            "id": "9282cae19b6c0ebd",
+            "id": "6dad74b8e4436870",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,8 +197,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9282cae19b6c0ebd",
+  "active": "6dad74b8e4436870",
   "lastOpenFiles": [
+    "兽医药理学/水盐代谢.md",
     "兽医诊断学/泌尿系统检查.md",
     "兽医诊断学/血管检查.md",
     "兽医诊断学/images/Pasted image 20260414194254.png",
@@ -242,7 +243,6 @@
     "兽医诊断学/新建文件夹",
     "病理生理学/第七章 水和电解质代谢紊乱.md",
     "小动物疾病防治/作业三 宠主沟通.md",
-    "copilot/copilot-conversations/问候@20260330_101316.md",
     "动物传染病学",
     "兽医诊断学/ppt/诊断 - 生化部分student version.pdf",
     "兽医药理学/药理学复习.canvas",
