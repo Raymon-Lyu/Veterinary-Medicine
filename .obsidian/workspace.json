@@ -35,7 +35,8 @@
               "title": "神经系统检查"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 200.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,8 +212,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6dad74b8e4436870",
+  "active": "4175f8f734f89a61",
   "lastOpenFiles": [
+    "兽医诊断学/泌尿系统检查.md",
     "兽医诊断学/神经系统检查.md",
     "copilot/copilot-conversations/心音形成机制简述@20260415_132203.md",
     "兽医诊断学/血生化.md",
@@ -220,7 +222,6 @@
     "656f04c8dcac10225296b39f6a11efab.png",
     "兽医诊断学/心脏检查.md",
     "2026-04-15.md",
-    "兽医诊断学/泌尿系统检查.md",
     "兽医药理学/水盐代谢.md",
     "兽医诊断学/血管检查.md",
     "兽医诊断学/images/Pasted image 20260414194254.png",
