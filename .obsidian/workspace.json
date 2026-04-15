@@ -35,8 +35,7 @@
               "title": "心脏检查"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,8 +211,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4175f8f734f89a61",
+  "active": "6dad74b8e4436870",
   "lastOpenFiles": [
+    "兽医诊断学/心脏检查.md",
     "兽医诊断学/泌尿系统检查.md",
     "兽医药理学/水盐代谢.md",
     "兽医诊断学/血管检查.md",
@@ -221,7 +221,6 @@
     "兽医诊断学/images",
     "兽医诊断学/血常规.md",
     "兽医诊断学/绪论.md",
-    "兽医诊断学/心脏检查.md",
     "兽医诊断学/details/心内杂音机制.md",
     "兽医诊断学/details",
     "template/yaml.md",
