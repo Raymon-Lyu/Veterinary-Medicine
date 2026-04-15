@@ -187,12 +187,12 @@
               "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 471.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,8 +212,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4175f8f734f89a61",
+  "active": "a4ba1e3bf78ccd8d",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/心音形成机制简述@20260415_132203.md",
     "兽医诊断学/血生化.md",
     "template/yaml.md",
     "656f04c8dcac10225296b39f6a11efab.png",
@@ -245,7 +246,6 @@
     "copilot/copilot-conversations/你好，开始对话@20260409_134112.md",
     "兽医诊断学/呼吸系统诊断.md",
     "copilot/copilot-conversations/Gravity,_Feather,_and_Lead_Ball@20260407_105614.md",
-    "copilot/copilot-conversations/模型身份询问@20260407_082639.md",
     "兽医诊断学/exp3_repo_img/selected/fig11.jpg",
     "兽医诊断学/exp3_repo_img/selected/fig10.jpg",
     "兽医诊断学/exp3_repo_img/selected/fig9.jpg",

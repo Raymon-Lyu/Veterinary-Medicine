@@ -25,7 +25,7 @@
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
   "defaultModelKey": "copilot-plus-flash|copilot-plus",
-  "embeddingModelKey": "bge-m3|ollama",
+  "embeddingModelKey": "bge-m3:567m |ollama",
   "temperature": 0.1,
   "maxTokens": 6000,
   "contextTurns": 15,
@@ -469,7 +469,7 @@
       "enableCors": false
     },
     {
-      "name": "bge-m3",
+      "name": "bge-m3:567m ",
       "provider": "ollama",
       "enabled": true,
       "isBuiltIn": false,
