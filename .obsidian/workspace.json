@@ -55,7 +55,7 @@
               "state": {
                 "file": "兽医诊断学/血常规/白细胞指标.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "白细胞指标"
