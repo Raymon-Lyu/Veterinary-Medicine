@@ -47,8 +47,7 @@
               "title": "白细胞指标"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医诊断学/血常规/白细胞指标.md",
+                "file": "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "白细胞指标 的大纲"
+              "title": "Microsoft PowerPoint - 血常规 - student version 的大纲"
             }
           },
           {
@@ -199,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -223,14 +222,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a336c84118da4c46",
+  "active": "8c0968306c4d8d8f",
   "lastOpenFiles": [
     "兽医诊断学/血管检查.md",
+    "兽医诊断学/血常规/白细胞指标.md",
     "兽医诊断学/血生化.md",
     "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
     "兽医诊断学/血常规/血常规.md",
     "兽医诊断学/血常规/血小板指标.md",
-    "兽医诊断学/血常规/白细胞指标.md",
     "兽医诊断学/血常规/红细胞指标.md",
     "copilot/copilot-conversations/贫血类型概述与解答@20260416_115537.md",
     "兽医诊断学/血常规/红细胞指标解读.md",
