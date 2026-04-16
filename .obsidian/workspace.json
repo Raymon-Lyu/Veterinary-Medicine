@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医诊断学/血常规.md",
+                "file": "兽医诊断学/红细胞指标.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "血常规 的大纲"
+              "title": "红细胞指标 的大纲"
             }
           },
           {
@@ -225,11 +225,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "eb119b618bca1475",
+  "active": "57f5c07815ef74f8",
   "lastOpenFiles": [
+    "兽医诊断学/血常规.md",
     "兽医诊断学/红细胞指标.md",
     "兽医诊断学/贫血.md",
-    "兽医诊断学/血常规.md",
     "兽医诊断学/泌尿系统检查.md",
     "中国社会各阶级的分析.md",
     "Excalidraw/Drawing 2026-04-16 09.00.44.excalidraw.md",
