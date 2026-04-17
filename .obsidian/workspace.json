@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "肝脏功能评估"
             }
+          },
+          {
+            "id": "4e6b52dfd56e15e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "兽医诊断学/血常规/白细胞指标.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "白细胞指标"
+            }
           }
         ],
         "currentTab": 1
@@ -213,14 +227,14 @@
   },
   "active": "d6af3df6ff1a2d50",
   "lastOpenFiles": [
-    "兽医诊断学/血生化/血生化.md",
+    "兽医诊断学/血常规/白细胞指标.md",
     "兽医诊断学/血生化/肝脏功能评估.md",
+    "兽医诊断学/血生化/血生化.md",
     "兽医诊断学/血生化/肾脏功能评估.md",
     "兽医诊断学/未命名.md",
     "兽医诊断学/血生化",
     "兽医诊断学/血常规/血常规.md",
     "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
-    "兽医诊断学/血常规/白细胞指标.md",
     "兽医诊断学/血常规/血小板指标.md",
     "兽医诊断学/血常规/血小板.md",
     "兽医诊断学/details/皮质醇诱导白细胞相详解.md",
