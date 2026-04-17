@@ -35,7 +35,8 @@
               "title": "肾脏功能评估"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "兽医诊断学/血生化/血生化.md",
+                "file": "兽医诊断学/血生化/肾脏功能评估.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "血生化 的反向链接列表"
+              "title": "肾脏功能评估 的反向链接列表"
             }
           },
           {
@@ -137,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "兽医诊断学/血生化/血生化.md",
+                "file": "兽医诊断学/血生化/肾脏功能评估.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "血生化 的出链列表"
+              "title": "肾脏功能评估 的出链列表"
             }
           },
           {
@@ -166,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医诊断学/血生化/血生化.md",
+                "file": "兽医诊断学/血生化/肾脏功能评估.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "血生化 的大纲"
+              "title": "肾脏功能评估 的大纲"
             }
           },
           {
@@ -210,10 +211,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "27da946ca0fbd270",
+  "active": "d6af3df6ff1a2d50",
   "lastOpenFiles": [
-    "兽医诊断学/血生化/肾脏功能评估.md",
     "兽医诊断学/血生化/血生化.md",
+    "兽医诊断学/血生化/肾脏功能评估.md",
     "兽医诊断学/未命名.md",
     "兽医诊断学/血生化",
     "兽医诊断学/血常规/血常规.md",
