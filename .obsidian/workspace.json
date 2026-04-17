@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医诊断学/血生化/血糖与蛋白质评估.md",
+                "file": "兽医诊断学/血生化/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "血糖与蛋白质评估"
+              "title": "未命名"
             }
           }
         ],
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医诊断学/血生化/血糖与蛋白质评估.md",
+                "file": "兽医诊断学/血生化/未命名.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "血糖与蛋白质评估 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -241,10 +241,11 @@
   },
   "active": "ed4e209f31143c94",
   "lastOpenFiles": [
+    "兽医诊断学/血生化/血糖评估.md",
+    "兽医诊断学/血生化/未命名.md",
     "兽医诊断学/血生化/肝脏功能评估.md",
     "兽医诊断学/血常规/白细胞指标.md",
     "兽医诊断学/血生化/血生化.md",
-    "兽医诊断学/血生化/血糖与蛋白质评估.md",
     "兽医诊断学/血生化/肾脏功能评估.md",
     "兽医诊断学/未命名.md",
     "兽医诊断学/血生化",
@@ -275,7 +276,6 @@
     "兽医药理学/水盐代谢.md",
     "兽医诊断学/images/Pasted image 20260414194254.png",
     "兽医诊断学/images",
-    "兽医诊断学/绪论.md",
     "兽医诊断学/details",
     "copilot/system-prompts",
     "未命名.base",
