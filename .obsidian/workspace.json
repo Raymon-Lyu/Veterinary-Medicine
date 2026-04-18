@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 205.5,
+    "collapsed": true
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -167,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医诊断学/血生化/蛋白质评估.md",
+                "file": "兽医诊断学/血生化/钙磷评估.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "蛋白质评估 的大纲"
+              "title": "钙磷评估 的大纲"
             }
           },
           {
@@ -187,12 +188,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +212,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c55f687b3acd7eb8",
+  "active": "e4a27a2bf92ae123",
   "lastOpenFiles": [
     "兽医诊断学/血生化/脂质评估.md",
     "兽医诊断学/血生化/钙磷评估.md",
