@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医诊断学/血生化/钙磷评估.md",
+                "file": "兽医诊断学/ppt问题.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "钙磷评估"
+              "title": "ppt问题"
             }
           }
         ],
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5,
-    "collapsed": true
+    "width": 205.5
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -168,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医诊断学/血生化/钙磷评估.md",
+                "file": "兽医诊断学/ppt问题.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "钙磷评估 的大纲"
+              "title": "ppt问题 的大纲"
             }
           },
           {
@@ -214,8 +213,9 @@
   },
   "active": "c55f687b3acd7eb8",
   "lastOpenFiles": [
-    "兽医诊断学/血生化/脂质评估.md",
     "兽医诊断学/血生化/钙磷评估.md",
+    "兽医诊断学/ppt问题.md",
+    "兽医诊断学/血生化/脂质评估.md",
     "兽医诊断学/血生化/蛋白质评估.md",
     "兽医诊断学/血生化/肾脏功能评估.md",
     "copilot/copilot-conversations/肾病损伤部位知识总结@20260417_225416.md",
@@ -224,7 +224,6 @@
     "兽医诊断学/血常规/白细胞指标.md",
     "兽医诊断学/血生化/血糖评估.md",
     "兽医诊断学/血生化/血生化.md",
-    "兽医诊断学/未命名.md",
     "兽医诊断学/血生化",
     "兽医诊断学/血常规/血常规.md",
     "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
