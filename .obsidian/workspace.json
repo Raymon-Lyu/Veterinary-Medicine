@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +212,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e4a27a2bf92ae123",
+  "active": "c55f687b3acd7eb8",
   "lastOpenFiles": [
     "兽医诊断学/血生化/脂质评估.md",
     "兽医诊断学/血生化/钙磷评估.md",
