@@ -99,8 +99,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 665.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +212,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c55f687b3acd7eb8",
+  "active": "9417d413612a1b48",
   "lastOpenFiles": [
     "兽医诊断学/血生化/肾脏功能评估.md",
     "兽医诊断学/血生化/钙磷评估.md",
