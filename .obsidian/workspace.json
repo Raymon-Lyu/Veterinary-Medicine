@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医诊断学/血常规/红细胞指标.md",
+                "file": "兽医诊断学/血常规/贫血.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "红细胞指标"
+              "title": "贫血"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医诊断学/血常规/红细胞指标.md",
+                "file": "兽医诊断学/血常规/贫血.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "红细胞指标 的大纲"
+              "title": "贫血 的大纲"
             }
           },
           {
@@ -198,13 +198,13 @@
   },
   "active": "f51a0dc538478f15",
   "lastOpenFiles": [
+    "兽医诊断学/血常规/血小板指标.md",
+    "兽医诊断学/血常规/白细胞指标.md",
+    "兽医诊断学/血常规/红细胞指标.md",
     "兽医诊断学/血常规/贫血.md",
     "兽医诊断学/血常规/红细胞指标解读.md",
-    "兽医诊断学/血常规/红细胞指标.md",
     "兽医诊断学/血生化/血糖评估.md",
-    "兽医诊断学/血常规/白细胞指标.md",
     "兽医诊断学/泌尿系统检查.md",
-    "兽医诊断学/血常规/血小板指标.md",
     "兽医诊断学/呼吸系统临床检查.md",
     "兽医诊断学/神经系统检查.md",
     "兽医诊断学/血管检查.md",
