@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/Two Image Compare.md",
+                "file": "兽医诊断学/泌尿系统检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Two Image Compare"
+              "title": "泌尿系统检查"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/Two Image Compare.md",
+                "file": "兽医诊断学/泌尿系统检查.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Two Image Compare 的大纲"
+              "title": "泌尿系统检查 的大纲"
             }
           },
           {
@@ -198,6 +198,8 @@
   },
   "active": "f51a0dc538478f15",
   "lastOpenFiles": [
+    "兽医诊断学/神经系统检查.md",
+    "template/Two Image Compare.md",
     "兽医诊断学/PPT问题/毕奥特氏呼吸.md",
     "兽医诊断学/血生化/钙磷评估.md",
     "兽医诊断学/血常规/红细胞指标解读.md",
@@ -208,7 +210,6 @@
     "兽医诊断学/血生化/血糖评估.md",
     "兽医诊断学/泌尿系统检查.md",
     "兽医诊断学/呼吸系统临床检查.md",
-    "兽医诊断学/神经系统检查.md",
     "兽医诊断学/血管检查.md",
     "兽医诊断学/心脏检查.md",
     "兽医诊断学/血生化/血生化.md",
@@ -225,7 +226,6 @@
     "兽医诊断学/血生化/肾脏功能评估.md",
     "copilot/copilot-conversations/肾病损伤部位知识总结@20260417_225416.md",
     "兽医诊断学/血常规/images/Pasted image 20260416201630.png",
-    "兽医诊断学/血生化/肝脏功能评估.md",
     "兽医诊断学/血生化",
     "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
     "兽医诊断学/血常规/images/reticulocytes.png.png",
