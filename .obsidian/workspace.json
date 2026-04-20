@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +197,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f51a0dc538478f15",
+  "active": "e4a27a2bf92ae123",
   "lastOpenFiles": [
     "兽医诊断学/泌尿系统检查.md",
     "兽医诊断学/神经系统检查.md",
