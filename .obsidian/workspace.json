@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医诊断学/呼吸系统临床检查.md",
+                "file": "兽医诊断学/泌尿系统检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "呼吸系统临床检查"
+              "title": "泌尿系统检查"
             }
           }
         ]
@@ -84,12 +84,12 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 205.5,
+    "collapsed": true
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医诊断学/呼吸系统临床检查.md",
+                "file": "兽医诊断学/泌尿系统检查.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "呼吸系统临床检查 的大纲"
+              "title": "泌尿系统检查 的大纲"
             }
           },
           {
@@ -197,9 +197,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4fb8ab83510d2482",
+  "active": "f51a0dc538478f15",
   "lastOpenFiles": [
     "兽医诊断学/神经系统检查.md",
+    "兽医诊断学/心脏检查.md",
+    "兽医诊断学/呼吸系统临床检查.md",
     "兽医诊断学/泌尿系统检查.md",
     "template/Two Image Compare.md",
     "兽医诊断学/PPT问题/毕奥特氏呼吸.md",
@@ -210,9 +212,7 @@
     "兽医诊断学/血常规/白细胞指标.md",
     "兽医诊断学/血常规/红细胞指标.md",
     "兽医诊断学/血生化/血糖评估.md",
-    "兽医诊断学/呼吸系统临床检查.md",
     "兽医诊断学/血管检查.md",
-    "兽医诊断学/心脏检查.md",
     "兽医诊断学/血生化/血生化.md",
     "兽医诊断学/PPT问题/子宫蓄脓.md",
     "兽医诊断学/PPT问题/犬病毒原.md",
