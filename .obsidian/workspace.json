@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "第5肋",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -197,7 +197,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f51a0dc538478f15",
+  "active": "4fb8ab83510d2482",
   "lastOpenFiles": [
     "兽医诊断学/神经系统检查.md",
     "兽医诊断学/泌尿系统检查.md",
