@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医诊断学/泌尿系统检查.md",
+                "file": "兽医诊断学/PPT问题/子宫蓄脓.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "泌尿系统检查"
-            }
-          },
-          {
-            "id": "40f6d044b7590776",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "兽医诊断学/ppt/2026诊断学 - 消化系统student version.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2026诊断学 - 消化系统student version"
+              "title": "子宫蓄脓"
             }
           },
           {
@@ -43,7 +31,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "正常体温",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +95,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,13 +164,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医诊断学/泌尿系统检查.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "泌尿系统检查 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -218,9 +207,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f51a0dc538478f15",
+  "active": "45a7a07d165aab15",
   "lastOpenFiles": [
     "兽医诊断学/ppt/2026诊断学 - 消化系统student version.pdf",
+    "兽医诊断学/PPT问题/子宫蓄脓.md",
+    "兽医诊断学/PPT问题/胸膜炎.md",
+    "兽医诊断学/PPT问题/猪巴氏杆菌病.md",
+    "兽医诊断学/PPT问题/犬内分泌脱毛.md",
+    "兽医诊断学/PPT问题/犬病毒原.md",
     "兽医诊断学/泌尿系统检查.md",
     "兽医诊断学/神经系统检查.md",
     "兽医诊断学/心脏检查.md",
@@ -236,13 +230,8 @@
     "兽医诊断学/血生化/血糖评估.md",
     "兽医诊断学/血管检查.md",
     "兽医诊断学/血生化/血生化.md",
-    "兽医诊断学/PPT问题/子宫蓄脓.md",
-    "兽医诊断学/PPT问题/犬病毒原.md",
     "兽医诊断学/PPT问题/库兴综合征.md",
-    "兽医诊断学/PPT问题/胸膜炎.md",
-    "兽医诊断学/PPT问题/犬内分泌脱毛.md",
     "兽医诊断学/PPT问题/临床检查.md",
-    "兽医诊断学/PPT问题/猪巴氏杆菌病.md",
     "兽医诊断学/PPT问题",
     "兽医诊断学/血生化/脂质评估.md",
     "兽医诊断学/血生化/蛋白质评估.md",
