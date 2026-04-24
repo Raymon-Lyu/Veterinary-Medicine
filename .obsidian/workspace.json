@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "兽医诊断学/PPT问题/子宫蓄脓.md",
+                "file": "兽医诊断学/PPT问题/犬病毒原.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "子宫蓄脓"
+              "title": "犬病毒原"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医诊断学/PPT问题/子宫蓄脓.md",
+                "file": "兽医诊断学/PPT问题/犬病毒原.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "子宫蓄脓 的大纲"
+              "title": "犬病毒原 的大纲"
             }
           },
           {
@@ -196,12 +196,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9417d413612a1b48",
+  "active": "f51a0dc538478f15",
   "lastOpenFiles": [
-    "兽医诊断学/ppt/2026诊断学 - 消化系统student version.pdf",
-    "兽医诊断学/PPT问题/子宫蓄脓.md",
-    "兽医诊断学/PPT问题/胸膜炎.md",
     "兽医诊断学/PPT问题/猪巴氏杆菌病.md",
+    "兽医诊断学/PPT问题/子宫蓄脓.md",
+    "兽医诊断学/ppt/2026诊断学 - 消化系统student version.pdf",
+    "兽医诊断学/PPT问题/胸膜炎.md",
     "兽医诊断学/PPT问题/犬内分泌脱毛.md",
     "兽医诊断学/PPT问题/犬病毒原.md",
     "兽医诊断学/泌尿系统检查.md",
