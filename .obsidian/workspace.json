@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "子宫蓄脓"
             }
-          },
-          {
-            "id": "005400f8d7a8c4a2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "正常体温",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,8 +84,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "兽医诊断学/PPT问题/子宫蓄脓.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "子宫蓄脓 的大纲"
             }
           },
           {
@@ -207,7 +196,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "45a7a07d165aab15",
+  "active": "9417d413612a1b48",
   "lastOpenFiles": [
     "兽医诊断学/ppt/2026诊断学 - 消化系统student version.pdf",
     "兽医诊断学/PPT问题/子宫蓄脓.md",
