@@ -1,0 +1,462 @@
+/* ============================================================
+   Vet CDSS Agent — Obsidian Plugin Styles
+   
+   设计原则：
+     1. 全部使用 Obsidian CSS 变量，自动适配明暗主题
+     2. 微动效增强交互反馈，不过度装饰
+     3. 消息气泡区分角色，参考来源卡片可折叠
+   ============================================================ */
+
+/* ---- 根容器 ---- */
+.vet-agent-root {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden;
+    font-family: var(--font-interface);
+}
+
+/* ============================================================
+   状态栏
+   ============================================================ */
+.vet-status-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 14px;
+    border-bottom: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    flex-shrink: 0;
+    gap: 8px;
+}
+
+.vet-status-title {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-weight: 600;
+    font-size: 13px;
+    color: var(--text-normal);
+    white-space: nowrap;
+}
+
+.vet-status-title .svg-icon {
+    width: 16px;
+    height: 16px;
+    color: var(--text-accent);
+}
+
+.vet-status-badges {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.vet-badge {
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 10px;
+    white-space: nowrap;
+    font-weight: 500;
+    line-height: 1.4;
+}
+
+.vet-badge-ok {
+    background: hsla(142, 60%, 45%, 0.15);
+    color: hsl(142, 60%, 40%);
+}
+
+.vet-badge-warn {
+    background: hsla(38, 90%, 50%, 0.15);
+    color: hsl(38, 80%, 40%);
+}
+
+.vet-badge-error {
+    background: hsla(0, 70%, 55%, 0.15);
+    color: hsl(0, 70%, 50%);
+}
+
+.vet-badge-info {
+    background: var(--background-modifier-hover);
+    color: var(--text-muted);
+}
+
+/* 暗色主题下调整 badge 文字色 */
+.theme-dark .vet-badge-ok { color: hsl(142, 55%, 60%); }
+.theme-dark .vet-badge-warn { color: hsl(38, 85%, 65%); }
+.theme-dark .vet-badge-error { color: hsl(0, 65%, 65%); }
+
+/* ============================================================
+   消息区域
+   ============================================================ */
+.vet-messages-container {
+    flex: 1;
+    overflow-y: auto;
+    padding: 16px 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    scroll-behavior: smooth;
+}
+
+/* 自定义滚动条 */
+.vet-messages-container::-webkit-scrollbar {
+    width: 5px;
+}
+.vet-messages-container::-webkit-scrollbar-thumb {
+    background: var(--background-modifier-border);
+    border-radius: 3px;
+}
+.vet-messages-container::-webkit-scrollbar-thumb:hover {
+    background: var(--text-faint);
+}
+
+/* ---- 单条消息 ---- */
+.vet-msg {
+    display: flex;
+    gap: 10px;
+    max-width: 100%;
+    animation: vetFadeIn 0.3s ease-out;
+}
+
+.vet-msg-enter {
+    opacity: 0;
+    transform: translateY(8px);
+}
+
+@keyframes vetFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(8px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.vet-msg-user {
+    flex-direction: row-reverse;
+}
+
+.vet-msg-avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    flex-shrink: 0;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    user-select: none;
+}
+
+/* ---- 消息气泡 ---- */
+.vet-msg-bubble {
+    padding: 10px 14px;
+    border-radius: 12px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    max-width: 85%;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+/* 气泡内的 Markdown 元素修正 */
+.vet-msg-bubble p {
+    margin: 0 0 6px 0;
+}
+.vet-msg-bubble p:last-child {
+    margin-bottom: 0;
+}
+.vet-msg-bubble ul,
+.vet-msg-bubble ol {
+    margin: 4px 0;
+    padding-left: 20px;
+}
+.vet-msg-bubble code {
+    font-size: 12px;
+    padding: 1px 4px;
+    border-radius: 3px;
+    background: var(--code-background);
+}
+.vet-msg-bubble pre {
+    margin: 6px 0;
+    padding: 8px 10px;
+    border-radius: 6px;
+    background: var(--code-background);
+    overflow-x: auto;
+    font-size: 12px;
+}
+.vet-msg-bubble pre code {
+    padding: 0;
+    background: none;
+}
+.vet-msg-bubble strong {
+    color: var(--text-accent);
+}
+.vet-msg-bubble h1,
+.vet-msg-bubble h2,
+.vet-msg-bubble h3,
+.vet-msg-bubble h4 {
+    margin: 8px 0 4px 0;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* 助手气泡 */
+.vet-msg-assistant .vet-msg-bubble {
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    border-top-left-radius: 4px;
+}
+
+/* 用户气泡 */
+.vet-msg-user .vet-msg-bubble {
+    background: var(--interactive-accent);
+    color: var(--text-on-accent);
+    border-top-right-radius: 4px;
+}
+
+.vet-msg-user .vet-msg-bubble strong {
+    color: var(--text-on-accent);
+}
+
+.vet-msg-user .vet-msg-bubble code {
+    background: hsla(0, 0%, 100%, 0.15);
+    color: var(--text-on-accent);
+}
+
+/* ============================================================
+   参考来源卡片
+   ============================================================ */
+.vet-sources-card {
+    margin: 2px 0 4px 42px;
+    padding: 8px 12px;
+    background: var(--background-secondary-alt);
+    border-radius: 8px;
+    border: 1px solid var(--background-modifier-border);
+    animation: vetFadeIn 0.3s ease-out;
+}
+
+.vet-sources-title {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text-muted);
+    margin-bottom: 6px;
+}
+
+.vet-source-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3px 0;
+    font-size: 12px;
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.vet-source-item:last-child {
+    border-bottom: none;
+}
+
+.vet-source-name {
+    color: var(--text-accent);
+    cursor: pointer;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 75%;
+}
+
+.vet-source-name:hover {
+    text-decoration: underline;
+}
+
+.vet-source-score {
+    color: var(--text-faint);
+    font-size: 11px;
+    flex-shrink: 0;
+}
+
+/* ============================================================
+   加载动画
+   ============================================================ */
+.vet-loading {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 14px;
+    margin-left: 42px;
+    animation: vetFadeIn 0.3s ease-out;
+}
+
+.vet-loading-dots {
+    display: flex;
+    gap: 4px;
+}
+
+.vet-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--text-accent);
+    animation: vetBounce 1.4s infinite ease-in-out both;
+}
+
+.vet-dot:nth-child(1) { animation-delay: -0.32s; }
+.vet-dot:nth-child(2) { animation-delay: -0.16s; }
+.vet-dot:nth-child(3) { animation-delay: 0s; }
+
+@keyframes vetBounce {
+    0%, 80%, 100% {
+        transform: scale(0.4);
+        opacity: 0.4;
+    }
+    40% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+.vet-loading-text {
+    font-size: 12px;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+/* ============================================================
+   输入区域
+   ============================================================ */
+.vet-input-area {
+    flex-shrink: 0;
+    border-top: 1px solid var(--background-modifier-border);
+    background: var(--background-primary);
+    padding: 8px 12px 10px;
+}
+
+.vet-input-toolbar {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 6px;
+}
+
+.vet-toolbar-btn {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding: 3px 10px;
+    border-radius: 6px;
+    font-size: 11px;
+    cursor: pointer;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    color: var(--text-muted);
+    transition: all 0.15s ease;
+}
+
+.vet-toolbar-btn:hover {
+    background: var(--background-modifier-hover);
+    color: var(--text-normal);
+    border-color: var(--text-faint);
+}
+
+.vet-toolbar-btn .svg-icon {
+    width: 12px;
+    height: 12px;
+}
+
+.vet-input-wrapper {
+    display: flex;
+    align-items: flex-end;
+    gap: 8px;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 10px;
+    padding: 6px 6px 6px 12px;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.vet-input-wrapper:focus-within {
+    border-color: var(--interactive-accent);
+    box-shadow: 0 0 0 2px hsla(var(--interactive-accent-hsl), 0.15);
+}
+
+.vet-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    resize: none;
+    background: transparent;
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--text-normal);
+    font-family: var(--font-interface);
+    min-height: 24px;
+    max-height: 120px;
+}
+
+.vet-input::placeholder {
+    color: var(--text-faint);
+}
+
+.vet-send-btn {
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--interactive-accent);
+    color: var(--text-on-accent);
+    flex-shrink: 0;
+    transition: all 0.15s ease;
+}
+
+.vet-send-btn:hover {
+    filter: brightness(1.1);
+    transform: scale(1.05);
+}
+
+.vet-send-btn:active {
+    transform: scale(0.95);
+}
+
+.vet-send-btn .svg-icon {
+    width: 16px;
+    height: 16px;
+}
+
+.vet-send-btn-disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+/* ============================================================
+   设置页
+   ============================================================ */
+.vet-settings-guide {
+    padding: 12px 16px;
+    background: var(--background-secondary);
+    border-radius: 8px;
+    border: 1px solid var(--background-modifier-border);
+    margin-top: 8px;
+}
+
+.vet-settings-guide p {
+    margin: 4px 0;
+    font-size: 13px;
+}
+
+.vet-settings-guide pre {
+    margin: 8px 0;
+    padding: 10px 12px;
+    border-radius: 6px;
+    background: var(--code-background);
+    font-size: 12px;
+}
