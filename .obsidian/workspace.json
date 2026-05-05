@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +197,7 @@
       "vet-cdss-agent:打开 Vet CDSS Agent": false
     }
   },
-  "active": "e40a5a7b5e49d951",
+  "active": "e51c37c9a52c856f",
   "lastOpenFiles": [
     "中兽医学/哲学基础.md",
     "中兽医学/总论.md",
