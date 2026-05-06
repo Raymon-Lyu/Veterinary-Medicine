@@ -460,3 +460,46 @@
     background: var(--code-background);
     font-size: 12px;
 }
+
+/* ============================================================
+   配置 Dashboard
+   ============================================================ */
+.vet-settings-dashboard .setting-item {
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.vet-config-group-header {
+    margin-top: 16px;
+    padding-top: 12px !important;
+    border-top: 2px solid var(--interactive-accent) !important;
+}
+
+.vet-config-group-header .setting-item-name {
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--text-accent);
+}
+
+.vet-config-status {
+    padding: 16px;
+    text-align: center;
+    color: var(--text-muted);
+    font-style: italic;
+    font-size: 13px;
+}
+
+.vet-config-error {
+    color: var(--text-error) !important;
+    font-style: normal !important;
+    font-weight: 600;
+}
+
+.vet-config-dashboard .setting-item-control input[type="text"],
+.vet-config-dashboard .setting-item-control input[type="password"] {
+    min-width: 280px;
+}
+
+.vet-config-dashboard .setting-item-control select {
+    min-width: 220px;
+}
+

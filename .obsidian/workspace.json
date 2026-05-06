@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "21aed2903c333362",
+            "id": "0fa686deff9a3632",
             "type": "leaf",
             "state": {
               "type": "vet-cdss-chat",
@@ -177,10 +177,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 569.5
+    "width": 457.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "vet-cdss-agent:打开 Vet CDSS Agent": false,
       "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -193,12 +194,12 @@
       "obsidian-kanban:创建新看板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "vet-cdss-agent:打开 Vet CDSS Agent": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21aed2903c333362",
+  "active": "0fa686deff9a3632",
   "lastOpenFiles": [
+    "兽医药理学/all_drugs.md",
     "中兽医学/哲学基础.md",
     "中兽医学/总论.md",
     "中兽医学",
@@ -227,7 +228,6 @@
     "兽医诊断学/PPT问题/临床检查.md",
     "兽医诊断学/PPT问题",
     "兽医诊断学/血生化/脂质评估.md",
-    "兽医诊断学/血生化/蛋白质评估.md",
     "兽医诊断学/血常规/images/Pasted image 20260416201630.png",
     "兽医诊断学/血生化",
     "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
