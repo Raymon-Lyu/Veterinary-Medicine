@@ -11,12 +11,14 @@
             "id": "604bf04cbfc9a2c6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "中兽医学/reference_materials/chapter_0.pdf"
+                "file": "中兽医学/总论.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "chapter_0"
+              "icon": "lucide-file",
+              "title": "总论"
             }
           }
         ]
@@ -171,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中兽医学/reference_materials/chapter_0.pdf",
+                "file": "中兽医学/总论.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "chapter_0 的大纲"
+              "title": "总论 的大纲"
             }
           },
           {
@@ -214,11 +216,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9417d413612a1b48",
+  "active": "604bf04cbfc9a2c6",
   "lastOpenFiles": [
+    "中兽医学/reference_materials/chapter_0.pdf",
     "中兽医学/总论.md",
     "中兽医学/元气论.md",
-    "中兽医学/reference_materials/chapter_0.pdf",
     "中兽医学/reference_materials/chapter_1.pdf",
     "中兽医学/reference_materials/mso50E0.tmp",
     "中兽医学/reference_materials/~$chapter_1.pptx",
