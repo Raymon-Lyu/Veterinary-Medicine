@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fc02dc2f07225f53",
+        "id": "fa1adf434fb5b243",
         "type": "tabs",
         "children": [
           {
-            "id": "e40a5a7b5e49d951",
+            "id": "604bf04cbfc9a2c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "兽医药理学/all_drugs.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "all_drugs"
+              "title": "新标签页"
             }
           }
         ]
@@ -153,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "兽医药理学/all_drugs.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "all_drugs 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -197,8 +192,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0fa686deff9a3632",
+  "active": "604bf04cbfc9a2c6",
   "lastOpenFiles": [
+    "动物免疫学/un_locked_pdfs/unlocked_第八章 变态反应.pdf",
     "兽医药理学/all_drugs.md",
     "中兽医学/哲学基础.md",
     "中兽医学/总论.md",
@@ -227,7 +223,6 @@
     "兽医诊断学/PPT问题/库兴综合征.md",
     "兽医诊断学/PPT问题/临床检查.md",
     "兽医诊断学/PPT问题",
-    "兽医诊断学/血生化/脂质评估.md",
     "兽医诊断学/血常规/images/Pasted image 20260416201630.png",
     "兽医诊断学/血生化",
     "兽医诊断学/ppt/Microsoft PowerPoint - 血常规 - student version.pdf",
