@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "中兽医学/reference_materials/chapter_0.pdf"
+                "file": "中兽医学/reference_materials/chapter_1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "chapter_0"
+              "title": "chapter_1"
             }
           }
         ],
@@ -247,11 +247,11 @@
   },
   "active": "749174eb163c83a0",
   "lastOpenFiles": [
+    "中兽医学/reference_materials/chapter_1.pdf",
+    "中兽医学/reference_materials/chapter_0.pdf",
     "中兽医学/阴阳学说.md",
     "中兽医学/元气论.md",
-    "中兽医学/reference_materials/chapter_0.pdf",
     "中兽医学/总论.md",
-    "中兽医学/reference_materials/chapter_1.pdf",
     "中兽医学/reference_materials/mso50E0.tmp",
     "中兽医学/reference_materials/~$chapter_1.pptx",
     "中兽医学/reference_materials/msoF330.tmp",
@@ -282,7 +282,6 @@
     "兽医诊断学/血管检查.md",
     "兽医诊断学/血生化/血生化.md",
     "兽医诊断学/PPT问题/库兴综合征.md",
-    "兽医诊断学/PPT问题/临床检查.md",
     "兽医诊断学/血常规/images/Pasted image 20260416201630.png",
     "兽医诊断学/血常规/images/reticulocytes.png.png",
     "656f04c8dcac10225296b39f6a11efab.png",
