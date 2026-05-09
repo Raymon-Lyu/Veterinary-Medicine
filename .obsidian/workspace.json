@@ -84,7 +84,8 @@
               "title": "实验一ppt"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中兽医学/元气论.md",
+                "file": "中兽医学/阴阳学说.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "元气论 的大纲"
+              "title": "阴阳学说 的大纲"
             }
           },
           {
@@ -259,10 +260,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e4a27a2bf92ae123",
+  "active": "749174eb163c83a0",
   "lastOpenFiles": [
-    "中药方剂学/实验一ppt.md",
     "中兽医学/元气论.md",
+    "中药方剂学/实验一ppt.md",
     "中兽医学/阴阳学说.md",
     "中兽医学/reference_materials/chapter_1.pdf",
     "中兽医学/reference_materials/chapter_0.pdf",
