@@ -231,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中药方剂学/实验一ppt.md",
+                "file": "中兽医学/reference_materials/chapter_1.pdf",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实验一ppt 的大纲"
+              "title": "chapter_1 的大纲"
             }
           },
           {
@@ -274,10 +274,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e991d7576be532a",
+  "active": "1bf98fa178632572",
   "lastOpenFiles": [
-    "中兽医学/reference_materials/chapter_1.pdf",
     "中药方剂学/实验一ppt.md",
+    "中兽医学/reference_materials/chapter_1.pdf",
     "中兽医学/阴阳学说.md",
     "中兽医学/元气论.md",
     "中兽医学/reference_materials/chapter_0.pdf",
