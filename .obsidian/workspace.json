@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/d0d53c96-59e5-4ca4-a180-c5001d10fd29",
-                "title": "Philosophical Foundations of Traditional Chinese Veterinary Medicine - NotebookLM",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Philosophical Foundations of Traditional Chinese Veterinary Medicine - NotebookLM"
+              "title": "data:text/plain,"
             }
           }
         ]
@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,11 +216,10 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "gemini-sidecar:Open Gemini Sidecar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5b7dad1314b27a3",
+  "active": "9197cc52874fe919",
   "lastOpenFiles": [
     "中兽医学/五行学说.md",
     "动物传染病学/大肠杆菌病.md",
