@@ -6,87 +6,31 @@
         "type": "split",
         "children": [
           {
-            "id": "370a25da9076af6c",
+            "id": "debc8baff8bd67a7",
             "type": "tabs",
-            "dimension": 54.434250764526,
             "children": [
               {
-                "id": "1bf98fa178632572",
+                "id": "9197cc52874fe919",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "webviewer",
                   "state": {
-                    "file": "中兽医学/reference_materials/chapter_1.pdf"
+                    "url": "https://notebooklm.google.com/notebook/d0d53c96-59e5-4ca4-a180-c5001d10fd29",
+                    "title": "Philosophical Foundations of Traditional Chinese Veterinary Medicine - NotebookLM",
+                    "mode": "webview"
                   },
-                  "icon": "lucide-file-text",
-                  "title": "chapter_1"
+                  "icon": "globe-2",
+                  "title": "Philosophical Foundations of Traditional Chinese Veterinary Medicine - NotebookLM"
                 }
               }
             ]
           },
           {
-            "id": "0dca04d28bd494a9",
+            "id": "534e481461d71d06",
             "type": "tabs",
-            "dimension": 45.565749235474,
             "children": [
               {
-                "id": "ceb99380686437e9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "中兽医学/元气论.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "元气论"
-                }
-              },
-              {
-                "id": "749174eb163c83a0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "中兽医学/阴阳学说.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "阴阳学说"
-                }
-              },
-              {
-                "id": "74a72e1deee7ce25",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "中兽医学/总论.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "总论"
-                }
-              },
-              {
-                "id": "7e991d7576be532a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "中药方剂学/实验一ppt.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "实验一ppt"
-                }
-              },
-              {
-                "id": "85734dba885ca5c6",
+                "id": "853162d5fc7b4907",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -99,8 +43,7 @@
                   "title": "五行学说"
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           }
         ],
         "direction": "vertical"
@@ -168,7 +111,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 233.5,
+        "width": 200,
         "collapsed": true
       },
       "right": {
@@ -233,13 +176,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "中兽医学/reference_materials/chapter_1.pdf",
+                    "file": "动物传染病学/大肠杆菌病.md",
                     "followCursor": false,
                     "showSearch": true,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "chapter_1 的大纲"
+                  "title": "大肠杆菌病 的大纲"
                 }
               },
               {
@@ -257,7 +200,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 227.5
+        "width": 200,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -270,14 +214,13 @@
           "command-palette:打开命令面板": false,
           "workspaces:管理工作区布局": false,
           "obsidian-git:Open Git source control": false,
-          "obsidian-kanban:创建新看板": false,
           "obsidian-excalidraw-plugin:新建绘图文件": false,
           "mermaid-tools:Open Mermaid Toolbar": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "1bf98fa178632572",
-      "mtime": "2026-05-11T11:00:45+08:00"
+      "active": "853162d5fc7b4907",
+      "mtime": "2026-05-11T12:50:02+08:00"
     }
   },
   "active": "中兽医学"
