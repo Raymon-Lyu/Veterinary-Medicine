@@ -1,9 +1,0 @@
-{
-	"id": "vet-cdss-agent",
-	"name": "Vet CDSS Agent",
-	"version": "2.0.0",
-	"minAppVersion": "1.12.0",
-	"description": "兽医临床辅助决策 AI 助手 — 基于本地笔记的 RAG 问答、记忆压缩、自我进化",
-	"author": "Vet Agent Project",
-	"isDesktopOnly": true
-}
