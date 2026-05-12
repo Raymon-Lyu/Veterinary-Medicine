@@ -8,6 +8,7 @@
           {
             "id": "debc8baff8bd67a7",
             "type": "tabs",
+            "dimension": 52.84431137724551,
             "children": [
               {
                 "id": "9197cc52874fe919",
@@ -28,6 +29,7 @@
           {
             "id": "534e481461d71d06",
             "type": "tabs",
+            "dimension": 47.1556886227545,
             "children": [
               {
                 "id": "853162d5fc7b4907",
@@ -196,7 +198,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "horizontal",
@@ -219,8 +221,8 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "853162d5fc7b4907",
-      "mtime": "2026-05-11T12:50:02+08:00"
+      "active": "9197cc52874fe919",
+      "mtime": "2026-05-12T08:09:56+08:00"
     }
   },
   "active": "中兽医学"
