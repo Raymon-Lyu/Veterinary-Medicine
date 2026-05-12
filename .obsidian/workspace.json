@@ -28,17 +28,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74368f8743971f12",
+            "id": "750799711a46e8f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中兽医学/五行学说.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "五行学说"
+              "title": "新标签页"
             }
           }
         ]
@@ -217,7 +213,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38530910b831c6eb",
+  "active": "750799711a46e8f8",
   "lastOpenFiles": [
     "中兽医学/五行学说.md",
     "未命名.canvas",
