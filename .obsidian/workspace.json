@@ -261,6 +261,9 @@
   "active": "750799711a46e8f8",
   "lastOpenFiles": [
     "中兽医学/脏腑学说.md",
+    "Salmonella_Dose_Response.pdf",
+    "Salmonella_Dose_Response.png",
+    "plot_dose_response.py",
     "survival_summary_table.csv",
     "__pycache__/generate_summary.cpython-39.pyc",
     "generate_summary.py",
@@ -275,10 +278,8 @@
     "Salmonella_Survival_Final.png",
     "Salmonella_Survival_Final.pdf",
     "Salmonella_Survival_Final.svg",
-    "plot_survival_final_v2.py",
     "中兽医学/阴阳学说.md",
     "中兽医学/元气论.md",
-    "__pycache__/stat_survival.cpython-39.pyc",
     "survival_curve_final.png",
     "survival_curve_final.svg",
     "中兽医学/五行学说.md",
@@ -305,7 +306,6 @@
     "兽医诊断学/PPT问题/毕奥特氏呼吸.md",
     "兽医诊断学/血生化/钙磷评估.md",
     "兽医诊断学/血常规/红细胞指标解读.md",
-    "兽医诊断学/血常规/images/Pasted image 20260416201630.png",
     "兽医药理学/药理学复习.canvas",
     "病理生理学/病理生理学.canvas",
     "动物免疫学/免疫学复习.canvas"
