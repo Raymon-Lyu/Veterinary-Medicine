@@ -1,0 +1,8 @@
+Group,n,Mortality (%),MST (Days),P-value (vs. Control)
+Control (Merged),7,0.0%,Undefined,-
+PO_low,4,25.0%,Undefined,0.1859
+PO_medium,4,0.0%,Undefined,1.0000
+PO_high,4,0.0%,Undefined,1.0000
+IP_low,4,0.0%,Undefined,1.0000
+IP_medium,4,75.0%,2.0,0.0076
+IP_high,4,100.0%,0.0,0.0006
