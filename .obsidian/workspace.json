@@ -6,7 +6,7 @@
       {
         "id": "648eae0a07400be5",
         "type": "tabs",
-        "dimension": 54.55729166666667,
+        "dimension": 54.557291666666664,
         "children": [
           {
             "id": "8fa10afbc2e43d4b",
@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/1ba6631b-da32-46a6-a81e-d6ba859af640",
-                "title": "Principles of Traditional Chinese Veterinary Medicine - NotebookLM",
-                "mode": "webview"
+                "title": "Google NotebookLM",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Principles of Traditional Chinese Veterinary Medicine - NotebookLM"
+              "title": "Google NotebookLM"
             }
           }
         ]
