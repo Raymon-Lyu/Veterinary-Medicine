@@ -1,7 +1,6 @@
 *.pdf
-
-/.obsidian
-
-/template
+.gemini/
+.obsidian/
+template/
 # Ignore Smart Environment folder
 .smart-env
