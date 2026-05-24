@@ -6,7 +6,7 @@
       {
         "id": "648eae0a07400be5",
         "type": "tabs",
-        "dimension": 54.557291666666664,
+        "dimension": 54.55729166666667,
         "children": [
           {
             "id": "8fa10afbc2e43d4b",
@@ -14,12 +14,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://notebooklm.google.com/notebook/07bfc674-5497-4306-86d9-753a162d6ef1",
-                "title": "NotebookLM",
-                "mode": "webview"
+                "url": "https://notebooklm.google.com/",
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "NotebookLM"
+              "title": "data:text/plain,"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 45.44270833333333,
+        "dimension": 45.442708333333336,
         "children": [
           {
             "id": "38530910b831c6eb",
