@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "071c7ef220a1b7df",
+        "id": "648eae0a07400be5",
         "type": "tabs",
-        "dimension": 70.703125,
+        "dimension": 54.557291666666664,
         "children": [
           {
-            "id": "ee8667db89358eae",
+            "id": "8fa10afbc2e43d4b",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/07bfc674-5497-4306-86d9-753a162d6ef1",
-                "title": "Fundamentals of Traditional Chinese Medicine and Pharmacology - NotebookLM",
+                "title": "NotebookLM",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Fundamentals of Traditional Chinese Medicine and Pharmacology - NotebookLM"
+              "title": "NotebookLM"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 29.296875,
+        "dimension": 45.44270833333333,
         "children": [
           {
             "id": "38530910b831c6eb",
@@ -105,16 +105,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中药方剂学/总论.md",
+                "file": "中兽医学/奇恒之腑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总论"
+              "title": "奇恒之腑"
+            }
+          },
+          {
+            "id": "57d4219b69e759d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中兽医学/五脏六腑的联系.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "五脏六腑的联系"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -290,34 +304,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee8667db89358eae",
+  "active": "8fa10afbc2e43d4b",
   "lastOpenFiles": [
-    "中药方剂学/总论.md",
-    "中兽医学/六腑.md",
+    "中兽医学/五脏六腑的联系.md",
+    "中兽医学/奇恒之腑.md",
     "中兽医学/五脏.md",
-    "中兽医学/五行学说.md",
-    "动物传染病学/HI_HA_Final_Report.png",
-    "动物传染病学/HI_HA_Final_Report.pdf",
-    "动物传染病学/HI_HA_Final_Report.svg",
-    "动物传染病学/create_final_report.py",
-    "动物传染病学/Scientific_Report_Final_Fixed.png",
-    "动物传染病学/Scientific_Report_Final_Fixed.pdf",
-    "动物传染病学/Scientific_Report_Final_Fixed.svg",
-    "动物传染病学/create_composite_report_v3.py",
-    "动物传染病学/Scientific_Report_Refined_Layout.png",
-    "动物传染病学/Scientific_Report_Refined_Layout.pdf",
-    "动物传染病学/Scientific_Report_Refined_Layout.svg",
-    "动物传染病学/create_composite_report_v2.py",
-    "动物传染病学/Plate_Images_and_Data_Report.png",
-    "动物传染病学/Plate_Images_and_Data_Report.pdf",
-    "动物传染病学/Plate_Images_and_Data_Report.svg",
-    "动物传染病学/create_composite_report.py",
-    "动物传染病学/Nature_HI_HA_Analysis.png",
-    "动物传染病学/Nature_HI_HA_Analysis.pdf",
-    "动物传染病学/Nature_HI_HA_Analysis.svg",
-    "动物传染病学/plot_ha_hi_nature.py",
-    "中兽医学/阴阳学说.md",
+    "中兽医学/reference_materials/chapter_03.pdf",
+    "中兽医学/六腑.md",
+    "外科手术学/麻醉.md",
+    "兽医药理学/外周神经系统药理.md",
+    "外科手术学/无菌术.md",
+    "2026-05-24.md",
+    "外科手术学/绪论.md",
+    "外科手术学/ppt/1第一章 外科手术概述.pdf",
+    "外科手术学/ppt/3第三章 无菌术.pdf",
+    "外科手术学/ppt/4  第四章 麻  醉.pdf",
     "中兽医学/元气论.md",
+    "中兽医学/阴阳学说.md",
+    "中兽医学/五行学说.md",
+    "外科手术学/ppt/兽医外科手术学-2026-05-13第3-5节.pdf",
+    "外科手术学/ppt/兽医外科手术学-2026-04-29第3-5节.pdf",
+    "外科手术学/ppt/兽医外科手术学-2026-05-06第3-5节.pdf",
+    "外科手术学/ppt/兽医外科手术学-2026-05-20第3-5节.pdf",
+    "外科手术学/ppt",
+    "外科手术学/新建文件夹",
+    "中药方剂学/总论.md",
+    "动物传染病学/HI_HA_Final_Report.png",
+    "动物传染病学/HI_HA_Final_Report.svg",
+    "动物传染病学/Scientific_Report_Final_Fixed.png",
+    "动物传染病学/Scientific_Report_Final_Fixed.svg",
+    "动物传染病学/Scientific_Report_Refined_Layout.png",
+    "动物传染病学/Scientific_Report_Refined_Layout.svg",
+    "动物传染病学/Plate_Images_and_Data_Report.png",
+    "动物传染病学/Plate_Images_and_Data_Report.svg",
+    "动物传染病学/Nature_HI_HA_Analysis.png",
+    "动物传染病学/Nature_HI_HA_Analysis.svg",
     "病理解剖学/第一章 细胞和组织的适应与损伤.md",
     "未命名.canvas",
     "动物传染病学/大肠杆菌病.md",
@@ -332,13 +353,6 @@
     "兽医诊断学/PPT问题/猪巴氏杆菌病.md",
     "兽医诊断学/PPT问题/子宫蓄脓.md",
     "兽医诊断学/PPT问题/胸膜炎.md",
-    "兽医诊断学/泌尿系统检查.md",
-    "兽医诊断学/神经系统检查.md",
-    "兽医诊断学/心脏检查.md",
-    "兽医诊断学/呼吸系统临床检查.md",
-    "template/Two Image Compare.md",
-    "兽医诊断学/PPT问题/毕奥特氏呼吸.md",
-    "兽医诊断学/血生化/钙磷评估.md",
     "兽医药理学/药理学复习.canvas",
     "病理生理学/病理生理学.canvas",
     "动物免疫学/免疫学复习.canvas"
