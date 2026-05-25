@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/1ba6631b-da32-46a6-a81e-d6ba859af640",
-                "title": "notebooklm.google.com/notebook/1ba6631b-da32-46a6-a81e-d6ba859af640",
-                "mode": "error"
+                "title": "NotebookLM",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "notebooklm.google.com/notebook/1ba6631b-da32-46a6-a81e-d6ba859af640"
+              "title": "NotebookLM"
             }
           }
         ]
@@ -320,6 +320,7 @@
   },
   "active": "8fa10afbc2e43d4b",
   "lastOpenFiles": [
+    "中兽医学/reference_materials/chapter_04.pdf",
     "中兽医学/气血津液.md",
     "中兽医学/五脏六腑的联系.md",
     "中兽医学/奇恒之腑.md",
@@ -366,7 +367,6 @@
     "兽医诊断学/PPT问题/犬内分泌脱毛.md",
     "兽医诊断学/PPT问题/犬病毒原.md",
     "兽医诊断学/PPT问题/猪巴氏杆菌病.md",
-    "兽医诊断学/PPT问题/子宫蓄脓.md",
     "兽医药理学/药理学复习.canvas",
     "病理生理学/病理生理学.canvas",
     "动物免疫学/免疫学复习.canvas"
