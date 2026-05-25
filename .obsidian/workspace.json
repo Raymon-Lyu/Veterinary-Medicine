@@ -140,9 +140,23 @@
               "icon": "lucide-file",
               "title": "气血津液"
             }
+          },
+          {
+            "id": "0a489f6e90b57dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中兽医学/经络.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "经络"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -320,6 +334,7 @@
   },
   "active": "8fa10afbc2e43d4b",
   "lastOpenFiles": [
+    "中兽医学/经络.md",
     "中兽医学/reference_materials/chapter_04.pdf",
     "中兽医学/气血津液.md",
     "中兽医学/五脏六腑的联系.md",
@@ -343,7 +358,6 @@
     "外科手术学/ppt/兽医外科手术学-2026-05-06第3-5节.pdf",
     "外科手术学/ppt/兽医外科手术学-2026-05-20第3-5节.pdf",
     "外科手术学/ppt",
-    "外科手术学/新建文件夹",
     "中药方剂学/总论.md",
     "动物传染病学/HI_HA_Final_Report.png",
     "动物传染病学/HI_HA_Final_Report.svg",
