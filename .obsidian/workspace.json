@@ -30,62 +30,6 @@
         "dimension": 50.89820359281438,
         "children": [
           {
-            "id": "38530910b831c6eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中兽医学/六腑.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "六腑"
-            }
-          },
-          {
-            "id": "59308dd0b2eb255d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中兽医学/五脏.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "五脏"
-            }
-          },
-          {
-            "id": "d30d9f5b2a9a918c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中兽医学/五行学说.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "五行学说"
-            }
-          },
-          {
-            "id": "ee9c35294cf38ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中兽医学/阴阳学说.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "阴阳学说"
-            }
-          },
-          {
             "id": "c82fc671360bf188",
             "type": "leaf",
             "state": {
@@ -111,20 +55,6 @@
               },
               "icon": "lucide-file",
               "title": "奇恒之腑"
-            }
-          },
-          {
-            "id": "57d4219b69e759d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中兽医学/五脏六腑的联系.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "五脏六腑的联系"
             }
           },
           {
@@ -154,19 +84,9 @@
               "icon": "lucide-file",
               "title": "经络"
             }
-          },
-          {
-            "id": "a61934778ae59c66",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -343,16 +263,18 @@
   },
   "active": "8fa10afbc2e43d4b",
   "lastOpenFiles": [
-    "中兽医学/五脏六腑的联系.md",
-    "中兽医学/五行学说.md",
-    "方剂学.base",
     "中兽医学/经络.md",
-    "中兽医学/reference_materials/chapter_04.pdf",
-    "中兽医学/气血津液.md",
     "中兽医学/奇恒之腑.md",
+    "中兽医学/气血津液.md",
+    "中兽医学/元气论.md",
+    "中兽医学/五行学说.md",
     "中兽医学/五脏.md",
-    "中兽医学/reference_materials/chapter_03.pdf",
     "中兽医学/六腑.md",
+    "中兽医学/阴阳学说.md",
+    "中兽医学/五脏六腑的联系.md",
+    "方剂学.base",
+    "中兽医学/reference_materials/chapter_04.pdf",
+    "中兽医学/reference_materials/chapter_03.pdf",
     "外科手术学/麻醉.md",
     "兽医药理学/外周神经系统药理.md",
     "外科手术学/无菌术.md",
@@ -361,8 +283,6 @@
     "外科手术学/ppt/1第一章 外科手术概述.pdf",
     "外科手术学/ppt/3第三章 无菌术.pdf",
     "外科手术学/ppt/4  第四章 麻  醉.pdf",
-    "中兽医学/元气论.md",
-    "中兽医学/阴阳学说.md",
     "外科手术学/ppt/兽医外科手术学-2026-05-13第3-5节.pdf",
     "外科手术学/ppt/兽医外科手术学-2026-04-29第3-5节.pdf",
     "外科手术学/ppt/兽医外科手术学-2026-05-06第3-5节.pdf",
