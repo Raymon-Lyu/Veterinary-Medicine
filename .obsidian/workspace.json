@@ -42,6 +42,16 @@
               "icon": "lucide-file",
               "title": "总论"
             }
+          },
+          {
+            "id": "3e9c01fb690caccd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ]
       }
@@ -219,7 +229,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e13f889434b6aab",
+  "active": "750799711a46e8f8",
   "lastOpenFiles": [
     "中药方剂学/总论.md",
     "中兽医学/经络.md",
