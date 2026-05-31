@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/07bfc674-5497-4306-86d9-753a162d6ef1",
-                "title": "Fundamentals of Traditional Chinese Medicine and Pharmacology - NotebookLM",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Fundamentals of Traditional Chinese Medicine and Pharmacology - NotebookLM"
+              "title": "data:text/plain,"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 51.23595505617977,
+        "dimension": 51.235955056179776,
         "children": [
           {
             "id": "750799711a46e8f8",
