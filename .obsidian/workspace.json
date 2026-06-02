@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/07bfc674-5497-4306-86d9-753a162d6ef1",
-                "title": "Google NotebookLM",
-                "mode": "blank"
+                "title": "Fundamentals of Traditional Chinese Medicine and Pharmacology - NotebookLM",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Google NotebookLM"
+              "title": "Fundamentals of Traditional Chinese Medicine and Pharmacology - NotebookLM"
             }
           }
         ]
@@ -47,13 +47,18 @@
             "id": "3e9c01fb690caccd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "中药方剂学/方剂总论.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "方剂总论"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,8 +234,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "750799711a46e8f8",
+  "active": "8e13f889434b6aab",
   "lastOpenFiles": [
+    "中药方剂学/方剂总论.md",
     "中药方剂学/总论.md",
     "中兽医学/经络.md",
     "中兽医学/奇恒之腑.md",
