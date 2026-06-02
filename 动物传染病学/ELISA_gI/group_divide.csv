@@ -1,0 +1,10 @@
+,1,2,3,4,5,6,7,8,9,10,11,12
+A,Postive,Postive,Postive,Negative,Negative,Blank,Blank,,,,,
+B,Postive,1,H,M,L,1,2,3,4,,,
+C,Postive,2,,,,,,,,,,
+D,Negative,3,,,,,,,1,2,3,4
+E,Negative,4,,,4,,,,52,18,19,
+F,Blank,25,30,33,3,,38,,42,45,47,48
+G,Blank,51,52,18,2,19,,,30,33,,38
+H,Blank,39,42,45,1,4,3,2,1,L,M,H
+"												",,,,,,,,,,,,
