@@ -6,28 +6,57 @@
       {
         "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 48.764044943820224,
+        "dimension": 57.528089887640455,
         "children": [
           {
             "id": "8e13f889434b6aab",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中药方剂学/复习区/方剂总表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "方剂总表"
+            }
+          },
+          {
+            "id": "a163ced9686caba9",
+            "type": "leaf",
+            "state": {
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/07bfc674-5497-4306-86d9-753a162d6ef1",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "Fundamentals of Traditional Chinese Medicine and Pharmacology - NotebookLM",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "Fundamentals of Traditional Chinese Medicine and Pharmacology - NotebookLM"
+            }
+          },
+          {
+            "id": "dec18b3c59776d64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中药方剂学/方剂库/麻黄汤.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "麻黄汤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 51.235955056179776,
+        "dimension": 42.47191011235955,
         "children": [
           {
             "id": "750799711a46e8f8",
@@ -56,19 +85,9 @@
               "icon": "lucide-file",
               "title": "方剂总论"
             }
-          },
-          {
-            "id": "1f8804225355f193",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,8 +262,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f8804225355f193",
+  "active": "a163ced9686caba9",
   "lastOpenFiles": [
+    "中药方剂学/复习区/方剂总表.md",
+    "中药方剂学/方剂库/麻黄汤.md",
+    "中药方剂学/方剂库/桂枝汤.md",
+    "中药方剂学/复习区",
+    "中药方剂学/未命名.md",
+    "中药方剂学/方剂库",
     "中药方剂学/方剂总论.md",
     "腹痛.md",
     "中药方剂学/总论.md",
@@ -270,8 +295,6 @@
     "外科手术学/ppt/4  第四章 麻  醉.pdf",
     "外科手术学/ppt/兽医外科手术学-2026-05-13第3-5节.pdf",
     "外科手术学/ppt/兽医外科手术学-2026-04-29第3-5节.pdf",
-    "外科手术学/ppt/兽医外科手术学-2026-05-06第3-5节.pdf",
-    "外科手术学/ppt/兽医外科手术学-2026-05-20第3-5节.pdf",
     "动物传染病学/HI_HA_Final_Report.png",
     "动物传染病学/HI_HA_Final_Report.svg",
     "动物传染病学/Scientific_Report_Final_Fixed.png",
@@ -288,10 +311,6 @@
     "动物传染病学/传染病的防控.md",
     "未命名/传染病学.md",
     "兽医传染病学/传染病学.md",
-    "中药方剂学/实验一ppt.md",
-    "中兽医学/总论.md",
-    "兽医药理学/all_drugs.md",
-    "兽医诊断学/PPT问题/犬内分泌脱毛.md",
     "兽医药理学/药理学复习.canvas",
     "病理生理学/病理生理学.canvas",
     "动物免疫学/免疫学复习.canvas"
