@@ -56,9 +56,19 @@
               "icon": "lucide-file",
               "title": "方剂总论"
             }
+          },
+          {
+            "id": "1f8804225355f193",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -234,7 +243,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e13f889434b6aab",
+  "active": "1f8804225355f193",
   "lastOpenFiles": [
     "中药方剂学/方剂总论.md",
     "腹痛.md",
