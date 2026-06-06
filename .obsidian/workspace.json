@@ -113,9 +113,23 @@
               "icon": "lucide-file",
               "title": "麻黄汤"
             }
+          },
+          {
+            "id": "ddb94406daa6f463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中药方剂学/解表药.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "解表药"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -290,11 +304,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd310a8535d0d3d6",
+  "active": "a163ced9686caba9",
   "lastOpenFiles": [
+    "中药方剂学/解表药.md",
+    "中药方剂学/方剂总论.md",
     "中药方剂学/方剂库/桂枝汤.md",
     "中药方剂学/方剂库/麻黄汤.md",
-    "中药方剂学/方剂总论.md",
     "中药方剂学/复习区/方剂总表.md",
     "中药方剂学/复习区",
     "中药方剂学/未命名.md",
@@ -338,7 +353,6 @@
     "动物传染病学/大肠杆菌病.md",
     "动物传染病学/传染病的防控.md",
     "未命名/传染病学.md",
-    "兽医传染病学/传染病学.md",
     "兽医药理学/药理学复习.canvas",
     "病理生理学/病理生理学.canvas",
     "动物免疫学/免疫学复习.canvas"
