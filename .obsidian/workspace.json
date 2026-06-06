@@ -4,128 +4,99 @@
     "type": "split",
     "children": [
       {
-        "id": "071c7ef220a1b7df",
+        "id": "648eae0a07400be5",
         "type": "tabs",
-        "dimension": 57.528089887640455,
+        "dimension": 49.10179640718562,
         "children": [
           {
-            "id": "8e13f889434b6aab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中药方剂学/复习区/方剂总表.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "方剂总表"
-            }
-          },
-          {
-            "id": "a163ced9686caba9",
+            "id": "8fa10afbc2e43d4b",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://notebooklm.google.com/notebook/07bfc674-5497-4306-86d9-753a162d6ef1",
-                "title": "Fundamentals of Traditional Chinese Medicine and Pharmacology - NotebookLM",
+                "url": "https://notebooklm.google.com/notebook/1ba6631b-da32-46a6-a81e-d6ba859af640",
+                "title": "Principles of Traditional Chinese Veterinary Medicine - NotebookLM",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Fundamentals of Traditional Chinese Medicine and Pharmacology - NotebookLM"
-            }
-          },
-          {
-            "id": "dec18b3c59776d64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中药方剂学/方剂库/麻黄汤.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "麻黄汤"
+              "title": "Principles of Traditional Chinese Veterinary Medicine - NotebookLM"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 42.47191011235955,
+        "dimension": 50.89820359281438,
         "children": [
+          {
+            "id": "c82fc671360bf188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中兽医学/元气论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "元气论"
+            }
+          },
           {
             "id": "750799711a46e8f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中药方剂学/总论.md",
+                "file": "中兽医学/奇恒之腑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总论"
+              "title": "奇恒之腑"
             }
           },
           {
-            "id": "cd310a8535d0d3d6",
+            "id": "0b96792267c27072",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中药方剂学/方剂总论.md",
+                "file": "中兽医学/气血津液.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "方剂总论"
+              "title": "气血津液"
             }
           },
           {
-            "id": "81aaf4d5acd06b26",
+            "id": "0a489f6e90b57dd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中药方剂学/方剂库/桂枝汤.md",
+                "file": "中兽医学/经络.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "桂枝汤"
+              "title": "经络"
             }
           },
           {
-            "id": "40c80df03e738f35",
+            "id": "f8739945cf13abee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中药方剂学/方剂库/麻黄汤.md",
+                "file": "中兽医学/致病因素.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "麻黄汤"
-            }
-          },
-          {
-            "id": "ddb94406daa6f463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中药方剂学/解表药.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "解表药"
+              "title": "致病因素"
             }
           }
         ],
@@ -304,8 +275,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a163ced9686caba9",
+  "active": "f8739945cf13abee",
   "lastOpenFiles": [
+    "中兽医学/经络.md",
+    "中兽医学/致病因素.md",
     "中药方剂学/解表药.md",
     "中药方剂学/方剂总论.md",
     "中药方剂学/方剂库/桂枝汤.md",
@@ -316,7 +289,6 @@
     "中药方剂学/方剂库",
     "腹痛.md",
     "中药方剂学/总论.md",
-    "中兽医学/经络.md",
     "中兽医学/奇恒之腑.md",
     "中兽医学/气血津液.md",
     "中兽医学/元气论.md",
@@ -352,7 +324,6 @@
     "未命名.canvas",
     "动物传染病学/大肠杆菌病.md",
     "动物传染病学/传染病的防控.md",
-    "未命名/传染病学.md",
     "兽医药理学/药理学复习.canvas",
     "病理生理学/病理生理学.canvas",
     "动物免疫学/免疫学复习.canvas"
