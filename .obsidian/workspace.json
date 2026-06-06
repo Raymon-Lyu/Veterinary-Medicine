@@ -29,11 +29,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/07bfc674-5497-4306-86d9-753a162d6ef1",
-                "title": "Fundamentals of Traditional Chinese Medicine and Pharmacology - NotebookLM",
-                "mode": "webview"
+                "title": "Google NotebookLM",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Fundamentals of Traditional Chinese Medicine and Pharmacology - NotebookLM"
+              "title": "Google NotebookLM"
             }
           },
           {
