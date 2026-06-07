@@ -36,7 +36,8 @@
               "title": "解表、清热、消导、泻下药 - NotebookLM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -85,8 +86,7 @@
               "title": "清营汤"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中药方剂学/复习区/方剂总表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "方剂总表 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -260,12 +259,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e13f889434b6aab",
+  "active": "8a887d1e759ec74f",
   "lastOpenFiles": [
-    "中药方剂学/方剂库/清营汤.md",
     "中药方剂学/清热药.md",
-    "中药方剂学/方剂库/银翘散.md",
     "中药方剂学/复习区/方剂总表.md",
+    "中药方剂学/方剂库/清营汤.md",
+    "中药方剂学/方剂库/银翘散.md",
     "中药方剂学/方剂库/白虎汤.md",
     "中药方剂学/解表药.md",
     "中药方剂学/方剂总论.md",
