@@ -23,20 +23,6 @@
             }
           },
           {
-            "id": "a163ced9686caba9",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://notebooklm.google.com/notebook/07bfc674-5497-4306-86d9-753a162d6ef1",
-                "title": "Google NotebookLM",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "Google NotebookLM"
-            }
-          },
-          {
             "id": "dec18b3c59776d64",
             "type": "leaf",
             "state": {
@@ -304,8 +290,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a163ced9686caba9",
+  "active": "dec18b3c59776d64",
   "lastOpenFiles": [
+    "中药方剂学/未命名.md",
     "中药方剂学/解表药.md",
     "动物传染病学/final_version/~$造模实验.docx",
     "动物传染病学/final_version/~$养基培养结果.docx",
@@ -323,7 +310,6 @@
     "中药方剂学/方剂库/麻黄汤.md",
     "中药方剂学/复习区/方剂总表.md",
     "中药方剂学/复习区",
-    "中药方剂学/未命名.md",
     "腹痛.md",
     "中药方剂学/总论.md",
     "中兽医学/奇恒之腑.md",
