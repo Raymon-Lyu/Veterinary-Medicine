@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中药方剂学/方剂库/银翘散.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "银翘散 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -260,7 +259,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "42dbd7b78a4b935e",
+  "active": "8a887d1e759ec74f",
   "lastOpenFiles": [
     "中药方剂学/清热药.md",
     "中药方剂学/方剂库/银翘散.md",
