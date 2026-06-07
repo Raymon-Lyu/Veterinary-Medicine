@@ -29,11 +29,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/b820bd24-f892-4b29-a274-19840ef7a2b2",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "解表、清热、消导、泻下药 - NotebookLM",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "解表、清热、消导、泻下药 - NotebookLM"
             }
           }
         ],
@@ -52,7 +52,7 @@
               "state": {
                 "file": "中药方剂学/解表药.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "解表药"
@@ -62,13 +62,18 @@
             "id": "21e5dbebe2abf155",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "中药方剂学/清热药.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "清热药"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +157,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "兽医诊断学/血生化/肾脏功能评估.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "肾脏功能评估 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -219,13 +223,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,11 +245,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddb94406daa6f463",
+  "active": "8a887d1e759ec74f",
   "lastOpenFiles": [
+    "中药方剂学/清热药.md",
+    "中药方剂学/解表药.md",
     "中药方剂学/复习区/方剂总表.md",
     "中药方剂学/方剂总论.md",
-    "中药方剂学/解表药.md",
     "中药方剂学/方剂库/防风通圣散.md",
     "中药方剂学/方剂库/银翘散.md",
     "中药方剂学/方剂库/麻黄汤.md",
@@ -280,7 +283,6 @@
     "兽医药理学/外周神经系统药理.md",
     "外科手术学/无菌术.md",
     "2026-05-24.md",
-    "外科手术学/绪论.md",
     "动物传染病学/HI_HA_Final_Report.png",
     "动物传染病学/HI_HA_Final_Report.svg",
     "动物传染病学/Scientific_Report_Final_Fixed.png",
