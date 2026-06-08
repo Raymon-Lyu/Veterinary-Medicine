@@ -1,0 +1,417 @@
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>协同排版演示文稿</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reset.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/theme/night.min.css">
+    <style>
+        :root { --primary: #00f2fe; --gold: #ffd700; --bg-card: rgba(255,255,255,0.05); }
+        
+        .reveal .slides { text-align: left; }
+        
+        /* Layout Coordination */
+        .slide-content-wrapper {
+            display: flex; gap: 30px; align-items: center; justify-content: center;
+            height: 80%; width: 100%; margin-top: 20px;
+        }
+        
+        .main-text { flex: 1; display: flex; flex-direction: column; gap: 15px; }
+        .split-left { max-width: 60%; }
+        .full-width { max-width: 90%; margin: 0 auto; }
+        
+        .image-area { flex: 1; display: flex; align-items: center; justify-content: center; gap: 10px; }
+        .img-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); width: 100%; }
+        .single-img img { max-height: 500px; border-radius: 15px; }
+        
+        .img-frame { 
+            background: var(--bg-card); padding: 10px; border-radius: 10px; 
+            border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+        .img-frame img { width: 100%; height: auto; object-fit: contain; border-radius: 5px; }
+
+        /* Typography */
+        .slide-header { 
+            font-size: 2em !important; color: var(--primary); text-transform: none !important;
+            border-bottom: 3px solid var(--primary); padding-bottom: 10px; width: fit-content;
+        }
+        
+        .text-block { 
+            font-size: 0.6em; line-height: 1.6; color: #ccc; 
+            background: var(--bg-card); padding: 20px; border-radius: 8px;
+        }
+        
+        .bullet { 
+            font-size: 0.8em; list-style: none; position: relative; padding-left: 30px; 
+            color: #fff; margin-bottom: 10px;
+        }
+        .bullet::before { 
+            content: '✦'; position: absolute; left: 0; color: var(--gold); 
+        }
+
+        /* Table Styling */
+        .slide-table { width: 100%; font-size: 0.5em; border-collapse: collapse; background: var(--bg-card); }
+        .slide-table td { border: 1px solid rgba(255,255,255,0.2); padding: 10px; }
+        .slide-table tr:nth-child(even) { background: rgba(255,255,255,0.02); }
+
+        /* Cover & Glitch */
+        .cover-box { text-align: center; width: 100%; }
+        .glitch-text { font-size: 3.5em !important; font-weight: bold !important; color: #fff; text-shadow: 2px 2px var(--primary); }
+        .subtitle { font-size: 1.2em; color: var(--gold); margin-top: 20px; }
+
+        /* Utilities */
+        ::-webkit-scrollbar { display: none; }
+    </style>
+</head>
+<body>
+    <div class="reveal"><div class="slides"><section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <div class="slide-content-wrapper">
+    <div class="cover-box">
+      <h1 class="glitch-text">看邓小平改革开放理论</h1>
+      <p class="subtitle">从经济特区的选址与实践 | 汇报人：第一小组</p>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">目录</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text full-width">
+      <li class="bullet fragment fade-in-then-semi-out">01.</li>
+      <li class="bullet fragment fade-in-then-semi-out">02.</li>
+      <li class="bullet fragment fade-in-then-semi-out">03.</li>
+      <li class="bullet fragment fade-in-then-semi-out">04.</li>
+      <li class="bullet fragment fade-in-then-semi-out">历史背景</li>
+      <li class="bullet fragment fade-in-then-semi-out">理论依据</li>
+      <li class="bullet fragment fade-in-then-semi-out">选址分析</li>
+      <li class="bullet fragment fade-in-then-semi-out">实践成果</li>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">历史背景</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text full-width">
+      <li class="bullet fragment fade-in-then-semi-out">01</li>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">国内背景</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text split-left">
+      <div class="text-block fragment fade-up">1978年十一届三中全会召开，我国正式开启改革开放历史进程。
+改革开放前：计划经济体制固化、社会生产力发展缓慢、国家建设缺乏对外交流渠道。面对“贫穷不是社会主义”的现实问题，邓小平提出：必须解放生产力、发展生产力，通过改革破除体制弊端，通过开放融入世界发展潮流。
+由于我国无对外开放经验、全国全面开放风险巨大，邓小平提出“摸着石头过河”的改革方法论，拒绝激进式变革，选择局部试点、总结经验、逐步推广的稳妥路径。同时，改革初期国家财政薄弱，无法依靠财政拨款拉动发展，必须依靠政策红利撬动社会资本、海外资源。</div>
+      <li class="bullet fragment fade-in-then-semi-out">十一届三中全会照片</li>
+      <li class="bullet fragment fade-in-then-semi-out">70 年代国内社会风貌图</li>
+    </div>
+    <div class="image-area img-grid">
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_4_img_1.jpg"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_4_img_2.jpg"></div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">国外背景</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text split-left">
+      <div class="text-block fragment fade-up">全球产业第三次转移浪潮： 20 世纪 70 年代末，欧美、日本、中国香港、中国澳门等发达经济体劳动力、土地成本持续上涨，劳动密集型产业（纺织、玩具、电子加工）向外转移，急需低成本土地与劳动力承接产业，客观上为我国引进外资、来料加工创造全球机遇。
+国际环境缓和，外交突破打开外部空间：70 年代中美建交、中日邦交正常化，我国逐步打破长期外交封锁，融入国际外交体系，国际贸易、跨国投资环境大幅改善，具备对外开放对接世界经济的外部政治条件。</div>
+      <li class="bullet fragment fade-in-then-semi-out">全球产业第三次转移的代表典范 亚洲四小龙</li>
+      <li class="bullet fragment fade-in-then-semi-out">1979年中美正式建交</li>
+    </div>
+    <div class="image-area img-grid">
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_5_img_1.jpg"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_5_img_2.jpg"></div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">理论依据</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text full-width">
+      <li class="bullet fragment fade-in-then-semi-out">02</li>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">核心理论：邓小平对外开放理论</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text split-left">
+      <li class="bullet fragment fade-in-then-semi-out">时代判断：邓小平提出和平与发展是当今时代主题，世界已是开放的世界，中国的发展离不开世界，封闭只能导致落后，这是对外开放、设立特区的思想前提。</li>
+      <li class="bullet fragment fade-in-then-semi-out">开放定位：对外开放是我国长期基本国策，不是权宜之计；目的是引进境外资金、技术、先进管理经验，弥补国内短板，解放和发展生产力。</li>
+      <li class="bullet fragment fade-in-then-semi-out">开放路径：主张循序渐进、梯度开放，不搞全面铺开，先试点、再推广，这直接催生了 “经济特区” 这一开放载体。</li>
+      <li class="bullet fragment fade-in-then-semi-out">开放原则：坚持独立自主、自力更生，在依托自身资源（侨乡、区位）的基础上借力外部，做到 “引进来” 服务国内发展。</li>
+    </div>
+    <div class="image-area single-img">
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_7_img_1.jpg"></div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">辅助支撑的理论思想</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text full-width">
+      <li class="bullet fragment fade-in-then-semi-out">03</li>
+      <li class="bullet fragment fade-in-then-semi-out">社会主义市场经济理论（间接关联）</li>
+      <li class="bullet fragment fade-in-then-semi-out">传统计划经济体制排斥市场、排斥对外经贸。邓小平提出计划和市场都是经济手段，突破意识形态束缚，特区才敢大胆引入市场化运作模式、外资企业、自由贸易规则。</li>
+      <li class="bullet fragment fade-in-then-semi-out">01</li>
+      <li class="bullet fragment fade-in-then-semi-out">社会主义初级阶段理论</li>
+      <li class="bullet fragment fade-in-then-semi-out">我国处于并将长期处于社会主义初级阶段，生产力水平落后、经济基础薄弱。基于这一国情，不能照搬发达国家模式，需要借助特区特殊政策、外部资源加快发展，是立足基本国情的选择。</li>
+      <li class="bullet fragment fade-in-then-semi-out">04</li>
+      <li class="bullet fragment fade-in-then-semi-out">统筹发展战略思想（结合一国两制）</li>
+      <li class="bullet fragment fade-in-then-semi-out">对外开放不只是单纯经济行为，还统筹经济发展与祖国统一大业。利用粤闽毗邻港澳台、侨乡密布的特点，以经济交流促进民间融合，服务 “一国两制” 构想落地，属于顶层战略延伸。</li>
+      <li class="bullet fragment fade-in-then-semi-out">02</li>
+      <li class="bullet fragment fade-in-then-semi-out">邓小平“摸着石头过河” 改革方法论</li>
+      <li class="bullet fragment fade-in-then-semi-out">改革无现成经验，因此采取先行试点、风险可控、逐步推广的策略，经济特区就是这一方法论的典型实践（小范围试验，试错成本低）。</li>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">选址分析</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text full-width">
+      <li class="bullet fragment fade-in-then-semi-out">03</li>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <div class="slide-content-wrapper">
+    <div class="main-text split-left">
+      <li class="bullet fragment fade-in-then-semi-out">1979年中共中央在北京召开工作会议</li>
+      <div class="text-block fragment fade-up">会议上广东省委代表习仲勋向党中央提出充分利用国内外的有利形势，发挥广东的特点和人文地缘优势，让广东在改革开放中先走一步的请求
+小平同志说：广东、福建有这个条件，搞特殊省。先富起来没有什么坏处，中央没有钱，可以给些政策，你们自己去搞。杀出一条血路来！</div>
+      <li class="bullet fragment fade-in-then-semi-out">究竟是什么条件呢？</li>
+    </div>
+    <div class="image-area single-img">
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_10_img_1.jpg"></div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">地缘区位优势</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text full-width">
+      <li class="bullet fragment fade-in-then-semi-out">毗邻港澳台，锚定国家统一长远战略</li>
+      <div class="text-block fragment fade-up">沿海省市众多，但广东紧邻香港、澳门，福建隔台湾海峡与台湾相望，是中国大陆对接港澳台地区唯一的前沿门户。本次选址绝非单纯的经济考量，而是党中央的顶层战略布局：通过两地先行对外开放，加强内地与港澳、台湾的经济往来与民间交流，拉近心理与经济距离，为后续“一国两制”构想落地、港澳顺利回归、祖国和平统一铺垫长远基础。</div>
+      <li class="bullet fragment fade-in-then-semi-out">广东毗邻港澳、福建对望台湾</li>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">人文侨乡优势</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text split-left">
+      <li class="bullet fragment fade-in-then-semi-out">全球侨胞核心聚集地，破解早期开放资金困境</li>
+      <div class="text-block fragment fade-up">广东、福建是中国第一大、第二大侨乡，全球超半数海外华人华侨祖籍均为两省。改革开放初期，西方主流资本对华投资多持观望态度，爱国华侨资本则成为我国对外开放最早、最稳定的外来资金来源。依托血浓于水的侨乡人脉网络，可以最低成本、最高效率引入外资、海外技术与先进管理经验。</div>
+      <li class="bullet fragment fade-in-then-semi-out">侨批：海外华侨通过民间渠道寄回国内的信件与汇款合一的特殊邮传载体，也称“银信”或“番批</li>
+    </div>
+    <div class="image-area single-img">
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_12_img_1.jpg"></div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">改革容错优势</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text full-width">
+      <li class="bullet fragment fade-in-then-semi-out">体制包袱轻、试错成本低，适配试点改革逻辑</li>
+      <div class="text-block fragment fade-up">当时粤闽沿海边陲县域工业基础薄弱，受传统计划经济体制的束缚较弱，改革阻力相对较小；同时，由于两省在当时并非全国的经济支柱命脉（如上海、东北等重工业基地），即便试点过程中出现问题，也不会冲击全国整体经济大局，完美适配“摸着石头过河”的小范围试点需求。“体制包袱小、一张白纸好画画”</div>
+      <li class="bullet fragment fade-in-then-semi-out">70年代的广东深圳</li>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <div class="slide-content-wrapper">
+    <div class="main-text split-left">
+      <li class="bullet fragment fade-in-then-semi-out">如何从两省确定四市？——深圳、珠海</li>
+      <li class="bullet fragment fade-in-then-semi-out">80年代的广东深圳</li>
+      <li class="bullet fragment fade-in-then-semi-out">80年代的广东珠海</li>
+      <table class="slide-table fragment zoom-in">
+        <tr><td></td><td>深圳</td><td>珠海</td></tr>
+        <tr><td>对接对象</td><td>香港</td><td>澳门</td></tr>
+        <tr><td>主要优势</td><td>国际市场、资金、制造业、外贸渠道</td><td>跨境区位、旅游商贸、珠江西岸空间</td></tr>
+        <tr><td>早期功能</td><td>承接香港产业外溢，发展出口加工</td><td>对接澳门，补齐西岸开放窗口</td></tr>
+        <tr><td>长远延续</td><td>深港合作、前海合作区、粤港澳大湾区</td><td>横琴粤澳深度合作区、港珠澳联动</td></tr>
+      </table>
+    </div>
+    <div class="image-area single-img">
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_14_img_1.jpg"></div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <div class="slide-content-wrapper">
+    <div class="main-text full-width">
+      <li class="bullet fragment fade-in-then-semi-out">如何从两省确定四市？——汕头、厦门</li>
+      <div class="text-block fragment fade-up">除了拥有与台湾隔海相望的地缘优势和工业基础薄弱的产业优势之外，汕头，厦门还有特别的优势：
+潮汕、闽南地区自古有下南洋谋生经商的传统，海外侨民群体庞大。侨民在海外多年打拼，积累了充足的原始资本与商业资源。于此同时，侨民们心系故土、家国情怀浓厚，族群凝聚力强。所以在改革开放初期境外资本普遍观望时，爱国侨资成为国内最稳定、可靠的外来投资来源。
+于此同时，海外侨民们的重情重义，也让外国资本看到了来潮汕、闽南地区投资的可靠性，取得了他们的信任。</div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">如何从两省确定四市？——汕头、厦门</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text split-left">
+    </div>
+    <div class="image-area img-grid">
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_16_img_1.jpg"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_16_img_2.jpg"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_16_img_3.jpg"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_16_img_4.jpg"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_16_img_5.jpg"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_16_img_6.jpg"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_16_img_7.jpg"></div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">如何从两省确定四市？——汕头、厦门</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text split-left">
+    </div>
+    <div class="image-area img-grid">
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_17_img_1.jpg"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_17_img_2.jpg"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_17_img_3.jpg"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_17_img_4.jpg"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_17_img_5.jpg"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_17_img_6.jpg"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_17_img_7.jpg"></div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <div class="slide-content-wrapper">
+    <div class="main-text full-width">
+      <div class="text-block fragment fade-up">电影《给阿嬷的情书》
+影片通过孙子辈的视角，串联起从“被迫下南洋”到“带资回乡”的历史逻辑。它揭示了汕头与厦门之所以能成为改革开放首批特区，正是因为拥有千万个如郑木生般虽在异乡、心系故土的游子，以及如阿妈般坚韧包容的文化母体，这种血脉相连的引资优势是其他地区无可比拟的。</div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">实践成果</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text full-width">
+      <li class="bullet fragment fade-in-then-semi-out">04</li>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">核心政策</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text split-left">
+      <div class="text-block fragment fade-up">中发〔1979〕50 号｜1979 年 7 月 15 日《中共中央、国务院批转广东省委、福建省委关于对外经济活动实行特殊政策和灵活措施的两个报告》
+正文：中央批准粤闽两省实行财政大包干、外贸自主审批、物价与用工灵活管理；确定先在深圳、珠海试办出口特区，成熟后增设汕头、厦门，依托侨资、外资开展来料加工与进出口贸易，是创办经济特区源头法定文件。</div>
+    </div>
+    <div class="image-area single-img">
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_20_img_1.jpg"></div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">核心政策</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text split-left">
+      <div class="text-block fragment fade-up">.980 年 8 月 26 日《中华人民共和国广东省经济特区条例》（第五届全国人大常委会第十五次会议审议批准）
+正文史料： 新中国首部特区专项立法，以法律形式确立特区优惠制度：外资企业所得税减免、土地有偿出让、企业自主招工、境外人员出入境简化审批；每年 8 月 26 日被定为中国经济特区诞生日，从法理层面保障特区对外开放落地。</div>
+    </div>
+    <div class="image-area single-img">
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_21_img_1.png"></div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">实践成果</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text split-left">
+      <li class="bullet fragment fade-in-then-semi-out">1992 年南方谈话（深珠实地讲话）
+深圳题词原文：深圳的发展和经验证明，我们建立经济特区的政策是正确的.</li>
+    </div>
+    <div class="image-area img-grid">
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_22_img_1.jpg"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_22_img_2.jpg"></div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">实践成果</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text full-width">
+      <li class="bullet fragment fade-in-then-semi-out">1980-1985年经济特区与全国大城市GDP年均增速对比表（百分比）</li>
+      <li class="bullet fragment fade-in-then-semi-out">1980–1985 年，四大经济特区 GDP 年均增速全面领先北上广津等传统大城市与全国平均水平，充分验证经济特区作为改革开放 “试验田” 的制度优势与增长奇迹。</li>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <h2 class="slide-header">实践成果</h2>
+  <div class="slide-content-wrapper">
+    <div class="main-text split-left">
+      <li class="bullet fragment fade-in-then-semi-out">经济特区对全国改革开放的带动作用数据（1980-1990 年）</li>
+      <li class="bullet fragment fade-in-then-semi-out">四大特区用全国 0.3% 的土地面积，贡献了全国超 30% 的外资和近 30% 的进出口，是全国对外开放的核心引擎</li>
+      <table class="slide-table fragment zoom-in">
+        <tr><td>指标</td><td>1980 年</td><td>1990 年</td><td>10 年累计增长</td><td>特区贡献占比</td></tr>
+        <tr><td>全国实际利用外资总额</td><td>20.23 亿美元</td><td>102.89 亿美元</td><td>408.6%</td><td>四大特区累计贡献 34.7%</td></tr>
+        <tr><td>全国进出口总额</td><td>381.4 亿美元</td><td>1154.4 亿美元</td><td>202.7%</td><td>四大特区累计贡献 28.3%</td></tr>
+        <tr><td>全国市场化改革试点政策数量</td><td>12 项</td><td>117 项</td><td>875%</td><td>70% 以上政策先在特区试点后全国推广</td></tr>
+        <tr><td>全国沿海开放城市 / 地区数量</td><td>4 个（四大特区）</td><td>14 个沿海城市 + 5 个经济开放区</td><td>375%</td><td>全部以特区试点经验为基础推广</td></tr>
+      </table>
+    </div>
+    <div class="image-area single-img">
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_24_img_1.jpg"></div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <div class="slide-content-wrapper">
+    <div class="main-text split-left">
+      <li class="bullet fragment fade-in-then-semi-out">实践成果</li>
+      <li class="bullet fragment fade-in-then-semi-out">2025年 广东深圳</li>
+      <li class="bullet fragment fade-in-then-semi-out">2025年 福建厦门</li>
+      <li class="bullet fragment fade-in-then-semi-out">2025年 广东珠海</li>
+      <li class="bullet fragment fade-in-then-semi-out">2025年 广东汕头</li>
+    </div>
+    <div class="image-area img-grid">
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_25_img_1.png"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_25_img_2.png"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_25_img_3.png"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_25_img_4.png"></div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <div class="slide-content-wrapper">
+    <div class="main-text split-left">
+      <li class="bullet fragment fade-in-then-semi-out">小组思考与总结</li>
+      <div class="text-block fragment fade-up">我们认识到：邓小平改革开放理论是一套综合体系。它涵盖开放、改革、市场经济与祖国统一等思想。
+首批经济特区选址绝非简单区域划分，而是超前的大局设计：一方面利用粤闽侨乡优势吸引侨资外资，快速解决发展资金短缺的短期问题；更深远的，是通过紧邻港澳、对望台湾的区位，以经贸人员交流增进认同，为港澳回归和“一国两制”实践、乃至两岸和平统一奠定基础。特区建设将经济、改革与统一目标融为一体，体现了改革开放稳扎稳打、谋定后动的战略智慧，至今仍有重要借鉴意义。</div>
+      <div class="text-block fragment fade-up">经济特区的成功，本质上是邓小平对外开放理论的伟大胜利。它立足国情、实事求是，通过试点先行、稳步推进，实现了内外联动、服务大局。从最初的困境，到理论的诞生，再到实践的成功和理论的延续，这一完整的逻辑闭环，雄辩地证明了改革开放是决定当代中国命运的关键一招，其背后的科学理论，至今仍在指引我们前进。</div>
+    </div>
+    <div class="image-area img-grid">
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_26_img_1.png"></div>
+      <div class="img-frame fragment scale-up"><img src="pptx_assets/slide_26_img_2.jpg"></div>
+    </div>
+  </div>
+</section>
+<section data-background-gradient="radial-gradient(circle, #232526 0%, #414345 100%)">
+  <div class="slide-content-wrapper">
+    <div class="cover-box">
+      <h1 class="glitch-text">感谢观看恳请老师批评指正！</h1>
+      <p class="subtitle">汇报人：第一小组</p>
+    </div>
+  </div>
+</section>
+</div></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.js"></script>
+    <script>
+        Reveal.initialize({ 
+            width: 1280, height: 800, margin: 0.1,
+            center: true, controls: true, progress: true, hash: true, transition: 'zoom',
+            backgroundTransition: 'slide'
+        });
+    </script>
+</body>
+</html>
