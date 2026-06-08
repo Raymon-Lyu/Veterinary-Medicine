@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "648eae0a07400be5",
-        "type": "tabs",
-        "dimension": 49.10179640718562,
-        "children": [
-          {
-            "id": "8fa10afbc2e43d4b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://notebooklm.google.com/notebook/1ba6631b-da32-46a6-a81e-d6ba859af640",
-                "title": "Principles of Traditional Chinese Veterinary Medicine - NotebookLM",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Principles of Traditional Chinese Veterinary Medicine - NotebookLM"
-            }
-          }
-        ]
-      },
-      {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 50.89820359281438,
         "children": [
           {
             "id": "79f3cfb92d0dc0ee",
