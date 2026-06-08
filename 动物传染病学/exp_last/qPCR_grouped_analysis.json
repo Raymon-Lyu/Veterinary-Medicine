@@ -1,0 +1,184 @@
+{
+    "positive_sample": [
+        {
+            "well": "A04",
+            "cq_value": 27.91,
+            "is_valid": true
+        },
+        {
+            "well": "G05",
+            "cq_value": 28.05,
+            "is_valid": true
+        },
+        {
+            "well": "G06",
+            "cq_value": 28.22,
+            "is_valid": true
+        },
+        {
+            "well": "G07",
+            "cq_value": 28.85,
+            "is_valid": true
+        }
+    ],
+    "block1": [
+        {
+            "well": "A05",
+            "cq_value": 25.34,
+            "is_valid": true
+        },
+        {
+            "well": "A07",
+            "cq_value": null,
+            "is_valid": false
+        },
+        {
+            "well": "G04",
+            "cq_value": null,
+            "is_valid": false
+        }
+    ],
+    "dumpling2": [
+        {
+            "well": "A06",
+            "cq_value": null,
+            "is_valid": false
+        },
+        {
+            "well": "D04",
+            "cq_value": null,
+            "is_valid": false
+        }
+    ],
+    "wanzi2": [
+        {
+            "well": "B04",
+            "cq_value": 28.4,
+            "is_valid": true
+        },
+        {
+            "well": "C06",
+            "cq_value": null,
+            "is_valid": false
+        }
+    ],
+    "block2": [
+        {
+            "well": "B05",
+            "cq_value": null,
+            "is_valid": false
+        },
+        {
+            "well": "B07",
+            "cq_value": null,
+            "is_valid": false
+        },
+        {
+            "well": "F04",
+            "cq_value": null,
+            "is_valid": false
+        }
+    ],
+    "wanzi1": [
+        {
+            "well": "B06",
+            "cq_value": 24.66,
+            "is_valid": true
+        },
+        {
+            "well": "C04",
+            "cq_value": 26.55,
+            "is_valid": true
+        },
+        {
+            "well": "D07",
+            "cq_value": 26.17,
+            "is_valid": true
+        }
+    ],
+    "dumpling1": [
+        {
+            "well": "C05",
+            "cq_value": null,
+            "is_valid": false
+        },
+        {
+            "well": "C07",
+            "cq_value": null,
+            "is_valid": false
+        },
+        {
+            "well": "E04",
+            "cq_value": null,
+            "is_valid": false
+        }
+    ],
+    "wanzi3": [
+        {
+            "well": "D05",
+            "cq_value": null,
+            "is_valid": false
+        },
+        {
+            "well": "E05",
+            "cq_value": null,
+            "is_valid": false
+        },
+        {
+            "well": "F06",
+            "cq_value": null,
+            "is_valid": false
+        }
+    ],
+    "pork1": [
+        {
+            "well": "D06",
+            "cq_value": 26.84,
+            "is_valid": true
+        },
+        {
+            "well": "E07",
+            "cq_value": null,
+            "is_valid": false
+        }
+    ],
+    "pork2": [
+        {
+            "well": "E06",
+            "cq_value": 25.49,
+            "is_valid": true
+        },
+        {
+            "well": "F05",
+            "cq_value": 17.7,
+            "is_valid": true
+        },
+        {
+            "well": "F07",
+            "cq_value": 23.94,
+            "is_valid": true
+        }
+    ],
+    "positive_control": [
+        {
+            "well": "H04",
+            "cq_value": 24.41,
+            "is_valid": true
+        },
+        {
+            "well": "H05",
+            "cq_value": 25.33,
+            "is_valid": true
+        },
+        {
+            "well": "H06",
+            "cq_value": 23.99,
+            "is_valid": true
+        },
+        {
+            "well": "H07",
+            "cq_value": 25.85,
+            "is_valid": true
+        }
+    ]
+}
