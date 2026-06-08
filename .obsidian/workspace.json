@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/1ba6631b-da32-46a6-a81e-d6ba859af640",
-                "title": "Principles of Traditional Chinese Veterinary Medicine - NotebookLM",
-                "mode": "webview"
+                "title": "Google NotebookLM",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Principles of Traditional Chinese Veterinary Medicine - NotebookLM"
+              "title": "Google NotebookLM"
             }
           }
         ]
