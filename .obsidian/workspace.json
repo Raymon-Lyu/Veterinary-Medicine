@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动物传染病学/传染病的防控.md",
+                "file": "动物传染病学/总论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "传染病的防控"
+              "title": "总论"
             }
           }
         ]
@@ -220,13 +220,14 @@
   },
   "active": "79f3cfb92d0dc0ee",
   "lastOpenFiles": [
+    "动物传染病学/传染病的防控.md",
+    "动物传染病学/总论.md",
     "诊法.md",
     "中兽医学/致病因素.md",
     "中兽医学/经络.md",
     "中兽医学/气血津液.md",
     "中兽医学/奇恒之腑.md",
     "中兽医学/元气论.md",
-    "动物传染病学/传染病的防控.md",
     "中药方剂学/清热药.md",
     "中药方剂学/方剂库/青蒿鳖甲汤.md",
     "中药方剂学/方剂库/白头翁汤.md",
@@ -255,7 +256,6 @@
     "动物传染病学/final_version/~$PCR.docx",
     "动物传染病学/final_version/~$抗体ELISA.docx",
     "中药方剂学/复习区",
-    "腹痛.md",
     "动物传染病学/HI_HA_Final_Report.png",
     "动物传染病学/HI_HA_Final_Report.svg",
     "动物传染病学/Scientific_Report_Final_Fixed.png",
