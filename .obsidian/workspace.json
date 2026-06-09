@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -167,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "动物传染病学/大肠杆菌病.md",
+                "file": "动物传染病学/传染病流行过程.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大肠杆菌病 的大纲"
+              "title": "传染病流行过程 的大纲"
             }
           },
           {
@@ -185,14 +186,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "1037f454eaf687a0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 232
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,10 +220,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79f3cfb92d0dc0ee",
+  "active": "e4a27a2bf92ae123",
   "lastOpenFiles": [
     "动物传染病学/总论.md",
     "动物传染病学/传染病流行过程.md",
+    "2026-06-09.md",
+    "未命名.canvas",
     "动物传染病学/presentation_fixed.html",
     "动物传染病学/pptx_assets/final_s26_i2.jpg",
     "动物传染病学/pptx_assets/final_s26_i1.png",
@@ -256,9 +268,6 @@
     "中药方剂学/方剂库/防风通圣散.md",
     "中药方剂学/方剂库/麻黄汤.md",
     "中药方剂学/方剂库/桂枝汤.md",
-    "中药方剂学/总论.md",
-    "中药方剂学/方剂库/荆防败毒散.md",
-    "未命名.canvas",
     "兽医药理学/药理学复习.canvas",
     "病理生理学/病理生理学.canvas",
     "动物免疫学/免疫学复习.canvas"
