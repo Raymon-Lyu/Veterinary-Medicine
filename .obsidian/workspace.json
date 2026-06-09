@@ -35,8 +35,7 @@
               "title": "总论"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,10 +210,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d2d27a3b5f573dd",
+  "active": "79f3cfb92d0dc0ee",
   "lastOpenFiles": [
-    "动物传染病学/传染病流行过程.md",
     "动物传染病学/总论.md",
+    "动物传染病学/传染病流行过程.md",
     "动物传染病学/presentation_fixed.html",
     "动物传染病学/pptx_assets/final_s26_i2.jpg",
     "动物传染病学/pptx_assets/final_s26_i1.png",
