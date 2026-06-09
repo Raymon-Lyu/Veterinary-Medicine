@@ -4,73 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "3aca5db26f9ce0d9",
+        "id": "071c7ef220a1b7df",
         "type": "tabs",
+        "dimension": 54.197901049475256,
         "children": [
           {
-            "id": "5d2d27a3b5f573dd",
+            "id": "8e13f889434b6aab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动物传染病学/总论.md",
+                "file": "中药方剂学/复习区/方剂总表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总论"
+              "title": "方剂总表"
             }
           },
           {
-            "id": "a86903a978837d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动物传染病学/传染病流行过程.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "传染病流行过程"
-            }
-          },
-          {
-            "id": "38252ad8beceafd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "传染病防疫措施.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "传染病防疫措施"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "0d54e9d9bbf09d6e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "68afcdab13717440",
+            "id": "8a887d1e759ec74f",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/19065a9f190db4b1",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "url": "https://notebooklm.google.com/notebook/b820bd24-f892-4b29-a274-19840ef7a2b2",
+                "title": "解表、清热、消导、泻下药 - NotebookLM",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "解表、清热、消导、泻下药 - NotebookLM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3aca5db26f9ce0d9",
+        "type": "tabs",
+        "dimension": 45.802098950524744,
+        "children": [
+          {
+            "id": "a67e645f274b03cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中药方剂学/清热药.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "清热药"
+            }
+          },
+          {
+            "id": "d8b6e86fcec3b5dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "消导药.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "消导药"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "流感病毒",
+                "query": "tag:中首医学",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "兽医诊断学/血生化/肾脏功能评估.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "肾脏功能评估 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -203,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "传染病防疫措施.md",
+                "file": "动物传染病学/大肠杆菌病.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "传染病防疫措施 的大纲"
+              "title": "大肠杆菌病 的大纲"
             }
           },
           {
@@ -221,23 +223,13 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "1037f454eaf687a0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 232
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,11 +247,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38252ad8beceafd5",
+  "active": "8a887d1e759ec74f",
   "lastOpenFiles": [
+    "消导药.md",
+    "传染病防疫措施.md",
     "动物传染病学/传染病流行过程.md",
     "动物传染病学/总论.md",
-    "传染病防疫措施.md",
     "兽医病毒学/病毒学复习.canvas",
     "动物传染病学/~$第一小组(1)(3).pptx",
     "2026-06-09.md",
@@ -304,7 +297,6 @@
     "中药方剂学/方剂总论.md",
     "中药方剂学/方剂库/防风通圣散.md",
     "中药方剂学/方剂库/麻黄汤.md",
-    "中药方剂学/方剂库/桂枝汤.md",
     "兽医药理学/药理学复习.canvas",
     "病理生理学/病理生理学.canvas",
     "动物免疫学/免疫学复习.canvas"
