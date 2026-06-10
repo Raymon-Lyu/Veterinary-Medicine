@@ -26,17 +26,18 @@
             "id": "8a887d1e759ec74f",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://notebooklm.google.com/notebook/406f8f73-02bb-4da8-b8d8-1cdf88685c04",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "file": "中药方剂学/复习区/方剂总表.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "data:text/plain,"
+              "icon": "lucide-file",
+              "title": "方剂总表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -252,8 +253,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e13f889434b6aab",
+  "active": "8a887d1e759ec74f",
   "lastOpenFiles": [
+    "中药方剂学/方剂总表.pdf",
     "中药方剂学/消导药.md",
     "中药方剂学/泻下药.md",
     "中药方剂学/清热药.md",
@@ -301,7 +303,6 @@
     "中兽医学/奇恒之腑.md",
     "中兽医学/元气论.md",
     "中药方剂学/方剂库/青蒿鳖甲汤.md",
-    "中药方剂学/方剂库/白头翁汤.md",
     "兽医药理学/药理学复习.canvas",
     "病理生理学/病理生理学.canvas",
     "动物免疫学/免疫学复习.canvas"
