@@ -6,7 +6,7 @@
       {
         "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 54.197901049475256,
+        "dimension": 43.08196721311475,
         "children": [
           {
             "id": "8e13f889434b6aab",
@@ -42,7 +42,7 @@
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 45.802098950524744,
+        "dimension": 31.344262295081965,
         "children": [
           {
             "id": "a67e645f274b03cf",
@@ -88,6 +88,27 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "ea90e115db979a96",
+        "type": "tabs",
+        "dimension": 25.573770491803277,
+        "children": [
+          {
+            "id": "e26b6e4a7f33131b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.kimi.com/chat/19eaf63a-1002-89c9-8000-09b28c66a0cd?chat_enter_method=history",
+                "title": "浙江学生思想汇报 - Kimi",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "浙江学生思想汇报 - Kimi"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,13 +282,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ba4c744941c33149",
+  "active": "e26b6e4a7f33131b",
   "lastOpenFiles": [
+    "泻下药.md",
+    "动物传染病学/Agglutination_Assay_Plate.tiff",
+    "动物传染病学/Agglutination_Assay_Plate.pdf",
+    "动物传染病学/Agglutination_Assay_Plate.svg",
     "动物传染病学/plot_agglutination.py",
     "大承气汤.md",
     "小承气汤.md",
     "调胃承气汤.md",
-    "泻下药.md",
     "动物传染病学/ningji.jpg.~tmp",
     "动物传染病学/ningji.jpg",
     "消导药.md",
@@ -290,14 +314,10 @@
     "动物传染病学/pptx_assets/final_s25_i1.png",
     "动物传染病学/pptx_assets/final_s24_i1.jpg",
     "动物传染病学/pptx_assets/final_s22_i2.jpg",
-    "动物传染病学/pptx_assets/final_s22_i1.jpg",
     "动物传染病学/final_fix.py",
     "动物传染病学/presentation_v3.html",
     "动物传染病学/generate_v3.py",
     "动物传染病学/detailed_slides.json",
-    "动物传染病学/analyze_pptx.py",
-    "动物传染病学/presentation_smart.html",
-    "动物传染病学/coordinate_layout.py",
     "动物传染病学/传染病的防控.md",
     "诊法.md",
     "中兽医学/致病因素.md",
