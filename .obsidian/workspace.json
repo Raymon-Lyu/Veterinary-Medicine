@@ -51,26 +51,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "0d54e9d9bbf09d6e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "68afcdab13717440",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/app/19065a9f190db4b1",
-                "title": "寄生虫病是传染病吗 - Google Gemini",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "寄生虫病是传染病吗 - Google Gemini"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -257,8 +237,8 @@
   },
   "active": "38252ad8beceafd5",
   "lastOpenFiles": [
-    "动物传染病学/传染病流行过程.md",
     "传染病防疫措施.md",
+    "动物传染病学/传染病流行过程.md",
     "动物传染病学/总论.md",
     "中药方剂学/复习区/方剂总表.md",
     "中药方剂学/消导药.md",
