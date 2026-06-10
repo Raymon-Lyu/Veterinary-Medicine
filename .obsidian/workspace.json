@@ -6,7 +6,7 @@
       {
         "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 43.11926605504587,
+        "dimension": 43.11926605504588,
         "children": [
           {
             "id": "8e13f889434b6aab",
@@ -42,7 +42,7 @@
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 30.144167758846656,
+        "dimension": 34.796854521625164,
         "children": [
           {
             "id": "d3a0749bcc9c55a6",
@@ -63,7 +63,7 @@
       {
         "id": "ea90e115db979a96",
         "type": "tabs",
-        "dimension": 26.736566186107467,
+        "dimension": 22.083879423328963,
         "children": [
           {
             "id": "e26b6e4a7f33131b",
@@ -72,11 +72,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.kimi.com/chat/19eaf63a-1002-89c9-8000-09b28c66a0cd?chat_enter_method=history",
-                "title": "Kimi AI 官网 - K2.6 上线",
-                "mode": "blank"
+                "title": "浙江学生思想汇报 - Kimi",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Kimi AI 官网 - K2.6 上线"
+              "title": "浙江学生思想汇报 - Kimi"
             }
           }
         ]
