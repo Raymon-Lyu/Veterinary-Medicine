@@ -71,9 +71,23 @@
               "icon": "lucide-file",
               "title": "消导药"
             }
+          },
+          {
+            "id": "ba4c744941c33149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "泻下药.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "泻下药"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,6 +263,7 @@
   },
   "active": "8a887d1e759ec74f",
   "lastOpenFiles": [
+    "泻下药.md",
     "消导药.md",
     "木香导滞丸.md",
     "保和丸.md",
@@ -296,7 +311,6 @@
     "中药方剂学/方剂库/清营汤.md",
     "中药方剂学/方剂库/银翘散.md",
     "中药方剂学/方剂库/白虎汤.md",
-    "中药方剂学/解表药.md",
     "兽医药理学/药理学复习.canvas",
     "病理生理学/病理生理学.canvas",
     "动物免疫学/免疫学复习.canvas"
