@@ -85,23 +85,9 @@
               "icon": "lucide-file",
               "title": "泻下药"
             }
-          },
-          {
-            "id": "3ab2ba17d3e1019a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大乘气汤.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "大乘气汤"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,10 +261,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a887d1e759ec74f",
+  "active": "ba4c744941c33149",
   "lastOpenFiles": [
-    "大乘气汤.md",
+    "动物传染病学/plot_agglutination.py",
+    "大承气汤.md",
+    "小承气汤.md",
+    "调胃承气汤.md",
     "泻下药.md",
+    "动物传染病学/ningji.jpg.~tmp",
+    "动物传染病学/ningji.jpg",
     "消导药.md",
     "木香导滞丸.md",
     "保和丸.md",
@@ -300,7 +291,6 @@
     "动物传染病学/pptx_assets/final_s24_i1.jpg",
     "动物传染病学/pptx_assets/final_s22_i2.jpg",
     "动物传染病学/pptx_assets/final_s22_i1.jpg",
-    "动物传染病学/pptx_assets/final_s21_i1.png",
     "动物传染病学/final_fix.py",
     "动物传染病学/presentation_v3.html",
     "动物传染病学/generate_v3.py",
@@ -308,7 +298,6 @@
     "动物传染病学/analyze_pptx.py",
     "动物传染病学/presentation_smart.html",
     "动物传染病学/coordinate_layout.py",
-    "动物传染病学/presentation_final.html",
     "动物传染病学/传染病的防控.md",
     "诊法.md",
     "中兽医学/致病因素.md",
@@ -322,9 +311,6 @@
     "中药方剂学/方剂库/香薷散.md",
     "中药方剂学/复习区/方剂总表.md",
     "中药方剂学/方剂库/清瘟败毒散.md",
-    "中药方剂学/方剂库/黄连解毒汤.md",
-    "中药方剂学/方剂库/清营汤.md",
-    "中药方剂学/方剂库/银翘散.md",
     "兽医药理学/药理学复习.canvas",
     "病理生理学/病理生理学.canvas",
     "动物免疫学/免疫学复习.canvas"
