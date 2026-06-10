@@ -99,9 +99,23 @@
               "icon": "lucide-file",
               "title": "十枣汤"
             }
+          },
+          {
+            "id": "409e183c1feba1fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "增液承气汤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "增液承气汤"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "ea90e115db979a96",
@@ -298,8 +312,9 @@
   },
   "active": "8a887d1e759ec74f",
   "lastOpenFiles": [
-    "十枣汤.md",
+    "增液承气汤.md",
     "泻下药.md",
+    "十枣汤.md",
     "当归苁蓉汤.md",
     "动物传染病学/Agglutination_Assay_Plate.tiff",
     "动物传染病学/Agglutination_Assay_Plate.pdf",
@@ -345,7 +360,6 @@
     "中药方剂学/方剂库/青蒿鳖甲汤.md",
     "中药方剂学/方剂库/白头翁汤.md",
     "中药方剂学/方剂库/香薷散.md",
-    "中药方剂学/复习区/方剂总表.md",
     "兽医药理学/药理学复习.canvas",
     "病理生理学/病理生理学.canvas",
     "动物免疫学/免疫学复习.canvas"
