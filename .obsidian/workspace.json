@@ -29,11 +29,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/406f8f73-02bb-4da8-b8d8-1cdf88685c04",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "王自力部分 - NotebookLM",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "王自力部分 - NotebookLM"
             }
           }
         ],
@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "ea90e115db979a96",
@@ -115,11 +115,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.kimi.com/chat/19eaf63a-1002-89c9-8000-09b28c66a0cd?chat_enter_method=history",
-                "title": "Kimi AI 官网 - K2.6 上线",
-                "mode": "blank"
+                "title": "浙江学生思想汇报 - Kimi",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Kimi AI 官网 - K2.6 上线"
+              "title": "浙江学生思想汇报 - Kimi"
             }
           }
         ]
@@ -296,12 +296,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a3bb06047a3839c",
+  "active": "7e5c73747732fb8d",
   "lastOpenFiles": [
-    "中药方剂学/复习区/方剂总表.md",
-    "中药方剂学/清热药.md",
     "橘皮散.md",
     "理气方.md",
+    "中药方剂学/复习区/方剂总表.md",
+    "中药方剂学/清热药.md",
     "template/yaml.md",
     "中药方剂学/消导药.md",
     "传染病防疫措施.md",
