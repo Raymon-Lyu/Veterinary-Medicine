@@ -1,10 +1,10 @@
-	4	5	6	7
-A	positive_sample	block1	dumpling2	block1
-B	wanzi2	block2	wanzi1	block2
-C	wanzi1	dumpling1	wanzi2	dumpling1
-D	dumpling2	wanzi3	pork1	wanzi1
-E	dumpling1	wanzi3	pork2	pork1
-F	block2	pork2	wanzi3	pork2
-G	block1	positive_sample	positive_sample	positive_sample
-H	positive_control	positive_control	positive_control	positive_control
-	p4	p3	p2	p1
+,4,5,6,7
+A,positive_sample,block1,dumpling2,block1
+B,wanzi2,block2,wanzi1,block2
+C,wanzi1,dumpling1,wanzi2,dumpling1
+D,dumpling2,wanzi3,pork1,wanzi1
+E,dumpling1,wanzi3,pork2,pork1
+F,block2,pork2,wanzi3,pork2
+G,block1,positive_sample,positive_sample,positive_sample
+H,positive_control,positive_control,positive_control,positive_control
+,p4,p3,p2,p1

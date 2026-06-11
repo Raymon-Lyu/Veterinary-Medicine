@@ -6,7 +6,7 @@
       {
         "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 70.01499250374813,
+        "dimension": 37.331334332833585,
         "children": [
           {
             "id": "8e13f889434b6aab",
@@ -36,12 +36,13 @@
               "title": "王自力部分 - NotebookLM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 14.992503748125937,
+        "dimension": 17.24137931034483,
         "children": [
           {
             "id": "d3a0749bcc9c55a6",
@@ -105,7 +106,7 @@
       {
         "id": "ea90e115db979a96",
         "type": "tabs",
-        "dimension": 14.992503748125937,
+        "dimension": 45.42728635682159,
         "children": [
           {
             "id": "e26b6e4a7f33131b",
@@ -294,10 +295,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9417d413612a1b48",
+  "active": "5a3bb06047a3839c",
   "lastOpenFiles": [
-    "动物传染病学/exp_last/divide - 副本.csv",
     "中药方剂学/复习区/方剂总表.md",
+    "动物传染病学/exp_last/divide - 副本.csv",
     "中药方剂学/方剂库/白虎汤.md",
     "橘皮散.md",
     "理气方.md",
@@ -324,7 +325,6 @@
     "中药方剂学/方剂库/大承气汤.md",
     "中药方剂学/方剂库/小承气汤.md",
     "中药方剂学/方剂库/调胃承气汤.md",
-    "动物传染病学/ningji.jpg.~tmp",
     "动物传染病学/ningji.jpg",
     "中药方剂学/方剂库/木香导滞丸.md",
     "中药方剂学/方剂库/保和丸.md",
