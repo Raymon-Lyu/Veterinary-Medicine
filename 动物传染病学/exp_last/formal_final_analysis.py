@@ -85,7 +85,7 @@ df['formal_group'] = pd.Categorical(df['formal_group'], categories=order, ordere
 # Stats for table
 summary_data = []
 for cat in order:
-    vals = df[(df['formal_group'] == cat) & (df['is_valid'])]['cq_value']
+    vals = df[(df['formal_group'] == cat) & (df['is_valid'])]['cq_value'].dropna()
     if len(vals) > 1:
         summary_data.append([cat, f"{vals.mean():.2f} \u00B1 {vals.std():.2f}", f"n={len(vals)}"])
     elif len(vals) == 1:
