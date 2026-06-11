@@ -6,7 +6,7 @@
       {
         "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 43.11926605504587,
+        "dimension": 65.15478761699065,
         "children": [
           {
             "id": "8e13f889434b6aab",
@@ -36,13 +36,12 @@
               "title": "王自力部分 - NotebookLM"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 34.796854521625164,
+        "dimension": 14.398848092152628,
         "children": [
           {
             "id": "d3a0749bcc9c55a6",
@@ -92,7 +91,7 @@
       {
         "id": "ea90e115db979a96",
         "type": "tabs",
-        "dimension": 22.083879423328963,
+        "dimension": 20.44636429085673,
         "children": [
           {
             "id": "e26b6e4a7f33131b",
@@ -282,7 +281,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a3bb06047a3839c",
+  "active": "8e13f889434b6aab",
   "lastOpenFiles": [
     "橘皮散.md",
     "理气方.md",
