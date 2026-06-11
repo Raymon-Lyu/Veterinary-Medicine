@@ -6,7 +6,7 @@
       {
         "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 65.15478761699065,
+        "dimension": 50.39318479685452,
         "children": [
           {
             "id": "8e13f889434b6aab",
@@ -41,7 +41,7 @@
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 14.398848092152628,
+        "dimension": 29.161205766710353,
         "children": [
           {
             "id": "d3a0749bcc9c55a6",
@@ -84,14 +84,28 @@
               "icon": "lucide-file",
               "title": "橘皮散"
             }
+          },
+          {
+            "id": "afe9666d4c2b00c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中药方剂学/清热药.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "清热药"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "ea90e115db979a96",
         "type": "tabs",
-        "dimension": 20.44636429085673,
+        "dimension": 20.445609436435124,
         "children": [
           {
             "id": "e26b6e4a7f33131b",
@@ -281,8 +295,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e13f889434b6aab",
+  "active": "afe9666d4c2b00c6",
   "lastOpenFiles": [
+    "中药方剂学/复习区/方剂总表.md",
     "橘皮散.md",
     "理气方.md",
     "template/yaml.md",
@@ -290,7 +305,6 @@
     "传染病防疫措施.md",
     "动物传染病学/传染病流行过程.md",
     "动物传染病学/总论.md",
-    "中药方剂学/复习区/方剂总表.md",
     "中药方剂学/方剂总表.pdf",
     "中药方剂学/泻下药.md",
     "中药方剂学/清热药.md",
