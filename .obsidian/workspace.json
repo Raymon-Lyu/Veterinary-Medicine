@@ -114,11 +114,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.kimi.com/chat/19eaf63a-1002-89c9-8000-09b28c66a0cd?chat_enter_method=history",
-                "title": "浙江学生思想汇报 - Kimi",
-                "mode": "webview"
+                "title": "Kimi AI 官网 - K2.6 上线",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "浙江学生思想汇报 - Kimi"
+              "title": "Kimi AI 官网 - K2.6 上线"
             }
           }
         ]
