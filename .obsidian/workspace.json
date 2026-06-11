@@ -36,7 +36,8 @@
               "title": "王自力部分 - NotebookLM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -114,11 +115,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.kimi.com/chat/19eaf63a-1002-89c9-8000-09b28c66a0cd?chat_enter_method=history",
-                "title": "Kimi AI 官网 - K2.6 上线",
-                "mode": "blank"
+                "title": "浙江学生思想汇报 - Kimi",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Kimi AI 官网 - K2.6 上线"
+              "title": "浙江学生思想汇报 - Kimi"
             }
           }
         ]
@@ -295,9 +296,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afe9666d4c2b00c6",
+  "active": "5a3bb06047a3839c",
   "lastOpenFiles": [
     "中药方剂学/复习区/方剂总表.md",
+    "中药方剂学/清热药.md",
     "橘皮散.md",
     "理气方.md",
     "template/yaml.md",
@@ -307,7 +309,6 @@
     "动物传染病学/总论.md",
     "中药方剂学/方剂总表.pdf",
     "中药方剂学/泻下药.md",
-    "中药方剂学/清热药.md",
     "中药方剂学/08温里药方.pdf",
     "中药方剂学/07痰咳喘药方.pdf",
     "中药方剂学/06理气药方.pdf",
