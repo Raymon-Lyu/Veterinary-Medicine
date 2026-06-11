@@ -1,0 +1,226 @@
+[
+    {
+        "well_physical": "A04",
+        "original_label": "阳性样品",
+        "formal_group": "Positive Sample",
+        "cq_value": 27.91,
+        "is_valid": true
+    },
+    {
+        "well_physical": "G04",
+        "original_label": "板1",
+        "formal_group": "Cutting Board A",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_physical": "F04",
+        "original_label": "板2",
+        "formal_group": "Cutting Board B",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_physical": "E04",
+        "original_label": "饺1",
+        "formal_group": "Egg Dumpling A",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_physical": "D04",
+        "original_label": "饺2",
+        "formal_group": "Egg Dumpling B",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_physical": "C04",
+        "original_label": "丸1-1",
+        "formal_group": "Pork Ball A",
+        "cq_value": 26.55,
+        "is_valid": true
+    },
+    {
+        "well_physical": "B04",
+        "original_label": "丸1-2",
+        "formal_group": "Pork Ball A",
+        "cq_value": 28.4,
+        "is_valid": true
+    },
+    {
+        "well_physical": "H04",
+        "original_label": "阳性对照",
+        "formal_group": "Positive Control",
+        "cq_value": 24.41,
+        "is_valid": true
+    },
+    {
+        "well_physical": "F05",
+        "original_label": "板1",
+        "formal_group": "Cutting Board A",
+        "cq_value": 17.7,
+        "is_valid": true
+    },
+    {
+        "well_physical": "E05",
+        "original_label": "板2",
+        "formal_group": "Cutting Board B",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_physical": "D05",
+        "original_label": "饺1",
+        "formal_group": "Egg Dumpling A",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_physical": "C05",
+        "original_label": "丸2-2",
+        "formal_group": "Pork Ball B",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_physical": "B05",
+        "original_label": "丸2-2",
+        "formal_group": "Pork Ball B",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_physical": "A05",
+        "original_label": "YQT",
+        "formal_group": "Raw Pork B",
+        "cq_value": 25.34,
+        "is_valid": true
+    },
+    {
+        "well_physical": "G05",
+        "original_label": "阳性样品",
+        "formal_group": "Positive Sample",
+        "cq_value": 28.05,
+        "is_valid": true
+    },
+    {
+        "well_physical": "H05",
+        "original_label": "阳性对照",
+        "formal_group": "Positive Control",
+        "cq_value": 25.33,
+        "is_valid": true
+    },
+    {
+        "well_physical": "F06",
+        "original_label": "饺1",
+        "formal_group": "Egg Dumpling A",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_physical": "E06",
+        "original_label": "丸1-1",
+        "formal_group": "Pork Ball A",
+        "cq_value": 25.49,
+        "is_valid": true
+    },
+    {
+        "well_physical": "D06",
+        "original_label": "丸1-2",
+        "formal_group": "Pork Ball A",
+        "cq_value": 26.84,
+        "is_valid": true
+    },
+    {
+        "well_physical": "C06",
+        "original_label": "肉1",
+        "formal_group": "Raw Pork A",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_physical": "B06",
+        "original_label": "YQT",
+        "formal_group": "Raw Pork B",
+        "cq_value": 24.66,
+        "is_valid": true
+    },
+    {
+        "well_physical": "A06",
+        "original_label": "丸2-2",
+        "formal_group": "Pork Ball B",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_physical": "G06",
+        "original_label": "阳性样品",
+        "formal_group": "Positive Sample",
+        "cq_value": 28.22,
+        "is_valid": true
+    },
+    {
+        "well_physical": "H06",
+        "original_label": "阳性对照",
+        "formal_group": "Positive Control",
+        "cq_value": 23.99,
+        "is_valid": true
+    },
+    {
+        "well_physical": "F07",
+        "original_label": "板1",
+        "formal_group": "Cutting Board A",
+        "cq_value": 23.94,
+        "is_valid": true
+    },
+    {
+        "well_physical": "E07",
+        "original_label": "板2",
+        "formal_group": "Cutting Board B",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_physical": "D07",
+        "original_label": "饺1",
+        "formal_group": "Egg Dumpling A",
+        "cq_value": 26.17,
+        "is_valid": true
+    },
+    {
+        "well_physical": "C07",
+        "original_label": "丸1-1",
+        "formal_group": "Pork Ball A",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_physical": "B07",
+        "original_label": "肉1",
+        "formal_group": "Raw Pork A",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_physical": "A07",
+        "original_label": "YQT",
+        "formal_group": "Raw Pork B",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_physical": "G07",
+        "original_label": "阳性样品",
+        "formal_group": "Positive Sample",
+        "cq_value": 28.85,
+        "is_valid": true
+    },
+    {
+        "well_physical": "H07",
+        "original_label": "阳性对照",
+        "formal_group": "Positive Control",
+        "cq_value": 25.85,
+        "is_valid": true
+    }
+]
