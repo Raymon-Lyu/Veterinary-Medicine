@@ -29,11 +29,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/406f8f73-02bb-4da8-b8d8-1cdf88685c04",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "王自力部分 - NotebookLM",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "王自力部分 - NotebookLM"
             }
           }
         ],
@@ -87,11 +87,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.kimi.com/chat/19eaf63a-1002-89c9-8000-09b28c66a0cd?chat_enter_method=history",
-                "title": "Kimi AI 官网 - K2.6 上线",
-                "mode": "blank"
+                "title": "浙江学生思想汇报 - Kimi",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Kimi AI 官网 - K2.6 上线"
+              "title": "浙江学生思想汇报 - Kimi"
             }
           }
         ]
