@@ -6,7 +6,7 @@
       {
         "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 37.331334332833585,
+        "dimension": 54.831460674157306,
         "children": [
           {
             "id": "8e13f889434b6aab",
@@ -42,7 +42,7 @@
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 17.24137931034483,
+        "dimension": 45.1685393258427,
         "children": [
           {
             "id": "d3a0749bcc9c55a6",
@@ -92,37 +92,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中药方剂学/清热药.md",
+                "file": "橘皮散.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "清热药"
+              "title": "橘皮散"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "ea90e115db979a96",
-        "type": "tabs",
-        "dimension": 45.42728635682159,
-        "children": [
-          {
-            "id": "e26b6e4a7f33131b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.kimi.com/chat/19eaf63a-1002-89c9-8000-09b28c66a0cd?chat_enter_method=history",
-                "title": "浙江学生思想汇报 - Kimi",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "浙江学生思想汇报 - Kimi"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -295,13 +275,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a3bb06047a3839c",
+  "active": "afe9666d4c2b00c6",
   "lastOpenFiles": [
+    "理气方.md",
+    "动物传染病学/exp_last/layout_utf8.csv",
+    "动物传染病学/exp_last/加样.xlsx",
     "中药方剂学/复习区/方剂总表.md",
     "动物传染病学/exp_last/divide - 副本.csv",
     "中药方剂学/方剂库/白虎汤.md",
     "橘皮散.md",
-    "理气方.md",
     "中药方剂学/update_yaml.py",
     "中药方剂学/清热药.md",
     "template/yaml.md",
@@ -319,9 +301,7 @@
     "中药方剂学/方剂库/增液承气汤.md",
     "中药方剂学/方剂库/当归苁蓉汤.md",
     "动物传染病学/Agglutination_Assay_Plate.tiff",
-    "动物传染病学/Agglutination_Assay_Plate.pdf",
     "动物传染病学/Agglutination_Assay_Plate.svg",
-    "动物传染病学/plot_agglutination.py",
     "中药方剂学/方剂库/大承气汤.md",
     "中药方剂学/方剂库/小承气汤.md",
     "中药方剂学/方剂库/调胃承气汤.md",
