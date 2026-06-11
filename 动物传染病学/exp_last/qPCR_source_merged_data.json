@@ -1,0 +1,194 @@
+[
+    {
+        "sample_name": "阳性样品",
+        "group": "Pos Sample",
+        "cq_value": 27.91,
+        "is_valid": true
+    },
+    {
+        "sample_name": "板1",
+        "group": "Block 1",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "sample_name": "板2",
+        "group": "Block 2",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "sample_name": "饺1",
+        "group": "Dumpling 1",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "sample_name": "饺2",
+        "group": "Dumpling 2",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "sample_name": "丸1-1",
+        "group": "Wanzi 1",
+        "cq_value": 26.55,
+        "is_valid": true
+    },
+    {
+        "sample_name": "丸1-2",
+        "group": "Wanzi 1",
+        "cq_value": 28.4,
+        "is_valid": true
+    },
+    {
+        "sample_name": "阳性对照",
+        "group": "Pos Ctrl",
+        "cq_value": 24.41,
+        "is_valid": true
+    },
+    {
+        "sample_name": "板1",
+        "group": "Block 1",
+        "cq_value": 17.7,
+        "is_valid": true
+    },
+    {
+        "sample_name": "板2",
+        "group": "Block 2",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "sample_name": "饺1",
+        "group": "Dumpling 1",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "sample_name": "丸2-2",
+        "group": "Wanzi 2",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "sample_name": "丸2-2",
+        "group": "Wanzi 2",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "sample_name": "YQT",
+        "group": "Pork 2",
+        "cq_value": 25.34,
+        "is_valid": true
+    },
+    {
+        "sample_name": "阳性样品",
+        "group": "Pos Sample",
+        "cq_value": 28.05,
+        "is_valid": true
+    },
+    {
+        "sample_name": "阳性对照",
+        "group": "Pos Ctrl",
+        "cq_value": 25.33,
+        "is_valid": true
+    },
+    {
+        "sample_name": "饺1",
+        "group": "Dumpling 1",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "sample_name": "丸1-1",
+        "group": "Wanzi 1",
+        "cq_value": 25.49,
+        "is_valid": true
+    },
+    {
+        "sample_name": "丸1-2",
+        "group": "Wanzi 1",
+        "cq_value": 26.84,
+        "is_valid": true
+    },
+    {
+        "sample_name": "肉1",
+        "group": "Pork 1",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "sample_name": "YQT",
+        "group": "Pork 2",
+        "cq_value": 24.66,
+        "is_valid": true
+    },
+    {
+        "sample_name": "丸2-2",
+        "group": "Wanzi 2",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "sample_name": "阳性样品",
+        "group": "Pos Sample",
+        "cq_value": 28.22,
+        "is_valid": true
+    },
+    {
+        "sample_name": "阳性对照",
+        "group": "Pos Ctrl",
+        "cq_value": 23.99,
+        "is_valid": true
+    },
+    {
+        "sample_name": "板1",
+        "group": "Block 1",
+        "cq_value": 23.94,
+        "is_valid": true
+    },
+    {
+        "sample_name": "板2",
+        "group": "Block 2",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "sample_name": "饺1",
+        "group": "Dumpling 1",
+        "cq_value": 26.17,
+        "is_valid": true
+    },
+    {
+        "sample_name": "丸1-1",
+        "group": "Wanzi 1",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "sample_name": "肉1",
+        "group": "Pork 1",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "sample_name": "YQT",
+        "group": "Pork 2",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "sample_name": "阳性样品",
+        "group": "Pos Sample",
+        "cq_value": 28.85,
+        "is_valid": true
+    },
+    {
+        "sample_name": "阳性对照",
+        "group": "Pos Ctrl",
+        "cq_value": 25.85,
+        "is_valid": true
+    }
+]

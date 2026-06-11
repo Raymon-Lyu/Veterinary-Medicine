@@ -1,0 +1,258 @@
+[
+    {
+        "well_original": "A04",
+        "well_physical": "A04",
+        "sample": "阳性样品",
+        "group": "Pos Sample",
+        "cq_value": 27.91,
+        "is_valid": true
+    },
+    {
+        "well_original": "A05",
+        "well_physical": "A05",
+        "sample": "板1",
+        "group": "Block",
+        "cq_value": 25.34,
+        "is_valid": true
+    },
+    {
+        "well_original": "A06",
+        "well_physical": "A06",
+        "sample": "饺1",
+        "group": "Dumpling",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_original": "A07",
+        "well_physical": "A07",
+        "sample": "板1",
+        "group": "Block",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_original": "B04",
+        "well_physical": "F04",
+        "sample": "板1",
+        "group": "Block",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_original": "B05",
+        "well_physical": "F05",
+        "sample": "板2",
+        "group": "Block",
+        "cq_value": 17.7,
+        "is_valid": true
+    },
+    {
+        "well_original": "B06",
+        "well_physical": "F06",
+        "sample": "丸1-1",
+        "group": "Wanzi",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_original": "B07",
+        "well_physical": "F07",
+        "sample": "板2",
+        "group": "Block",
+        "cq_value": 23.94,
+        "is_valid": true
+    },
+    {
+        "well_original": "C04",
+        "well_physical": "E04",
+        "sample": "板2",
+        "group": "Block",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_original": "C05",
+        "well_physical": "E05",
+        "sample": "饺1",
+        "group": "Dumpling",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_original": "C06",
+        "well_physical": "E06",
+        "sample": "丸1-2",
+        "group": "Wanzi",
+        "cq_value": 25.49,
+        "is_valid": true
+    },
+    {
+        "well_original": "C07",
+        "well_physical": "E07",
+        "sample": "饺1",
+        "group": "Dumpling",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_original": "D04",
+        "well_physical": "D04",
+        "sample": "饺1",
+        "group": "Dumpling",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_original": "D05",
+        "well_physical": "D05",
+        "sample": "丸2-2",
+        "group": "Wanzi",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_original": "D06",
+        "well_physical": "D06",
+        "sample": "肉1",
+        "group": "Pork",
+        "cq_value": 26.84,
+        "is_valid": true
+    },
+    {
+        "well_original": "D07",
+        "well_physical": "D07",
+        "sample": "丸1-1",
+        "group": "Wanzi",
+        "cq_value": 26.17,
+        "is_valid": true
+    },
+    {
+        "well_original": "E04",
+        "well_physical": "C04",
+        "sample": "饺2",
+        "group": "Dumpling",
+        "cq_value": 26.55,
+        "is_valid": true
+    },
+    {
+        "well_original": "E05",
+        "well_physical": "C05",
+        "sample": "丸2-2",
+        "group": "Wanzi",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_original": "E06",
+        "well_physical": "C06",
+        "sample": "YQT",
+        "group": "Pork",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_original": "E07",
+        "well_physical": "C07",
+        "sample": "肉1",
+        "group": "Pork",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_original": "F04",
+        "well_physical": "B04",
+        "sample": "丸1-1",
+        "group": "Wanzi",
+        "cq_value": 28.4,
+        "is_valid": true
+    },
+    {
+        "well_original": "F05",
+        "well_physical": "B05",
+        "sample": "YQT",
+        "group": "Pork",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_original": "F06",
+        "well_physical": "B06",
+        "sample": "丸2-2",
+        "group": "Wanzi",
+        "cq_value": 24.66,
+        "is_valid": true
+    },
+    {
+        "well_original": "F07",
+        "well_physical": "B07",
+        "sample": "YQT",
+        "group": "Pork",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_original": "G04",
+        "well_physical": "G04",
+        "sample": "丸1-2",
+        "group": "Wanzi",
+        "cq_value": NaN,
+        "is_valid": true
+    },
+    {
+        "well_original": "G05",
+        "well_physical": "G05",
+        "sample": "阳性样品",
+        "group": "Pos Sample",
+        "cq_value": 28.05,
+        "is_valid": true
+    },
+    {
+        "well_original": "G06",
+        "well_physical": "G06",
+        "sample": "阳性样品",
+        "group": "Pos Sample",
+        "cq_value": 28.22,
+        "is_valid": true
+    },
+    {
+        "well_original": "G07",
+        "well_physical": "G07",
+        "sample": "阳性样品",
+        "group": "Pos Sample",
+        "cq_value": 28.85,
+        "is_valid": true
+    },
+    {
+        "well_original": "H04",
+        "well_physical": "H04",
+        "sample": "阳性对照",
+        "group": "Pos Ctrl",
+        "cq_value": 24.41,
+        "is_valid": true
+    },
+    {
+        "well_original": "H05",
+        "well_physical": "H05",
+        "sample": "阳性对照",
+        "group": "Pos Ctrl",
+        "cq_value": 25.33,
+        "is_valid": true
+    },
+    {
+        "well_original": "H06",
+        "well_physical": "H06",
+        "sample": "阳性对照",
+        "group": "Pos Ctrl",
+        "cq_value": 23.99,
+        "is_valid": true
+    },
+    {
+        "well_original": "H07",
+        "well_physical": "H07",
+        "sample": "阳性对照",
+        "group": "Pos Ctrl",
+        "cq_value": 25.85,
+        "is_valid": true
+    }
+]
