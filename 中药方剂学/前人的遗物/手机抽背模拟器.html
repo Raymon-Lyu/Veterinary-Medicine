@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>理世的抽背模拟器</title>
+    <style>
+        :root {
+            --primary-color: #f39c12; /* 元气橙 */
+            --bg-color: #fffaf0; /* 暖白背景 */
+            --card-bg: #ffffff;
+            --text-dark: #333333;
+            --text-light: #777777;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-dark);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            box-sizing: border-box;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header h1 {
+            color: #d35400;
+            font-size: 1.5rem;
+            margin: 10px 0;
+        }
+        .controls {
+            width: 100%;
+            max-width: 400px;
+            margin-bottom: 20px;
+        }
+        select {
+            width: 100%;
+            padding: 12px;
+            font-size: 1rem;
+            border-radius: 10px;
+            border: 2px solid var(--primary-color);
+            background-color: white;
+            color: var(--text-dark);
+            outline: none;
+            box-shadow: 0 2px 5px rgba(243, 156, 18, 0.2);
+            appearance: none;
+            -webkit-appearance: none;
+        }
+        .card {
+            background: var(--card-bg);
+            border-radius: 15px;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 400px;
+            min-height: 250px;
+            padding: 25px;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            transition: transform 0.2s ease;
+            cursor: pointer;
+        }
+        .card:active {
+            transform: scale(0.98);
+        }
+        .question {
+            font-size: 1.6rem;
+            font-weight: bold;
+            color: #e74c3c;
+            text-align: center;
+            margin-bottom: 20px;
+            width: 100%;
+        }
+        .answer {
+            font-size: 1.2rem;
+            color: #555;
+            white-space: pre-wrap;
+            text-align: left;
+            width: 100%;
+            display: none;
+            border-top: 2px dashed #fce3b3;
+            padding-top: 20px;
+            line-height: 1.5;
+            animation: fadeIn 0.4s ease-in-out;
+        }
+        .answer.show {
+            display: block;
+        }
+        .btn-group {
+            display: flex;
+            gap: 15px;
+            margin-top: 30px;
+            width: 100%;
+            max-width: 400px;
+        }
+        button {
+            flex: 1;
+            padding: 15px;
+            font-size: 1.1rem;
+            border: none;
+            border-radius: 12px;
+            background-color: var(--primary-color);
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+            box-shadow: 0 4px 6px rgba(243, 156, 18, 0.3);
+            transition: all 0.2s;
+        }
+        button:active {
+            transform: translateY(2px);
+            box-shadow: 0 2px 3px rgba(243, 156, 18, 0.3);
+        }
+        button.show-btn {
+            background-color: #3498db;
+            box-shadow: 0 4px 6px rgba(52, 152, 219, 0.3);
+        }
+        button.show-btn:active {
+            box-shadow: 0 2px 3px rgba(52, 152, 219, 0.3);
+        }
+        .counter {
+            margin-top: 15px;
+            color: var(--text-light);
+            font-size: 0.9rem;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🎵 理世的抽背模拟器</h1>
+        <div style="font-size: 0.9rem; color: #777;">前辈，加油复习哦！点击卡片就能看答案啦~</div>
+    </div>
+
+    <div class="controls">
+        <select id="deckSelect">
+            <option value="fangji">📚 方剂题库</option>
+            <option value="zhongyao">🌿 常用中药题库</option>
+        </select>
+    </div>
+
+    <div class="card" id="flashcard" onclick="toggleAnswer()">
+        <div class="question" id="questionText">准备好了吗？</div>
+        <div class="answer" id="answerText"></div>
+    </div>
+
+    <div class="counter" id="counterText">共 0 题</div>
+
+    <div class="btn-group">
+        <button class="show-btn" id="showBtn" onclick="toggleAnswer()">看答案</button>
+        <button id="nextBtn" onclick="nextQuestion()">下一题</button>
+    </div>
+
+    <script>
+        const fangjiData = `%麻黄汤
+辛温解表药
+方剂组成
+麻黄
+发汗解表，宣肺平喘
+桂枝
+发汗解肌，助麻黄发汗解表
+杏仁宣
+肺平喘，助麻黄平咳喘
+甘草
+缓和中，调和诸药
+主治
+外感风寒表实症
+恶寒发热、无汗咳喘、舌薄白、脉浮紧
+功效
+发汗解表
+
+%桂枝汤
+辛温解表药
+方剂组成
+桂枝
+白芍
+厚朴
+大枣
+干姜
+
+%麻黄汤、桂枝汤、麻杏石甘汤对比
+麻黄汤发汗之力较强，善于宣肺平喘，为辛温解表之重剂，适用外感风寒表实证
+桂枝汤发汗不及麻黄汤，但善于解肌表和营卫，适用于外感风寒表虚证
+
+%白虎汤
+清热药
+方剂组成
+生石膏
+君药，清热泻火
+知母清热养阴生津，臣药
+粳米和甘草
+益胃养阴，缓和石膏、知母寒凉伤胃之弊，共为佐使药
+功效
+清热生津
+主治
+阳明气分实热证
+证见大热、大汗、大渴、脉洪大
+
+%黄连解毒汤
+清热解毒药
+方剂组成
+黄连泻心火，兼泻中焦之火
+黄芩清肺热，泻上焦之火
+黄柏，泻下焦之火，佐药
+栀子，通泻三焦之火，导热下行，使药
+功效
+泻火解毒
+主治
+三焦热盛、疮疡丁毒
+
+%白头翁汤
+清热肺腑方
+方剂组成
+白头翁
+黄连、黄柏、秦皮为辅药
+功效
+清热解毒、凉血止痢
+主治
+热结大肠而致热痢
+
+%大承气汤
+攻下方
+方剂组成
+大黄
+泻热通便，荡涤肠胃，为君药
+芒硝
+助大黄泻热通便，并能软坚润燥
+厚朴、枳实
+行气破积，消除痞满，为佐药
+功效
+峻下热结
+主治
+阳明腑实证
+辩证要点为痞、满、燥、实
+痞为胸部压重窒闷感
+满腹部胀满，按之有抵抗感
+燥为肠中有燥屎
+实为腹部能触摸到有形积滞
+无燥证，则去芒硝，呈小承气汤，轻下热结；无痞满者，去枳实、厚朴，加甘草，成调胃承气汤
+
+%增液承气汤
+玄参、生地、麦冬、大黄、芒硝，攻补兼用，是“增水行舟”之法
+功效
+滋阴、燥热、通便
+主治
+津液亏虚，粪燥不行
+
+%消导药和泻下药的区别
+...
+
+%二陈汤
+化痰止咳平喘方
+方剂组成
+制半夏
+燥湿化痰，降逆止呕，为主药
+陈皮
+理气化痰，为辅药
+茯苓
+健脾利湿，为佐药
+炙甘草
+和中健脾，调和诸药，为使药
+功效
+燥湿化痰，理气和中
+主治
+湿热咳喘，尤其适用于脾阳不足，运化失职，水湿凝聚成痰
+
+%麻杏石甘汤
+化痰止咳平喘药
+方剂组成
+麻黄
+辛温解表，宣肺平喘
+石膏
+辛凉宣泻，为辅药
+杏仁
+宣降肺气，帮助麻黄止咳平喘，为佐药
+甘草
+调和诸药，使药
+功效
+宣肺、清热、平喘
+主治
+肺热气喘，是治疗肺热气喘的常用方剂，应以发热、喘急为用药依据
+
+%理中汤
+温中散寒方
+方剂组成
+干姜
+温中散寒，主药
+党参
+补气健脾，臣药
+白术
+健脾燥湿，佐药
+甘草
+和中健脾，调和诸药，使药
+功效
+温中散寒，补气健脾
+主治
+脾胃虚寒证
+治疗脾胃虚寒的代表方剂，对于脾胃虚寒引起的慢食不食，腹痛腹泻可用
+
+%四逆汤
+回阳救逆方
+方剂组成
+附子
+大辛大热，回阳救逆，君药
+干姜
+温中散寒，助力附子的回阳之力
+炙甘草
+益气和中，缓和附子和生姜的燥烈之性
+功效
+回阳救逆
+主治
+少阴病和亡阳证
+
+%五苓散
+方剂组成
+猪苓、茯苓
+利水渗湿，通利小便，主要
+泽泻
+善利肾水，辅药
+白术
+燥湿健脾，辅药
+桂枝
+外散表邪，内通阳行气
+功效
+利水渗湿，温阳化气，和胃止呕
+主治
+外有表证，内停水湿，凡脾虚不运，气不化水可以本方加减使用
+
+%桃红四物汤
+以活血化瘀的桃仁和红花为主药，加上凉血止血的四物汤
+功效
+活血化瘀
+主治
+血瘀所致的四肢疼痛，以及产后淤血阻滞胞宫等
+
+%四神丸
+收敛方
+方剂组成
+补骨脂
+温肾壮阳，主要
+肉豆蔻
+暖脾涩肠，辅药
+吴茱萸
+暖脾祛寒，佐药
+五味子
+涩肠止泻，佐药
+生姜大枣
+和中温脾，使药
+功效
+温肾暖脾，涩肠止泻
+主治
+脾肾虚寒泄泻
+
+%玉屏风散
+收涩药
+方剂组成
+黄芪
+益气固表，主药
+白术
+健脾扶正，助黄芪固表止汗，臣药
+防风
+散风祛寒，佐使药
+功效
+益气固表止汗
+主治
+表虚自汗，气虚易感风邪者
+治表虚自汗可搭配其他收涩药增强效果；表虚外感风邪，汗出不解时可兼用解表药
+
+%四君子汤
+补虚药，补气方
+方剂组成
+党参
+补中益气，主药
+白术
+燥湿健脾，臣药
+茯苓
+渗湿健脾，佐药
+甘草
+益气和中，使药
+功效
+益气健脾
+主治
+脾胃气虚，证见体瘦毛焦，精神倦怠，食少便溏
+四君子汤和理中汤
+仅仅生姜、茯苓一味药的区别
+四君子汤重在益气健脾，主治脾胃气虚；理中汤重在温中散寒，主治脾胃虚寒证
+
+%四物汤
+补血方
+方剂组成
+熟地
+补血滋阴，主药
+当归
+补血活血，臣药
+白芍
+养血敛阴，佐药
+川穹
+行气活血，使药
+功效
+补血调血
+主治
+血虚诸证，证见舌淡，脉细弱，血虚夹带瘀滞者
+与四君子汤合用则为八珍汤，气血两补
+
+%六味地黄丸
+补阴的基本方，滋补肝肾，主治肝肾阴虚，虚火上炎`;
+
+        const zhongyaoData = `%辛温解表药
+适用于风寒表证，证见恶寒颤抖，发热无汗，脉浮紧 
+麻黄、荆芥 
+麻杏石甘汤，主治外感风寒 
+%辛凉解表药
+疏散风热，适用于风热表证，证见发热有汗，恶寒较轻，脉浮数 
+薄荷、牛蒡子、桑叶、菊花 
+%清热药
+以清解里热为主要作用，治疗热性病证，包含清热泻火药、清热凉血药、清热燥湿药、清热解毒药、清热解暑药 
+%清热泻火药
+泻火泄热、清气分实热，主治气分实热证，证见大热、大汗、大渴、脉洪大 
+石膏、知母 
+%清热凉血药
+清热凉血，清血分热，主治血分实热证 
+丹皮、生地 
+%清热燥湿药
+苦寒，清热燥湿，主治湿热证 
+黄连、黄芩、黄柏、龙胆 
+%清热解毒药
+清热解毒，主治各种热毒证 
+金银花、连翘、蒲公英 
+蒲公英为治疗乳痈要药 
+连翘为疮家圣药 
+%清热解暑药
+清热解暑，主治暑热、暑湿 
+香薷、荷叶、绿豆 
+香薷为清暑解表要药 
+%泻下药
+引起腹泻或润肠，促进排便，攻下逐水的药物，主要用于里实证 
+%攻下药
+苦寒，具有较强泻下作用，通便泻火，主治里实证 
+大黄、芒硝、番泻叶 
+大黄为治疗积滞便秘的要药 
+%润下药
+润燥滑肠，缓下通便，主治疗虚证便秘 
+火麻仁、蜂蜜 
+%峻下逐水药
+均有毒性，泻下作用峻猛，能引起剧烈腹泻 
+芫花、甘遂、大戟 
+与甘草合用毒性增强 
+甘遂逐水之力最猛 
+%消导药
+健脾胃，促进消化，具有消积导滞作用；多甘温，入脾胃经 
+焦三仙 
+神曲、山楂、麦芽 
+焦四仙 
++槟榔 
+%止咳化痰平喘药
+减轻或消除痰涎，制止咳嗽、气喘的药物分为化痰药和止咳平喘药两部分 
+多辛苦，主入肺经 
+咳喘多挟痰，痰多必咳喘 
+%温化寒痰药
+多辛温，温肺祛寒，燥湿化痰，主治寒痰、湿痰所致气喘以及痰湿所致病证 
+配合温中散寒，利水健脾 
+半夏、天南星 
+天南星为祛风痰的要药 
+半夏为祛湿痰的要药 
+%清化热痰药
+性寒凉，清热化痰，主治痰热郁肺，痰热所致病证 
+配合清热泻火、养阴润肺药 
+川贝、浙贝、桔梗 
+贝母反乌头 
+桔梗为引经药，引肺经 
+%止咳平喘药
+止咳平喘，主治咳嗽喘息证 
+杏仁、紫苑、款冬花 
+杏仁为治喘要药，主要活性成分为苦杏仁苷 
+紫苑和款冬花相须为用，为止咳要药 
+%温里药
+性温热、能温里散寒，治疗里寒症辛热辛温，温中散寒，回阳救逆 
+%回阳救逆药
+用于心肾阳虚，阴寒内生，元阳衰微的亡阳证 
+附子、干姜、肉桂 
+附子为回阳救逆要药，与干姜合用 
+干姜为温中散寒主要，兼温肺化饮；理中汤，四逆汤 
+将干姜炒制为炮姜为治疗脾不统血的要药 
+%温中散寒药
+寒邪内侵，脾阳受困所致呕吐腹泻 
+艾叶、小茴香 
+小茴香为治疗寒疝的常用药 
+艾叶为妇科常用药 
+%祛湿药
+祛除湿邪，治疗湿证 
+%祛风湿药
+祛除风湿，解除风湿痹痛，多性温，入肝肾经，分为... 
+%舒筋活络药
+木瓜
+%强筋健骨药
+五加皮
+%祛风湿、止痹
+羌活、独活 
+分别治疗上下身之痹 
+%利湿药
+包括...
+%利水退肿药
+茯苓、猪苓、泽泻 
+茯苓为利水渗湿的要药 
+%利胆退黄药
+清利湿热，治疗黄疸 
+茵陈、金钱草 
+茵陈为治疗黄疸要药 
+%利湿通淋药
+车前子、木通、通草 
+%化湿药
+芳香化湿，主治湿阻中焦，不宜久煎 
+苍术、藿香、佩兰 
+苍术为治疗湿阻中焦要药 
+%理气药
+多性温，辛、苦，用于治疗气滞证 
+%行气健脾药
+主治脾胃气滞，常配伍燥湿健脾药 
+陈皮、砂仁、厚朴 
+%疏肝解郁药
+主治肝气郁滞 
+青皮、香附 
+香附妇科常用，疏肝理气主要 
+%降气平喘药
+见平喘药章 
+%理血药
+分为血虚、血热、血溢、血淤病证 
+%活血化瘀药
+多辛温，善于走窜，行血散瘀 
+红花与桃仁、牛膝 
+%止血药
+制止体内外出血的药物，按照不同的出血方式又有分类，要按照出血的原因和具体的证候用药 
+%凉血止血药
+治疗血热妄行 
+地榆、槐花 
+地榆为治疗烫伤要药 
+%收敛止血药
+具有收敛性，治疗外伤出血 
+棕榈炭、血余炭 
+棕榈炭治标，血余炭散瘀 
+%化瘀止血药
+三七 
+三七为治疗跌打损伤、血瘀内阻要药
+%温经止血药
+艾叶
+%收涩药
+温经止血、散寒止痛，用于虚寒性出血证，对崩漏下血尤为适用 
+多酸涩，以收敛固涩作用为主 
+只是治病之标，目的为减少疾病的消耗，防止正气继续衰弱，还需要结合补益药治本 
+%涩肠止泻药
+涩肠止泻，敛肺止咳，治疗肺虚久咳 
+乌梅、五倍子、肉豆蔻 
+五倍子收敛性最强 
+%敛汗涩精药
+五味子、龙骨与牡蛎 
+五味子为治疗咳喘的要药 
+%补虚药
+能补益机体气血阴阳的不足，消除虚症的药物按照补气、补血、补阴、补阳分类 
+补脾气、肺气，入脾胃、肺经 
+阳虚多兼气虚，气虚易导致阳虚，血与阴同理；因此...常相须为用 
+%补气药
+主治肺气虚和脾气虚 
+人参、党参、白术 
+人参为治虚老内伤的第一要药，大补元气 
+白术为补气健脾的要药→利水，苍术 
+%补血药
+当归、熟地、阿胶、何首乌 
+生地是什么药 
+熟地是补血滋阴的主药
+%补阳药
+入肝、肾经 
+肉苁蓉、锁阳、巴戟天
+%滋阴药
+沙姜、龟板、石斛 
+%平肝药
+能解肝热、息肝风，治疗肝火上炎，肝风内动等疾病 
+%平肝明目药
+石决明、草决明 
+石决明是清肝明目的要药
+%平肝息风药
+天麻、钩藤、蜈蚣 
+钩藤为止痉要药 
+%安神药
+治疗由于心气虚、心血虚或火热上扰引起的心神不安
+%重镇安神药
+朱砂、磁石
+%养心安神药
+酸枣仁、远志 
+钩藤为止痉要药 
+%开窍药
+麝香、冰片
+%驱虫药
+使君子、苦楝皮、青蒿
+%外用药
+雄黄、硫磺 
+雄黄内服、外用均能解毒，是治疗毒蛇咬伤和恶疮的外科要药`;
+
+        function parseDeck(rawText) {
+            const blocks = rawText.split('%').filter(b => b.trim().length > 0);
+            return blocks.map(block => {
+                const lines = block.trim().split(/\r?\n/);
+                const q = lines[0].trim();
+                const a = lines.slice(1).join('\n').trim();
+                return { q, a };
+            }).filter(item => item.q && item.a);
+        }
+
+        const decks = {
+            fangji: parseDeck(fangjiData),
+            zhongyao: parseDeck(zhongyaoData)
+        };
+
+        let currentDeck = [];
+        let currentItem = null;
+
+        function init() {
+            document.getElementById('deckSelect').addEventListener('change', (e) => {
+                currentDeck = decks[e.target.value];
+                document.getElementById('counterText').innerText = `当前题库共 ${currentDeck.length} 题`;
+                nextQuestion();
+            });
+            currentDeck = decks['fangji'];
+            document.getElementById('counterText').innerText = `当前题库共 ${currentDeck.length} 题`;
+            nextQuestion();
+        }
+
+        function nextQuestion() {
+            if(currentDeck.length === 0) return;
+            const randomIndex = Math.floor(Math.random() * currentDeck.length);
+            currentItem = currentDeck[randomIndex];
+
+            document.getElementById('questionText').innerText = currentItem.q;
+            document.getElementById('answerText').innerText = currentItem.a;
+            
+            // 隐藏答案
+            document.getElementById('answerText').classList.remove('show');
+            document.getElementById('showBtn').innerText = '看答案';
+        }
+
+        function toggleAnswer() {
+            const ans = document.getElementById('answerText');
+            const btn = document.getElementById('showBtn');
+            if (ans.classList.contains('show')) {
+                ans.classList.remove('show');
+                btn.innerText = '看答案';
+            } else {
+                ans.classList.add('show');
+                btn.innerText = '收起答案';
+            }
+        }
+
+        window.onload = init;
+    </script>
+</body>
+</html>
