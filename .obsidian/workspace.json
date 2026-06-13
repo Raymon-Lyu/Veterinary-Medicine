@@ -4,36 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "071c7ef220a1b7df",
+        "id": "648eae0a07400be5",
         "type": "tabs",
-        "dimension": 69.1904047976012,
+        "dimension": 49.10179640718562,
         "children": [
           {
-            "id": "8e13f889434b6aab",
+            "id": "8fa10afbc2e43d4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "中药方剂学/复习区/方剂总表.md",
-                "mode": "source",
-                "source": false
+                "url": "https://notebooklm.google.com/notebook/1ba6631b-da32-46a6-a81e-d6ba859af640",
+                "title": "Principles of Traditional Chinese Veterinary Medicine - NotebookLM",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "方剂总表"
+              "icon": "globe-2",
+              "title": "Principles of Traditional Chinese Veterinary Medicine - NotebookLM"
             }
           },
           {
-            "id": "45bc3ef261d0e5f5",
+            "id": "4fd2f45b6107c2bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "中药方剂学/复习区/方剂总表.md",
-                "mode": "source",
-                "source": false
+                "file": "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf"
               },
-              "icon": "lucide-file",
-              "title": "方剂总表"
+              "icon": "lucide-file-text",
+              "title": "2026中兽医基础理论-简版"
             }
           }
         ],
@@ -42,52 +40,108 @@
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 30.8095952023988,
+        "dimension": 50.89820359281438,
         "children": [
           {
-            "id": "d3a0749bcc9c55a6",
+            "id": "c82fc671360bf188",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中药方剂学/消导药.md",
+                "file": "中兽医学/元气论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "消导药"
+              "title": "元气论"
             }
           },
           {
-            "id": "7b0b40d36f6e07e4",
+            "id": "750799711a46e8f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "祛湿方药.md",
+                "file": "中兽医学/奇恒之腑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "祛湿方药"
+              "title": "奇恒之腑"
             }
           },
           {
-            "id": "ccf155980b5633d9",
+            "id": "0b96792267c27072",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "独活寄生汤.md",
+                "file": "中兽医学/气血津液.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "独活寄生汤"
+              "title": "气血津液"
+            }
+          },
+          {
+            "id": "0a489f6e90b57dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中兽医学/经络.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "经络"
+            }
+          },
+          {
+            "id": "f8739945cf13abee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中兽医学/致病因素.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "致病因素"
+            }
+          },
+          {
+            "id": "a113ebfc98c839a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "诊法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "诊法"
+            }
+          },
+          {
+            "id": "4dc405a7048dbde1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中兽医学/五脏.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "五脏"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -172,6 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "兽医诊断学/血生化/肾脏功能评估.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +236,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "肾脏功能评估 的反向链接列表"
             }
           },
           {
@@ -238,7 +293,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -261,12 +317,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45bc3ef261d0e5f5",
+  "active": "4fd2f45b6107c2bc",
   "lastOpenFiles": [
+    "未命名.md",
+    "中兽医学/五脏.md",
+    "中药方剂学/复习区/方剂总表.md",
     "独活寄生汤.md",
     "祛湿方药.md",
     "防风散.md",
-    "中药方剂学/复习区/方剂总表.md",
     "中药方剂学/前人的遗物/【OCR版】常用中药.pdf",
     "中药方剂学/前人的遗物/终极终极大Pro版抽背模拟器.html",
     "中药方剂学/前人的遗物/code_artifact (1).html",
@@ -297,8 +355,6 @@
     "node_modules/undici/docs/docs/api/RetryAgent.md",
     "node_modules/undici/docs/docs/api/RedirectHandler.md",
     "node_modules/undici/docs/docs/api/ProxyAgent.md",
-    "node_modules/undici/docs/docs/api/PoolStats.md",
-    "node_modules/undici/docs/docs/api/Pool.md",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145227.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145240.png",
