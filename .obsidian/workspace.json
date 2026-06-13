@@ -132,12 +132,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中兽医学/五脏六腑的联系.md",
+                "file": "中兽医学/气血津液.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "五脏六腑的联系"
+              "title": "气血津液"
             }
           }
         ],
@@ -319,8 +319,8 @@
   },
   "active": "c3e5fa45204f9dbf",
   "lastOpenFiles": [
-    "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
     "中兽医学/五脏六腑的联系.md",
+    "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
     "诊法.md",
     "中兽医学/六腑.md",
     "中兽医学/五脏.md",
