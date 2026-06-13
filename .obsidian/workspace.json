@@ -133,7 +133,7 @@
               "type": "markdown",
               "state": {
                 "file": "中兽医学/五脏六腑的联系.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -319,9 +319,10 @@
   },
   "active": "c3e5fa45204f9dbf",
   "lastOpenFiles": [
+    "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
+    "中兽医学/五脏六腑的联系.md",
     "诊法.md",
     "中兽医学/六腑.md",
-    "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
     "中兽医学/五脏.md",
     "未命名.md",
     "中药方剂学/复习区/方剂总表.md",
@@ -353,8 +354,6 @@
     "node_modules/undici/docs/docs/api/Socks5ProxyAgent.md",
     "node_modules/undici/docs/docs/api/SnapshotAgent.md",
     "node_modules/undici/docs/docs/api/RoundRobinPool.md",
-    "node_modules/undici/docs/docs/api/RetryHandler.md",
-    "node_modules/undici/docs/docs/api/RetryAgent.md",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145227.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145240.png",
