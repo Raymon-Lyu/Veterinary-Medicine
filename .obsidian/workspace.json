@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/70f56c1c-2c89-4c48-9850-0b244a572e75",
-                "title": "NotebookLM",
-                "mode": "webview"
+                "title": "Google NotebookLM",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "NotebookLM"
+              "title": "Google NotebookLM"
             }
           }
         ]
@@ -205,13 +205,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "外科手术学/麻醉.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "麻醉 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -247,10 +246,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "244d0598d4eafd7b",
+  "active": "dfdbc15e6c228457",
   "lastOpenFiles": [
-    "外科手术学/绪论.md",
     "外科手术学/麻醉.md",
+    "外科手术学/绪论.md",
     "中兽医学/reference_materials/8辨证.pdf",
     "中兽医学/reference_materials/7诊法.pdf",
     "辨证.md",
