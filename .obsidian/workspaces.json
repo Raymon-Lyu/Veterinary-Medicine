@@ -17,14 +17,39 @@
                   "type": "webviewer",
                   "state": {
                     "url": "https://notebooklm.google.com/notebook/1ba6631b-da32-46a6-a81e-d6ba859af640",
-                    "title": "Principles of Traditional Chinese Veterinary Medicine - NotebookLM",
+                    "title": "NotebookLM",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Principles of Traditional Chinese Veterinary Medicine - NotebookLM"
+                  "title": "NotebookLM"
+                }
+              },
+              {
+                "id": "14b4534a8fbb1b4e",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "中兽医学/reference_materials/7诊法.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "7诊法"
+                }
+              },
+              {
+                "id": "79b34be92bc9b396",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "中兽医学/reference_materials/8辨证.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "8辨证"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "3aca5db26f9ce0d9",
@@ -102,7 +127,21 @@
                 }
               },
               {
-                "id": "a113ebfc98c839a9",
+                "id": "6707d06a8e7baac6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "中兽医学/致病因素.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "致病因素"
+                }
+              },
+              {
+                "id": "001e3290e1dc11ce",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -114,9 +153,23 @@
                   "icon": "lucide-file",
                   "title": "诊法"
                 }
+              },
+              {
+                "id": "16e9a3019737d3da",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "辨证.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "辨证"
+                }
               }
             ],
-            "currentTab": 5
+            "currentTab": 7
           }
         ],
         "direction": "vertical"
@@ -184,7 +237,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 200
+        "width": 200,
+        "collapsed": true
       },
       "right": {
         "id": "be2a306ddf7e6c09",
@@ -291,8 +345,8 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "9417d413612a1b48",
-      "mtime": "2026-06-08T10:43:18+08:00"
+      "active": "79b34be92bc9b396",
+      "mtime": "2026-06-13T19:21:29+08:00"
     },
     "中药方剂学": {
       "main": {
@@ -1052,5 +1106,5 @@
       "mtime": "2026-06-10T23:19:07+08:00"
     }
   },
-  "active": "中兽医学"
+  "active": "外科手术学"
 }
