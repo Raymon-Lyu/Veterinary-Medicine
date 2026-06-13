@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "4fd2f45b6107c2bc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2026中兽医基础理论-简版"
-            }
-          },
-          {
             "id": "14b4534a8fbb1b4e",
             "type": "leaf",
             "state": {
@@ -46,7 +34,8 @@
               "title": "7诊法"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -328,12 +317,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fa10afbc2e43d4b",
+  "active": "14b4534a8fbb1b4e",
   "lastOpenFiles": [
     "诊法.md",
     "中兽医学/reference_materials/7诊法.pdf",
-    "中兽医学/reference_materials/8辨证.pdf",
     "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
+    "中兽医学/reference_materials/8辨证.pdf",
     "中兽医学/致病因素.md",
     "中兽医学/气血津液.md",
     "中兽医学/奇恒之腑.md",
