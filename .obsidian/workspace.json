@@ -320,8 +320,8 @@
   "active": "4dc405a7048dbde1",
   "lastOpenFiles": [
     "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
-    "未命名.md",
     "中兽医学/五脏.md",
+    "未命名.md",
     "中药方剂学/复习区/方剂总表.md",
     "独活寄生汤.md",
     "祛湿方药.md",
@@ -335,7 +335,6 @@
     "node_modules/tldts/src/data/trie.ts",
     "node_modules/tldts/src/suffix-trie.ts",
     "node_modules/tldts/src/data",
-    "node_modules/tldts/src",
     "node_modules/jsdom/README.md",
     "node_modules/css-tree/README.md",
     "node_modules/undici/types/README.md",
