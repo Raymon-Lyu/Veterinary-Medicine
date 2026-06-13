@@ -46,7 +46,8 @@
               "title": "8辨证"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -150,9 +151,23 @@
               "icon": "lucide-file",
               "title": "诊法"
             }
+          },
+          {
+            "id": "16e9a3019737d3da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "辨证.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "辨证"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -328,8 +343,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fa10afbc2e43d4b",
+  "active": "79b34be92bc9b396",
   "lastOpenFiles": [
+    "辨证.md",
     "诊法.md",
     "中兽医学/reference_materials/8辨证.pdf",
     "中兽医学/reference_materials/7诊法.pdf",
@@ -340,7 +356,6 @@
     "中兽医学/五脏六腑的联系.md",
     "中兽医学/六腑.md",
     "中兽医学/五脏.md",
-    "未命名.md",
     "中药方剂学/复习区/方剂总表.md",
     "独活寄生汤.md",
     "祛湿方药.md",
