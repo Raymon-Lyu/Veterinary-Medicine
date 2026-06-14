@@ -34,8 +34,7 @@
               "title": "6第六章 眼部手术"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "44fc95fcc9a915d1",
@@ -97,9 +96,23 @@
               "icon": "lucide-file",
               "title": "眼部手术"
             }
+          },
+          {
+            "id": "9e1a6449e5b63e27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "头颈部手术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "头颈部手术"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -232,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "外科手术学/ppt/6第六章 眼部手术.pdf",
+                "file": "头颈部手术.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "6第六章 眼部手术 的大纲"
+              "title": "头颈部手术 的大纲"
             }
           },
           {
@@ -274,10 +287,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98f44a1ae57d6d85",
+  "active": "9e1a6449e5b63e27",
   "lastOpenFiles": [
-    "外科手术学/眼部手术.md",
+    "头颈部手术.md",
     "外科手术学/ppt/6第六章 眼部手术.pdf",
+    "外科手术学/眼部手术.md",
     "动物传染病学/final_version/~$PCR.docx",
     "外科手术学/ppt/5第五章 手术基本操作.pdf",
     "外科手术学/ppt/8第八章 胸部手术.pdf",
