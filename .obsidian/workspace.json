@@ -21,6 +21,18 @@
               "icon": "globe-2",
               "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM"
             }
+          },
+          {
+            "id": "98f44a1ae57d6d85",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "外科手术学/ppt/6第六章 眼部手术.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "6第六章 眼部手术"
+            }
           }
         ]
       },
@@ -154,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -218,13 +231,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "外科手术学/眼部手术.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "眼部手术 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -260,11 +272,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b4d8965d0e6ddf9",
+  "active": "dfdbc15e6c228457",
   "lastOpenFiles": [
+    "外科手术学/眼部手术.md",
+    "外科手术学/ppt/6第六章 眼部手术.pdf",
+    "外科手术学/ppt/5第五章 手术基本操作.pdf",
+    "外科手术学/ppt/8第八章 胸部手术.pdf",
+    "外科手术学/ppt/7第七章 头颈部手术.pdf",
+    "外科手术学/ppt/10第十章 泌尿生殖器官手术.pdf",
+    "外科手术学/ppt/9第九章 腹部手术.pdf",
     "外科手术学/images/Pasted image 20260614172739.png",
     "外科手术学/images",
-    "外科手术学/眼部手术.md",
     "外科手术学/麻醉.md",
     "小动物疾病防治/MOOC测试与作业.md",
     "Excalidraw/Drawing 2026-06-14 15.13.31.excalidraw.md",
@@ -274,12 +292,9 @@
     "中药方剂学/fangji_data.json",
     "中药方剂学/generate_flashcards.py",
     "外科手术学/绪论.md",
-    "中兽医学/reference_materials/8辨证.pdf",
-    "中兽医学/reference_materials/7诊法.pdf",
     "辨证.md",
     "诊法.md",
     "中兽医学/致病因素.md",
-    "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
     "中兽医学/气血津液.md",
     "中兽医学/奇恒之腑.md",
     "中兽医学/五脏六腑的联系.md",
@@ -289,9 +304,6 @@
     "独活寄生汤.md",
     "祛湿方药.md",
     "防风散.md",
-    "中药方剂学/前人的遗物/【OCR版】常用中药.pdf",
-    "中药方剂学/前人的遗物/终极终极大Pro版抽背模拟器.html",
-    "中药方剂学/前人的遗物/code_artifact (1).html",
     "node_modules/jsdom/README.md",
     "node_modules/css-tree/README.md",
     "node_modules/undici/types/README.md",
@@ -307,7 +319,6 @@
     "中药方剂学/方剂库/动物传染病学/exp2_zs/【批量下载】IMG_20260428_145147等/IMG_20260428_145527.jpg",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/【批量下载】IMG_20260428_145147等/IMG_20260428_145532.jpg",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/【批量下载】IMG_20260428_145147等/IMG_20260428_145240.jpg",
-    "中药方剂学/方剂库/动物传染病学/exp2_zs/【批量下载】IMG_20260428_145147等/IMG_20260428_145227.jpg",
     "兽医病毒学/病毒学复习.canvas",
     "未命名.canvas",
     "兽医药理学/药理学复习.canvas",
