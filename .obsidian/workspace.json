@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小动物疾病防治/MOOC测试与作业.md",
+                "file": "外科手术学/无菌术.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MOOC测试与作业 的大纲"
+              "title": "无菌术 的大纲"
             }
           },
           {
@@ -274,10 +274,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f82bee564ce082c4",
+  "active": "81f006d7f6d4e285",
   "lastOpenFiles": [
-    "眼部手术.md",
     "小动物疾病防治/MOOC测试与作业.md",
+    "眼部手术.md",
     "手术基本操作.md",
     "中药方剂学/fangji_flashcards.html",
     "中药方剂学/fangji_data.json",
