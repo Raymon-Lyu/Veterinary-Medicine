@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -219,12 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "外科手术学/眼部手术.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "眼部手术 的大纲"
             }
           },
           {
@@ -260,8 +260,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfdbc15e6c228457",
+  "active": "6b4d8965d0e6ddf9",
   "lastOpenFiles": [
+    "外科手术学/images/Pasted image 20260614172739.png",
+    "外科手术学/images",
     "外科手术学/眼部手术.md",
     "外科手术学/麻醉.md",
     "小动物疾病防治/MOOC测试与作业.md",
@@ -290,14 +292,12 @@
     "中药方剂学/前人的遗物/【OCR版】常用中药.pdf",
     "中药方剂学/前人的遗物/终极终极大Pro版抽背模拟器.html",
     "中药方剂学/前人的遗物/code_artifact (1).html",
-    "temp.js",
     "node_modules/jsdom/README.md",
     "node_modules/css-tree/README.md",
     "node_modules/undici/types/README.md",
     "node_modules/@exodus/bytes/README.md",
     "node_modules/@asamuzakjp/dom-selector/README.md",
     "node_modules/undici/docs/docs/best-practices/writing-tests.md",
-    "node_modules/undici/docs/docs/best-practices/undici-vs-builtin-fetch.md",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145227.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145240.png",
