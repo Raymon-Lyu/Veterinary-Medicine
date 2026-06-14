@@ -231,12 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "外科手术学/眼部手术.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "眼部手术 的大纲"
             }
           },
           {
@@ -272,7 +273,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfdbc15e6c228457",
+  "active": "6b4d8965d0e6ddf9",
   "lastOpenFiles": [
     "外科手术学/眼部手术.md",
     "外科手术学/ppt/6第六章 眼部手术.pdf",
