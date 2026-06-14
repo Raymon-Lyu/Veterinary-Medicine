@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -232,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "外科手术学/无菌术.md",
+                "file": "小动物疾病防治/MOOC测试与作业.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "无菌术 的大纲"
+              "title": "MOOC测试与作业 的大纲"
             }
           },
           {
@@ -274,8 +274,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81f006d7f6d4e285",
+  "active": "f82bee564ce082c4",
   "lastOpenFiles": [
+    "外科手术学/无菌术.md",
     "小动物疾病防治/MOOC测试与作业.md",
     "眼部手术.md",
     "手术基本操作.md",
@@ -311,7 +312,6 @@
     "node_modules/undici/docs/docs/best-practices/writing-tests.md",
     "node_modules/undici/docs/docs/best-practices/undici-vs-builtin-fetch.md",
     "node_modules/undici/docs/docs/best-practices/proxy.md",
-    "node_modules/undici/docs/docs/best-practices/mocking-request.md",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145227.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145240.png",
