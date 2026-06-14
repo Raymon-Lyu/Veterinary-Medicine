@@ -33,6 +33,18 @@
               "icon": "lucide-file-text",
               "title": "6第六章 眼部手术"
             }
+          },
+          {
+            "id": "4dd6b8a4329c65f5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "外科手术学/ppt/7第七章 头颈部手术.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "7第七章 头颈部手术"
+            }
           }
         ]
       },
@@ -245,13 +257,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "头颈部手术.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "头颈部手术 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -287,15 +298,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e1a6449e5b63e27",
+  "active": "dfdbc15e6c228457",
   "lastOpenFiles": [
     "头颈部手术.md",
+    "外科手术学/ppt/7第七章 头颈部手术.pdf",
+    "未命名.md",
     "外科手术学/ppt/6第六章 眼部手术.pdf",
     "外科手术学/眼部手术.md",
     "动物传染病学/final_version/~$PCR.docx",
     "外科手术学/ppt/5第五章 手术基本操作.pdf",
     "外科手术学/ppt/8第八章 胸部手术.pdf",
-    "外科手术学/ppt/7第七章 头颈部手术.pdf",
     "外科手术学/ppt/10第十章 泌尿生殖器官手术.pdf",
     "外科手术学/ppt/9第九章 腹部手术.pdf",
     "外科手术学/images/Pasted image 20260614172739.png",
@@ -324,8 +336,6 @@
     "node_modules/css-tree/README.md",
     "node_modules/undici/types/README.md",
     "node_modules/@exodus/bytes/README.md",
-    "node_modules/@asamuzakjp/dom-selector/README.md",
-    "node_modules/undici/docs/docs/best-practices/writing-tests.md",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145227.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145240.png",
