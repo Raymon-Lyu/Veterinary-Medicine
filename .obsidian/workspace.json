@@ -6,7 +6,7 @@
       {
         "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 51.21212121212121,
+        "dimension": 50.90909090909091,
         "children": [
           {
             "id": "dfdbc15e6c228457",
@@ -40,7 +40,7 @@
       {
         "id": "44fc95fcc9a915d1",
         "type": "tabs",
-        "dimension": 48.78787878787879,
+        "dimension": 49.09090909090909,
         "children": [
           {
             "id": "ee8667db89358eae",
@@ -293,7 +293,6 @@
     "外科手术学/无菌术.md",
     "中药方剂学/fangji_flashcards.html",
     "中药方剂学/fangji_data.json",
-    "中药方剂学/generate_flashcards.py",
     "外科手术学/绪论.md",
     "辨证.md",
     "诊法.md",
