@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "外科手术学/眼部手术.md",
+                "file": "小动物疾病防治/MOOC测试与作业.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "眼部手术 的大纲"
+              "title": "MOOC测试与作业 的大纲"
             }
           },
           {
@@ -275,10 +275,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee8b21daa2029841",
+  "active": "f82bee564ce082c4",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-06-14 15.13.31.excalidraw.md",
     "外科手术学/眼部手术.md",
+    "Excalidraw/Drawing 2026-06-14 15.13.31.excalidraw.md",
     "小动物疾病防治/MOOC测试与作业.md",
     "手术基本操作.md",
     "外科手术学/无菌术.md",
