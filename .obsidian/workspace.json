@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/70f56c1c-2c89-4c48-9850-0b244a572e75",
-                "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM"
+              "title": "data:text/plain,"
             }
           }
         ]
