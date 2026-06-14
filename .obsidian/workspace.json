@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/70f56c1c-2c89-4c48-9850-0b244a572e75",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM"
             }
           }
         ]
@@ -91,12 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "眼部手术.md",
+                "file": "小动物疾病防治/MOOC测试与作业.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "眼部手术"
+              "title": "MOOC测试与作业"
             }
           }
         ],
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -233,12 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "小动物疾病防治/MOOC测试与作业.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "MOOC测试与作业 的大纲"
             }
           },
           {
@@ -274,9 +274,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfdbc15e6c228457",
+  "active": "f82bee564ce082c4",
   "lastOpenFiles": [
     "眼部手术.md",
+    "小动物疾病防治/MOOC测试与作业.md",
     "手术基本操作.md",
     "中药方剂学/fangji_flashcards.html",
     "中药方剂学/fangji_data.json",
@@ -311,7 +312,6 @@
     "node_modules/undici/docs/docs/best-practices/undici-vs-builtin-fetch.md",
     "node_modules/undici/docs/docs/best-practices/proxy.md",
     "node_modules/undici/docs/docs/best-practices/mocking-request.md",
-    "node_modules/undici/docs/docs/best-practices/crawling.md",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145227.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145240.png",
