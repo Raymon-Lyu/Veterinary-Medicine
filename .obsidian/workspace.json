@@ -285,13 +285,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "腹部手术.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "腹部手术 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -327,13 +326,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9be477db4c90147b",
+  "active": "dfdbc15e6c228457",
   "lastOpenFiles": [
+    "腹部手术.md",
+    "~WRL1152.tmp",
+    "~WRD1136.tmp",
     "~WRL0003.tmp",
     "~WRD0002.tmp",
     "猪病.md",
     "传染病防疫措施.md",
-    "腹部手术.md",
     "images/Pasted image 20260615091924.png",
     "images",
     "胸部手术.md",
@@ -344,10 +345,7 @@
     "动物传染病学/final_version/~$PCR.docx",
     "外科手术学/ppt/5第五章 手术基本操作.pdf",
     "外科手术学/ppt/8第八章 胸部手术.pdf",
-    "外科手术学/ppt/10第十章 泌尿生殖器官手术.pdf",
-    "外科手术学/ppt/9第九章 腹部手术.pdf",
     "外科手术学/images/Pasted image 20260614172739.png",
-    "外科手术学/images",
     "外科手术学/麻醉.md",
     "小动物疾病防治/MOOC测试与作业.md",
     "Excalidraw/Drawing 2026-06-14 15.13.31.excalidraw.md",
