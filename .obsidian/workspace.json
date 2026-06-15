@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "传染病防疫措施"
             }
+          },
+          {
+            "id": "378ab00333756207",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,13 +193,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "传染病防疫措施.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "传染病防疫措施 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -235,8 +244,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38252ad8beceafd5",
+  "active": "378ab00333756207",
   "lastOpenFiles": [
+    "传染病防疫措施.md",
     "腹部手术.md",
     "images/Pasted image 20260615091924.png",
     "images",
