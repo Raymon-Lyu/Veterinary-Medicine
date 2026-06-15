@@ -80,9 +80,26 @@
               "icon": "lucide-file",
               "title": "独活寄生汤"
             }
+          },
+          {
+            "id": "3a3746d3d7dde358",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "中药方剂学/中药方剂学框架.canvas",
+                "viewState": {
+                  "x": 635.2277141781309,
+                  "y": 551.6094940107643,
+                  "zoom": -1.0894693633132417
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "中药方剂学框架"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -256,10 +273,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e13f889434b6aab",
+  "active": "3a3746d3d7dde358",
   "lastOpenFiles": [
-    "中药方剂学/中药方剂学框架.canvas",
     "中药方剂学/复习区/方剂总表.md",
+    "中药方剂学/中药方剂学框架.canvas",
     "未命名.md",
     "腹部手术.md",
     "~WRL1152.tmp",
