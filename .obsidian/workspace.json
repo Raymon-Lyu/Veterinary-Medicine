@@ -4,67 +4,155 @@
     "type": "split",
     "children": [
       {
-        "id": "3aca5db26f9ce0d9",
+        "id": "071c7ef220a1b7df",
         "type": "tabs",
+        "dimension": 50.90909090909091,
         "children": [
           {
-            "id": "5d2d27a3b5f573dd",
+            "id": "dfdbc15e6c228457",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "动物传染病学/总论.md",
-                "mode": "source",
-                "source": false
+                "url": "https://notebooklm.google.com/notebook/70f56c1c-2c89-4c48-9850-0b244a572e75",
+                "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "总论"
+              "icon": "globe-2",
+              "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM"
             }
           },
           {
-            "id": "a86903a978837d8c",
+            "id": "98f44a1ae57d6d85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "动物传染病学/传染病流行过程.md",
-                "mode": "source",
-                "source": false
+                "file": "外科手术学/ppt/6第六章 眼部手术.pdf"
               },
-              "icon": "lucide-file",
-              "title": "传染病流行过程"
+              "icon": "lucide-file-text",
+              "title": "6第六章 眼部手术"
             }
           },
           {
-            "id": "38252ad8beceafd5",
+            "id": "4dd6b8a4329c65f5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "外科手术学/ppt/7第七章 头颈部手术.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "7第七章 头颈部手术"
+            }
+          }
+        ]
+      },
+      {
+        "id": "44fc95fcc9a915d1",
+        "type": "tabs",
+        "dimension": 49.09090909090909,
+        "children": [
+          {
+            "id": "ee8667db89358eae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "传染病防疫措施.md",
+                "file": "外科手术学/绪论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "传染病防疫措施"
+              "title": "绪论"
             }
           },
           {
-            "id": "378ab00333756207",
+            "id": "81f006d7f6d4e285",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "猪病.md",
+                "file": "外科手术学/无菌术.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "猪病"
+              "title": "无菌术"
+            }
+          },
+          {
+            "id": "244d0598d4eafd7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "外科手术学/麻醉.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "麻醉"
+            }
+          },
+          {
+            "id": "6b4d8965d0e6ddf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "外科手术学/眼部手术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "眼部手术"
+            }
+          },
+          {
+            "id": "9e1a6449e5b63e27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "头颈部手术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "头颈部手术"
+            }
+          },
+          {
+            "id": "32a6a7675ae5b7d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "胸部手术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "胸部手术"
+            }
+          },
+          {
+            "id": "9be477db4c90147b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "腹部手术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "腹部手术"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -83,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "流感病毒",
+                "query": "tag:中首医学",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "猪病.md",
+                "file": "兽医诊断学/血生化/肾脏功能评估.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +247,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "猪病 的反向链接列表"
+              "title": "肾脏功能评估 的反向链接列表"
             }
           },
           {
@@ -197,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "猪病.md",
+                "file": "腹部手术.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "猪病 的大纲"
+              "title": "腹部手术 的大纲"
             }
           },
           {
@@ -215,22 +303,13 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "1037f454eaf687a0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 232
+    "width": 214.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,8 +327,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "378ab00333756207",
+  "active": "9be477db4c90147b",
   "lastOpenFiles": [
+    "~WRL0003.tmp",
+    "~WRD0002.tmp",
     "猪病.md",
     "传染病防疫措施.md",
     "腹部手术.md",
@@ -272,7 +353,6 @@
     "Excalidraw/Drawing 2026-06-14 15.13.31.excalidraw.md",
     "手术基本操作.md",
     "外科手术学/无菌术.md",
-    "中药方剂学/fangji_flashcards.html",
     "外科手术学/绪论.md",
     "辨证.md",
     "诊法.md",
@@ -287,7 +367,6 @@
     "祛湿方药.md",
     "防风散.md",
     "node_modules/jsdom/README.md",
-    "node_modules/css-tree/README.md",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145227.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145240.png",
