@@ -6,153 +6,83 @@
       {
         "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 50.90909090909091,
+        "dimension": 52.424639580602886,
         "children": [
           {
-            "id": "dfdbc15e6c228457",
+            "id": "8e13f889434b6aab",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://notebooklm.google.com/notebook/70f56c1c-2c89-4c48-9850-0b244a572e75",
-                "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM",
-                "mode": "blank"
+                "file": "中药方剂学/复习区/方剂总表.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM"
+              "icon": "lucide-file",
+              "title": "方剂总表"
             }
           },
           {
-            "id": "98f44a1ae57d6d85",
+            "id": "094db90934b52ac5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "外科手术学/ppt/6第六章 眼部手术.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "6第六章 眼部手术"
-            }
-          },
-          {
-            "id": "4dd6b8a4329c65f5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "外科手术学/ppt/7第七章 头颈部手术.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "7第七章 头颈部手术"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
       },
       {
-        "id": "44fc95fcc9a915d1",
+        "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 49.09090909090909,
+        "dimension": 47.575360419397114,
         "children": [
           {
-            "id": "ee8667db89358eae",
+            "id": "d3a0749bcc9c55a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "外科手术学/绪论.md",
+                "file": "中药方剂学/消导药.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "绪论"
+              "title": "消导药"
             }
           },
           {
-            "id": "81f006d7f6d4e285",
+            "id": "7b0b40d36f6e07e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "外科手术学/无菌术.md",
+                "file": "祛湿方药.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "无菌术"
+              "title": "祛湿方药"
             }
           },
           {
-            "id": "244d0598d4eafd7b",
+            "id": "ccf155980b5633d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "外科手术学/麻醉.md",
+                "file": "独活寄生汤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "麻醉"
-            }
-          },
-          {
-            "id": "6b4d8965d0e6ddf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "外科手术学/眼部手术.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "眼部手术"
-            }
-          },
-          {
-            "id": "9e1a6449e5b63e27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "头颈部手术.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "头颈部手术"
-            }
-          },
-          {
-            "id": "32a6a7675ae5b7d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "胸部手术.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "胸部手术"
-            }
-          },
-          {
-            "id": "9be477db4c90147b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "腹部手术.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "腹部手术"
+              "title": "独活寄生汤"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "兽医诊断学/血生化/肾脏功能评估.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "肾脏功能评估 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -285,12 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "动物传染病学/大肠杆菌病.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "大肠杆菌病 的大纲"
             }
           },
           {
@@ -303,12 +233,12 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -326,8 +256,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfdbc15e6c228457",
+  "active": "8e13f889434b6aab",
   "lastOpenFiles": [
+    "中药方剂学/复习区/方剂总表.md",
+    "未命名.md",
     "腹部手术.md",
     "~WRL1152.tmp",
     "~WRD1136.tmp",
@@ -360,7 +292,6 @@
     "中兽医学/五脏六腑的联系.md",
     "中兽医学/六腑.md",
     "中兽医学/五脏.md",
-    "中药方剂学/复习区/方剂总表.md",
     "独活寄生汤.md",
     "祛湿方药.md",
     "防风散.md",
