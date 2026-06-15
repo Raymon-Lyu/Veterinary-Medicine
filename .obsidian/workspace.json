@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/70f56c1c-2c89-4c48-9850-0b244a572e75",
-                "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM"
+              "title": "data:text/plain,"
             }
           },
           {
@@ -300,8 +300,8 @@
   },
   "active": "dfdbc15e6c228457",
   "lastOpenFiles": [
-    "外科手术学/ppt/7第七章 头颈部手术.pdf",
     "头颈部手术.md",
+    "外科手术学/ppt/7第七章 头颈部手术.pdf",
     "未命名.md",
     "外科手术学/ppt/6第六章 眼部手术.pdf",
     "外科手术学/眼部手术.md",
