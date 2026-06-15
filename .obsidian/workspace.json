@@ -53,10 +53,14 @@
             "id": "378ab00333756207",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "猪病.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "猪病"
             }
           }
         ],
@@ -193,12 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "猪病.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "猪病 的大纲"
             }
           },
           {
@@ -246,6 +251,7 @@
   },
   "active": "378ab00333756207",
   "lastOpenFiles": [
+    "猪病.md",
     "传染病防疫措施.md",
     "腹部手术.md",
     "images/Pasted image 20260615091924.png",
@@ -283,7 +289,6 @@
     "防风散.md",
     "node_modules/jsdom/README.md",
     "node_modules/css-tree/README.md",
-    "node_modules/undici/types/README.md",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145227.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145240.png",
