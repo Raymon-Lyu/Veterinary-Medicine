@@ -15,11 +15,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/70f56c1c-2c89-4c48-9850-0b244a572e75",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM"
             }
           },
           {
@@ -122,9 +122,23 @@
               "icon": "lucide-file",
               "title": "头颈部手术"
             }
+          },
+          {
+            "id": "241e3dbac0e607fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "胸部手术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "胸部手术"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -300,9 +314,9 @@
   },
   "active": "dfdbc15e6c228457",
   "lastOpenFiles": [
+    "胸部手术.md",
     "头颈部手术.md",
     "外科手术学/ppt/7第七章 头颈部手术.pdf",
-    "未命名.md",
     "外科手术学/ppt/6第六章 眼部手术.pdf",
     "外科手术学/眼部手术.md",
     "动物传染病学/final_version/~$PCR.docx",
