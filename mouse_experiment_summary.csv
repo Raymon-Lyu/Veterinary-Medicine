@@ -1,0 +1,9 @@
+,,Weight (g),Weight (g),Temperature (C),Temperature (C)
+,,mean,std,mean,std
+Group,Subgroup,,,,
+Control,Head,25.89,1.11,35.9,0.58
+Control,None,27.75,1.25,35.64,0.67
+Control,Tail,27.3,1.2,35.5,0.86
+Model,Head,25.88,1.56,35.72,0.38
+Model,None,23.0,1.53,35.81,0.52
+Model,Tail,25.82,2.06,35.48,0.48
