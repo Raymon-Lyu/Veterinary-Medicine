@@ -123,35 +123,20 @@
             }
           },
           {
-            "id": "baae50d3bf637813",
+            "id": "fd70b189f22a584d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安神开窍药方.md",
+                "file": "祛湿方药.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "安神开窍药方"
-            }
-          },
-          {
-            "id": "320da1924594569b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "外用方药.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "外用方药"
+              "title": "祛湿方药"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mermaid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,7 +199,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -323,25 +309,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "320da1924594569b",
+  "active": "d3a0749bcc9c55a6",
   "lastOpenFiles": [
+    "中药方剂学/2026中药方剂学-简版.pdf",
+    "补虚方药.md",
+    "祛湿方药.md",
+    "六味地黄汤.md",
+    "安神开窍药方.md",
     "外用方药.md",
     "驱虫方药.md",
-    "安神开窍药方.md",
     "安宫牛黄丸.md",
-    "六味地黄汤.md",
     "四物汤.md",
-    "祛湿方药.md",
     "中药方剂学/中药方剂学框架.canvas",
     "平肝药.md",
     "决明散.md",
     "百合固金汤.md",
-    "补虚方药.md",
     "swimming_time_comparison.svg",
     "swimming_time_comparison.pdf",
     "swimming_time_comparison.png",
     "plot_swimming.py",
-    "中药方剂学/2026中药方剂学-简版.pdf",
     "兽医诊断学/血常规/白细胞指标.md",
     "mouse_trends_v2.svg",
     "mouse_trends_v2.pdf",
@@ -367,7 +353,6 @@
     "滑石散.md",
     "五苓散.md",
     "腹部手术.md",
-    "猪病.md",
     "images/Pasted image 20260615091924.png",
     "外科手术学/images/Pasted image 20260614172739.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
