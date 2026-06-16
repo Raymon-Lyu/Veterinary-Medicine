@@ -89,9 +89,9 @@
               "state": {
                 "file": "中药方剂学/中药方剂学框架.canvas",
                 "viewState": {
-                  "x": 834.9247574594194,
-                  "y": 473.3007150463991,
-                  "zoom": -1.0894693633132417
+                  "x": 902.4753471106303,
+                  "y": 518.9567730028276,
+                  "zoom": -0.7561360299799085
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -273,10 +273,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a3746d3d7dde358",
+  "active": "8e13f889434b6aab",
   "lastOpenFiles": [
-    "中药方剂学/复习区/方剂总表.md",
     "中药方剂学/中药方剂学框架.canvas",
+    "中药方剂学/复习区/方剂总表.md",
     "未命名.md",
     "腹部手术.md",
     "~WRL1152.tmp",
