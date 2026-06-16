@@ -123,80 +123,35 @@
             }
           },
           {
-            "id": "fb7d3c93ada2f2ad",
+            "id": "baae50d3bf637813",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "四物汤.md",
+                "file": "安神开窍药方.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "四物汤"
+              "title": "安神开窍药方"
             }
           },
           {
-            "id": "7b0b40d36f6e07e4",
+            "id": "320da1924594569b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "祛湿方药.md",
+                "file": "外用方药.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "祛湿方药"
-            }
-          },
-          {
-            "id": "3a3746d3d7dde358",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "中药方剂学/中药方剂学框架.canvas",
-                "viewState": {
-                  "x": 902.4753471106303,
-                  "y": 990.1768968693243,
-                  "zoom": -0.7561360299799085
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "中药方剂学框架"
-            }
-          },
-          {
-            "id": "04fc435af0208f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "平肝药.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "平肝药"
-            }
-          },
-          {
-            "id": "b4fdb6609aa3ffe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "决明散.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "决明散"
+              "title": "外用方药"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -368,11 +323,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4fdb6609aa3ffe5",
+  "active": "320da1924594569b",
   "lastOpenFiles": [
-    "决明散.md",
-    "平肝药.md",
+    "外用方药.md",
+    "驱虫方药.md",
+    "安神开窍药方.md",
+    "安宫牛黄丸.md",
     "六味地黄汤.md",
+    "四物汤.md",
+    "祛湿方药.md",
+    "中药方剂学/中药方剂学框架.canvas",
+    "平肝药.md",
+    "决明散.md",
     "百合固金汤.md",
     "补虚方药.md",
     "swimming_time_comparison.svg",
@@ -381,7 +343,6 @@
     "plot_swimming.py",
     "中药方剂学/2026中药方剂学-简版.pdf",
     "兽医诊断学/血常规/白细胞指标.md",
-    "四物汤.md",
     "mouse_trends_v2.svg",
     "mouse_trends_v2.pdf",
     "mouse_trends_v2.png",
@@ -398,8 +359,6 @@
     "四君子汤.md",
     "参苓白术散.md",
     "中药方剂学/复习区/方剂总表.md",
-    "祛湿方药.md",
-    "中药方剂学/中药方剂学框架.canvas",
     "八正散.md",
     "独活寄生汤.md",
     "平胃散.md",
@@ -409,11 +368,7 @@
     "五苓散.md",
     "腹部手术.md",
     "猪病.md",
-    "传染病防疫措施.md",
     "images/Pasted image 20260615091924.png",
-    "胸部手术.md",
-    "头颈部手术.md",
-    "外科手术学/眼部手术.md",
     "外科手术学/images/Pasted image 20260614172739.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145227.png",
