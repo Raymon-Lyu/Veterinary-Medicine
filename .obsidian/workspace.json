@@ -111,20 +111,6 @@
             }
           },
           {
-            "id": "ccf155980b5633d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "独活寄生汤.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "独活寄生汤"
-            }
-          },
-          {
             "id": "3a3746d3d7dde358",
             "type": "leaf",
             "state": {
@@ -142,21 +128,21 @@
             }
           },
           {
-            "id": "5ce6b2a88ef97bac",
+            "id": "fb7d3c93ada2f2ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "祛湿方药.md",
+                "file": "补虚方药.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "祛湿方药"
+              "title": "补虚方药"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -332,16 +318,21 @@
   },
   "active": "7f3f1895a0aadb33",
   "lastOpenFiles": [
+    "补虚方药.md",
     "祛湿方药.md",
-    "五苓散.md",
+    "中药方剂学/中药方剂学框架.canvas",
+    "八正散.md",
+    "独活寄生汤.md",
+    "平胃散.md",
+    "五皮饮.md",
+    "藿香正气散.md",
     "滑石散.md",
+    "五苓散.md",
     "~WRL2263.tmp",
     "~WRD2263.tmp",
     "~WRL2850.tmp",
     "~WRD2839.tmp",
     "中药方剂学/复习区/方剂总表.md",
-    "中药方剂学/中药方剂学框架.canvas",
-    "未命名.md",
     "腹部手术.md",
     "~WRL1152.tmp",
     "~WRD1136.tmp",
@@ -365,12 +356,6 @@
     "辨证.md",
     "诊法.md",
     "中兽医学/致病因素.md",
-    "中兽医学/气血津液.md",
-    "中兽医学/奇恒之腑.md",
-    "中兽医学/五脏六腑的联系.md",
-    "中兽医学/六腑.md",
-    "中兽医学/五脏.md",
-    "独活寄生汤.md",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145227.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145240.png",
