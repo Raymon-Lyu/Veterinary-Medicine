@@ -73,21 +73,9 @@
               "icon": "lucide-file",
               "title": "白细胞指标"
             }
-          },
-          {
-            "id": "1275f2f00a7d93e4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "中药方剂学/2026中药方剂学-简版.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2026中药方剂学-简版"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -283,6 +271,18 @@
   },
   "active": "d3a0749bcc9c55a6",
   "lastOpenFiles": [
+    "中药方剂学/references/实验一ppt.md",
+    "中药方剂学/references/方剂总表.pdf",
+    "中药方剂学/references/MinerU_markdown_第一章__中药总论(2026-4-25)_2056741601733722112_cleaned.md",
+    "中药方剂学/references/MinerU_markdown_第三章__常用中药及方剂（2026-5-19）_2056745179986739200_cleaned.md",
+    "中药方剂学/references/MinerU_markdown_第二章_方剂总论（2026-5-11）_2056742323158233088_cleaned.md",
+    "中药方剂学/references/06理气药方.pdf",
+    "中药方剂学/references/05消导药方.pdf",
+    "中药方剂学/references/2026中药方剂学-简版.pdf",
+    "中药方剂学/references/08温里药方.pdf",
+    "中药方剂学/references/07痰咳喘药方.pdf",
+    "中药方剂学/references",
+    "中药方剂学/新建文件夹",
     "中药方剂学/embed_all_data.py",
     "外科手术学/头颈部手术.md",
     "外科手术学/手术基本操作.md",
@@ -306,26 +306,14 @@
     "中药方剂学/方剂库/百合固金汤.md",
     "中药方剂学/方剂库/八正散.md",
     "中药方剂学/方剂库/安宫牛黄丸.md",
-    "中药方剂学/方剂库/五苓散.md",
-    "祛湿方药.md",
-    "驱虫方药.md",
     "中药方剂学/2026中药方剂学-简版.pdf",
     "中药方剂学/中药方剂学框架.canvas",
     "swimming_time_comparison.svg",
-    "swimming_time_comparison.pdf",
     "swimming_time_comparison.png",
-    "plot_swimming.py",
     "mouse_trends_v2.svg",
-    "mouse_trends_v2.pdf",
     "mouse_trends_v2.png",
-    "plot_v2.py",
-    "mouse_timeseries_v2.csv",
     "mouse_physiological_trends.svg",
-    "mouse_physiological_trends.pdf",
     "mouse_physiological_trends.png",
-    "plot_mouse_trends.py",
-    "mouse_timeseries_data.csv",
-    "mouse_experiment_summary.csv",
     "images/Pasted image 20260615091924.png",
     "外科手术学/images/Pasted image 20260614172739.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
