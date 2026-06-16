@@ -59,9 +59,21 @@
               "icon": "globe-2",
               "title": "中药方剂学2026-06-16第1-2节"
             }
+          },
+          {
+            "id": "66522858b09f9825",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "中药方剂学/2026中药方剂学-简版.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2026中药方剂学-简版"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -316,9 +328,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b2282bdce8edd154",
+  "active": "66522858b09f9825",
   "lastOpenFiles": [
     "四君子汤.md",
+    "中药方剂学/2026中药方剂学-简版.pdf",
     "补虚方药.md",
     "中药方剂学/复习区/方剂总表.md",
     "~WRL0445.tmp",
@@ -340,7 +353,6 @@
     "~WRD2839.tmp",
     "腹部手术.md",
     "~WRL1152.tmp",
-    "~WRD1136.tmp",
     "猪病.md",
     "传染病防疫措施.md",
     "images/Pasted image 20260615091924.png",
@@ -356,7 +368,6 @@
     "外科手术学/绪论.md",
     "辨证.md",
     "诊法.md",
-    "中兽医学/致病因素.md",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145227.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145240.png",
