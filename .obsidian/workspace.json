@@ -6,7 +6,7 @@
       {
         "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 52.424639580602886,
+        "dimension": 44.95412844036697,
         "children": [
           {
             "id": "8e13f889434b6aab",
@@ -33,34 +33,6 @@
             }
           },
           {
-            "id": "bed43b1c661f3399",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/",
-                "title": "智云课堂",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "智云课堂"
-            }
-          },
-          {
-            "id": "8908fc78635cb0b0",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://classroom.zju.edu.cn/livingroom?course_id=84170&sub_id=1964082&tenant_code=112",
-                "title": "中药方剂学2026-06-16第1-2节",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "中药方剂学2026-06-16第1-2节"
-            }
-          },
-          {
             "id": "7f3f1895a0aadb33",
             "type": "leaf",
             "state": {
@@ -74,13 +46,12 @@
               "title": "中药方剂学2026-06-09第1-2节"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 47.575360419397114,
+        "dimension": 55.04587155963303,
         "children": [
           {
             "id": "d3a0749bcc9c55a6",
@@ -316,7 +287,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f3f1895a0aadb33",
+  "active": "8e13f889434b6aab",
   "lastOpenFiles": [
     "补虚方药.md",
     "~WRL0445.tmp",
