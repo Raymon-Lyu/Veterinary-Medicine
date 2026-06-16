@@ -31,8 +31,51 @@
               "icon": "lucide-git-fork",
               "title": "关系图谱"
             }
+          },
+          {
+            "id": "bed43b1c661f3399",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://classroom.zju.edu.cn/",
+                "title": "智云课堂",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "智云课堂"
+            }
+          },
+          {
+            "id": "8908fc78635cb0b0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://classroom.zju.edu.cn/livingroom?course_id=84170&sub_id=1964082&tenant_code=112",
+                "title": "中药方剂学2026-06-16第1-2节",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "中药方剂学2026-06-16第1-2节"
+            }
+          },
+          {
+            "id": "7f3f1895a0aadb33",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://classroom.zju.edu.cn/livingroom?course_id=84170&sub_id=1964081&tenant_code=112",
+                "title": "中药方剂学2026-06-09第1-2节",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "中药方剂学2026-06-09第1-2节"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -90,16 +133,30 @@
                 "file": "中药方剂学/中药方剂学框架.canvas",
                 "viewState": {
                   "x": 902.4753471106303,
-                  "y": 518.9567730028276,
+                  "y": 990.1768968693243,
                   "zoom": -0.7561360299799085
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "中药方剂学框架"
             }
+          },
+          {
+            "id": "5ce6b2a88ef97bac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "祛湿方药.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "祛湿方药"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -273,10 +330,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e13f889434b6aab",
+  "active": "7f3f1895a0aadb33",
   "lastOpenFiles": [
-    "中药方剂学/中药方剂学框架.canvas",
+    "祛湿方药.md",
     "中药方剂学/复习区/方剂总表.md",
+    "中药方剂学/中药方剂学框架.canvas",
     "未命名.md",
     "腹部手术.md",
     "~WRL1152.tmp",
@@ -311,7 +369,6 @@
     "中兽医学/六腑.md",
     "中兽医学/五脏.md",
     "独活寄生汤.md",
-    "祛湿方药.md",
     "防风散.md",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145227.png",
