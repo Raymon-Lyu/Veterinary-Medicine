@@ -167,7 +167,8 @@
               "title": "中药方剂学框架"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -339,14 +340,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3a0749bcc9c55a6",
+  "active": "528c8e5f1a984e5e",
   "lastOpenFiles": [
+    "百合固金汤.md",
+    "补虚方药.md",
     "swimming_time_comparison.svg",
     "swimming_time_comparison.pdf",
     "swimming_time_comparison.png",
     "plot_swimming.py",
     "六味地黄汤.md",
-    "补虚方药.md",
     "中药方剂学/2026中药方剂学-简版.pdf",
     "兽医诊断学/血常规/白细胞指标.md",
     "四物汤.md",
@@ -387,7 +389,6 @@
     "小动物疾病防治/MOOC测试与作业.md",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145227.png",
-    "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_IMG_20260428_145240.png",
     "兽医病毒学/病毒学复习.canvas",
     "未命名.canvas",
     "兽医药理学/药理学复习.canvas",
