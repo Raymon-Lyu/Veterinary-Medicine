@@ -45,8 +45,23 @@
               "icon": "globe-2",
               "title": "中药方剂学2026-06-09第1-2节"
             }
+          },
+          {
+            "id": "b2282bdce8edd154",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://classroom.zju.edu.cn/livingroom?course_id=84170&sub_id=1964082&tenant_code=112",
+                "title": "中药方剂学2026-06-16第1-2节",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "中药方剂学2026-06-16第1-2节"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -287,9 +302,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e13f889434b6aab",
+  "active": "b2282bdce8edd154",
   "lastOpenFiles": [
     "补虚方药.md",
+    "中药方剂学/复习区/方剂总表.md",
     "~WRL0445.tmp",
     "~WRD0429.tmp",
     "~WRL1205.tmp",
@@ -307,7 +323,6 @@
     "~WRD2263.tmp",
     "~WRL2850.tmp",
     "~WRD2839.tmp",
-    "中药方剂学/复习区/方剂总表.md",
     "腹部手术.md",
     "~WRL1152.tmp",
     "~WRD1136.tmp",
