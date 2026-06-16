@@ -1,0 +1,1 @@
+var x = {"a": "line1\nline2"};

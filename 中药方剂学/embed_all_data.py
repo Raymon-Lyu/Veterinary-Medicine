@@ -127,10 +127,17 @@ with open(html_file, 'r', encoding='utf-8') as f:
 
 # Replace the array in `const raw = [...]`
 pattern = re.compile(r'const raw = \[.*?\];', re.DOTALL)
+
+for item in all_data:
+    if "notes" in item and item["notes"]:
+        item["notes"] = item["notes"].replace("\n", "<br>")
+    if "notes" in item and item["notes"]:
+        item["notes"] = item["notes"].replace("\n", "<br>")
+
 new_js_var = "const raw = " + json.dumps(all_data, ensure_ascii=False) + ";"
 
 if pattern.search(html_content):
-    new_html = pattern.sub(new_js_var, html_content)
+    new_html = pattern.sub(lambda m: new_js_var, html_content)
 else:
     print("Could not find 'const raw = [...]' in HTML.")
     exit(1)
