@@ -100,40 +100,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "补虚方药.md",
+                "file": "中药方剂学/消导药.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "补虚方药"
-            }
-          },
-          {
-            "id": "528c8e5f1a984e5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "六味地黄汤.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "六味地黄汤"
-            }
-          },
-          {
-            "id": "fd70b189f22a584d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "祛湿方药.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "祛湿方药"
+              "title": "消导药"
             }
           }
         ]
@@ -311,29 +283,42 @@
   },
   "active": "d3a0749bcc9c55a6",
   "lastOpenFiles": [
-    "中药方剂学/2026中药方剂学-简版.pdf",
-    "补虚方药.md",
+    "外科手术学/头颈部手术.md",
+    "外科手术学/手术基本操作.md",
+    "外科手术学/腹部手术.md",
+    "外科手术学/胸部手术.md",
+    "中药方剂学/祛湿方药.md",
+    "中药方剂学/驱虫方药.md",
+    "中药方剂学/平肝药.md",
+    "中药方剂学/补虚方药.md",
+    "中药方剂学/安神开窍药方.md",
+    "中药方剂学/外用方药.md",
+    "中药方剂学/方剂库/四物汤.md",
+    "中药方剂学/方剂库/四君子汤.md",
+    "中药方剂学/方剂库/平胃散.md",
+    "中药方剂学/方剂库/六味地黄汤.md",
+    "中药方剂学/方剂库/决明散.md",
+    "中药方剂学/方剂库/藿香正气散.md",
+    "中药方剂学/方剂库/独活寄生汤.md",
+    "中药方剂学/方剂库/参苓白术散.md",
+    "中药方剂学/方剂库/补中益气汤.md",
+    "中药方剂学/方剂库/百合固金汤.md",
+    "中药方剂学/方剂库/八正散.md",
+    "中药方剂学/方剂库/安宫牛黄丸.md",
+    "中药方剂学/方剂库/五苓散.md",
     "祛湿方药.md",
-    "六味地黄汤.md",
-    "安神开窍药方.md",
-    "外用方药.md",
     "驱虫方药.md",
-    "安宫牛黄丸.md",
-    "四物汤.md",
+    "补虚方药.md",
+    "中药方剂学/2026中药方剂学-简版.pdf",
     "中药方剂学/中药方剂学框架.canvas",
-    "平肝药.md",
-    "决明散.md",
-    "百合固金汤.md",
     "swimming_time_comparison.svg",
     "swimming_time_comparison.pdf",
     "swimming_time_comparison.png",
     "plot_swimming.py",
-    "兽医诊断学/血常规/白细胞指标.md",
     "mouse_trends_v2.svg",
     "mouse_trends_v2.pdf",
     "mouse_trends_v2.png",
     "plot_v2.py",
-    "中药方剂学/消导药.md",
     "mouse_timeseries_v2.csv",
     "mouse_physiological_trends.svg",
     "mouse_physiological_trends.pdf",
@@ -341,18 +326,6 @@
     "plot_mouse_trends.py",
     "mouse_timeseries_data.csv",
     "mouse_experiment_summary.csv",
-    "补中益气汤.md",
-    "四君子汤.md",
-    "参苓白术散.md",
-    "中药方剂学/复习区/方剂总表.md",
-    "八正散.md",
-    "独活寄生汤.md",
-    "平胃散.md",
-    "五皮饮.md",
-    "藿香正气散.md",
-    "滑石散.md",
-    "五苓散.md",
-    "腹部手术.md",
     "images/Pasted image 20260615091924.png",
     "外科手术学/images/Pasted image 20260614172739.png",
     "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
