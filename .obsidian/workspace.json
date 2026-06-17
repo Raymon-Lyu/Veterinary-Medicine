@@ -45,8 +45,21 @@
               "icon": "lucide-file-text",
               "title": "7第七章 头颈部手术"
             }
+          },
+          {
+            "id": "c610a98d7b54b09c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "外科手术学/ppt/9第九章 腹部手术.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "9第九章 腹部手术"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "44fc95fcc9a915d1",
@@ -271,12 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "外科手术学/腹部手术.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "腹部手术 的大纲"
             }
           },
           {
@@ -312,8 +326,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfdbc15e6c228457",
+  "active": "32a6a7675ae5b7d2",
   "lastOpenFiles": [
+    "外科手术学/ppt/9第九章 腹部手术.pdf",
     "外科手术学/腹部手术.md",
     "中药方剂学/方剂库/桂枝汤.md",
     "fangji_flashcards.html",
@@ -349,7 +364,6 @@
     "中药方剂学/方剂库/六味地黄汤.md",
     "中药方剂学/方剂库/决明散.md",
     "中药方剂学/方剂库/藿香正气散.md",
-    "中药方剂学/方剂库/独活寄生汤.md",
     "中药方剂学/中药方剂学框架.canvas",
     "swimming_time_comparison.svg",
     "swimming_time_comparison.png",
