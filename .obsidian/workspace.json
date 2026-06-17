@@ -58,8 +58,7 @@
               "title": "9第九章 腹部手术"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "44fc95fcc9a915d1",
@@ -284,13 +283,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "外科手术学/腹部手术.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "腹部手术 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -326,30 +324,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32a6a7675ae5b7d2",
+  "active": "dfdbc15e6c228457",
   "lastOpenFiles": [
-    "外科手术学/ppt/9第九章 腹部手术.pdf",
     "外科手术学/腹部手术.md",
+    "~WRL1139.tmp",
+    "~WRD1127.tmp",
+    "~WRL0005.tmp",
+    "~WRD0004.tmp",
+    "~WRL0003.tmp",
+    "~WRD0002.tmp",
+    "~WRL0001.tmp",
+    "~WRD0000.tmp",
+    "~$essay.docx",
+    "外科手术学/ppt/7第七章 头颈部手术.pdf",
     "中药方剂学/方剂库/桂枝汤.md",
-    "fangji_flashcards.html",
     "中药方剂学/补虚方药.md",
-    "中药方剂学/test.js",
     "中药方剂学/preview_herbs.md",
-    "中药方剂学/extract_v3.py",
     "中药方剂学/消导药.md",
     "中药方剂学/preview_all.md",
-    "中药方剂学/extract_all.py",
     "中药方剂学/preview_summary.md",
-    "中药方剂学/extract_preview.py",
     "中药方剂学/references/实验一ppt.md",
-    "中药方剂学/references/方剂总表.pdf",
     "中药方剂学/references/MinerU_markdown_第一章__中药总论(2026-4-25)_2056741601733722112_cleaned.md",
     "中药方剂学/references/MinerU_markdown_第三章__常用中药及方剂（2026-5-19）_2056745179986739200_cleaned.md",
     "中药方剂学/references/MinerU_markdown_第二章_方剂总论（2026-5-11）_2056742323158233088_cleaned.md",
-    "中药方剂学/references/06理气药方.pdf",
-    "中药方剂学/references/05消导药方.pdf",
-    "中药方剂学/references/2026中药方剂学-简版.pdf",
-    "中药方剂学/references/08温里药方.pdf",
     "外科手术学/头颈部手术.md",
     "外科手术学/手术基本操作.md",
     "外科手术学/胸部手术.md",
