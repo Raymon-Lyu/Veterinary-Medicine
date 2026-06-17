@@ -26,6 +26,13 @@ if os.path.exists(fangji_dir):
         frontmatter = m.group(1)
         body = m.group(2).strip()
         
+        import yaml
+        try:
+            data = yaml.safe_load(frontmatter)
+        except Exception as e:
+            print(f"Error parsing yaml in {f_name}: {e}")
+            data = {}
+            
         formula = {
             "type": "方剂",
             "name": f_name.replace(".md", ""),
@@ -33,25 +40,13 @@ if os.path.exists(fangji_dir):
             "组成": [], "君药": [], "臣药": [], "佐药": [], "使药": []
         }
         
-        # Parse fields from frontmatter
-        for line in frontmatter.split('\n'):
-            line = line.strip()
-            # Simple key-value
-            kv = re.match(r'^([^:]+):\s*(.*)', line)
-            if kv:
-                key = kv.group(1).strip()
-                val = kv.group(2).strip()
-                if key in ["大类", "子类", "功效"]:
-                    formula[key] = val.strip("'\"")
-                    
-        # Parse list fields (组成, 君药, etc.)
-        list_keys = ["组成", "君药", "臣药", "佐药", "使药"]
-        for key in list_keys:
-            # Match list pattern
-            list_m = re.search(fr'{key}:\s*\n((?:\s*-\s+.*\n?)*)', frontmatter)
-            if list_m:
-                items = re.findall(r'-\s+(.*)', list_m.group(1))
-                formula[key] = [item.strip() for item in items if item.strip()]
+        if isinstance(data, dict):
+            for k in ["大类", "子类", "功效"]:
+                if k in data and data[k]:
+                    formula[k] = str(data[k])
+            for k in ["组成", "君药", "臣药", "佐药", "使药"]:
+                if k in data and isinstance(data[k], list):
+                    formula[k] = [str(i).strip() for i in data[k] if i and str(i).strip()]
         
         formulas.append(formula)
 
