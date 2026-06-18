@@ -33,21 +33,9 @@
               "icon": "lucide-file-text",
               "title": "7诊法"
             }
-          },
-          {
-            "id": "79b34be92bc9b396",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "中兽医学/reference_materials/8辨证.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "8辨证"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -174,8 +162,8 @@
               "state": {
                 "file": "中兽医学/外感六淫.canvas",
                 "viewState": {
-                  "x": 245.91003662109375,
-                  "y": -158.20014190673828,
+                  "x": -93.7299755859382,
+                  "y": 216.5198641967777,
                   "zoom": 0
                 }
               },
@@ -363,6 +351,9 @@
   "active": "16fe335581fe827b",
   "lastOpenFiles": [
     "中兽医学/reference_materials/8辨证.pdf",
+    "temp_v.pdf",
+    "8辨证_temp.pdf",
+    "中兽医学/reference_materials/temp_doc",
     "~WRL1768.tmp",
     "~WRD1752.tmp",
     "~WRL0359.tmp",
@@ -370,9 +361,6 @@
     "~WRL3711.tmp",
     "~WRD3695.tmp",
     "~WRL0420.tmp",
-    "~WRD0405.tmp",
-    "~WRL2211.tmp",
-    "~WRD2192.tmp",
     "泌尿生殖器官手术.md",
     "外科手术学/腹部手术.md",
     "中药方剂学/方剂库/桂枝汤.md",
