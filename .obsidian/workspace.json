@@ -155,41 +155,24 @@
             }
           },
           {
-            "id": "16fe335581fe827b",
+            "id": "773e81c797e1d3ab",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "中兽医学/外感六淫.canvas",
+                "file": "中兽医学/脏腑辨证_虚实全图.canvas",
                 "viewState": {
-                  "x": 668.6700488281243,
-                  "y": 223.71987640380894,
-                  "zoom": 0
+                  "x": -144.76401997991206,
+                  "y": -428.8742212182432,
+                  "zoom": -0.29731198434287326
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "外感六淫"
-            }
-          },
-          {
-            "id": "6d51a9b927afa9ed",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "中兽医学/脏腑辨证.canvas",
-                "viewState": {
-                  "x": 175,
-                  "y": 25,
-                  "zoom": -0.5288834993894423
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "脏腑辨证"
+              "title": "脏腑辨证_虚实全图"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -365,13 +348,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d51a9b927afa9ed",
+  "active": "773e81c797e1d3ab",
   "lastOpenFiles": [
+    "中兽医学/致病因素.md",
+    "辨证.md",
+    "中兽医学/外感六淫.canvas",
+    "中兽医学/脏腑辨证.canvas",
     "中兽医学/reference_materials/8辨证.pdf",
     "中兽医学/脏腑辨证_虚实全图.canvas",
     "中兽医学/reference_materials/backup_ref.pdf.tmp",
-    "中兽医学/外感六淫.canvas",
-    "中兽医学/脏腑辨证.canvas",
     "中兽医学/脏腑辨证_全攻略.canvas",
     "temp_v.pdf",
     "8辨证_temp.pdf",
@@ -405,7 +390,6 @@
     "中药方剂学/方剂库/四君子汤.md",
     "中药方剂学/方剂库/平胃散.md",
     "中药方剂学/方剂库/六味地黄汤.md",
-    "中药方剂学/方剂库/决明散.md",
     "中药方剂学/中药方剂学框架.canvas",
     "swimming_time_comparison.svg",
     "swimming_time_comparison.png",
