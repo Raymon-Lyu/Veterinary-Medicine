@@ -1,82 +1,19 @@
 {
-	"nodes": [
-		{
-			"id": "root",
-			"type": "text",
-			"text": "# 外感六淫\n来源于自然界，多从皮毛、口鼻侵入机体的六种反常气候：**风、寒、暑、湿、燥、火**。",
-			"x": 0,
-			"y": 0,
-			"width": 400,
-			"height": 100,
-			"color": "1"
-		},
-		{
-			"id": "wind",
-			"type": "text",
-			"text": "## 🌀 风邪 (Wind)\n**【性质】** 阳邪，为“百病之始”、“六淫之首”。\n**【特点】**\n- **轻扬开泄**：易袭阳位（头面、肌表），使腠理疏张，见汗出恶风。\n- **善行数变**：部位游走不定（行痹），发病急、变化快（荨麻疹）。\n- **主动**：致动摇不定，见震颤、抽搐、角弓反张。",
-			"x": -450,
-			"y": -350,
-			"width": 350,
-			"height": 280,
-			"color": "2"
-		},
-		{
-			"id": "cold",
-			"type": "text",
-			"text": "## ❄️ 寒邪 (Cold)\n**【性质】** 阴邪。\n**【特点】**\n- **阴冷伤阳**：损害机体阳气，见恶寒、肢冷、下利清谷。\n- **凝滞主痛**：使气血凝结阻滞，“不通则痛”。\n- **收引**：使气机收敛，腠理、经络收缩，见无汗、脉紧、肢体拘急。",
-			"x": 0,
-			"y": -350,
-			"width": 350,
-			"height": 280,
-			"color": "3"
-		},
-		{
-			"id": "summer",
-			"type": "text",
-			"text": "## ☀️ 暑邪 (Summer Heat)\n**【性质】** 阳邪，夏令主气，纯为外邪。\n**【特点】**\n- **炎热致热**：见高热、口渴、脉洪数。\n- **升散耗气伤津**：迫津外泄致大汗，气随液脱，见疲惫、昏迷。\n- **多挟湿**：夏末多雨，常兼感湿邪，见身重、便溏。",
-			"x": 450,
-			"y": -350,
-			"width": 350,
-			"height": 280,
-			"color": "4"
-		},
-		{
-			"id": "damp",
-			"type": "text",
-			"text": "## ☁️ 湿邪 (Dampness)\n**【性质】** 阴邪。\n**【特点】**\n- **阻遏气机，易伤脾阳**：影响运化，见纳呆、胀满、水肿。\n- **重浊趋下**：分泌物秽浊，迈步沉重如负重，易袭下部。\n- **黏滞缠绵**：排泄物黏腻不爽，病程长，反复难愈。",
-			"x": -450,
-			"y": 150,
-			"width": 350,
-			"height": 280,
-			"color": "5"
-		},
-		{
-			"id": "dry",
-			"type": "text",
-			"text": "## 🍂 燥邪 (Dryness)\n**【性质】** 秋季主气。\n**【特点】**\n- **燥性干涩，易伤津液**：致口鼻干燥、皮肤皴裂、尿少粪干。\n- **易伤肺**：肺喜润恶燥，燥邪犯肺见干咳无痰、痰中带血、喘息胸痛。",
-			"x": 0,
-			"y": 150,
-			"width": 350,
-			"height": 280,
-			"color": "6"
-		},
-		{
-			"id": "fire",
-			"type": "text",
-			"text": "## 🔥 火邪 (Fire)\n**【性质】** 阳邪（热之极）。\n**【特点】**\n- **炎上**：症状多在机体上部（口舌生疮、目赤肿痛）。\n- **伤津耗气**：迫津外泄，消灼阴液。\n- **生风动血**：劫耗阴液致肝风内动（抽搐）；灼伤脉络致迫血妄行（出血、发斑）。\n- **易致疮痈**：腐蚀血肉而发疮疡痈肿。",
-			"x": 450,
-			"y": 150,
-			"width": 350,
-			"height": 280,
-			"color": "1"
-		}
+	"nodes":[
+		{"id":"root","type":"text","text":"# 外感六淫\n来源于自然界，多从皮毛、口鼻侵入机体的六种反常气候：**风、寒、暑、湿、燥、火**。","x":0,"y":0,"width":400,"height":100,"color":"1"},
+		{"id":"wind","type":"text","text":"## 🌀 风邪 (Wind)\n**【性质】** 阳邪，为“百病之始”、“六淫之首”。\n**【特点】**\n- **轻扬开泄**：易袭阳位（头面、肌表），使腠理疏张，见汗出恶风。\n- **善行数变**：部位游走不定（行痹），发病急、变化快（荨麻疹）。\n- **主动**：致动摇不定，见震颤、抽搐、角弓反张。","x":-450,"y":-350,"width":350,"height":280,"color":"2"},
+		{"id":"summer","type":"text","text":"## ☀️ 暑邪 (Summer Heat)\n**【性质】** 阳邪，夏令主气，纯为外邪。\n**【特点】**\n- **炎热致热**：见高热、口渴、脉洪数。\n- **升散耗气伤津**：迫津外泄致大汗，气随液脱，见疲惫、昏迷。\n- **多挟湿**：夏末多雨，常兼感湿邪，见身重、便溏。","x":450,"y":-350,"width":350,"height":280,"color":"4"},
+		{"id":"damp","type":"text","text":"## ☁️ 湿邪 (Dampness)\n**【性质】** 阴邪。\n**【特点】**\n- **阻遏气机，易伤脾阳**：影响运化，见纳呆、胀满、水肿。\n- **重浊趋下**：分泌物秽浊，迈步沉重如负重，易袭下部。\n- **黏滞缠绵**：排泄物黏腻不爽，病程长，反复难愈。","x":-450,"y":150,"width":350,"height":280,"color":"5"},
+		{"id":"dry","type":"text","text":"## 🍂 燥邪 (Dryness)\n**【性质】** 秋季主气。\n**【特点】**\n- **燥性干涩，易伤津液**：致口鼻干燥、皮肤皴裂、尿少粪干。\n- **易伤肺**：肺喜润恶燥，燥邪犯肺见干咳无痰、痰中带血、喘息胸痛。","x":0,"y":150,"width":350,"height":280,"color":"6"},
+		{"id":"fire","type":"text","text":"## 🔥 火邪 (Fire)\n**【性质】** 阳邪（热之极）。\n**【特点】**\n- **炎上**：症状多在机体上部（口舌生疮、目赤肿痛）。\n- **伤津耗气**：迫津外泄，消灼阴液。\n- **生风动血**：劫耗阴液致肝风内动（抽搐）；灼伤脉络致迫血妄行（出血、发斑）。\n- **易致疮痈**：腐蚀血肉而发疮疡痈肿。","x":450,"y":150,"width":350,"height":280,"color":"1"},
+		{"id":"cold","type":"text","text":"## ❄️ 寒邪 (Cold)\n**【性质】** 阴邪。\n**【特点】**\n- **阴冷伤阳**：损害机体阳气，见恶寒、肢冷、下利清谷。\n- **凝滞主痛**：使气血凝结阻滞，“不通则痛”。\n- **收引**：使气机收敛，腠理、经络收缩，见无汗、脉紧、肢体拘急。","x":0,"y":-350,"width":350,"height":280,"color":"3"}
 	],
-	"edges": [
-		{ "id": "e1", "fromNode": "root", "fromSide": "top", "toNode": "wind", "toSide": "bottom" },
-		{ "id": "e2", "fromNode": "root", "fromSide": "top", "toNode": "cold", "toSide": "bottom" },
-		{ "id": "e3", "fromNode": "root", "fromSide": "top", "toNode": "summer", "toSide": "bottom" },
-		{ "id": "e4", "fromNode": "root", "fromSide": "bottom", "toNode": "damp", "toSide": "top" },
-		{ "id": "e5", "fromNode": "root", "fromSide": "bottom", "toNode": "dry", "toSide": "top" },
-		{ "id": "e6", "fromNode": "root", "fromSide": "bottom", "toNode": "fire", "toSide": "top" }
+	"edges":[
+		{"id":"e1","fromNode":"root","fromSide":"top","toNode":"wind","toSide":"bottom"},
+		{"id":"e2","fromNode":"root","fromSide":"top","toNode":"cold","toSide":"bottom"},
+		{"id":"e3","fromNode":"root","fromSide":"top","toNode":"summer","toSide":"bottom"},
+		{"id":"e4","fromNode":"root","fromSide":"bottom","toNode":"damp","toSide":"top"},
+		{"id":"e5","fromNode":"root","fromSide":"bottom","toNode":"dry","toSide":"top"},
+		{"id":"e6","fromNode":"root","fromSide":"bottom","toNode":"fire","toSide":"top"}
 	]
 }

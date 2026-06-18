@@ -4,167 +4,187 @@
     "type": "split",
     "children": [
       {
-        "id": "071c7ef220a1b7df",
+        "id": "648eae0a07400be5",
         "type": "tabs",
-        "dimension": 50.90909090909091,
+        "dimension": 37.024901703800786,
         "children": [
           {
-            "id": "dfdbc15e6c228457",
+            "id": "8fa10afbc2e43d4b",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://notebooklm.google.com/notebook/70f56c1c-2c89-4c48-9850-0b244a572e75",
-                "title": "Google NotebookLM",
-                "mode": "blank"
+                "url": "https://notebooklm.google.com/notebook/1ba6631b-da32-46a6-a81e-d6ba859af640",
+                "title": "NotebookLM",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Google NotebookLM"
+              "title": "NotebookLM"
             }
           },
           {
-            "id": "98f44a1ae57d6d85",
+            "id": "14b4534a8fbb1b4e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "外科手术学/ppt/6第六章 眼部手术.pdf"
+                "file": "中兽医学/reference_materials/7诊法.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "6第六章 眼部手术"
+              "title": "7诊法"
             }
           },
           {
-            "id": "4dd6b8a4329c65f5",
+            "id": "79b34be92bc9b396",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "外科手术学/ppt/7第七章 头颈部手术.pdf"
+                "file": "中兽医学/reference_materials/8辨证.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "7第七章 头颈部手术"
-            }
-          },
-          {
-            "id": "c610a98d7b54b09c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "外科手术学/ppt/9第九章 腹部手术.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "9第九章 腹部手术"
-            }
-          }
-        ]
-      },
-      {
-        "id": "44fc95fcc9a915d1",
-        "type": "tabs",
-        "dimension": 49.09090909090909,
-        "children": [
-          {
-            "id": "ee8667db89358eae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "外科手术学/绪论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "绪论"
-            }
-          },
-          {
-            "id": "81f006d7f6d4e285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "外科手术学/无菌术.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "无菌术"
-            }
-          },
-          {
-            "id": "244d0598d4eafd7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "外科手术学/麻醉.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "麻醉"
-            }
-          },
-          {
-            "id": "6b4d8965d0e6ddf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "外科手术学/眼部手术.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "眼部手术"
-            }
-          },
-          {
-            "id": "9e1a6449e5b63e27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "头颈部手术.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "头颈部手术"
-            }
-          },
-          {
-            "id": "32a6a7675ae5b7d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "外科手术学/腹部手术.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "腹部手术"
-            }
-          },
-          {
-            "id": "a6399c2deed4c2c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "泌尿生殖器官手术.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "泌尿生殖器官手术"
+              "title": "8辨证"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
+      },
+      {
+        "id": "3aca5db26f9ce0d9",
+        "type": "tabs",
+        "dimension": 62.975098296199214,
+        "children": [
+          {
+            "id": "c82fc671360bf188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中兽医学/元气论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "元气论"
+            }
+          },
+          {
+            "id": "750799711a46e8f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中兽医学/奇恒之腑.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "奇恒之腑"
+            }
+          },
+          {
+            "id": "0b96792267c27072",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中兽医学/气血津液.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "气血津液"
+            }
+          },
+          {
+            "id": "0a489f6e90b57dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中兽医学/经络.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "经络"
+            }
+          },
+          {
+            "id": "f8739945cf13abee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中兽医学/致病因素.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "致病因素"
+            }
+          },
+          {
+            "id": "6707d06a8e7baac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中兽医学/致病因素.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "致病因素"
+            }
+          },
+          {
+            "id": "001e3290e1dc11ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "诊法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "诊法"
+            }
+          },
+          {
+            "id": "16e9a3019737d3da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "辨证.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "辨证"
+            }
+          },
+          {
+            "id": "16fe335581fe827b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "中兽医学/外感六淫.canvas",
+                "viewState": {
+                  "x": 245.91003662109375,
+                  "y": -158.20014190673828,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "外感六淫"
+            }
+          }
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -297,12 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "动物传染病学/大肠杆菌病.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "大肠杆菌病 的大纲"
             }
           },
           {
@@ -316,11 +337,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -338,8 +360,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfdbc15e6c228457",
+  "active": "16fe335581fe827b",
   "lastOpenFiles": [
+    "中兽医学/reference_materials/8辨证.pdf",
     "~WRL1768.tmp",
     "~WRD1752.tmp",
     "~WRL0359.tmp",
@@ -352,7 +375,6 @@
     "~WRD2192.tmp",
     "泌尿生殖器官手术.md",
     "外科手术学/腹部手术.md",
-    "外科手术学/ppt/9第九章 腹部手术.pdf",
     "中药方剂学/方剂库/桂枝汤.md",
     "中药方剂学/补虚方药.md",
     "中药方剂学/preview_herbs.md",
