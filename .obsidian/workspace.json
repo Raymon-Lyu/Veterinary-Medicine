@@ -6,7 +6,7 @@
       {
         "id": "648eae0a07400be5",
         "type": "tabs",
-        "dimension": 37.024901703800786,
+        "dimension": 47.64089121887287,
         "children": [
           {
             "id": "8fa10afbc2e43d4b",
@@ -33,14 +33,26 @@
               "icon": "lucide-file-text",
               "title": "7诊法"
             }
+          },
+          {
+            "id": "70f5e8aac050e9cd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "中兽医学/reference_materials/8辨证.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "8辨证"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 62.975098296199214,
+        "dimension": 52.35910878112713,
         "children": [
           {
             "id": "c82fc671360bf188",
@@ -162,8 +174,8 @@
               "state": {
                 "file": "中兽医学/脏腑辨证_虚实全图.canvas",
                 "viewState": {
-                  "x": -185.07037329068007,
-                  "y": -251.91943350960827,
+                  "x": -324.16728917787435,
+                  "y": -329.7067337924665,
                   "zoom": -0.29731198434287326
                 }
               },
@@ -191,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:中首医学",
+                "query": "阴阳",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -348,14 +360,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "773e81c797e1d3ab",
+  "active": "70f5e8aac050e9cd",
   "lastOpenFiles": [
+    "中兽医学/脏腑辨证_虚实全图.canvas",
     "中兽医学/致病因素.md",
     "辨证.md",
     "中兽医学/外感六淫.canvas",
     "中兽医学/脏腑辨证.canvas",
     "中兽医学/reference_materials/8辨证.pdf",
-    "中兽医学/脏腑辨证_虚实全图.canvas",
     "中兽医学/reference_materials/backup_ref.pdf.tmp",
     "中兽医学/脏腑辨证_全攻略.canvas",
     "temp_v.pdf",
@@ -389,7 +401,6 @@
     "中药方剂学/方剂库/四物汤.md",
     "中药方剂学/方剂库/四君子汤.md",
     "中药方剂学/方剂库/平胃散.md",
-    "中药方剂学/方剂库/六味地黄汤.md",
     "中药方剂学/中药方剂学框架.canvas",
     "swimming_time_comparison.svg",
     "swimming_time_comparison.png",
