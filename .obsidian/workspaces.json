@@ -8,7 +8,7 @@
           {
             "id": "648eae0a07400be5",
             "type": "tabs",
-            "dimension": 49.10179640718562,
+            "dimension": 47.64089121887287,
             "children": [
               {
                 "id": "8fa10afbc2e43d4b",
@@ -37,7 +37,7 @@
                 }
               },
               {
-                "id": "79b34be92bc9b396",
+                "id": "70f5e8aac050e9cd",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -54,7 +54,7 @@
           {
             "id": "3aca5db26f9ce0d9",
             "type": "tabs",
-            "dimension": 50.89820359281438,
+            "dimension": 52.35910878112713,
             "children": [
               {
                 "id": "c82fc671360bf188",
@@ -167,9 +167,26 @@
                   "icon": "lucide-file",
                   "title": "辨证"
                 }
+              },
+              {
+                "id": "773e81c797e1d3ab",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "中兽医学/脏腑辨证_虚实全图.canvas",
+                    "viewState": {
+                      "x": -324.16728917787435,
+                      "y": -265.7080855711769,
+                      "zoom": -0.29731198434287326
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "脏腑辨证_虚实全图"
+                }
               }
             ],
-            "currentTab": 7
+            "currentTab": 8
           }
         ],
         "direction": "vertical"
@@ -188,7 +205,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:中首医学",
+                    "query": "补中",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -232,8 +249,7 @@
                   "title": "新标签页"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal",
@@ -345,8 +361,8 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "79b34be92bc9b396",
-      "mtime": "2026-06-13T19:21:29+08:00"
+      "active": "773e81c797e1d3ab",
+      "mtime": "2026-06-18T20:24:55+08:00"
     },
     "中药方剂学": {
       "main": {
@@ -1220,5 +1236,5 @@
       "mtime": "2026-06-15T19:40:29+08:00"
     }
   },
-  "active": "中兽医学"
+  "active": "传染病学"
 }
