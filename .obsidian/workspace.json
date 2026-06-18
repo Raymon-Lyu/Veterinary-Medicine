@@ -150,49 +150,10 @@
   "right": {
     "id": "be2a306ddf7e6c09",
     "type": "split",
-    "children": [
-      {
-        "id": "8017fd4ef1ebd602",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b6e27a54e8f2fd37",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "中兽医学/五脏六腑的联系.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "五脏六腑的联系 的反向链接列表"
-            }
-          },
-          {
-            "id": "b3a5604057d7a80b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "兽医诊断学/血生化/肾脏功能评估.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "肾脏功能评估 的出链列表"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,7 +171,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6e27a54e8f2fd37",
+  "active": "c9db15a95fa4eb69",
   "lastOpenFiles": [
     "猪病.md",
     "中兽医学/reference_materials/8辨证.pdf",
