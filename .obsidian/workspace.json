@@ -170,9 +170,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "外感六淫"
             }
+          },
+          {
+            "id": "a15471f98f2f5872",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "中兽医学/脏腑辨证.canvas",
+                "viewState": {
+                  "x": 176.15414406295088,
+                  "y": 282.97479875690664,
+                  "zoom": -0.5288834993894423
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "脏腑辨证"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -348,11 +365,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16fe335581fe827b",
+  "active": "a15471f98f2f5872",
   "lastOpenFiles": [
     "中兽医学/reference_materials/8辨证.pdf",
-    "中兽医学/脏腑辨证.canvas",
+    "中兽医学/脏腑辨证_全攻略.canvas",
     "中兽医学/reference_materials/backup_ref.pdf.tmp",
+    "中兽医学/脏腑辨证.canvas",
+    "中兽医学/外感六淫.canvas",
     "temp_v.pdf",
     "8辨证_temp.pdf",
     "中兽医学/reference_materials/temp_doc",
