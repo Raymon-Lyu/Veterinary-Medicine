@@ -150,7 +150,77 @@
   "right": {
     "id": "be2a306ddf7e6c09",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "7b63477f85755439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d00c6bdee09125f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "中兽医学/五脏六腑的联系.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "五脏六腑的联系 的反向链接列表"
+            }
+          },
+          {
+            "id": "e9a0c17488f369e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "中兽医学/五脏六腑的联系.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "五脏六腑的联系 的出链列表"
+            }
+          },
+          {
+            "id": "405310b56709c974",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f1602d72af653e6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "中兽医学/五脏六腑的联系.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "五脏六腑的联系 的大纲"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 386,
     "collapsed": true
@@ -173,6 +243,9 @@
   },
   "active": "c9db15a95fa4eb69",
   "lastOpenFiles": [
+    "propulsion_results_v3.pdf",
+    "propulsion_results_v3.png",
+    "plot_v3.py",
     "propulsion_results.svg",
     "propulsion_results.pdf",
     "propulsion_results.png",
@@ -191,7 +264,6 @@
     "中兽医学/reference_materials/temp_doc",
     "~WRL1768.tmp",
     "~WRD1752.tmp",
-    "~WRL0359.tmp",
     "泌尿生殖器官手术.md",
     "外科手术学/腹部手术.md",
     "中药方剂学/方剂库/桂枝汤.md",
@@ -222,8 +294,6 @@
     "mouse_physiological_trends.svg",
     "mouse_physiological_trends.png",
     "images/Pasted image 20260615091924.png",
-    "外科手术学/images/Pasted image 20260614172739.png",
-    "中药方剂学/方剂库/动物传染病学/exp2_zs/low_po/extracted_mmexport1777358969237.png",
     "兽医病毒学/病毒学复习.canvas",
     "未命名.canvas",
     "兽医药理学/药理学复习.canvas",
