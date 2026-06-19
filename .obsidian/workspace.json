@@ -4,6 +4,22 @@
     "type": "split",
     "children": [
       {
+        "id": "4ecae958f0c69460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "708c52b7719c299d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      },
+      {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
         "children": [
@@ -78,30 +94,16 @@
             }
           },
           {
-            "id": "6d7f2b019a49cf1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "其他动物传染病.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "其他动物传染病"
-            }
-          },
-          {
-            "id": "afa4220b47819b3c",
+            "id": "369dc113d096912d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "动物传染病学/动物传染病学各论.canvas",
                 "viewState": {
-                  "x": 751.385069207668,
-                  "y": -1675.8973920182666,
-                  "zoom": -2.7933903516633594
+                  "x": -1875.2217606659747,
+                  "y": 201.9181412195621,
+                  "zoom": -1.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -109,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -273,11 +275,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afa4220b47819b3c",
+  "active": "708c52b7719c299d",
   "lastOpenFiles": [
-    "猪病.md",
+    "动物传染病学/references/第三章 共患细菌病.pptx",
+    "动物传染病学/references",
+    "动物传染病学/新建文件夹",
     "动物传染病学/动物传染病学各论.canvas",
+    "中兽医学/五脏六腑的联系.md",
     "其他动物传染病.md",
+    "猪病.md",
     "辨证.md",
     "中兽医学/reference_materials/8辨证.pdf",
     "中药方剂学/方剂库/二陈汤.md",
@@ -287,7 +293,6 @@
     "中兽医学/经络.md",
     "中兽医学/致病因素.md",
     "诊法.md",
-    "中兽医学/五脏六腑的联系.md",
     "propulsion_results_v3.pdf",
     "propulsion_results_v3.png",
     "plot_v3.py",
@@ -301,8 +306,6 @@
     "中兽医学/脏腑辨证_全攻略.canvas",
     "temp_v.pdf",
     "8辨证_temp.pdf",
-    "中兽医学/reference_materials/temp_doc",
-    "~WRL1768.tmp",
     "泌尿生殖器官手术.md",
     "外科手术学/腹部手术.md",
     "中药方剂学/方剂库/桂枝汤.md",
