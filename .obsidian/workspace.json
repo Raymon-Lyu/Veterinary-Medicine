@@ -90,9 +90,26 @@
               "icon": "lucide-file",
               "title": "其他动物传染病"
             }
+          },
+          {
+            "id": "afa4220b47819b3c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "动物传染病学/动物传染病学各论.canvas",
+                "viewState": {
+                  "x": 751.385069207668,
+                  "y": -1675.8973920182666,
+                  "zoom": -2.7933903516633594
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "动物传染病学各论"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -256,10 +273,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "378ab00333756207",
+  "active": "afa4220b47819b3c",
   "lastOpenFiles": [
-    "其他动物传染病.md",
     "猪病.md",
+    "动物传染病学/动物传染病学各论.canvas",
+    "其他动物传染病.md",
     "辨证.md",
     "中兽医学/reference_materials/8辨证.pdf",
     "中药方剂学/方剂库/二陈汤.md",
@@ -300,7 +318,6 @@
     "外科手术学/头颈部手术.md",
     "外科手术学/手术基本操作.md",
     "外科手术学/胸部手术.md",
-    "中药方剂学/祛湿方药.md",
     "中药方剂学/中药方剂学框架.canvas",
     "swimming_time_comparison.svg",
     "swimming_time_comparison.png",
@@ -312,7 +329,6 @@
     "兽医病毒学/病毒学复习.canvas",
     "未命名.canvas",
     "兽医药理学/药理学复习.canvas",
-    "病理生理学/病理生理学.canvas",
-    "动物免疫学/免疫学复习.canvas"
+    "病理生理学/病理生理学.canvas"
   ]
 }
