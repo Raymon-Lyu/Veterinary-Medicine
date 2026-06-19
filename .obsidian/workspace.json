@@ -111,20 +111,6 @@
             }
           },
           {
-            "id": "f8739945cf13abee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中兽医学/致病因素.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "致病因素"
-            }
-          },
-          {
             "id": "6707d06a8e7baac6",
             "type": "leaf",
             "state": {
@@ -174,17 +160,27 @@
               "state": {
                 "file": "中兽医学/脏腑辨证_虚实全图.canvas",
                 "viewState": {
-                  "x": -271.08083786464067,
-                  "y": 151.7577510981108,
+                  "x": -228.80827524406925,
+                  "y": -183.4732858953234,
                   "zoom": -0.29731198434287326
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "脏腑辨证_虚实全图"
             }
+          },
+          {
+            "id": "b55f956d776c0d68",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -359,9 +355,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70f5e8aac050e9cd",
+  "active": "16e9a3019737d3da",
   "lastOpenFiles": [
+    "中兽医学/reference_materials/8辨证.pdf",
+    "辨证.md",
     "中兽医学/脏腑辨证_虚实全图.canvas",
+    "中兽医学/致病因素.md",
     "猪病.md",
     "中兽医学/五脏六腑的联系.md",
     "propulsion_results_v3.pdf",
@@ -371,9 +370,6 @@
     "propulsion_results.pdf",
     "propulsion_results.png",
     "plot_propulsion.py",
-    "中兽医学/reference_materials/8辨证.pdf",
-    "中兽医学/致病因素.md",
-    "辨证.md",
     "中兽医学/外感六淫.canvas",
     "中兽医学/脏腑辨证.canvas",
     "中兽医学/reference_materials/backup_ref.pdf.tmp",
