@@ -103,7 +103,7 @@
               "type": "markdown",
               "state": {
                 "file": "中兽医学/经络.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -355,12 +355,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16e9a3019737d3da",
+  "active": "0a489f6e90b57dd5",
   "lastOpenFiles": [
-    "中兽医学/reference_materials/8辨证.pdf",
     "辨证.md",
-    "中兽医学/脏腑辨证_虚实全图.canvas",
     "中兽医学/致病因素.md",
+    "中兽医学/经络.md",
+    "诊法.md",
+    "中兽医学/reference_materials/8辨证.pdf",
+    "中兽医学/脏腑辨证_虚实全图.canvas",
     "猪病.md",
     "中兽医学/五脏六腑的联系.md",
     "propulsion_results_v3.pdf",
@@ -398,7 +400,6 @@
     "中药方剂学/平肝药.md",
     "中药方剂学/安神开窍药方.md",
     "中药方剂学/外用方药.md",
-    "中药方剂学/方剂库/四物汤.md",
     "中药方剂学/中药方剂学框架.canvas",
     "swimming_time_comparison.svg",
     "swimming_time_comparison.png",
