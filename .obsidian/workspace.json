@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中兽医学/五脏六腑的联系.md",
+                "file": "猪病.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "五脏六腑的联系 的反向链接列表"
+              "title": "猪病 的反向链接列表"
             }
           },
           {
@@ -181,12 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中兽医学/五脏六腑的联系.md",
+                "file": "猪病.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "五脏六腑的联系 的出链列表"
+              "title": "猪病 的出链列表"
             }
           },
           {
@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中兽医学/五脏六腑的联系.md",
+                "file": "猪病.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "五脏六腑的联系 的大纲"
+              "title": "猪病 的大纲"
             }
           }
         ]
@@ -242,8 +242,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9db15a95fa4eb69",
+  "active": "378ab00333756207",
   "lastOpenFiles": [
+    "中兽医学/五脏六腑的联系.md",
     "propulsion_results_v3.pdf",
     "propulsion_results_v3.png",
     "plot_v3.py",
@@ -264,7 +265,6 @@
     "8辨证_temp.pdf",
     "中兽医学/reference_materials/temp_doc",
     "~WRL1768.tmp",
-    "~WRD1752.tmp",
     "泌尿生殖器官手术.md",
     "外科手术学/腹部手术.md",
     "中药方剂学/方剂库/桂枝汤.md",
