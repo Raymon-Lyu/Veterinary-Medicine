@@ -153,34 +153,21 @@
             }
           },
           {
-            "id": "773e81c797e1d3ab",
+            "id": "25147d600c47a254",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "中兽医学/脏腑辨证_虚实全图.canvas",
-                "viewState": {
-                  "x": -228.80827524406925,
-                  "y": -183.4732858953234,
-                  "zoom": -0.29731198434287326
-                }
+                "file": "中药方剂学/方剂库/二陈汤.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "脏腑辨证_虚实全图"
-            }
-          },
-          {
-            "id": "b55f956d776c0d68",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "二陈汤"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -355,14 +342,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a489f6e90b57dd5",
+  "active": "25147d600c47a254",
   "lastOpenFiles": [
     "辨证.md",
-    "中兽医学/致病因素.md",
+    "中药方剂学/方剂库/二陈汤.md",
+    "中药方剂学/方剂库/保和丸.md",
+    "中兽医学/脏腑辨证_虚实全图.canvas",
+    "中药方剂学/方剂库/理中汤.md",
     "中兽医学/经络.md",
+    "中兽医学/致病因素.md",
     "诊法.md",
     "中兽医学/reference_materials/8辨证.pdf",
-    "中兽医学/脏腑辨证_虚实全图.canvas",
     "猪病.md",
     "中兽医学/五脏六腑的联系.md",
     "propulsion_results_v3.pdf",
@@ -397,9 +387,6 @@
     "外科手术学/胸部手术.md",
     "中药方剂学/祛湿方药.md",
     "中药方剂学/驱虫方药.md",
-    "中药方剂学/平肝药.md",
-    "中药方剂学/安神开窍药方.md",
-    "中药方剂学/外用方药.md",
     "中药方剂学/中药方剂学框架.canvas",
     "swimming_time_comparison.svg",
     "swimming_time_comparison.png",
