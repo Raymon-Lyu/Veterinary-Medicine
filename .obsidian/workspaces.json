@@ -1046,6 +1046,20 @@
                   "icon": "lucide-file",
                   "title": "猪病"
                 }
+              },
+              {
+                "id": "c9db15a95fa4eb69",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "中兽医学/五脏六腑的联系.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "五脏六腑的联系"
+                }
               }
             ],
             "currentTab": 3
@@ -1067,7 +1081,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "流感病毒",
+                    "query": "脏腑关系",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -1111,8 +1125,7 @@
                   "title": "新标签页"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal",
@@ -1124,11 +1137,11 @@
         "type": "split",
         "children": [
           {
-            "id": "8017fd4ef1ebd602",
+            "id": "7b63477f85755439",
             "type": "tabs",
             "children": [
               {
-                "id": "b6e27a54e8f2fd37",
+                "id": "7d00c6bdee09125f",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
@@ -1147,21 +1160,21 @@
                 }
               },
               {
-                "id": "b3a5604057d7a80b",
+                "id": "e9a0c17488f369e1",
                 "type": "leaf",
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "兽医诊断学/血生化/肾脏功能评估.md",
+                    "file": "猪病.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "肾脏功能评估 的出链列表"
+                  "title": "猪病 的出链列表"
                 }
               },
               {
-                "id": "b9b028c216a225ba",
+                "id": "405310b56709c974",
                 "type": "leaf",
                 "state": {
                   "type": "tag",
@@ -1176,45 +1189,26 @@
                 }
               },
               {
-                "id": "e4a27a2bf92ae123",
+                "id": "f1602d72af653e6e",
                 "type": "leaf",
                 "state": {
                   "type": "outline",
                   "state": {
                     "file": "猪病.md",
                     "followCursor": false,
-                    "showSearch": true,
+                    "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
                   "title": "猪病 的大纲"
-                }
-              },
-              {
-                "id": "b5b7dad1314b27a3",
-                "type": "leaf",
-                "state": {
-                  "type": "advanced-tables-toolbar",
-                  "state": {},
-                  "icon": "spreadsheet",
-                  "title": "Advanced Tables"
-                }
-              },
-              {
-                "id": "1037f454eaf687a0",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {},
-                  "icon": "git-pull-request",
-                  "title": "Source Control"
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 232
+        "width": 386,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -1233,8 +1227,8 @@
         }
       },
       "active": "378ab00333756207",
-      "mtime": "2026-06-15T19:40:29+08:00"
+      "mtime": "2026-06-19T10:00:24+08:00"
     }
   },
-  "active": "传染病学"
+  "active": "中兽医学"
 }
