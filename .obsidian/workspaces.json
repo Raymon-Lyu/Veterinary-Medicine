@@ -957,23 +957,27 @@
         "type": "split",
         "children": [
           {
-            "id": "3aca5db26f9ce0d9",
+            "id": "5f547ecaee02c0a3",
             "type": "tabs",
             "children": [
               {
-                "id": "5d2d27a3b5f573dd",
+                "id": "6609fc433a83fa54",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "pdf",
                   "state": {
-                    "file": "动物传染病学/总论.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "动物传染病学/references/第三章 共患细菌病.pdf"
                   },
-                  "icon": "lucide-file",
-                  "title": "总论"
+                  "icon": "lucide-file-text",
+                  "title": "第三章 共患细菌病"
                 }
-              },
+              }
+            ]
+          },
+          {
+            "id": "3aca5db26f9ce0d9",
+            "type": "tabs",
+            "children": [
               {
                 "id": "a86903a978837d8c",
                 "type": "leaf",
@@ -1029,9 +1033,26 @@
                   "icon": "lucide-file",
                   "title": "五脏六腑的联系"
                 }
+              },
+              {
+                "id": "369dc113d096912d",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "动物传染病学/动物传染病学各论.canvas",
+                    "viewState": {
+                      "x": -1875.2217606659747,
+                      "y": 792.4313325517323,
+                      "zoom": -1.6666666666666665
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "动物传染病学各论"
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "vertical"
@@ -1195,9 +1216,9 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "378ab00333756207",
-      "mtime": "2026-06-19T10:00:24+08:00"
+      "active": "6609fc433a83fa54",
+      "mtime": "2026-06-19T21:47:26+08:00"
     }
   },
-  "active": "传染病学"
+  "active": "中药方剂学"
 }
