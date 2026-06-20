@@ -411,12 +411,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "中药方剂学/祛湿方药.md",
+                    "file": "中药方剂学/方剂库/藿香正气散.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "祛湿方药"
+                  "title": "藿香正气散"
                 }
               },
               {
@@ -434,7 +434,7 @@
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 4
           },
           {
             "id": "4d3510daff2d0a12",
@@ -462,15 +462,14 @@
                   "type": "webviewer",
                   "state": {
                     "url": "https://gemini.google.com/app/e35d530be29483d9",
-                    "title": "‎Google Gemini",
-                    "mode": "blank"
+                    "title": "理中汤与四君子汤药理分析 - Google Gemini",
+                    "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "‎Google Gemini"
+                  "title": "理中汤与四君子汤药理分析 - Google Gemini"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "3aca5db26f9ce0d9",
@@ -705,8 +704,8 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "d3260150b2ed04c0",
-      "mtime": "2026-06-20T15:29:00+08:00"
+      "active": "6f28a99d14cebf91",
+      "mtime": "2026-06-20T21:34:15+08:00"
     },
     "外科手术学": {
       "main": {
@@ -1343,5 +1342,5 @@
       "mtime": "2026-06-20T21:13:40+08:00"
     }
   },
-  "active": "中药方剂学"
+  "active": "外科手术学"
 }
