@@ -127,11 +127,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/e35d530be29483d9",
-                "title": "理中汤与四君子汤药理分析 - Google Gemini",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "理中汤与四君子汤药理分析 - Google Gemini"
+              "title": "data:text/plain,"
             }
           }
         ],
