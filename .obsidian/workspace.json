@@ -132,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "脏腑关系",
+                "query": "滤过",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -277,7 +276,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b3e8474b74465f47",
+  "active": "45a7a07d165aab15",
   "lastOpenFiles": [
     "禽呼吸系统传染病.md",
     "猪病.md",
