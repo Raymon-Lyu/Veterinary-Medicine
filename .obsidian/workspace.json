@@ -4,200 +4,116 @@
     "type": "split",
     "children": [
       {
-        "id": "071c7ef220a1b7df",
+        "id": "5f547ecaee02c0a3",
         "type": "tabs",
-        "dimension": 32.220039292730846,
         "children": [
           {
-            "id": "8e13f889434b6aab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中药方剂学/复习区/方剂总表.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "方剂总表"
-            }
-          },
-          {
-            "id": "094db90934b52ac5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "8bf785cfa9ce0f54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中药方剂学/止咳化痰平喘药与方剂.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "止咳化痰平喘药与方剂"
-            }
-          },
-          {
-            "id": "6e921902737d02f4",
+            "id": "6609fc433a83fa54",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "中药方剂学/references/07痰咳喘药方.pdf"
+                "file": "动物传染病学/references/第三章 共患细菌病.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "07痰咳喘药方"
-            }
-          },
-          {
-            "id": "11b0165656239642",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "中药方剂学/references/08温里药方.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "08温里药方"
-            }
-          },
-          {
-            "id": "e3cb84b1a3bbc261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中药方剂学/祛湿方药.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "祛湿方药"
-            }
-          },
-          {
-            "id": "e5287d7d1a4508ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中药方剂学/补虚方药.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "补虚方药"
+              "title": "第三章 共患细菌病"
             }
           }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "4d3510daff2d0a12",
-        "type": "tabs",
-        "dimension": 35.494433529796986,
-        "children": [
-          {
-            "id": "6f28a99d14cebf91",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://chat.deepseek.com/a/chat/s/9bd98403-ac94-498c-bd5c-3fb4d468f76d",
-                "title": "止咳散记忆技巧 - DeepSeek",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "止咳散记忆技巧 - DeepSeek"
-            }
-          },
-          {
-            "id": "d3260150b2ed04c0",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/app/e35d530be29483d9",
-                "title": "data:text/plain,",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "data:text/plain,"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 32.28552717747217,
         "children": [
           {
-            "id": "d5652cdc69d40056",
+            "id": "a86903a978837d8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中药方剂学/方剂库/桂枝汤.md",
+                "file": "动物传染病学/传染病流行过程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "桂枝汤"
+              "title": "传染病流行过程"
             }
           },
           {
-            "id": "78c5a9d51f04d8ec",
+            "id": "38252ad8beceafd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中药方剂学/方剂库/止咳散.md",
+                "file": "传染病防疫措施.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "止咳散"
+              "title": "传染病防疫措施"
             }
           },
           {
-            "id": "50c10c29a6e8b668",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "中药方剂学/references/2026中药方剂学-简版.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2026中药方剂学-简版"
-            }
-          },
-          {
-            "id": "be89e16429802276",
+            "id": "378ab00333756207",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中药方剂学/复习区/方剂总表.md",
-                "mode": "preview",
+                "file": "猪病.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "方剂总表"
+              "title": "猪病"
+            }
+          },
+          {
+            "id": "c9db15a95fa4eb69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中兽医学/五脏六腑的联系.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "五脏六腑的联系"
+            }
+          },
+          {
+            "id": "369dc113d096912d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "动物传染病学/动物传染病学各论.canvas",
+                "viewState": {
+                  "x": -1875.2217606659747,
+                  "y": 792.4313325517323,
+                  "zoom": -1.6666666666666665
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "动物传染病学各论"
+            }
+          },
+          {
+            "id": "b3e8474b74465f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "禽呼吸系统传染病.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "禽呼吸系统传染病"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -216,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "桂心",
+                "query": "脏腑关系",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -272,15 +188,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8017fd4ef1ebd602",
+        "id": "7b63477f85755439",
         "type": "tabs",
         "children": [
           {
-            "id": "b6e27a54e8f2fd37",
+            "id": "7d00c6bdee09125f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "猪病.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,25 +207,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "猪病 的反向链接列表"
             }
           },
           {
-            "id": "b3a5604057d7a80b",
+            "id": "e9a0c17488f369e1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "兽医诊断学/血生化/肾脏功能评估.md",
+                "file": "猪病.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "肾脏功能评估 的出链列表"
+              "title": "猪病 的出链列表"
             }
           },
           {
-            "id": "b9b028c216a225ba",
+            "id": "405310b56709c974",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -323,35 +240,25 @@
             }
           },
           {
-            "id": "e4a27a2bf92ae123",
+            "id": "f1602d72af653e6e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "动物传染病学/大肠杆菌病.md",
+                "file": "猪病.md",
                 "followCursor": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大肠杆菌病 的大纲"
-            }
-          },
-          {
-            "id": "b5b7dad1314b27a3",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "title": "猪病 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 386,
     "collapsed": true
   },
   "left-ribbon": {
@@ -370,8 +277,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3260150b2ed04c0",
+  "active": "b3e8474b74465f47",
   "lastOpenFiles": [
+    "禽呼吸系统传染病.md",
+    "猪病.md",
+    "动物传染病学/references/第三章 共患细菌病.pdf",
     "中药方剂学/补虚方药.md",
     "中药方剂学/references/2026中药方剂学-简版.pdf",
     "中药方剂学/复习区/方剂总表.md",
@@ -382,9 +292,7 @@
     "中药方剂学/温里方.md",
     "中药方剂学/止咳化痰平喘药与方剂.md",
     "中药方剂学/方剂库/桂枝汤.md",
-    "动物传染病学/references/第三章 共患细菌病.pdf",
     "动物传染病学/动物传染病学各论.canvas",
-    "猪病.md",
     "动物传染病学/references/mso5104.tmp",
     "动物传染病学/references/mso306B.tmp",
     "动物传染病学/references/~$第三章 共患细菌病.pptx",
