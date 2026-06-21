@@ -6,7 +6,7 @@
       {
         "id": "2a2e5a80eaf4fb53",
         "type": "tabs",
-        "dimension": 31.97903014416776,
+        "dimension": 27.195281782437746,
         "children": [
           {
             "id": "a005c174942f06ac",
@@ -27,7 +27,7 @@
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 68.02096985583223,
+        "dimension": 72.80471821756225,
         "children": [
           {
             "id": "a86903a978837d8c",
@@ -72,20 +72,6 @@
             }
           },
           {
-            "id": "c9db15a95fa4eb69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中兽医学/五脏六腑的联系.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "五脏六腑的联系"
-            }
-          },
-          {
             "id": "369dc113d096912d",
             "type": "leaf",
             "state": {
@@ -103,49 +89,35 @@
             }
           },
           {
-            "id": "b3e8474b74465f47",
+            "id": "59126651b2982d08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "禽呼吸系统传染病.md",
+                "file": "禽病汇总.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "禽呼吸系统传染病"
+              "title": "禽病汇总"
             }
           },
           {
-            "id": "be492153e93f1baf",
+            "id": "a6e3484bb2e42e86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "禽免疫抑制病.md",
+                "file": "猪病汇总.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "禽免疫抑制病"
-            }
-          },
-          {
-            "id": "e521f025e5f64694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "水禽病.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "水禽病"
+              "title": "猪病汇总"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -309,11 +281,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a005c174942f06ac",
+  "active": "a6e3484bb2e42e86",
   "lastOpenFiles": [
-    "禽免疫抑制病.md",
+    "禽病汇总.md",
+    "动物传染病学/动物传染病学各论.canvas",
     "禽呼吸系统传染病.md",
     "水禽病.md",
+    "猪病汇总.md",
+    "禽免疫抑制病.md",
     "中药方剂学/references/07痰咳喘药方.pdf",
     "中药方剂学/方剂库/藿香正气散.md",
     "中药方剂学/references/2026中药方剂学-简版.pdf",
@@ -334,7 +309,6 @@
     "中药方剂学/方剂库/止咳散.md",
     "中药方剂学/温里方.md",
     "中药方剂学/方剂库/桂枝汤.md",
-    "动物传染病学/动物传染病学各论.canvas",
     "中兽医学/五脏六腑的联系.md",
     "其他动物传染病.md",
     "辨证.md",
@@ -352,8 +326,6 @@
     "中兽医学/脏腑辨证.canvas",
     "中兽医学/脏腑辨证_全攻略.canvas",
     "泌尿生殖器官手术.md",
-    "外科手术学/腹部手术.md",
-    "中药方剂学/preview_herbs.md",
     "中药方剂学/中药方剂学框架.canvas",
     "swimming_time_comparison.svg",
     "swimming_time_comparison.png",
