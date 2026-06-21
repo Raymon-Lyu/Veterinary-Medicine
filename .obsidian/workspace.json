@@ -6,8 +6,22 @@
       {
         "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 32.220039292730846,
+        "dimension": 33.68283093053736,
         "children": [
+          {
+            "id": "e3cb84b1a3bbc261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中药方剂学/方剂库/藿香正气散.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "藿香正气散"
+            }
+          },
           {
             "id": "8e13f889434b6aab",
             "type": "leaf",
@@ -37,18 +51,6 @@
             }
           },
           {
-            "id": "6e921902737d02f4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "中药方剂学/references/07痰咳喘药方.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "07痰咳喘药方"
-            }
-          },
-          {
             "id": "11b0165656239642",
             "type": "leaf",
             "state": {
@@ -58,42 +60,6 @@
               },
               "icon": "lucide-file-text",
               "title": "08温里药方"
-            }
-          },
-          {
-            "id": "e3cb84b1a3bbc261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中药方剂学/方剂库/藿香正气散.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "藿香正气散"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "4d3510daff2d0a12",
-        "type": "tabs",
-        "dimension": 35.494433529796986,
-        "children": [
-          {
-            "id": "6f28a99d14cebf91",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://chat.deepseek.com/a/chat/s/9bd98403-ac94-498c-bd5c-3fb4d468f76d",
-                "title": "止咳散记忆技巧 - DeepSeek",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "止咳散记忆技巧 - DeepSeek"
             }
           },
           {
@@ -109,14 +75,47 @@
               "icon": "globe-2",
               "title": "Fundamentals of Traditional Chinese Medicine and Pharmacology - NotebookLM"
             }
+          },
+          {
+            "id": "6f28a99d14cebf91",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chat.deepseek.com/a/chat/s/9bd98403-ac94-498c-bd5c-3fb4d468f76d",
+                "title": "止咳散记忆技巧 - DeepSeek",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "止咳散记忆技巧 - DeepSeek"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "16bdcc2c34df9430",
+        "type": "tabs",
+        "dimension": 28.50589777195282,
+        "children": [
+          {
+            "id": "6e921902737d02f4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "中药方剂学/references/07痰咳喘药方.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "07痰咳喘药方"
+            }
+          }
+        ]
       },
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 32.28552717747217,
+        "dimension": 37.81127129750983,
         "children": [
           {
             "id": "d5652cdc69d40056",
@@ -348,8 +347,9 @@
   },
   "active": "85f80ca65fe9f0c4",
   "lastOpenFiles": [
-    "中药方剂学/references/2026中药方剂学-简版.pdf",
+    "中药方剂学/references/07痰咳喘药方.pdf",
     "中药方剂学/方剂库/藿香正气散.md",
+    "中药方剂学/references/2026中药方剂学-简版.pdf",
     "中药方剂学/references/08温里药方.pdf",
     "中药方剂学/补虚方药.md",
     "中药方剂学/止咳化痰平喘药与方剂.md",
