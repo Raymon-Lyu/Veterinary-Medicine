@@ -36,7 +36,8 @@
               "title": "猪病汇总"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -131,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -296,10 +297,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a005c174942f06ac",
+  "active": "59126651b2982d08",
   "lastOpenFiles": [
-    "猪病汇总.md",
     "猪病.md",
+    "猪病汇总.md",
     "传染病防疫措施.md",
     "动物传染病学/传染病流行过程.md",
     "动物传染病学/总论.md",
