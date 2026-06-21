@@ -116,9 +116,23 @@
               "icon": "lucide-file",
               "title": "禽病汇总"
             }
+          },
+          {
+            "id": "60a93d1791207b92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "传染病防疫措施.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "传染病防疫措施"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "滤过",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +195,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -284,7 +299,11 @@
   },
   "active": "a6e3484bb2e42e86",
   "lastOpenFiles": [
+    "猪病.md",
+    "传染病防疫措施.md",
     "猪病汇总.md",
+    "动物传染病学/传染病流行过程.md",
+    "动物传染病学/总论.md",
     "禽病汇总.md",
     "动物传染病学/动物传染病学各论.canvas",
     "禽呼吸系统传染病.md",
@@ -306,7 +325,6 @@
     "动物传染病学/references/猪病学各论-免疫抑制病专题.ppt",
     "动物传染病学/references/免疫抑制性疾病（禽病三）.pdf",
     "动物传染病学/references/mso4D10.tmp",
-    "猪病.md",
     "中药方剂学/方剂库/止咳散.md",
     "中药方剂学/温里方.md",
     "中药方剂学/方剂库/桂枝汤.md",
@@ -319,14 +337,12 @@
     "中药方剂学/方剂库/理中汤.md",
     "中兽医学/经络.md",
     "中兽医学/致病因素.md",
-    "诊法.md",
     "propulsion_results_v3.png",
     "propulsion_results.svg",
     "propulsion_results.png",
     "中兽医学/外感六淫.canvas",
     "中兽医学/脏腑辨证.canvas",
     "中兽医学/脏腑辨证_全攻略.canvas",
-    "泌尿生殖器官手术.md",
     "中药方剂学/中药方剂学框架.canvas",
     "swimming_time_comparison.svg",
     "swimming_time_comparison.png",
