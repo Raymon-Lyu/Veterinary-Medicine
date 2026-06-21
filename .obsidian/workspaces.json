@@ -725,7 +725,7 @@
                   "state": {
                     "url": "https://notebooklm.google.com/notebook/70f56c1c-2c89-4c48-9850-0b244a572e75",
                     "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM",
-                    "mode": "blank"
+                    "mode": "webview"
                   },
                   "icon": "globe-2",
                   "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM"
@@ -1048,7 +1048,7 @@
         }
       },
       "active": "dfdbc15e6c228457",
-      "mtime": "2026-06-18T10:55:55+08:00"
+      "mtime": "2026-06-21T10:08:53+08:00"
     },
     "传染病学": {
       "main": {
@@ -1342,5 +1342,5 @@
       "mtime": "2026-06-20T21:13:40+08:00"
     }
   },
-  "active": "外科手术学"
+  "active": "中药方剂学"
 }
