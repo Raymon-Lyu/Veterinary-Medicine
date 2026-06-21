@@ -6,7 +6,7 @@
       {
         "id": "2a2e5a80eaf4fb53",
         "type": "tabs",
-        "dimension": 32.43774574049804,
+        "dimension": 86.30406290956749,
         "children": [
           {
             "id": "a005c174942f06ac",
@@ -21,13 +21,28 @@
               "icon": "globe-2",
               "title": "Infectious Diseases of Swine, Poultry, and Domestic Animals - NotebookLM"
             }
+          },
+          {
+            "id": "a6e3484bb2e42e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "猪病汇总.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "猪病汇总"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 67.56225425950197,
+        "dimension": 13.695937090432503,
         "children": [
           {
             "id": "a86903a978837d8c",
@@ -101,23 +116,9 @@
               "icon": "lucide-file",
               "title": "禽病汇总"
             }
-          },
-          {
-            "id": "a6e3484bb2e42e86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "猪病汇总.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "猪病汇总"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -281,7 +282,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a005c174942f06ac",
+  "active": "a6e3484bb2e42e86",
   "lastOpenFiles": [
     "猪病汇总.md",
     "禽病汇总.md",
