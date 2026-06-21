@@ -23,16 +23,6 @@
             }
           },
           {
-            "id": "094db90934b52ac5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
             "id": "8bf785cfa9ce0f54",
             "type": "leaf",
             "state": {
@@ -85,17 +75,13 @@
             }
           },
           {
-            "id": "e5287d7d1a4508ab",
+            "id": "4e4ee4021a0bc528",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中药方剂学/补虚方药.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "补虚方药"
+              "title": "新标签页"
             }
           }
         ],
@@ -121,20 +107,21 @@
             }
           },
           {
-            "id": "d3260150b2ed04c0",
+            "id": "85f80ca65fe9f0c4",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/e35d530be29483d9",
-                "title": "理中汤与四君子汤药理分析 - Google Gemini",
+                "url": "https://notebooklm.google.com/notebook/70f56c1c-2c89-4c48-9850-0b244a572e75",
+                "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "理中汤与四君子汤药理分析 - Google Gemini"
+              "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -369,13 +356,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f28a99d14cebf91",
+  "active": "e3cb84b1a3bbc261",
   "lastOpenFiles": [
+    "中药方剂学/方剂库/藿香正气散.md",
+    "中药方剂学/补虚方药.md",
+    "中药方剂学/止咳化痰平喘药与方剂.md",
     "中药方剂学/references/2026中药方剂学-简版.pdf",
     "中药方剂学/references/08温里药方.pdf",
-    "中药方剂学/方剂库/藿香正气散.md",
     "中药方剂学/祛湿方药.md",
-    "中药方剂学/补虚方药.md",
     "中药方剂学/复习区/方剂总表.md",
     "水禽病.md",
     "猪免疫抑制疾病.md",
@@ -387,13 +375,11 @@
     "动物传染病学/references/免疫抑制性疾病（禽病三）.pdf",
     "动物传染病学/references/mso4D10.tmp",
     "动物传染病学/references/mso42DD.tmp",
-    "动物传染病学/references/~$免疫抑制性疾病（禽病三）.ppt",
     "禽免疫抑制病.md",
     "禽呼吸系统传染病.md",
     "猪病.md",
     "中药方剂学/方剂库/止咳散.md",
     "中药方剂学/温里方.md",
-    "中药方剂学/止咳化痰平喘药与方剂.md",
     "中药方剂学/方剂库/桂枝汤.md",
     "动物传染病学/动物传染病学各论.canvas",
     "中兽医学/五脏六腑的联系.md",
