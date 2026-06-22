@@ -96,12 +96,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app",
-                "title": "Google Gemini",
-                "mode": "webview"
+                "url": "https://gemini.google.com/app/56aee156c9c4e343",
+                "title": "‎Google Gemini",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "‎Google Gemini"
             }
           }
         ],
@@ -110,7 +110,7 @@
       {
         "id": "16bdcc2c34df9430",
         "type": "tabs",
-        "dimension": 41.67758846657929,
+        "dimension": 41.677588466579294,
         "children": [
           {
             "id": "6e921902737d02f4",
@@ -256,7 +256,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "桂心",
+                "query": "茵",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -300,8 +300,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
