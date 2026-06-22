@@ -65,11 +65,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/50880fc69699d051",
-                "title": "考场病症推断诊治法则 - Google Gemini",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "考场病症推断诊治法则 - Google Gemini"
+              "title": "data:text/plain,"
             }
           }
         ],
