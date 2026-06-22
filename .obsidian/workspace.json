@@ -109,8 +109,21 @@
               "icon": "lucide-file-text",
               "title": "07痰咳喘药方"
             }
+          },
+          {
+            "id": "bf3e1fa78ea630f5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "中药方剂学/references/06理气药方.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "06理气药方"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -347,6 +360,7 @@
   },
   "active": "6f28a99d14cebf91",
   "lastOpenFiles": [
+    "中药方剂学/references/06理气药方.pdf",
     "中药方剂学/references/2026中药方剂学-简版.pdf",
     "常见病症.md",
     "猪病汇总.md",
