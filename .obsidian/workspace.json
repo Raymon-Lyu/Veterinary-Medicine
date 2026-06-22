@@ -57,6 +57,20 @@
               "icon": "lucide-file-text",
               "title": "9防治法则"
             }
+          },
+          {
+            "id": "6b0275b01180e818",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app",
+                "title": "Google Gemini",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google Gemini"
+            }
           }
         ]
       },
@@ -354,7 +368,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "03ea470206846baf",
+  "active": "8fa10afbc2e43d4b",
   "lastOpenFiles": [
     "常见病症.md",
     "中药方剂学/方剂库/平胃散.md",
