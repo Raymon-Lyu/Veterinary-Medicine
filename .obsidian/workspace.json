@@ -65,11 +65,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/39d1fe602657eef3",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "gemini.google.com/app/39d1fe602657eef3",
+                "mode": "error"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "gemini.google.com/app/39d1fe602657eef3"
             }
           }
         ],
@@ -156,12 +156,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "诊法.md",
+                "file": "传染病防疫措施.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "诊法"
+              "title": "传染病防疫措施"
             }
           },
           {
@@ -191,9 +191,37 @@
               "icon": "lucide-file",
               "title": "常见病症"
             }
+          },
+          {
+            "id": "ce2144edb0c240c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "猪病汇总.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "猪病汇总"
+            }
+          },
+          {
+            "id": "fca461d8a68e5e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MinerU_markdown_MOOC测试与作业_2068878186478657536.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MinerU_markdown_MOOC测试与作业_2068878186478657536"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -256,12 +284,12 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -368,45 +396,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b0275b01180e818",
+  "active": "fca461d8a68e5e2c",
   "lastOpenFiles": [
-    "常见病症.md",
-    "中药方剂学/方剂库/平胃散.md",
-    "其他动物传染病.md",
-    "中药方剂学/方剂库/增液承气汤.md",
-    "辨证.md",
-    "中兽医学/reference_materials/9防治法则.pdf",
     "猪病汇总.md",
-    "禽病汇总.md",
-    "中兽医学/reference_materials/8辨证.pdf",
-    "猪病.md",
+    "MinerU_markdown_MOOC测试与作业_2068878186478657536.md",
     "传染病防疫措施.md",
-    "动物传染病学/传染病流行过程.md",
-    "动物传染病学/总论.md",
-    "动物传染病学/动物传染病学各论.canvas",
+    "常见病症.md",
+    "泌尿生殖器官手术.md",
+    "其他动物传染病.md",
     "禽呼吸系统传染病.md",
+    "诊法.md",
+    "中兽医学/致病因素.md",
+    "中兽医学/经络.md",
+    "中兽医学/气血津液.md",
+    "猪免疫抑制疾病.md",
+    "猪病.md",
     "水禽病.md",
     "禽免疫抑制病.md",
+    "禽病汇总.md",
+    "辨证.md",
+    "外科手术学/手术基本操作.md",
+    "外科手术学/头颈部手术.md",
+    "外科手术学/无菌术.md",
+    "外科手术学/胸部手术.md",
+    "外科手术学/绪论.md",
+    "外科手术学/眼部手术.md",
+    "外科手术学/麻醉.md",
+    "外科手术学/腹部手术.md",
+    "中药方剂学/方剂库/平胃散.md",
+    "中兽医学/reference_materials/9防治法则.pdf",
+    "中兽医学/reference_materials/8辨证.pdf",
+    "动物传染病学/动物传染病学各论.canvas",
     "中药方剂学/references/07痰咳喘药方.pdf",
-    "中药方剂学/方剂库/藿香正气散.md",
     "中药方剂学/references/2026中药方剂学-简版.pdf",
     "中药方剂学/references/08温里药方.pdf",
-    "中药方剂学/补虚方药.md",
-    "中药方剂学/止咳化痰平喘药与方剂.md",
-    "中药方剂学/祛湿方药.md",
-    "中药方剂学/复习区/方剂总表.md",
-    "猪免疫抑制疾病.md",
     "动物传染病学/references/猪病学各论-免疫抑制病专题.pdf",
     "动物传染病学/references/mso82D8.tmp",
     "动物传染病学/references/mso7191.tmp",
     "动物传染病学/references/~$猪病学各论-免疫抑制病专题.ppt",
     "动物传染病学/references/猪病学各论-免疫抑制病专题.ppt",
-    "中药方剂学/方剂库/止咳散.md",
-    "中药方剂学/温里方.md",
-    "中药方剂学/方剂库/桂枝汤.md",
-    "中兽医学/五脏六腑的联系.md",
-    "中药方剂学/方剂库/二陈汤.md",
-    "中药方剂学/方剂库/保和丸.md",
     "中兽医学/脏腑辨证_虚实全图.canvas",
     "propulsion_results_v3.png",
     "propulsion_results.svg",
