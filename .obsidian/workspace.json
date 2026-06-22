@@ -6,7 +6,7 @@
       {
         "id": "648eae0a07400be5",
         "type": "tabs",
-        "dimension": 29.29226736566186,
+        "dimension": 35.91087811271297,
         "children": [
           {
             "id": "8fa10afbc2e43d4b",
@@ -72,12 +72,13 @@
               "title": "Google Gemini"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 70.70773263433814,
+        "dimension": 64.08912188728702,
         "children": [
           {
             "id": "c82fc671360bf188",
@@ -211,7 +212,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "补中",
+                "query": "黄芪",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,8 +256,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -368,7 +368,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fa10afbc2e43d4b",
+  "active": "6b0275b01180e818",
   "lastOpenFiles": [
     "常见病症.md",
     "中药方剂学/方剂库/平胃散.md",
