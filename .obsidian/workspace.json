@@ -173,9 +173,21 @@
               "icon": "lucide-file-text",
               "title": "08温里药方"
             }
+          },
+          {
+            "id": "50c10c29a6e8b668",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "中药方剂学/references/2026中药方剂学-简版.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2026中药方剂学-简版"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -208,18 +220,6 @@
               },
               "icon": "lucide-file",
               "title": "止咳散"
-            }
-          },
-          {
-            "id": "50c10c29a6e8b668",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "中药方剂学/references/2026中药方剂学-简版.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2026中药方剂学-简版"
             }
           },
           {
