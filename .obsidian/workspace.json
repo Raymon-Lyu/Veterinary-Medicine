@@ -65,11 +65,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/50880fc69699d051",
-                "title": "Google Gemini",
+                "title": "考场病症推断诊治法则 - Google Gemini",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "考场病症推断诊治法则 - Google Gemini"
             }
           }
         ],
@@ -207,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -383,7 +383,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b0275b01180e818",
+  "active": "ce2144edb0c240c8",
   "lastOpenFiles": [
     "常见病症.md",
     "MinerU_markdown_MOOC测试与作业_2068878186478657536.md",
