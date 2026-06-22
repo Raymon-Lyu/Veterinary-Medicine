@@ -4,210 +4,175 @@
     "type": "split",
     "children": [
       {
-        "id": "648eae0a07400be5",
+        "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 35.91087811271297,
+        "dimension": 30.40629095674967,
         "children": [
           {
-            "id": "8fa10afbc2e43d4b",
+            "id": "e3cb84b1a3bbc261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中药方剂学/方剂库/藿香正气散.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "藿香正气散"
+            }
+          },
+          {
+            "id": "8e13f889434b6aab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中药方剂学/复习区/方剂总表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "方剂总表"
+            }
+          },
+          {
+            "id": "8bf785cfa9ce0f54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中药方剂学/止咳化痰平喘药与方剂.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "止咳化痰平喘药与方剂"
+            }
+          },
+          {
+            "id": "11b0165656239642",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "中药方剂学/references/08温里药方.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "08温里药方"
+            }
+          },
+          {
+            "id": "85f80ca65fe9f0c4",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://notebooklm.google.com/notebook/406f8f73-02bb-4da8-b8d8-1cdf88685c04",
-                "title": "NotebookLM",
+                "url": "https://notebooklm.google.com/notebook/07bfc674-5497-4306-86d9-753a162d6ef1",
+                "title": "Fundamentals of Traditional Chinese Medicine and Pharmacology - NotebookLM",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "NotebookLM"
+              "title": "Fundamentals of Traditional Chinese Medicine and Pharmacology - NotebookLM"
             }
           },
           {
-            "id": "14b4534a8fbb1b4e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "中兽医学/reference_materials/7诊法.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "7诊法"
-            }
-          },
-          {
-            "id": "70f5e8aac050e9cd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "中兽医学/reference_materials/8辨证.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "8辨证"
-            }
-          },
-          {
-            "id": "fdb760095ce297c6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "中兽医学/reference_materials/9防治法则.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "9防治法则"
-            }
-          },
-          {
-            "id": "6b0275b01180e818",
+            "id": "6f28a99d14cebf91",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/50880fc69699d051",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "url": "https://chat.deepseek.com/a/chat/s/9bd98403-ac94-498c-bd5c-3fb4d468f76d",
+                "title": "止咳散记忆技巧 - DeepSeek",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "止咳散记忆技巧 - DeepSeek"
             }
           }
         ],
         "currentTab": 4
       },
       {
-        "id": "3aca5db26f9ce0d9",
+        "id": "16bdcc2c34df9430",
         "type": "tabs",
-        "dimension": 64.08912188728702,
+        "dimension": 41.677588466579294,
         "children": [
           {
-            "id": "c82fc671360bf188",
+            "id": "6e921902737d02f4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "中药方剂学/references/07痰咳喘药方.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "07痰咳喘药方"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3aca5db26f9ce0d9",
+        "type": "tabs",
+        "dimension": 27.916120576671034,
+        "children": [
+          {
+            "id": "d5652cdc69d40056",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中兽医学/元气论.md",
+                "file": "中药方剂学/方剂库/桂枝汤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "元气论"
+              "title": "桂枝汤"
             }
           },
           {
-            "id": "750799711a46e8f8",
+            "id": "78c5a9d51f04d8ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中兽医学/奇恒之腑.md",
+                "file": "中药方剂学/方剂库/止咳散.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "奇恒之腑"
+              "title": "止咳散"
             }
           },
           {
-            "id": "0b96792267c27072",
+            "id": "50c10c29a6e8b668",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "中兽医学/气血津液.md",
-                "mode": "source",
-                "source": false
+                "file": "中药方剂学/references/2026中药方剂学-简版.pdf"
               },
-              "icon": "lucide-file",
-              "title": "气血津液"
+              "icon": "lucide-file-text",
+              "title": "2026中药方剂学-简版"
             }
           },
           {
-            "id": "0a489f6e90b57dd5",
+            "id": "be89e16429802276",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中兽医学/经络.md",
+                "file": "中药方剂学/复习区/方剂总表.md",
                 "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "经络"
-            }
-          },
-          {
-            "id": "6707d06a8e7baac6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中兽医学/致病因素.md",
-                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "致病因素"
-            }
-          },
-          {
-            "id": "001e3290e1dc11ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "传染病防疫措施.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "传染病防疫措施"
-            }
-          },
-          {
-            "id": "16e9a3019737d3da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中药方剂学/方剂库/平胃散.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "平胃散"
-            }
-          },
-          {
-            "id": "03ea470206846baf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "常见病症.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "常见病症"
-            }
-          },
-          {
-            "id": "ce2144edb0c240c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "猪病汇总.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "猪病汇总"
+              "title": "方剂总表"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "黄芪",
+                "query": "桂心",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -270,8 +235,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -292,7 +256,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "兽医诊断学/血生化/肾脏功能评估.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +265,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "肾脏功能评估 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -359,8 +322,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -383,7 +345,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b0275b01180e818",
+  "active": "85f80ca65fe9f0c4",
   "lastOpenFiles": [
     "常见病症.md",
     "猪病汇总.md",
