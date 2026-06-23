@@ -6,7 +6,7 @@
       {
         "id": "648eae0a07400be5",
         "type": "tabs",
-        "dimension": 22.804718217562254,
+        "dimension": 39.71166448230669,
         "children": [
           {
             "id": "8fa10afbc2e43d4b",
@@ -78,7 +78,7 @@
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 77.19528178243775,
+        "dimension": 60.28833551769331,
         "children": [
           {
             "id": "c82fc671360bf188",
@@ -177,9 +177,19 @@
               "icon": "lucide-file",
               "title": "visceral_pattern_summary"
             }
+          },
+          {
+            "id": "4cd387df0953b69f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -355,8 +365,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e55e5c99f1c2225",
+  "active": "4cd387df0953b69f",
   "lastOpenFiles": [
+    "实验四 大鼠后腿踝关节肿胀-翼首草part/figures/fig_swelling_inhibition.png",
+    "实验四 大鼠后腿踝关节肿胀-翼首草part/figures/fig_swelling_inhibition.svg",
+    "实验四 大鼠后腿踝关节肿胀-翼首草part/figures",
+    "visceral_pattern_summary.md",
+    "实验四 大鼠后腿踝关节肿胀-翼首草part/experiment_summary.md",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/翼首草/IMG_20260622_140418.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/翼首草/IMG_20260622_165838.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/翼首草/IMG_20260622_165833.jpg",
@@ -368,18 +383,14 @@
     "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/察口色/刚开始",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/察口色/2h/3.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/察口色/2h/2.jpg",
-    "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/察口色/2h/1.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/察口色/2h",
-    "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/察口色/1h/3.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/察口色/1h",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/察口色",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/实验操作",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/PPT",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/秦艽组足肿胀度.xlsx",
-    "实验四 大鼠后腿踝关节肿胀-翼首草part/秦艽组口色.docx",
     "辨证.md",
-    "visceral_pattern_summary.md",
     "常见病症.md",
     "猪病汇总.md",
     "中兽医学/元气论.md",
@@ -402,7 +413,6 @@
     "外科手术学/头颈部手术.md",
     "外科手术学/无菌术.md",
     "外科手术学/胸部手术.md",
-    "外科手术学/绪论.md",
     "动物传染病学/动物传染病学各论.canvas",
     "中兽医学/脏腑辨证_虚实全图.canvas",
     "中兽医学/外感六淫.canvas",
