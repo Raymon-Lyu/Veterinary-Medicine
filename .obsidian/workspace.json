@@ -177,19 +177,9 @@
               "icon": "lucide-file",
               "title": "visceral_pattern_summary"
             }
-          },
-          {
-            "id": "4cd387df0953b69f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -365,7 +355,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4cd387df0953b69f",
+  "active": "3e55e5c99f1c2225",
   "lastOpenFiles": [
     "实验四 大鼠后腿踝关节肿胀-翼首草part/figures/fig_swelling_inhibition.png",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/figures/fig_swelling_inhibition.svg",
