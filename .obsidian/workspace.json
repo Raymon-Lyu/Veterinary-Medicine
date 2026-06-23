@@ -91,11 +91,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://chat.deepseek.com/a/chat/s/bdad0bdf-03ea-4791-8215-02d0b4dc192d",
-                "title": "DeepSeek - 探索未至之境",
+                "title": "肝火湿热同方解析 - DeepSeek",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "DeepSeek - 探索未至之境"
+              "title": "肝火湿热同方解析 - DeepSeek"
             }
           }
         ],
@@ -383,6 +383,7 @@
   },
   "active": "977111b86095f8e7",
   "lastOpenFiles": [
+    "tcvm_diagnosis_notes.md",
     "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/IMG_20260622_165838 (1).jpg",
     "动物卫生法规课程论文展示.html",
