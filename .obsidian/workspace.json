@@ -196,19 +196,8 @@
               "icon": "lucide-file",
               "title": "腹部手术"
             }
-          },
-          {
-            "id": "a6399c2deed4c2c2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -386,9 +375,10 @@
   },
   "active": "fb0960cffd195852",
   "lastOpenFiles": [
+    "外科手术学/绪论.md",
+    "外科手术学/腹部手术.md",
     "外科手术学/ppt/1第一章 外科手术概述.pdf",
     "课程论文.docx",
-    "外科手术学/绪论.md",
     "外科手术学/无菌术.md",
     "外科手术学/胸部手术.md",
     "外科手术学/头颈部手术.md",
@@ -414,7 +404,6 @@
     "实验四 大鼠后腿踝关节肿胀-翼首草part/新建文件夹",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/figures",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/experiment_summary.md",
-    "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/翼首草",
     "辨证.md",
     "猪病汇总.md",
     "中兽医学/元气论.md",
