@@ -823,7 +823,7 @@
           {
             "id": "071c7ef220a1b7df",
             "type": "tabs",
-            "dimension": 50.90909090909091,
+            "dimension": 44.4954128440367,
             "children": [
               {
                 "id": "dfdbc15e6c228457",
@@ -874,13 +874,50 @@
                   "icon": "lucide-file-text",
                   "title": "9第九章 腹部手术"
                 }
+              },
+              {
+                "id": "38b64e12f54d3149",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "外科手术学/ppt/1第一章 外科手术概述.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "1第一章 外科手术概述"
+                }
+              },
+              {
+                "id": "38927b0dde1d6280",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "外科手术学/ppt/3第三章 无菌术.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "3第三章 无菌术"
+                }
+              },
+              {
+                "id": "8d8bfce2a0ababc2",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "外科手术学/ppt/4  第四章 麻  醉.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "4  第四章 麻  醉"
+                }
               }
-            ]
+            ],
+            "currentTab": 6
           },
           {
             "id": "44fc95fcc9a915d1",
             "type": "tabs",
-            "dimension": 49.09090909090909,
+            "dimension": 55.5045871559633,
             "children": [
               {
                 "id": "ee8667db89358eae",
@@ -939,17 +976,31 @@
                 }
               },
               {
-                "id": "9e1a6449e5b63e27",
+                "id": "5ffea4d301dcb02c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "头颈部手术.md",
+                    "file": "外科手术学/头颈部手术.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
                   "title": "头颈部手术"
+                }
+              },
+              {
+                "id": "b6e99d260d3b2349",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "外科手术学/胸部手术.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "胸部手术"
                 }
               },
               {
@@ -965,23 +1016,9 @@
                   "icon": "lucide-file",
                   "title": "腹部手术"
                 }
-              },
-              {
-                "id": "a6399c2deed4c2c2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "泌尿生殖器官手术.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "泌尿生殖器官手术"
-                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -1114,12 +1151,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
+                    "file": "外科手术学/ppt/1第一章 外科手术概述.pdf",
                     "followCursor": false,
                     "showSearch": true,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "大纲"
+                  "title": "1第一章 外科手术概述 的大纲"
                 }
               },
               {
@@ -1137,7 +1175,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 214.5
+        "width": 200,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -1155,8 +1194,8 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "dfdbc15e6c228457",
-      "mtime": "2026-06-21T10:08:53+08:00"
+      "active": "8d8bfce2a0ababc2",
+      "mtime": "2026-06-23T21:37:15+08:00"
     },
     "传染病学": {
       "main": {
@@ -1461,5 +1500,5 @@
       "mtime": "2026-06-21T22:14:01+08:00"
     }
   },
-  "active": "外科手术学"
+  "active": "传染病学"
 }
