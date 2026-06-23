@@ -6,7 +6,7 @@
       {
         "id": "2a2e5a80eaf4fb53",
         "type": "tabs",
-        "dimension": 28.96461336828309,
+        "dimension": 41.08781127129751,
         "children": [
           {
             "id": "a005c174942f06ac",
@@ -21,13 +21,25 @@
               "icon": "globe-2",
               "title": "Infectious Diseases of Swine, Poultry, and Domestic Animals - NotebookLM"
             }
+          },
+          {
+            "id": "9bcdb55ed8e7478e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "动物传染病学/references/动物传染病学讲义_猪病+禽病.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "动物传染病学讲义_猪病+禽病"
+            }
           }
         ]
       },
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 71.0353866317169,
+        "dimension": 58.91218872870249,
         "children": [
           {
             "id": "a86903a978837d8c",
@@ -72,23 +84,6 @@
             }
           },
           {
-            "id": "369dc113d096912d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "动物传染病学/动物传染病学各论.canvas",
-                "viewState": {
-                  "x": -1875.2217606659747,
-                  "y": 792.4313325517323,
-                  "zoom": -1.6666666666666665
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "动物传染病学各论"
-            }
-          },
-          {
             "id": "aec935940d81710b",
             "type": "leaf",
             "state": {
@@ -117,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -282,13 +277,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "378ab00333756207",
+  "active": "a005c174942f06ac",
   "lastOpenFiles": [
-    "动物传染病学/禽病汇总.md",
     "动物传染病学/猪病汇总.md",
+    "动物传染病学/禽病汇总.md",
+    "动物传染病学/动物传染病学各论.canvas",
+    "动物传染病学/references/动物传染病学讲义_猪病+禽病.pdf",
+    "动物传染病学/references/动物传染病学讲义_总论.pdf",
+    "动物传染病学/references/动物传染病学讲义_共患病.pdf",
+    "动物传染病学/禽呼吸系统传染病.md",
     "动物传染病学/传染病防疫措施.md",
     "动物传染病学/传染病流行过程.md",
-    "动物传染病学/动物传染病学各论.canvas",
     "外科手术学/ppt/4  第四章 麻  醉.pdf",
     "外科手术学/麻醉.md",
     "外科手术学/ppt/3第三章 无菌术.pdf",
@@ -311,13 +310,10 @@
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/翼首草组.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/3.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/~$医学_地塞米松_察口色.docx",
-    "实验四 大鼠后腿踝关节肿胀-翼首草part/~$对照组.docx",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/地赛米松组2h.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/地塞米松组1h.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/秦艽组2h.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/秦艽组1h.jpg",
-    "实验四 大鼠后腿踝关节肿胀-翼首草part/~$秦艽组口色.docx",
-    "实验四 大鼠后腿踝关节肿胀-翼首草part/图片",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/experiment_summary.md",
     "辨证.md",
     "猪病汇总.md",
@@ -329,8 +325,6 @@
     "传染病防疫措施.md",
     "泌尿生殖器官手术.md",
     "其他动物传染病.md",
-    "禽呼吸系统传染病.md",
-    "诊法.md",
     "中兽医学/脏腑辨证_虚实全图.canvas",
     "中兽医学/外感六淫.canvas",
     "中兽医学/脏腑辨证.canvas",
