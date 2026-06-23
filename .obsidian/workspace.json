@@ -6,7 +6,7 @@
       {
         "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 36.89384010484928,
+        "dimension": 44.4954128440367,
         "children": [
           {
             "id": "dfdbc15e6c228457",
@@ -69,35 +69,26 @@
               "icon": "lucide-file-text",
               "title": "1第一章 外科手术概述"
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "7a827e616402d690",
-        "type": "tabs",
-        "dimension": 31.553079947575362,
-        "children": [
+          },
           {
-            "id": "fb0960cffd195852",
+            "id": "38927b0dde1d6280",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "pdf",
               "state": {
-                "url": "https://chat.deepseek.com/a/chat/s/7533053e-2d19-42de-b58b-5171764c1372",
-                "title": "转正申请书撰写咨询 - DeepSeek",
-                "mode": "webview"
+                "file": "外科手术学/ppt/3第三章 无菌术.pdf"
               },
-              "icon": "globe-2",
-              "title": "转正申请书撰写咨询 - DeepSeek"
+              "icon": "lucide-file-text",
+              "title": "3第三章 无菌术"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "44fc95fcc9a915d1",
         "type": "tabs",
-        "dimension": 31.553079947575362,
+        "dimension": 55.5045871559633,
         "children": [
           {
             "id": "ee8667db89358eae",
@@ -197,7 +188,8 @@
               "title": "腹部手术"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -373,13 +365,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb0960cffd195852",
+  "active": "81f006d7f6d4e285",
   "lastOpenFiles": [
+    "外科手术学/ppt/3第三章 无菌术.pdf",
+    "外科手术学/无菌术.md",
     "外科手术学/绪论.md",
     "外科手术学/腹部手术.md",
     "外科手术学/ppt/1第一章 外科手术概述.pdf",
     "课程论文.docx",
-    "外科手术学/无菌术.md",
     "外科手术学/胸部手术.md",
     "外科手术学/头颈部手术.md",
     "tcvm_diagnosis_notes.md",
@@ -420,7 +413,6 @@
     "猪免疫抑制疾病.md",
     "猪病.md",
     "水禽病.md",
-    "禽免疫抑制病.md",
     "动物传染病学/动物传染病学各论.canvas",
     "中兽医学/脏腑辨证_虚实全图.canvas",
     "中兽医学/外感六淫.canvas",
