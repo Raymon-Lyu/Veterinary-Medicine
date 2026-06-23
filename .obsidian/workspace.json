@@ -4,222 +4,180 @@
     "type": "split",
     "children": [
       {
-        "id": "648eae0a07400be5",
+        "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 65.59633027522935,
+        "dimension": 65.53079947575361,
         "children": [
           {
-            "id": "8fa10afbc2e43d4b",
+            "id": "dfdbc15e6c228457",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://notebooklm.google.com/notebook/406f8f73-02bb-4da8-b8d8-1cdf88685c04",
-                "title": "NotebookLM",
+                "url": "https://notebooklm.google.com/notebook/70f56c1c-2c89-4c48-9850-0b244a572e75",
+                "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "NotebookLM"
+              "title": "Veterinary Surgery: Preparation, Evaluation, and Post-Surgical Care - NotebookLM"
             }
           },
           {
-            "id": "14b4534a8fbb1b4e",
+            "id": "98f44a1ae57d6d85",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "中兽医学/reference_materials/7诊法.pdf"
+                "file": "外科手术学/ppt/6第六章 眼部手术.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "7诊法"
+              "title": "6第六章 眼部手术"
             }
           },
           {
-            "id": "70f5e8aac050e9cd",
+            "id": "4dd6b8a4329c65f5",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "中兽医学/reference_materials/8辨证.pdf"
+                "file": "外科手术学/ppt/7第七章 头颈部手术.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "8辨证"
+              "title": "7第七章 头颈部手术"
             }
           },
           {
-            "id": "fdb760095ce297c6",
+            "id": "c610a98d7b54b09c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "中兽医学/reference_materials/9防治法则.pdf"
+                "file": "外科手术学/ppt/9第九章 腹部手术.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "9防治法则"
-            }
-          },
-          {
-            "id": "6b0275b01180e818",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/app/50880fc69699d051",
-                "title": "考场病症推断诊治法则 - Google Gemini",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "考场病症推断诊治法则 - Google Gemini"
-            }
-          },
-          {
-            "id": "10056a64f0b12938",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2026中兽医基础理论-简版"
-            }
-          },
-          {
-            "id": "977111b86095f8e7",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://chat.deepseek.com/a/chat/s/bdad0bdf-03ea-4791-8215-02d0b4dc192d",
-                "title": "肝火湿热同方解析 - DeepSeek",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "肝火湿热同方解析 - DeepSeek"
+              "title": "9第九章 腹部手术"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
-        "id": "3aca5db26f9ce0d9",
+        "id": "44fc95fcc9a915d1",
         "type": "tabs",
-        "dimension": 34.403669724770644,
+        "dimension": 34.469200524246396,
         "children": [
           {
-            "id": "c82fc671360bf188",
+            "id": "ee8667db89358eae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中兽医学/元气论.md",
+                "file": "外科手术学/绪论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "元气论"
+              "title": "绪论"
             }
           },
           {
-            "id": "750799711a46e8f8",
+            "id": "81f006d7f6d4e285",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中兽医学/奇恒之腑.md",
+                "file": "外科手术学/无菌术.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "奇恒之腑"
+              "title": "无菌术"
             }
           },
           {
-            "id": "0b96792267c27072",
+            "id": "244d0598d4eafd7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中兽医学/气血津液.md",
+                "file": "外科手术学/麻醉.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "气血津液"
+              "title": "麻醉"
             }
           },
           {
-            "id": "6707d06a8e7baac6",
+            "id": "6b4d8965d0e6ddf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中兽医学/致病因素.md",
+                "file": "外科手术学/眼部手术.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "致病因素"
+              "title": "眼部手术"
             }
           },
           {
-            "id": "5a5fb19dc0b81914",
+            "id": "5ffea4d301dcb02c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "辨证.md",
+                "file": "外科手术学/头颈部手术.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "辨证"
+              "title": "头颈部手术"
             }
           },
           {
-            "id": "4cef22a877837fa8",
+            "id": "b6e99d260d3b2349",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见病症.md",
+                "file": "外科手术学/胸部手术.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常见病症"
+              "title": "胸部手术"
             }
           },
           {
-            "id": "3e55e5c99f1c2225",
+            "id": "32a6a7675ae5b7d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "visceral_pattern_summary.md",
+                "file": "外科手术学/腹部手术.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "visceral_pattern_summary"
+              "title": "腹部手术"
             }
           },
           {
-            "id": "74ca3929215e6345",
+            "id": "a6399c2deed4c2c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tcvm_diagnosis_notes.md",
+                "file": "泌尿生殖器官手术.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tcvm_diagnosis_notes"
+              "title": "泌尿生殖器官手术"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +196,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "黄芪",
+                "query": "tag:中首医学",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -352,13 +310,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "动物传染病学/大肠杆菌病.md",
+                "file": "外科手术学/绪论.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大肠杆菌病 的大纲"
+              "title": "绪论 的大纲"
             }
           },
           {
@@ -372,7 +330,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -395,10 +353,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4cef22a877837fa8",
+  "active": "ee8667db89358eae",
   "lastOpenFiles": [
-    "visceral_pattern_summary.md",
+    "外科手术学/胸部手术.md",
+    "外科手术学/头颈部手术.md",
     "tcvm_diagnosis_notes.md",
+    "常见病症.md",
+    "visceral_pattern_summary.md",
     "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/IMG_20260622_165838 (1).jpg",
     "动物卫生法规课程论文展示.html",
@@ -421,7 +382,6 @@
     "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/翼首草",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/实验四 大鼠后腿踝关节肿胀-翼首草part/察口色/刚开始",
     "辨证.md",
-    "常见病症.md",
     "猪病汇总.md",
     "中兽医学/元气论.md",
     "中兽医学/致病因素.md",
@@ -440,9 +400,7 @@
     "禽免疫抑制病.md",
     "禽病汇总.md",
     "外科手术学/手术基本操作.md",
-    "外科手术学/头颈部手术.md",
     "外科手术学/无菌术.md",
-    "外科手术学/胸部手术.md",
     "动物传染病学/动物传染病学各论.canvas",
     "中兽医学/脏腑辨证_虚实全图.canvas",
     "中兽医学/外感六淫.canvas",
