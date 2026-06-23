@@ -81,9 +81,21 @@
               "icon": "lucide-file-text",
               "title": "3第三章 无菌术"
             }
+          },
+          {
+            "id": "8d8bfce2a0ababc2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "外科手术学/ppt/4  第四章 麻  醉.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4  第四章 麻  醉"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "44fc95fcc9a915d1",
@@ -189,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -365,8 +377,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81f006d7f6d4e285",
+  "active": "244d0598d4eafd7b",
   "lastOpenFiles": [
+    "外科手术学/ppt/4  第四章 麻  醉.pdf",
     "外科手术学/ppt/3第三章 无菌术.pdf",
     "外科手术学/无菌术.md",
     "外科手术学/绪论.md",
