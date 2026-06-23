@@ -6,7 +6,7 @@
       {
         "id": "648eae0a07400be5",
         "type": "tabs",
-        "dimension": 37.876802096985585,
+        "dimension": 65.59633027522935,
         "children": [
           {
             "id": "8fa10afbc2e43d4b",
@@ -104,7 +104,7 @@
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 62.123197903014415,
+        "dimension": 34.403669724770644,
         "children": [
           {
             "id": "c82fc671360bf188",
@@ -395,7 +395,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "977111b86095f8e7",
+  "active": "3e55e5c99f1c2225",
   "lastOpenFiles": [
     "visceral_pattern_summary.md",
     "tcvm_diagnosis_notes.md",
