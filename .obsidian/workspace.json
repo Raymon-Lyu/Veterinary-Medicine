@@ -83,9 +83,23 @@
               "icon": "lucide-file-text",
               "title": "2026中兽医基础理论-简版"
             }
+          },
+          {
+            "id": "977111b86095f8e7",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chat.deepseek.com/a/chat/s/bdad0bdf-03ea-4791-8215-02d0b4dc192d",
+                "title": "DeepSeek - 探索未至之境",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "DeepSeek - 探索未至之境"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -367,8 +381,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10056a64f0b12938",
+  "active": "977111b86095f8e7",
   "lastOpenFiles": [
+    "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/IMG_20260622_165838 (1).jpg",
     "动物卫生法规课程论文展示.html",
     "visceral_pattern_summary.md",
@@ -377,14 +392,12 @@
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/翼首草组1h.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/翼首草组.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/3.jpg",
-    "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/~$医学_地塞米松_察口色.docx",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/~$对照组.docx",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/地赛米松组2h.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/地塞米松组1h.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/秦艽组2h.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/秦艽组1h.jpg",
-    "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/秦艽组.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/~$秦艽组口色.docx",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/新建文件夹",
