@@ -41,15 +41,15 @@
               "type": "webviewer",
               "state": {
                 "url": "https://chat.deepseek.com/a/chat/s/76306e4f-b501-4a87-9cf3-8e393c92e480",
-                "title": "DeepSeek - 探索未至之境",
+                "title": "猪瘟兔体交互实验原理 - DeepSeek",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "DeepSeek - 探索未至之境"
+              "title": "猪瘟兔体交互实验原理 - DeepSeek"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -292,7 +292,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "136f26d7d84267b6",
+  "active": "9bcdb55ed8e7478e",
   "lastOpenFiles": [
     "动物传染病学/references/动物传染病学讲义_猪病+禽病.pdf",
     "中兽医学/reference_materials/7诊法.pdf",
