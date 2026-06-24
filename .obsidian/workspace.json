@@ -103,6 +103,18 @@
               "icon": "globe-2",
               "title": "桂心散与茴香散方剂对比 - Google Gemini"
             }
+          },
+          {
+            "id": "e0998c723c5581fb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "中兽医学/reference_materials/7诊法.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "7诊法"
+            }
           }
         ],
         "currentTab": 6
@@ -427,13 +439,14 @@
   },
   "active": "d9004742e0c5704f",
   "lastOpenFiles": [
+    "中兽医学/reference_materials/7诊法.pdf",
+    "中兽医学/诊法.md",
     "中兽医学/常见病症.md",
     "中兽医学/visceral_pattern_summary.md",
     "中兽医学/reference_materials/8辨证.pdf",
     "小动物疾病防治/MOOC测试与作业.md",
     "外科手术学/MinerU_markdown_MOOC测试与作业_2068878186478657536.md",
     "中兽医学/MOOC测试与作业.pdf",
-    "中兽医学/reference_materials/7诊法.pdf",
     "中兽医学/五脏.md",
     "未命名.md",
     "中兽医学/致病因素.md",
@@ -472,7 +485,6 @@
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/秦艽组2h.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/秦艽组1h.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/experiment_summary.md",
-    "辨证.md",
     "中兽医学/脏腑辨证_虚实全图.canvas",
     "中兽医学/外感六淫.canvas",
     "中兽医学/脏腑辨证.canvas",
