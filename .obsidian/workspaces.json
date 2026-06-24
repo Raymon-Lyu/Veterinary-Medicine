@@ -1249,18 +1249,21 @@
                 }
               },
               {
-                "id": "9bcdb55ed8e7478e",
+                "id": "136f26d7d84267b6",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "webviewer",
                   "state": {
-                    "file": "动物传染病学/references/动物传染病学讲义_猪病+禽病.pdf"
+                    "url": "https://chat.deepseek.com/a/chat/s/76306e4f-b501-4a87-9cf3-8e393c92e480",
+                    "title": "猪瘟兔体交互实验原理 - DeepSeek",
+                    "mode": "webview"
                   },
-                  "icon": "lucide-file-text",
-                  "title": "动物传染病学讲义_猪病+禽病"
+                  "icon": "globe-2",
+                  "title": "猪瘟兔体交互实验原理 - DeepSeek"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "3aca5db26f9ce0d9",
@@ -1322,23 +1325,9 @@
                   "icon": "lucide-file",
                   "title": "猪病汇总"
                 }
-              },
-              {
-                "id": "0e73b296c875b21e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "动物传染病学/禽病汇总.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "禽病汇总"
-                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -1503,9 +1492,9 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "a005c174942f06ac",
-      "mtime": "2026-06-23T22:21:11+08:00"
+      "active": "aec935940d81710b",
+      "mtime": "2026-06-25T00:04:17+08:00"
     }
   },
-  "active": "传染病学"
+  "active": "中药方剂学"
 }
