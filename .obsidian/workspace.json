@@ -85,9 +85,23 @@
               "icon": "globe-2",
               "title": "肝火湿热同方解析 - DeepSeek"
             }
+          },
+          {
+            "id": "ca4c06573e9e3b41",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://raymon-lyu.github.io/Veterinary-Medicine/%E4%B8%AD%E8%8D%AF%E6%96%B9%E5%89%82%E5%AD%A6/fangji_flashcards.html",
+                "title": "Liquid Prism Flashcards",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Liquid Prism Flashcards"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -177,9 +191,23 @@
               "icon": "lucide-file",
               "title": "visceral_pattern_summary"
             }
+          },
+          {
+            "id": "528a57b3a5186fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中兽医学/常见病症.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "常见病症"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -355,8 +383,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "977111b86095f8e7",
+  "active": "ca4c06573e9e3b41",
   "lastOpenFiles": [
+    "中兽医学/常见病症.md",
     "中兽医学/visceral_pattern_summary.md",
     "中兽医学/reference_materials/8辨证.pdf",
     "小动物疾病防治/MOOC测试与作业.md",
@@ -367,7 +396,6 @@
     "未命名.md",
     "中兽医学/致病因素.md",
     "中兽医学/reference_materials/9防治法则.pdf",
-    "中兽医学/常见病症.md",
     "中兽医学/tcvm_diagnosis_notes.md",
     "中药方剂学/references/2026中药方剂学-简版.pdf",
     "tcm_medicines_summary.md",
