@@ -97,11 +97,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/56aee156c9c4e343",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "桂心散与茴香散方剂对比 - Google Gemini",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "桂心散与茴香散方剂对比 - Google Gemini"
             }
           }
         ],
