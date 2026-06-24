@@ -505,6 +505,18 @@
                   "icon": "globe-2",
                   "title": "桂心散与茴香散方剂对比 - Google Gemini"
                 }
+              },
+              {
+                "id": "e0998c723c5581fb",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "中兽医学/reference_materials/7诊法.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "7诊法"
+                }
               }
             ],
             "currentTab": 6
@@ -827,8 +839,8 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "466908a37168c07c",
-      "mtime": "2026-06-24T10:17:52+08:00"
+      "active": "d9004742e0c5704f",
+      "mtime": "2026-06-24T21:06:09+08:00"
     },
     "外科手术学": {
       "main": {
@@ -1495,5 +1507,5 @@
       "mtime": "2026-06-23T22:21:11+08:00"
     }
   },
-  "active": "中药方剂学"
+  "active": "传染病学"
 }
