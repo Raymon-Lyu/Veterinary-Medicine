@@ -33,9 +33,23 @@
               "icon": "lucide-file-text",
               "title": "动物传染病学讲义_猪病+禽病"
             }
+          },
+          {
+            "id": "136f26d7d84267b6",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chat.deepseek.com/a/chat/s/76306e4f-b501-4a87-9cf3-8e393c92e480",
+                "title": "DeepSeek - 探索未至之境",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "DeepSeek - 探索未至之境"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -278,8 +292,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9bcdb55ed8e7478e",
+  "active": "136f26d7d84267b6",
   "lastOpenFiles": [
+    "动物传染病学/references/动物传染病学讲义_猪病+禽病.pdf",
     "中兽医学/reference_materials/7诊法.pdf",
     "中兽医学/诊法.md",
     "中兽医学/常见病症.md",
@@ -296,7 +311,6 @@
     "中药方剂学/references/2026中药方剂学-简版.pdf",
     "tcm_medicines_summary.md",
     "动物传染病学/禽病汇总.md",
-    "动物传染病学/references/动物传染病学讲义_猪病+禽病.pdf",
     "动物传染病学/猪病汇总.md",
     "动物传染病学/动物传染病学各论.canvas",
     "动物传染病学/references/动物传染病学讲义_总论.pdf",
