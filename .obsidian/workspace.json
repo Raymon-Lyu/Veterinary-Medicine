@@ -6,7 +6,7 @@
       {
         "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 30.40629095674967,
+        "dimension": 73.78768020969856,
         "children": [
           {
             "id": "e3cb84b1a3bbc261",
@@ -98,9 +98,9 @@
               "state": {
                 "file": "动物传染病学/动物传染病学讲义_共患病.canvas",
                 "viewState": {
-                  "x": -1025.8191537405683,
-                  "y": 1204.279091641338,
-                  "zoom": -1.2359993430801268
+                  "x": -1327.2000122070312,
+                  "y": -551.5600488281236,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -125,7 +125,7 @@
       {
         "id": "16bdcc2c34df9430",
         "type": "tabs",
-        "dimension": 41.677588466579294,
+        "dimension": 13.106159895150721,
         "children": [
           {
             "id": "6e921902737d02f4",
@@ -221,7 +221,7 @@
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 27.916120576671034,
+        "dimension": 13.106159895150721,
         "children": [
           {
             "id": "d5652cdc69d40056",
