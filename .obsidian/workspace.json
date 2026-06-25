@@ -93,9 +93,21 @@
               "icon": "lucide-file-text",
               "title": "4  第四章 麻  醉"
             }
+          },
+          {
+            "id": "3e896f18166e1828",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "外科手术学/ppt/8第八章 胸部手术.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "8第八章 胸部手术"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "44fc95fcc9a915d1",
@@ -201,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -377,8 +389,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38927b0dde1d6280",
+  "active": "4dd6b8a4329c65f5",
   "lastOpenFiles": [
+    "外科手术学/ppt/8第八章 胸部手术.pdf",
+    "外科手术学/ppt/3第三章 无菌术.pdf",
+    "外科手术学/腹部手术.md",
     "外科手术学/ppt/1第一章 外科手术概述.pdf",
     "外科手术学/ppt/4  第四章 麻  醉.pdf",
     "中兽医学/reference_materials/7诊法.pdf",
@@ -402,15 +417,12 @@
     "tcm_medicines_summary.md",
     "动物传染病学/动物传染病学各论.canvas",
     "动物传染病学/references/动物传染病学讲义_总论.pdf",
-    "动物传染病学/references/动物传染病学讲义_共患病.pdf",
     "动物传染病学/禽呼吸系统传染病.md",
     "动物传染病学/传染病防疫措施.md",
     "动物传染病学/传染病流行过程.md",
     "外科手术学/麻醉.md",
-    "外科手术学/ppt/3第三章 无菌术.pdf",
     "外科手术学/无菌术.md",
     "外科手术学/绪论.md",
-    "外科手术学/腹部手术.md",
     "外科手术学/胸部手术.md",
     "外科手术学/头颈部手术.md",
     "tcvm_diagnosis_notes.md",
