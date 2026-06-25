@@ -95,6 +95,18 @@
             }
           },
           {
+            "id": "1a4e8beb6c99053d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "外科手术学/ppt/5第五章 手术基本操作.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "5第五章 手术基本操作"
+            }
+          },
+          {
             "id": "3e896f18166e1828",
             "type": "leaf",
             "state": {
@@ -119,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "44fc95fcc9a915d1",
@@ -225,7 +237,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -401,16 +413,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38927b0dde1d6280",
+  "active": "8d8bfce2a0ababc2",
   "lastOpenFiles": [
+    "外科手术学/ppt/3第三章 无菌术.pdf",
+    "外科手术学/ppt/4  第四章 麻  醉.pdf",
+    "外科手术学/眼部手术.md",
+    "外科手术学/ppt/5第五章 手术基本操作.pdf",
     "外科手术学/ppt/9第九章 腹部手术.pdf",
     "外科手术学/ppt/8第八章 胸部手术.pdf",
     "外科手术学/ppt/10第十章 泌尿生殖器官手术.pdf",
     "外科手术学/ppt/7第七章 头颈部手术.pdf",
-    "外科手术学/ppt/3第三章 无菌术.pdf",
     "外科手术学/腹部手术.md",
     "外科手术学/ppt/1第一章 外科手术概述.pdf",
-    "外科手术学/ppt/4  第四章 麻  醉.pdf",
     "中兽医学/reference_materials/7诊法.pdf",
     "动物传染病学/动物传染病学讲义_共患病.canvas",
     "动物传染病学/猪病汇总.md",
@@ -419,10 +433,8 @@
     "中兽医学/诊法.md",
     "中兽医学/常见病症.md",
     "中兽医学/visceral_pattern_summary.md",
-    "中兽医学/reference_materials/8辨证.pdf",
     "小动物疾病防治/MOOC测试与作业.md",
     "外科手术学/MinerU_markdown_MOOC测试与作业_2068878186478657536.md",
-    "中兽医学/MOOC测试与作业.pdf",
     "中兽医学/五脏.md",
     "未命名.md",
     "中兽医学/致病因素.md",
@@ -450,7 +462,6 @@
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/地塞米松组1h.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/秦艽组2h.jpg",
     "实验四 大鼠后腿踝关节肿胀-翼首草part/图片/秦艽组1h.jpg",
-    "实验四 大鼠后腿踝关节肿胀-翼首草part/experiment_summary.md",
     "中兽医学/脏腑辨证_虚实全图.canvas",
     "中兽医学/外感六淫.canvas",
     "中兽医学/脏腑辨证.canvas",
