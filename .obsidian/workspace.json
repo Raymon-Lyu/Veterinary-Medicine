@@ -94,14 +94,17 @@
             "id": "d9004742e0c5704f",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "canvas",
               "state": {
-                "url": "https://gemini.google.com/app/56aee156c9c4e343",
-                "title": "桂心散与茴香散方剂对比 - Google Gemini",
-                "mode": "webview"
+                "file": "动物传染病学/动物传染病学讲义_共患病.canvas",
+                "viewState": {
+                  "x": -1025.8191537405683,
+                  "y": 1204.279091641338,
+                  "zoom": -1.2359993430801268
+                }
               },
-              "icon": "globe-2",
-              "title": "桂心散与茴香散方剂对比 - Google Gemini"
+              "icon": "lucide-layout-dashboard",
+              "title": "动物传染病学讲义_共患病"
             }
           },
           {
@@ -439,6 +442,7 @@
   },
   "active": "d9004742e0c5704f",
   "lastOpenFiles": [
+    "动物传染病学/动物传染病学讲义_共患病.canvas",
     "动物传染病学/猪病汇总.md",
     "动物传染病学/禽病汇总.md",
     "动物传染病学/references/动物传染病学讲义_猪病+禽病.pdf",
