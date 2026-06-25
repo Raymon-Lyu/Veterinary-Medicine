@@ -105,9 +105,21 @@
               "icon": "lucide-file-text",
               "title": "8第八章 胸部手术"
             }
+          },
+          {
+            "id": "fc82447956e933e4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "外科手术学/ppt/10第十章 泌尿生殖器官手术.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "10第十章 泌尿生殖器官手术"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "44fc95fcc9a915d1",
@@ -389,9 +401,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4dd6b8a4329c65f5",
+  "active": "c610a98d7b54b09c",
   "lastOpenFiles": [
     "外科手术学/ppt/8第八章 胸部手术.pdf",
+    "外科手术学/ppt/10第十章 泌尿生殖器官手术.pdf",
+    "外科手术学/ppt/7第七章 头颈部手术.pdf",
     "外科手术学/ppt/3第三章 无菌术.pdf",
     "外科手术学/腹部手术.md",
     "外科手术学/ppt/1第一章 外科手术概述.pdf",
@@ -413,10 +427,8 @@
     "中兽医学/致病因素.md",
     "中兽医学/reference_materials/9防治法则.pdf",
     "中兽医学/tcvm_diagnosis_notes.md",
-    "中药方剂学/references/2026中药方剂学-简版.pdf",
     "tcm_medicines_summary.md",
     "动物传染病学/动物传染病学各论.canvas",
-    "动物传染病学/references/动物传染病学讲义_总论.pdf",
     "动物传染病学/禽呼吸系统传染病.md",
     "动物传染病学/传染病防疫措施.md",
     "动物传染病学/传染病流行过程.md",
