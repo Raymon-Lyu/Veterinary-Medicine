@@ -4,103 +4,164 @@
     "type": "split",
     "children": [
       {
-        "id": "2a2e5a80eaf4fb53",
+        "id": "648eae0a07400be5",
         "type": "tabs",
-        "dimension": 41.08781127129751,
+        "dimension": 50,
         "children": [
           {
-            "id": "a005c174942f06ac",
+            "id": "8fa10afbc2e43d4b",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://notebooklm.google.com/notebook/586957da-fd31-4b0c-ba52-bbef9908e57b",
-                "title": "Infectious Diseases of Swine, Poultry, and Domestic Animals - NotebookLM",
+                "url": "https://notebooklm.google.com/notebook/406f8f73-02bb-4da8-b8d8-1cdf88685c04",
+                "title": "NotebookLM",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Infectious Diseases of Swine, Poultry, and Domestic Animals - NotebookLM"
+              "title": "NotebookLM"
             }
           },
           {
-            "id": "136f26d7d84267b6",
+            "id": "14b4534a8fbb1b4e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "中兽医学/reference_materials/7诊法.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "7诊法"
+            }
+          },
+          {
+            "id": "70f5e8aac050e9cd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "中兽医学/reference_materials/8辨证.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "8辨证"
+            }
+          },
+          {
+            "id": "fdb760095ce297c6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "中兽医学/reference_materials/9防治法则.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "9防治法则"
+            }
+          },
+          {
+            "id": "6b0275b01180e818",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://chat.deepseek.com/a/chat/s/76306e4f-b501-4a87-9cf3-8e393c92e480",
-                "title": "猪瘟兔体交互实验原理 - DeepSeek",
+                "url": "https://gemini.google.com/app/50880fc69699d051",
+                "title": "考场病症推断诊治法则 - Google Gemini",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "猪瘟兔体交互实验原理 - DeepSeek"
+              "title": "考场病症推断诊治法则 - Google Gemini"
+            }
+          },
+          {
+            "id": "977111b86095f8e7",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chat.deepseek.com/a/chat/s/bdad0bdf-03ea-4791-8215-02d0b4dc192d",
+                "title": "肝火湿热同方解析 - DeepSeek",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "肝火湿热同方解析 - DeepSeek"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 58.91218872870249,
+        "dimension": 50,
         "children": [
           {
-            "id": "a86903a978837d8c",
+            "id": "c82fc671360bf188",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动物传染病学/传染病流行过程.md",
+                "file": "中兽医学/元气论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "传染病流行过程"
+              "title": "元气论"
             }
           },
           {
-            "id": "38252ad8beceafd5",
+            "id": "750799711a46e8f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动物传染病学/传染病防疫措施.md",
+                "file": "中兽医学/奇恒之腑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "传染病防疫措施"
+              "title": "奇恒之腑"
             }
           },
           {
-            "id": "378ab00333756207",
+            "id": "0b96792267c27072",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动物传染病学/禽呼吸系统传染病.md",
+                "file": "中兽医学/气血津液.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "禽呼吸系统传染病"
+              "title": "气血津液"
             }
           },
           {
-            "id": "aec935940d81710b",
+            "id": "6707d06a8e7baac6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动物传染病学/猪病汇总.md",
+                "file": "中兽医学/致病因素.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "猪病汇总"
+              "title": "致病因素"
+            }
+          },
+          {
+            "id": "74ca3929215e6345",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "黄芪",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,16 +237,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b63477f85755439",
+        "id": "8017fd4ef1ebd602",
         "type": "tabs",
         "children": [
           {
-            "id": "7d00c6bdee09125f",
+            "id": "b6e27a54e8f2fd37",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "猪病.md",
+                "file": "兽医诊断学/血生化/肾脏功能评估.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,25 +256,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "猪病 的反向链接列表"
+              "title": "肾脏功能评估 的反向链接列表"
             }
           },
           {
-            "id": "e9a0c17488f369e1",
+            "id": "b3a5604057d7a80b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "猪病.md",
+                "file": "兽医诊断学/血生化/肾脏功能评估.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "猪病 的出链列表"
+              "title": "肾脏功能评估 的出链列表"
             }
           },
           {
-            "id": "405310b56709c974",
+            "id": "b9b028c216a225ba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -228,25 +289,36 @@
             }
           },
           {
-            "id": "f1602d72af653e6e",
+            "id": "e4a27a2bf92ae123",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "猪病.md",
+                "file": "动物传染病学/大肠杆菌病.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "猪病 的大纲"
+              "title": "大肠杆菌病 的大纲"
+            }
+          },
+          {
+            "id": "b5b7dad1314b27a3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 386,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -265,8 +337,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a005c174942f06ac",
+  "active": "74ca3929215e6345",
   "lastOpenFiles": [
+    "中药方剂学/references/06理气药方.pdf",
     "动物传染病学/猪病汇总.md",
     "外科手术学/ppt/4  第四章 麻  醉.pdf",
     "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
