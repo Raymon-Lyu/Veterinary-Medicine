@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -379,8 +379,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "14b4534a8fbb1b4e",
+  "active": "fdb760095ce297c6",
   "lastOpenFiles": [
+    "中兽医学/reference_materials/7诊法.pdf",
     "外科手术学/ppt/4  第四章 麻  醉.pdf",
     "中兽医学/visceral_pattern_summary.md",
     "tcm_medicines_summary.md",
