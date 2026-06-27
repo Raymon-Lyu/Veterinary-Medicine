@@ -101,11 +101,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/fe7c3012879f5d5e",
-                "title": "Google Gemini",
-                "mode": "webview"
+                "title": "‎Google Gemini",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "‎Google Gemini"
             }
           }
         ],
