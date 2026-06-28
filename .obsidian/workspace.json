@@ -98,7 +98,8 @@
               "title": "2026中兽医基础理论-简版"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -366,7 +367,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fa10afbc2e43d4b",
+  "active": "b1fef141e19ff516",
   "lastOpenFiles": [
     "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
     "中兽医学/常见病症.md",
