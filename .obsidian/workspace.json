@@ -152,12 +152,14 @@
             "id": "15ab99bba0d79c87",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "中药方剂学/references/08温里药方.pdf"
+                "file": "中药方剂学/方剂库/清营汤.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "08温里药方"
+              "icon": "lucide-file",
+              "title": "清营汤"
             }
           },
           {
@@ -201,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -270,7 +272,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "附子理中汤",
+                "query": "丹参",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -314,13 +316,11 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be2a306ddf7e6c09",
@@ -425,11 +425,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e921902737d02f4",
+  "active": "15ab99bba0d79c87",
   "lastOpenFiles": [
-    "中药方剂学/references/06理气药方.pdf",
     "中药方剂学/references/08温里药方.pdf",
     "中药方剂学/references/07痰咳喘药方.pdf",
+    "中药方剂学/references/06理气药方.pdf",
+    "中药方剂学/references/2026中药方剂学-简版.pdf",
+    "中药方剂学/止咳化痰平喘药与方剂.md",
     "中兽医学/reference_materials/9防治法则.pdf",
     "中兽医学/常见病症.md",
     "中药方剂学/复习区/全方剂功效与主治汇总.md",
@@ -460,7 +462,6 @@
     "外科手术学/腹部手术.md",
     "外科手术学/头颈部手术.md",
     "外科手术学/眼部手术.md",
-    "外科手术学/ppt/7第七章 头颈部手术.pdf",
     "动物传染病学/动物传染病学讲义_共患病.canvas",
     "动物传染病学/禽病汇总.md",
     "中兽医学/诊法.md",
@@ -474,7 +475,6 @@
     "动物传染病学/传染病防疫措施.md",
     "动物传染病学/传染病流行过程.md",
     "外科手术学/麻醉.md",
-    "外科手术学/无菌术.md",
     "中兽医学/脏腑辨证_虚实全图.canvas",
     "中兽医学/外感六淫.canvas",
     "中兽医学/脏腑辨证.canvas",
