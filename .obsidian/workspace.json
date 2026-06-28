@@ -200,7 +200,8 @@
               "title": "常见病症"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -424,8 +425,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf3e1fa78ea630f5",
+  "active": "6e921902737d02f4",
   "lastOpenFiles": [
+    "中药方剂学/references/06理气药方.pdf",
     "中药方剂学/references/08温里药方.pdf",
     "中药方剂学/references/07痰咳喘药方.pdf",
     "中兽医学/reference_materials/9防治法则.pdf",
@@ -451,7 +453,6 @@
     "tcm_medicines_summary.md",
     "中兽医学/气血津液.md",
     "中兽医学/奇恒之腑.md",
-    "中药方剂学/references/06理气药方.pdf",
     "动物传染病学/猪病汇总.md",
     "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
     "外科手术学/ppt/8第八章 胸部手术.pdf",
