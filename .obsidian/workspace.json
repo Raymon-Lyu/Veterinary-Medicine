@@ -98,10 +98,12 @@
             "id": "daada9aaec00895f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "外科手术学/ppt/11第十一章 四肢部手术.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "11第十一章 四肢部手术"
             }
           }
         ],
@@ -389,6 +391,7 @@
   },
   "active": "daada9aaec00895f",
   "lastOpenFiles": [
+    "外科手术学/ppt/11第十一章 四肢部手术.pdf",
     "外科手术学/ppt/4  第四章 麻  醉.pdf",
     "外科手术学/麻醉.md",
     "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
