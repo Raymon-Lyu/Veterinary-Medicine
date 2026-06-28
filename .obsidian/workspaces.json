@@ -8,7 +8,7 @@
           {
             "id": "648eae0a07400be5",
             "type": "tabs",
-            "dimension": 49.737876802096984,
+            "dimension": 49.73787680209698,
             "children": [
               {
                 "id": "8fa10afbc2e43d4b",
@@ -16,12 +16,12 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://notebooklm.google.com/notebook/406f8f73-02bb-4da8-b8d8-1cdf88685c04",
-                    "title": "NotebookLM",
+                    "url": "https://notebooklm.google.com/notebook/d0d53c96-59e5-4ca4-a180-c5001d10fd29",
+                    "title": "Philosophical Foundations of Traditional Chinese Veterinary Medicine - NotebookLM",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "NotebookLM"
+                  "title": "Philosophical Foundations of Traditional Chinese Veterinary Medicine - NotebookLM"
                 }
               },
               {
@@ -87,9 +87,21 @@
                   "icon": "globe-2",
                   "title": "肝火湿热同方解析 - DeepSeek"
                 }
+              },
+              {
+                "id": "b1fef141e19ff516",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "2026中兽医基础理论-简版"
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 6
           },
           {
             "id": "3aca5db26f9ce0d9",
@@ -357,8 +369,8 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "265b6395b1de3b19",
-      "mtime": "2026-06-27T22:53:26+08:00"
+      "active": "b1fef141e19ff516",
+      "mtime": "2026-06-28T21:22:17+08:00"
     },
     "外科手术学": {
       "main": {
@@ -1014,5 +1026,5 @@
       "mtime": "2026-06-25T00:04:17+08:00"
     }
   },
-  "active": "中兽医学"
+  "active": "外科手术学"
 }
