@@ -380,7 +380,7 @@
           {
             "id": "071c7ef220a1b7df",
             "type": "tabs",
-            "dimension": 44.4954128440367,
+            "dimension": 44.46627373935822,
             "children": [
               {
                 "id": "dfdbc15e6c228457",
@@ -467,14 +467,47 @@
                   "icon": "lucide-file-text",
                   "title": "4  第四章 麻  醉"
                 }
+              },
+              {
+                "id": "daada9aaec00895f",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "外科手术学/ppt/11第十一章 四肢部手术.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "11第十一章 四肢部手术"
+                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 7
+          },
+          {
+            "id": "550ca1edb8274111",
+            "type": "tabs",
+            "dimension": 42.43614931237721,
+            "children": [
+              {
+                "id": "5f26f109a3b8f9d9",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://notebooklm.google.com/notebook/983b509b-0c43-47c4-9ba5-ea0372df5b31",
+                    "title": "Canine Thoracic Anatomy and Surgical Procedures - NotebookLM",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Canine Thoracic Anatomy and Surgical Procedures - NotebookLM"
+                }
+              }
+            ]
           },
           {
             "id": "44fc95fcc9a915d1",
             "type": "tabs",
-            "dimension": 55.5045871559633,
+            "dimension": 13.097576948264573,
             "children": [
               {
                 "id": "ee8667db89358eae",
@@ -751,8 +784,8 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "8d8bfce2a0ababc2",
-      "mtime": "2026-06-23T21:37:15+08:00"
+      "active": "daada9aaec00895f",
+      "mtime": "2026-06-29T11:26:00+08:00"
     },
     "传染病学": {
       "main": {
