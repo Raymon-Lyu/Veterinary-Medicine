@@ -59,34 +59,6 @@
             }
           },
           {
-            "id": "6b0275b01180e818",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/app/50880fc69699d051",
-                "title": "考场病症推断诊治法则 - Google Gemini",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "考场病症推断诊治法则 - Google Gemini"
-            }
-          },
-          {
-            "id": "977111b86095f8e7",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://chat.deepseek.com/a/chat/s/bdad0bdf-03ea-4791-8215-02d0b4dc192d",
-                "title": "肝火湿热同方解析 - DeepSeek",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "肝火湿热同方解析 - DeepSeek"
-            }
-          },
-          {
             "id": "b1fef141e19ff516",
             "type": "leaf",
             "state": {
@@ -367,11 +339,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "265b6395b1de3b19",
+  "active": "14b4534a8fbb1b4e",
   "lastOpenFiles": [
+    "中兽医学/reference_materials/9防治法则.pdf",
+    "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
+    "中兽医学/常见病症.md",
     "中兽医学/reference_materials/7诊法.pdf",
     "中兽医学/reference_materials/8辨证.pdf",
-    "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
     "动物传染病学/传染病流行过程.md",
     "动物传染病学/传染病防疫措施.md",
     "动物传染病学/禽呼吸系统传染病.md",
@@ -380,7 +354,6 @@
     "外科手术学/ppt/11第十一章 四肢部手术.pdf",
     "外科手术学/ppt/4  第四章 麻  醉.pdf",
     "外科手术学/麻醉.md",
-    "中兽医学/常见病症.md",
     "中药方剂学/止咳化痰平喘药与方剂.md",
     "中药方剂学/references/2026中药方剂学-简版.pdf",
     "中药方剂学/references/08温里药方.pdf",
@@ -388,9 +361,7 @@
     "中药方剂学/方剂库/清营汤.md",
     "中药方剂学/references/07痰咳喘药方.pdf",
     "中药方剂学/references/06理气药方.pdf",
-    "中兽医学/reference_materials/9防治法则.pdf",
     "中药方剂学/复习区/全方剂功效与主治汇总.md",
-    "中药方剂学/references/05_images/ocr_results.txt",
     "中药方剂学/references/05_images/page_12.png",
     "中药方剂学/references/05_images/page_11.png",
     "中药方剂学/references/05_images/page_10.png",
