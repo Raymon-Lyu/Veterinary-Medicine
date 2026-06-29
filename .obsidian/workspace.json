@@ -6,7 +6,7 @@
       {
         "id": "648eae0a07400be5",
         "type": "tabs",
-        "dimension": 48.558322411533425,
+        "dimension": 52.88335517693316,
         "children": [
           {
             "id": "8fa10afbc2e43d4b",
@@ -71,12 +71,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 51.44167758846658,
+        "dimension": 47.11664482306684,
         "children": [
           {
             "id": "c82fc671360bf188",
@@ -353,8 +353,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb7d9ac7e3bc3802",
+  "active": "70f5e8aac050e9cd",
   "lastOpenFiles": [
+    "中兽医学/五脏.md",
     "中兽医学/奇恒之腑.md",
     "中兽医学/reference_materials/7诊法.pdf",
     "中兽医学/reference_materials/9防治法则.pdf",
@@ -400,7 +401,6 @@
     "中兽医学/诊法.md",
     "小动物疾病防治/MOOC测试与作业.md",
     "外科手术学/MinerU_markdown_MOOC测试与作业_2068878186478657536.md",
-    "中兽医学/五脏.md",
     "动物传染病学/动物传染病学各论.canvas",
     "中兽医学/脏腑辨证_虚实全图.canvas",
     "中兽医学/外感六淫.canvas",
