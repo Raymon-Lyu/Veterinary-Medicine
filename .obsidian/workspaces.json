@@ -784,8 +784,8 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false
         }
       },
-      "active": "daada9aaec00895f",
-      "mtime": "2026-06-29T11:26:00+08:00"
+      "active": "5f26f109a3b8f9d9",
+      "mtime": "2026-06-29T11:50:29+08:00"
     },
     "传染病学": {
       "main": {
@@ -1059,5 +1059,5 @@
       "mtime": "2026-06-25T00:04:17+08:00"
     }
   },
-  "active": "外科手术学"
+  "active": "传染病学"
 }
