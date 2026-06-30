@@ -70,8 +70,7 @@
               "title": "2026中兽医基础理论-简版"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3aca5db26f9ce0d9",
@@ -177,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -353,17 +352,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70f5e8aac050e9cd",
+  "active": "8fa10afbc2e43d4b",
   "lastOpenFiles": [
     "中兽医学/reference_materials/7诊法.pdf",
-    "中兽医学/reference_materials/8辨证.pdf",
+    "中兽医学/常见病症.md",
     "中兽医学/reference_materials/9防治法则.pdf",
+    "中兽医学/reference_materials/8辨证.pdf",
     "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
     "中兽医学/visceral_pattern_summary.md",
     "中兽医学/differential_diagnosis.md",
     "中兽医学/五脏.md",
     "中兽医学/奇恒之腑.md",
-    "中兽医学/常见病症.md",
     "动物传染病学/传染病流行过程.md",
     "动物传染病学/传染病防疫措施.md",
     "动物传染病学/禽呼吸系统传染病.md",
