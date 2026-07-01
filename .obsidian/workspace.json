@@ -129,13 +129,13 @@
             }
           },
           {
-            "id": "be27cc2517580600",
+            "id": "76bdabafd2b9ddf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "final_study_guide.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -308,9 +308,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71538d03208dc27d",
+  "active": "38252ad8beceafd5",
   "lastOpenFiles": [
     "final_study_guide.md",
+    "动物传染病学/禽病汇总.md",
     "动物传染病学/传染病流行过程.md",
     "中兽医学/visceral_pattern_summary.md",
     "中兽医学/reference_materials/2026中兽医基础理论-简版.pdf",
@@ -324,7 +325,6 @@
     "动物传染病学/传染病防疫措施.md",
     "动物传染病学/禽呼吸系统传染病.md",
     "动物传染病学/猪病汇总.md",
-    "动物传染病学/禽病汇总.md",
     "外科手术学/ppt/11第十一章 四肢部手术.pdf",
     "外科手术学/ppt/4  第四章 麻  醉.pdf",
     "外科手术学/麻醉.md",
