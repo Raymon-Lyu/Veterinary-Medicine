@@ -6,7 +6,7 @@
       {
         "id": "2a2e5a80eaf4fb53",
         "type": "tabs",
-        "dimension": 41.08781127129751,
+        "dimension": 31.258191349934467,
         "children": [
           {
             "id": "a005c174942f06ac",
@@ -35,14 +35,28 @@
               "icon": "globe-2",
               "title": "猪瘟兔体交互实验原理 - DeepSeek"
             }
+          },
+          {
+            "id": "71538d03208dc27d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app/60ccb70bdf9ecb02",
+                "title": "Google Gemini",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google Gemini"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3aca5db26f9ce0d9",
         "type": "tabs",
-        "dimension": 58.91218872870249,
+        "dimension": 68.74180865006552,
         "children": [
           {
             "id": "a86903a978837d8c",
@@ -294,7 +308,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "136f26d7d84267b6",
+  "active": "71538d03208dc27d",
   "lastOpenFiles": [
     "final_study_guide.md",
     "动物传染病学/传染病流行过程.md",
