@@ -43,11 +43,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/60ccb70bdf9ecb02",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "马立克氏病感染的四种类型 - Google Gemini",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "马立克氏病感染的四种类型 - Google Gemini"
             }
           }
         ],
@@ -308,10 +308,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76bdabafd2b9ddf4",
+  "active": "71538d03208dc27d",
   "lastOpenFiles": [
-    "动物传染病学/传染病防疫措施.md",
     "final_study_guide.md",
+    "动物传染病学/传染病防疫措施.md",
     "动物传染病学/禽病汇总.md",
     "动物传染病学/传染病流行过程.md",
     "中兽医学/visceral_pattern_summary.md",
