@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "550ca1edb8274111",
@@ -178,7 +178,8 @@
               "title": "眼部手术"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -354,7 +355,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f26f109a3b8f9d9",
+  "active": "4dd6b8a4329c65f5",
   "lastOpenFiles": [
     "外科手术学/眼部手术.md",
     "外科手术学/ppt/6第六章 眼部手术.pdf",
