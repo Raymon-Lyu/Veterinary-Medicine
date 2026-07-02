@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       },
       {
         "id": "550ca1edb8274111",
@@ -157,11 +157,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/1ab59b2f96984d79",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "title": "Google Gemini",
+                "mode": "error"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "Google Gemini"
             }
           },
           {
@@ -178,8 +178,7 @@
               "title": "眼部手术"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -355,19 +354,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "daada9aaec00895f",
+  "active": "38927b0dde1d6280",
   "lastOpenFiles": [
+    "外科手术学/ppt/1第一章 外科手术概述.pdf",
+    "外科手术学/ppt/4  第四章 麻  醉.pdf",
+    "外科手术学/ppt/11第十一章 四肢部手术.pdf",
     "外科手术学/ppt/10第十章 泌尿生殖器官手术.pdf",
     "外科手术学/ppt/9第九章 腹部手术.pdf",
-    "外科手术学/ppt/11第十一章 四肢部手术.pdf",
     "外科手术学/ppt/8第八章 胸部手术.pdf",
     "外科手术学/ppt/7第七章 头颈部手术.pdf",
     "外科手术学/眼部手术.md",
     "外科手术学/ppt/6第六章 眼部手术.pdf",
     "外科手术学/ppt/5第五章 手术基本操作.pdf",
-    "外科手术学/ppt/4  第四章 麻  醉.pdf",
     "外科手术学/ppt/3第三章 无菌术.pdf",
-    "外科手术学/ppt/1第一章 外科手术概述.pdf",
     "final_study_guide.md",
     "动物传染病学/猪病汇总.md",
     "动物传染病学/禽病汇总.md",
