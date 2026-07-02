@@ -4,146 +4,222 @@
     "type": "split",
     "children": [
       {
-        "id": "2a2e5a80eaf4fb53",
+        "id": "071c7ef220a1b7df",
         "type": "tabs",
-        "dimension": 31.258191349934467,
+        "dimension": 52.32481990831697,
         "children": [
           {
-            "id": "a005c174942f06ac",
+            "id": "98f44a1ae57d6d85",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "pdf",
               "state": {
-                "url": "https://notebooklm.google.com/notebook/586957da-fd31-4b0c-ba52-bbef9908e57b",
-                "title": "Infectious Diseases of Swine, Poultry, and Domestic Animals - NotebookLM",
-                "mode": "webview"
+                "file": "外科手术学/ppt/6第六章 眼部手术.pdf"
               },
-              "icon": "globe-2",
-              "title": "Infectious Diseases of Swine, Poultry, and Domestic Animals - NotebookLM"
+              "icon": "lucide-file-text",
+              "title": "6第六章 眼部手术"
             }
           },
           {
-            "id": "136f26d7d84267b6",
+            "id": "4dd6b8a4329c65f5",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "pdf",
               "state": {
-                "url": "https://chat.deepseek.com/a/chat/s/76306e4f-b501-4a87-9cf3-8e393c92e480",
-                "title": "猪瘟兔体交互实验原理 - DeepSeek",
-                "mode": "webview"
+                "file": "外科手术学/ppt/7第七章 头颈部手术.pdf"
               },
-              "icon": "globe-2",
-              "title": "猪瘟兔体交互实验原理 - DeepSeek"
+              "icon": "lucide-file-text",
+              "title": "7第七章 头颈部手术"
             }
           },
           {
-            "id": "71538d03208dc27d",
+            "id": "c610a98d7b54b09c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "外科手术学/ppt/9第九章 腹部手术.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "9第九章 腹部手术"
+            }
+          },
+          {
+            "id": "38b64e12f54d3149",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "外科手术学/ppt/1第一章 外科手术概述.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1第一章 外科手术概述"
+            }
+          },
+          {
+            "id": "38927b0dde1d6280",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "外科手术学/ppt/3第三章 无菌术.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3第三章 无菌术"
+            }
+          },
+          {
+            "id": "8d8bfce2a0ababc2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "外科手术学/ppt/4  第四章 麻  醉.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4  第四章 麻  醉"
+            }
+          },
+          {
+            "id": "daada9aaec00895f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "外科手术学/ppt/11第十一章 四肢部手术.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "11第十一章 四肢部手术"
+            }
+          }
+        ]
+      },
+      {
+        "id": "550ca1edb8274111",
+        "type": "tabs",
+        "dimension": 34.577603143418465,
+        "children": [
+          {
+            "id": "5f26f109a3b8f9d9",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/60ccb70bdf9ecb02",
-                "title": "data:text/plain,",
-                "mode": "blank"
+                "url": "https://notebooklm.google.com/notebook/983b509b-0c43-47c4-9ba5-ea0372df5b31",
+                "title": "Canine Thoracic Anatomy and Surgical Procedures - NotebookLM",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "Canine Thoracic Anatomy and Surgical Procedures - NotebookLM"
+            }
+          }
+        ]
+      },
+      {
+        "id": "44fc95fcc9a915d1",
+        "type": "tabs",
+        "dimension": 13.097576948264573,
+        "children": [
+          {
+            "id": "ee8667db89358eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "外科手术学/绪论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "绪论"
+            }
+          },
+          {
+            "id": "81f006d7f6d4e285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "外科手术学/无菌术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "无菌术"
+            }
+          },
+          {
+            "id": "244d0598d4eafd7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "外科手术学/麻醉.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "麻醉"
+            }
+          },
+          {
+            "id": "6b4d8965d0e6ddf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "外科手术学/眼部手术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "眼部手术"
+            }
+          },
+          {
+            "id": "5ffea4d301dcb02c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "外科手术学/头颈部手术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "头颈部手术"
+            }
+          },
+          {
+            "id": "b6e99d260d3b2349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "外科手术学/胸部手术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "胸部手术"
+            }
+          },
+          {
+            "id": "32a6a7675ae5b7d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "外科手术学/腹部手术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "腹部手术"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "3aca5db26f9ce0d9",
-        "type": "tabs",
-        "dimension": 68.74180865006554,
-        "children": [
-          {
-            "id": "a86903a978837d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动物传染病学/传染病流行过程.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "传染病流行过程"
-            }
-          },
-          {
-            "id": "38252ad8beceafd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动物传染病学/传染病防疫措施.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "传染病防疫措施"
-            }
-          },
-          {
-            "id": "378ab00333756207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动物传染病学/禽呼吸系统传染病.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "禽呼吸系统传染病"
-            }
-          },
-          {
-            "id": "aec935940d81710b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动物传染病学/猪病汇总.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "猪病汇总"
-            }
-          },
-          {
-            "id": "65d36440119e0c94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动物传染病学/禽病汇总.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "禽病汇总"
-            }
-          },
-          {
-            "id": "76bdabafd2b9ddf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "final_study_guide.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "final_study_guide"
-            }
-          }
-        ],
-        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +238,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:中首医学",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,16 +295,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b63477f85755439",
+        "id": "8017fd4ef1ebd602",
         "type": "tabs",
         "children": [
           {
-            "id": "7d00c6bdee09125f",
+            "id": "b6e27a54e8f2fd37",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "猪病.md",
+                "file": "兽医诊断学/血生化/肾脏功能评估.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,25 +314,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "猪病 的反向链接列表"
+              "title": "肾脏功能评估 的反向链接列表"
             }
           },
           {
-            "id": "e9a0c17488f369e1",
+            "id": "b3a5604057d7a80b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "猪病.md",
+                "file": "兽医诊断学/血生化/肾脏功能评估.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "猪病 的出链列表"
+              "title": "肾脏功能评估 的出链列表"
             }
           },
           {
-            "id": "405310b56709c974",
+            "id": "b9b028c216a225ba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -271,25 +347,36 @@
             }
           },
           {
-            "id": "f1602d72af653e6e",
+            "id": "e4a27a2bf92ae123",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "猪病.md",
+                "file": "外科手术学/ppt/1第一章 外科手术概述.pdf",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "猪病 的大纲"
+              "title": "1第一章 外科手术概述 的大纲"
+            }
+          },
+          {
+            "id": "b5b7dad1314b27a3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 386,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -308,10 +395,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76bdabafd2b9ddf4",
+  "active": "5f26f109a3b8f9d9",
   "lastOpenFiles": [
-    "动物传染病学/猪病汇总.md",
+    "外科手术学/ppt/6第六章 眼部手术.pdf",
+    "外科手术学/ppt/4  第四章 麻  醉.pdf",
+    "外科手术学/ppt/11第十一章 四肢部手术.pdf",
     "final_study_guide.md",
+    "动物传染病学/猪病汇总.md",
     "动物传染病学/禽病汇总.md",
     "动物传染病学/传染病防疫措施.md",
     "动物传染病学/传染病流行过程.md",
@@ -325,8 +415,6 @@
     "中兽医学/differential_diagnosis.md",
     "中兽医学/五脏.md",
     "动物传染病学/禽呼吸系统传染病.md",
-    "外科手术学/ppt/11第十一章 四肢部手术.pdf",
-    "外科手术学/ppt/4  第四章 麻  醉.pdf",
     "外科手术学/麻醉.md",
     "中药方剂学/止咳化痰平喘药与方剂.md",
     "中药方剂学/references/2026中药方剂学-简版.pdf",
@@ -356,7 +444,6 @@
     "外科手术学/眼部手术.md",
     "动物传染病学/动物传染病学讲义_共患病.canvas",
     "中兽医学/诊法.md",
-    "小动物疾病防治/MOOC测试与作业.md",
     "动物传染病学/动物传染病学各论.canvas",
     "中兽医学/脏腑辨证_虚实全图.canvas",
     "中兽医学/外感六淫.canvas",
