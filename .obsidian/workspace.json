@@ -43,11 +43,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/60ccb70bdf9ecb02",
-                "title": "马立克氏病感染的四种类型 - Google Gemini",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "马立克氏病感染的四种类型 - Google Gemini"
+              "title": "data:text/plain,"
             }
           }
         ],
