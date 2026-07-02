@@ -155,12 +155,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/notebook/70f56c1c-2c89-4c48-9850-0b244a572e75",
-                "title": "‎Google Gemini",
-                "mode": "blank"
+                "url": "https://gemini.google.com/app/60ae6397ea4e646f",
+                "title": "Google Gemini",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "‎Google Gemini"
+              "title": "Google Gemini"
             }
           }
         ],
