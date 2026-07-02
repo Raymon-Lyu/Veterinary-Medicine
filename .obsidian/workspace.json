@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       },
       {
         "id": "550ca1edb8274111",
@@ -157,11 +157,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://gemini.google.com/app/1ab59b2f96984d79",
-                "title": "PPT上传触发AI保护机制 - Google Gemini",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "PPT上传触发AI保护机制 - Google Gemini"
+              "title": "data:text/plain,"
             }
           },
           {
@@ -355,7 +355,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c610a98d7b54b09c",
+  "active": "daada9aaec00895f",
   "lastOpenFiles": [
     "外科手术学/ppt/10第十章 泌尿生殖器官手术.pdf",
     "外科手术学/ppt/9第九章 腹部手术.pdf",
