@@ -148,8 +148,23 @@
               "icon": "globe-2",
               "title": "Canine Thoracic Anatomy and Surgical Procedures - NotebookLM"
             }
+          },
+          {
+            "id": "28636aaeb2c75cde",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/notebook/70f56c1c-2c89-4c48-9850-0b244a572e75",
+                "title": "‎Google Gemini",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "‎Google Gemini"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -325,8 +340,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38b64e12f54d3149",
+  "active": "28636aaeb2c75cde",
   "lastOpenFiles": [
+    "外科手术学/ppt/1第一章 外科手术概述.pdf",
     "外科手术学/ppt/10第十章 泌尿生殖器官手术.pdf",
     "外科手术学/ppt/9第九章 腹部手术.pdf",
     "外科手术学/ppt/11第十一章 四肢部手术.pdf",
@@ -345,7 +361,6 @@
     "中兽医学/奇恒之腑.md",
     "中兽医学/reference_materials/8辨证.pdf",
     "中兽医学/reference_materials/7诊法.pdf",
-    "中兽医学/reference_materials/9防治法则.pdf",
     "中兽医学/differential_diagnosis.md",
     "中兽医学/五脏.md",
     "动物传染病学/禽呼吸系统传染病.md",
