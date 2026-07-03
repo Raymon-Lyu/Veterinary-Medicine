@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
         "id": "550ca1edb8274111",
@@ -143,11 +143,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://notebooklm.google.com/notebook/983b509b-0c43-47c4-9ba5-ea0372df5b31",
-                "title": "Canine Thoracic Anatomy and Surgical Procedures - NotebookLM",
-                "mode": "webview"
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Canine Thoracic Anatomy and Surgical Procedures - NotebookLM"
+              "title": "data:text/plain,"
             }
           },
           {
@@ -354,18 +354,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4dd6b8a4329c65f5",
+  "active": "1770e37a64b7a164",
   "lastOpenFiles": [
+    "外科手术学/ppt/11第十一章 四肢部手术.pdf",
+    "外科手术学/ppt/10第十章 泌尿生殖器官手术.pdf",
     "外科手术学/ppt/6第六章 眼部手术.pdf",
     "外科手术学/ppt/5第五章 手术基本操作.pdf",
     "外科手术学/ppt/4  第四章 麻  醉.pdf",
-    "外科手术学/ppt/3第三章 无菌术.pdf",
-    "外科手术学/ppt/1第一章 外科手术概述.pdf",
-    "外科手术学/ppt/11第十一章 四肢部手术.pdf",
-    "外科手术学/ppt/10第十章 泌尿生殖器官手术.pdf",
     "外科手术学/ppt/9第九章 腹部手术.pdf",
     "外科手术学/ppt/8第八章 胸部手术.pdf",
     "外科手术学/ppt/7第七章 头颈部手术.pdf",
+    "外科手术学/ppt/3第三章 无菌术.pdf",
+    "外科手术学/ppt/1第一章 外科手术概述.pdf",
     "外科手术学/眼部手术.md",
     "final_study_guide.md",
     "动物传染病学/猪病汇总.md",
