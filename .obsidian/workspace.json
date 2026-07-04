@@ -35,7 +35,8 @@
               "title": "动物组织培养技术"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,10 +211,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7c342a3279c85de",
+  "active": "ef6f3e23bee3f0f4",
   "lastOpenFiles": [
-    "短学期/动物组织培养技术.md",
     "短学期/鸡胚成纤维细胞原代培养.md",
+    "短学期/动物组织培养技术.md",
     "未命名.md",
     "中药方剂学/tcm_medicines_summary.md",
     "短学期",
