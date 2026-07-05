@@ -14,36 +14,34 @@
 ## 二、 PCNA 免疫荧光 (96孔板)
 1. 每孔使用100$\mu l$ PBS清洗细胞3次，5min/次；
 2. 固定：用4%多聚甲醛固定液，室温固定30min，50$\mu l$/孔；
-3. 3%$H_2O_2$，30 µL/孔室温孵育20min，灭活内源性过氧化物酶，用含0.3%$Triton \  X-100$的PBS(即PBT)，100$\mu l$/孔，浸泡10 min；
+3. 3%$H_2O_2$，30$\mu l$/孔室温孵育20min，灭活内源性过氧化物酶，用含0.3%$Triton \  X-100$的PBS(即PBT)，100$\mu l$/孔，浸泡10 min；
 4. 10%山羊血清50$\mu l$/孔，室温封闭20 min，直接吸弃多余液体，不洗；
 5. 直接加入一抗PCNA(稀释比例1:200)，30$\mu l$/孔，4℃过夜；
 6. 100$\mu l$，PBT漂洗3次，每次5 min；
 7. 二抗：594-conjugated Goat Anti-Rabbit IgG(稀释比例1:200)，30$\mu l$/孔，37℃，避光孵育1 h；
-8. 清洗：100 µL，PBT漂洗3次，每次5 min；
-9. 30 µL/孔，DAPI染色液染色10 min；
-10. 100 µL，PBT漂洗3次，每次5min，于荧光显微镜下观察细胞样本。
-
----
-
+8. 清洗：100$\mu l$，PBT漂洗3次，每次5 min；
+9. 30$\mu l$/孔，DAPI染色液染色10 min；
+10. 100$\mu l$，PBT漂洗3次，每次5min，于荧光显微镜下观察细胞样本。
 ## 三、 细胞的凋亡检查：TUNEL染色 (96孔板)
-1. 吸除原培养液，每孔100 µL PBS洗涤细胞2次，1 min/次；
-2. 50 µL/孔，用4%多聚甲醛固定液，室温固定30 min；
-3. 100 µL/孔，PBS清洗2次，5min/次；
-4. 50 µL/孔，浓度为0.3% Triton X-100的PBT室温孵育5min进行通透处理；
-5. 100 µL/孔，PBS清洗样本2次，5min/次；
-6. 按1:4的比例用ddH2O将5×Equilibration Buffer稀释成1×Equilibration Buffer；50 µL/孔，1 × Equilibration Buffer覆盖待检样本区域，室温平衡20 min；
+1. 吸除原培养液，每孔100$\mu l$ PBS洗涤细胞2次，1 min/次；
+2. 50$\mu l$/孔，用4%多聚甲醛固定液，室温固定30 min；
+3. 100$\mu l$/孔，PBS清洗2次，5min/次；
+4. 50$\mu l$/孔，浓度为0.3% Triton X-100的PBT室温孵育5min进行通透处理；
+5. 100$\mu l$/孔，PBS清洗样本2次，5min/次；
+6. 按1:4的比例用ddH2O将5×Equilibration Buffer稀释成1×Equilibration Buffer；50$\mu l$/孔，1 × Equilibration Buffer覆盖待检样本区域，室温平衡20 min；
 7. 平衡期间在避光条件下按照下表配制TdT孵育标记液：
 
-| 组分 | 剂量 |
-| :--- | :--- |
-| ddH2O | 34 µL |
-| 5× Equilibration Buffer | 10 µL |
-| FITC-12-dUTP Labeling Mix | 5 µL |
-| Recombinant TdT Enzyme | 1 µL |
+| 组分                        | 剂量        |
+| :------------------------ | :-------- |
+| $ddH_2O$                  | 34$\mu l$ |
+| 5× Equilibration Buffer   | 10$\mu l$ |
+| FITC-12-dUTP Labeling Mix | 5$\mu l$  |
+| Recombinant TdT Enzyme    | 1$\mu l$  |
+> *平衡结束后吸掉1×Equilibration Buffer，每孔滴加50$\mu l$TdT孵育标记液，37°C孵育50 min*
 
-* 平衡结束后吸掉1×Equilibration Buffer，每孔滴加50 µLTdT孵育标记液，37°C孵育50 min；
-8. 100 µL/孔，PBS清洗样本2次，5min/次；
-9. 100 µL/孔，含0.1% Triton X-100的PBT洗2次，每次5min，可将游离的未反应标记物清除干净；
+
+8. 100$\mu l$/孔，PBS清洗样本2次，5min/次；
+9. 100$\mu l$/孔，含0.1% Triton X-100的PBT洗2次，每次5min，可将游离的未反应标记物清除干净；
 10. 2 µg/mL的DAPI溶液在黑暗中对样本进行复染，染色时室温放置10 min；
-11. 100 µL/孔，PBS清洗样本3次，5min/次；
-12. 再次加入100 µL PBS，于荧光倒置显微镜下观察细胞样本；如无法立即观察样本，可加入30µL/孔抗荧光淬灭剂4℃保存。
+11. 100$\mu l$/孔，PBS清洗样本3次，5min/次；
+12. 再次加入100$\mu l$ PBS，于荧光倒置显微镜下观察细胞样本；如无法立即观察样本，可加入30µL/孔抗荧光淬灭剂4℃保存。
