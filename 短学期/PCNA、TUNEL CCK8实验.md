@@ -5,7 +5,7 @@
     <td style="border: none; text-align: left; width: 33%;"><b>学号：</b>3230102953</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; text-align: left;"><b>日期：</b>2026-07-04</td>
+    <td style="border: none; text-align: left;"><b>日期：</b>2026-07-07</td>
     <td style="border: none; text-align: left;"><b>专业：</b>动物医学</td>
   </tr>
 </table>
@@ -48,6 +48,7 @@ CCK-8试剂中含有 WST-8。在电子载体 1-Methoxy PMS 的作用下，活细
 - **细胞脱落**：频繁的洗涤（累计洗涤超过12次）会冲刷掉贴壁不牢固的成纤维细胞。洗液必须沿孔壁极其缓慢地滴加，绝不能用枪头直接对准孔底吹打。
 ## 三、TUNEL染色 
 ### 1. 实验原理
+细胞发生凋亡的晚期标志是基因组 DNA 发生双链断裂或单链断裂，产生大量的游离 3'-OH 末端。TUNEL（脱氧核糖核苷酸末端转移酶介导的缺口末端标记）技术利用 TdT 酶，将携带 FITC 荧光基团（发绿光）的 dUTP 催化连接到这些断裂的 DNA 末端上。从而实现对凋亡细胞原位、单细胞级别的绿色荧光标记。
 ### 2. 实验步骤
 1. 吸除原培养液，每孔100$\mu l$ PBS洗涤细胞2次，1 min/次；
 2. 50$\mu l$/孔，用4%多聚甲醛固定液，室温固定30 min；
