@@ -1,0 +1,1177 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CCK-8 96孔板数据可视化分析工具 | Veterinary Medicine</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --bg-dark: #0b0f19;
+            --bg-card: rgba(22, 28, 45, 0.7);
+            --bg-card-hover: rgba(26, 35, 58, 0.9);
+            --border-color: rgba(255, 255, 255, 0.08);
+            --text-primary: #f3f4f6;
+            --text-secondary: #9ca3af;
+            --accent-cyan: #06b6d4;
+            --accent-purple: #8b5cf6;
+            --accent-amber: #f59e0b;
+            --accent-green: #10b981;
+            --accent-red: #ef4444;
+            --glow-cyan: rgba(6, 182, 212, 0.15);
+            --glow-purple: rgba(139, 92, 246, 0.15);
+            --well-empty: #1e293b;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            user-select: none;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-primary);
+            font-family: 'Outfit', sans-serif;
+            min-height: 100vh;
+            overflow-x: hidden;
+            background-image: 
+                radial-gradient(at 0% 0%, rgba(6, 182, 212, 0.1) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(139, 92, 246, 0.1) 0px, transparent 50%);
+            background-attachment: fixed;
+            padding: 24px;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-bottom: 24px;
+            border-bottom: 1px solid var(--border-color);
+            margin-bottom: 24px;
+        }
+
+        .brand-container {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .brand-logo {
+            width: 42px;
+            height: 42px;
+            background: linear-gradient(135deg, var(--accent-cyan), var(--accent-purple));
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 0 20px rgba(6, 182, 212, 0.3);
+        }
+
+        .brand-logo i {
+            color: white;
+            font-size: 20px;
+        }
+
+        .brand-text h1 {
+            font-size: 20px;
+            font-weight: 700;
+            background: linear-gradient(to right, #ffffff, #a5b4fc);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .brand-text p {
+            font-size: 12px;
+            color: var(--text-secondary);
+            margin-top: 2px;
+        }
+
+        .header-actions {
+            display: flex;
+            gap: 12px;
+        }
+
+        .btn {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            padding: 10px 16px;
+            border-radius: 10px;
+            font-family: inherit;
+            font-size: 13px;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            cursor: pointer;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .btn:hover {
+            background: rgba(255, 255, 255, 0.1);
+            border-color: rgba(255, 255, 255, 0.2);
+            transform: translateY(-1px);
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--accent-cyan), var(--accent-purple));
+            border: none;
+            box-shadow: 0 4px 12px rgba(6, 182, 212, 0.2);
+        }
+
+        .btn-primary:hover {
+            box-shadow: 0 6px 16px rgba(6, 182, 212, 0.3);
+            filter: brightness(1.1);
+        }
+
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: 1fr 360px;
+            gap: 24px;
+            align-items: start;
+        }
+
+        @media (max-width: 1200px) {
+            .dashboard-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .card {
+            background: var(--bg-card);
+            backdrop-filter: blur(16px);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+            margin-bottom: 24px;
+        }
+
+        .card-title {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .card-title .icon-wrap {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        /* 96 Well Plate Style */
+        .plate-container-wrapper {
+            overflow-x: auto;
+            padding-bottom: 12px;
+        }
+
+        .plate-container {
+            min-width: 760px;
+            display: grid;
+            grid-template-columns: 36px repeat(12, 1fr);
+            gap: 8px;
+            padding: 16px;
+            background: rgba(15, 23, 42, 0.6);
+            border-radius: 12px;
+            border: 1px solid var(--border-color);
+        }
+
+        .plate-header-cell {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 12px;
+            color: var(--text-secondary);
+            font-weight: 600;
+            height: 36px;
+        }
+
+        .plate-row-label {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-weight: 600;
+            height: 48px;
+        }
+
+        .well {
+            position: relative;
+            height: 48px;
+            border-radius: 50%;
+            background: var(--well-empty);
+            border: 2px solid rgba(255, 255, 255, 0.05);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: inset 0 2px 4px rgba(0,0,0,0.4);
+        }
+
+        .well::after {
+            content: '';
+            position: absolute;
+            top: 4px;
+            left: 8px;
+            width: 8px;
+            height: 4px;
+            background: rgba(255,255,255,0.15);
+            border-radius: 50%;
+        }
+
+        .well:hover {
+            transform: scale(1.12);
+            z-index: 10;
+            box-shadow: 0 0 15px rgba(255, 255, 255, 0.25);
+            border-color: rgba(255, 255, 255, 0.4);
+        }
+
+        .well.selected {
+            border-color: #ffffff;
+            box-shadow: 0 0 20px #ffffff, inset 0 2px 4px rgba(0,0,0,0.6);
+            transform: scale(1.08);
+        }
+
+        .well-val {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 10px;
+            font-weight: 600;
+            color: #ffffff;
+            text-shadow: 0 1px 2px rgba(0,0,0,0.8);
+            pointer-events: none;
+            z-index: 2;
+        }
+
+        .well-label {
+            font-size: 7px;
+            color: rgba(255, 255, 255, 0.6);
+            margin-top: 1px;
+            pointer-events: none;
+            z-index: 2;
+        }
+
+        /* Legend */
+        .legend-container {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            gap: 12px;
+            margin-top: 16px;
+            font-size: 12px;
+            color: var(--text-secondary);
+        }
+
+        .legend-gradient {
+            width: 150px;
+            height: 12px;
+            border-radius: 6px;
+            background: linear-gradient(to right, #2563eb, #3b82f6, #f59e0b, #ea580c, #dc2626);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        /* Stats Cards */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+
+        @media (max-width: 768px) {
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        .stat-card {
+            background: rgba(22, 28, 45, 0.5);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 16px;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .stat-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .stat-icon.cyan { background: rgba(6, 182, 212, 0.1); color: var(--accent-cyan); }
+        .stat-icon.purple { background: rgba(139, 92, 246, 0.1); color: var(--accent-purple); }
+        .stat-icon.amber { background: rgba(245, 158, 11, 0.1); color: var(--accent-amber); }
+        .stat-icon.green { background: rgba(16, 185, 129, 0.1); color: var(--accent-green); }
+
+        .stat-info {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .stat-label {
+            font-size: 11px;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .stat-val {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 18px;
+            font-weight: 600;
+            margin-top: 4px;
+        }
+
+        .stat-well-id {
+            font-size: 11px;
+            background: rgba(255,255,255,0.06);
+            padding: 1px 4px;
+            border-radius: 4px;
+            margin-left: 6px;
+            color: var(--text-primary);
+        }
+
+        /* Sidebar Info Panel */
+        .info-panel {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .selected-well-details {
+            background: linear-gradient(135deg, rgba(22, 28, 45, 0.9), rgba(15, 23, 42, 0.9));
+            border: 1px solid rgba(6, 182, 212, 0.2);
+            border-radius: 14px;
+            padding: 20px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .selected-well-details::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 100px;
+            height: 100px;
+            background: radial-gradient(circle, var(--accent-cyan) 0%, transparent 70%);
+            opacity: 0.15;
+            filter: blur(10px);
+        }
+
+        .detail-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .detail-row:last-child {
+            border-bottom: none;
+        }
+
+        .detail-label {
+            font-size: 13px;
+            color: var(--text-secondary);
+        }
+
+        .detail-val-highlight {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 20px;
+            font-weight: 700;
+            color: var(--accent-amber);
+            text-shadow: 0 0 10px rgba(245, 158, 11, 0.2);
+        }
+
+        /* Group Analysis section */
+        .group-calc {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 14px;
+            padding: 20px;
+        }
+
+        .group-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-top: 12px;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+
+        .group-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255,255,255,0.05);
+            padding: 8px 12px;
+            border-radius: 8px;
+            font-size: 13px;
+        }
+
+        .group-item-name {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .group-color-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+        }
+
+        .interactive-guide {
+            font-size: 12px;
+            color: var(--accent-cyan);
+            background: rgba(6, 182, 212, 0.05);
+            border: 1px solid rgba(6, 182, 212, 0.1);
+            padding: 10px;
+            border-radius: 8px;
+            margin-bottom: 12px;
+            display: flex;
+            gap: 8px;
+            align-items: flex-start;
+        }
+
+        .interactive-guide i {
+            margin-top: 2px;
+            font-size: 14px;
+        }
+
+        /* Tab switching */
+        .tabs-header {
+            display: flex;
+            gap: 8px;
+            background: rgba(0,0,0,0.2);
+            padding: 4px;
+            border-radius: 8px;
+            margin-bottom: 16px;
+        }
+
+        .tab-btn {
+            flex: 1;
+            background: transparent;
+            border: none;
+            color: var(--text-secondary);
+            padding: 8px;
+            border-radius: 6px;
+            font-family: inherit;
+            font-size: 12px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .tab-btn.active {
+            background: rgba(255,255,255,0.08);
+            color: var(--text-primary);
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        /* Scrollbar styles */
+        ::-webkit-scrollbar {
+            width: 6px;
+            height: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 3px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        /* Visual styling for raw data table */
+        .raw-table-wrap {
+            max-height: 380px;
+            overflow-y: auto;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+        }
+
+        .raw-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 13px;
+            text-align: left;
+        }
+
+        .raw-table th {
+            background: rgba(0, 0, 0, 0.3);
+            color: var(--text-secondary);
+            padding: 10px 12px;
+            font-weight: 600;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .raw-table td {
+            padding: 8px 12px;
+            border-bottom: 1px solid rgba(255,255,255,0.03);
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .raw-table tr:hover td {
+            background: rgba(255, 255, 255, 0.02);
+        }
+
+        .alert-toast {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            background: rgba(16, 185, 129, 0.95);
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+            z-index: 1000;
+            transform: translateY(100px);
+            opacity: 0;
+            transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-weight: 500;
+        }
+
+        .alert-toast.show {
+            transform: translateY(0);
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="brand-container">
+            <div class="brand-logo">
+                <i data-lucide="beaker"></i>
+            </div>
+            <div class="brand-text">
+                <h1>CCK-8 Well Plate Analyzer</h1>
+                <p>Veterinary Medicine Labs • CCK8_results.jpg 数据提取面板</p>
+            </div>
+        </div>
+        <div class="header-actions">
+            <button class="btn" onclick="exportCSV()"><i data-lucide="download"></i> 导出 CSV 列表</button>
+            <button class="btn" onclick="exportMatrix()"><i data-lucide="grid"></i> 导出矩阵 CSV</button>
+            <button class="btn btn-primary" onclick="copyToClipboard()"><i data-lucide="clipboard"></i> 复制 JSON</button>
+        </div>
+    </header>
+
+    <!-- Stats summary cards -->
+    <div class="stats-grid">
+        <div class="stat-card">
+            <div class="stat-icon cyan">
+                <i data-lucide="calculator"></i>
+            </div>
+            <div class="stat-info">
+                <span class="stat-label">平均吸光度 (Mean)</span>
+                <span class="stat-val" id="stat-mean">0.000</span>
+            </div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-icon purple">
+                <i data-lucide="trending-up"></i>
+            </div>
+            <div class="stat-info">
+                <span class="stat-label">最大吸光度 (Max)</span>
+                <span class="stat-val" id="stat-max">0.000 <span class="stat-well-id" id="stat-max-well">A1</span></span>
+            </div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-icon amber">
+                <i data-lucide="trending-down"></i>
+            </div>
+            <div class="stat-info">
+                <span class="stat-label">最小吸光度 (Min)</span>
+                <span class="stat-val" id="stat-min">0.000 <span class="stat-well-id" id="stat-min-well">A1</span></span>
+            </div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-icon green">
+                <i data-lucide="hash"></i>
+            </div>
+            <div class="stat-info">
+                <span class="stat-label">SD (标准差)</span>
+                <span class="stat-val" id="stat-sd">0.000</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Workspace -->
+    <div class="dashboard-grid">
+        <!-- Main Plate Area -->
+        <div>
+            <div class="card">
+                <div class="card-title">
+                    <div class="icon-wrap">
+                        <i data-lucide="layout-grid" style="color: var(--accent-cyan)"></i>
+                        <span>96孔板热力图分布 (CCK-8, OD450)</span>
+                    </div>
+                    <span style="font-size: 12px; color: var(--text-secondary);">波长: 450nm | 检测参数: 精确型</span>
+                </div>
+
+                <div class="plate-container-wrapper">
+                    <div class="plate-container" id="plate">
+                        <!-- Top left corner empty -->
+                        <div></div>
+                        <!-- Col headers 1-12 -->
+                        <div class="plate-header-cell">1</div>
+                        <div class="plate-header-cell">2</div>
+                        <div class="plate-header-cell">3</div>
+                        <div class="plate-header-cell">4</div>
+                        <div class="plate-header-cell">5</div>
+                        <div class="plate-header-cell">6</div>
+                        <div class="plate-header-cell">7</div>
+                        <div class="plate-header-cell">8</div>
+                        <div class="plate-header-cell">9</div>
+                        <div class="plate-header-cell">10</div>
+                        <div class="plate-header-cell">11</div>
+                        <div class="plate-header-cell">12</div>
+
+                        <!-- Rows will be injected by JS -->
+                    </div>
+                </div>
+
+                <div class="legend-container">
+                    <span>OD 低 (0.034)</span>
+                    <div class="legend-gradient"></div>
+                    <span>OD 高 (1.293)</span>
+                </div>
+            </div>
+
+            <!-- Tabbed view for Charts / Raw Data -->
+            <div class="card">
+                <div class="tabs-header">
+                    <button class="tab-btn active" onclick="switchTab('chart')"><i data-lucide="line-chart"></i> 数据曲线分布</button>
+                    <button class="tab-btn" onclick="switchTab('raw')"><i data-lucide="table"></i> 数据列表 (Raw Data)</button>
+                </div>
+
+                <div id="tab-chart" class="tab-content active">
+                    <div style="height: 320px; position: relative;">
+                        <canvas id="distributionChart"></canvas>
+                    </div>
+                </div>
+
+                <div id="tab-raw" class="tab-content">
+                    <div class="raw-table-wrap">
+                        <table class="raw-table">
+                            <thead>
+                                <tr>
+                                    <th>孔位 (Well)</th>
+                                    <th>样品 (Sample)</th>
+                                    <th>行 (Row)</th>
+                                    <th>列 (Col)</th>
+                                    <th>OD450</th>
+                                </tr>
+                            </thead>
+                            <tbody id="raw-table-body">
+                                <!-- Injected by JS -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sidebar Info Panels -->
+        <div class="info-panel">
+            <!-- Selected Well -->
+            <div class="selected-well-details">
+                <div style="font-size: 12px; text-transform: uppercase; color: var(--accent-cyan); font-weight: 600; letter-spacing: 1px; margin-bottom: 8px;">
+                    当前选中孔位
+                </div>
+                <h2 id="detail-well-id" style="font-size: 32px; font-weight: 700; margin-bottom: 16px;">E5</h2>
+                
+                <div class="detail-row">
+                    <span class="detail-label">样品名称 (Sample)</span>
+                    <span id="detail-sample" style="font-weight: 600;">Std 37</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">行 / 列 (Row/Col)</span>
+                    <span id="detail-rowcol">E / 5</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">测定吸光度 (OD450)</span>
+                    <span class="detail-val-highlight" id="detail-od">1.074</span>
+                </div>
+            </div>
+
+            <!-- Custom Group Analyzer -->
+            <div class="group-calc">
+                <div class="card-title" style="margin-bottom: 12px;">
+                    <div class="icon-wrap">
+                        <i data-lucide="shuffle" style="color: var(--accent-purple)"></i>
+                        <span>自定义分组计算器</span>
+                    </div>
+                </div>
+
+                <div class="interactive-guide">
+                    <i data-lucide="info"></i>
+                    <span>按住 <b>Ctrl 键</b> 并鼠标点击孔板上的孔，可多选进行即时统计分析。</span>
+                </div>
+
+                <div id="selection-stats" style="display: none;">
+                    <div class="detail-row">
+                        <span class="detail-label">已选孔数</span>
+                        <span id="sel-count" style="font-weight: bold; color: var(--accent-purple);">0</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">已选均值 (Mean)</span>
+                        <span id="sel-mean" style="font-weight: bold; color: var(--accent-amber);">0.000</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">已选标准差 (SD)</span>
+                        <span id="sel-sd" style="font-weight: bold;">0.000</span>
+                    </div>
+                    <button class="btn btn-primary" style="width: 100%; margin-top: 12px; justify-content: center;" onclick="saveSelectedAsGroup()">
+                        <i data-lucide="plus-circle"></i> 保存为当前分组
+                    </button>
+                </div>
+                <div id="selection-stats-placeholder" style="color: var(--text-secondary); text-align: center; padding: 20px 0; font-size: 13px;">
+                    尚未选择多个孔位。<br/>在上方孔板多选试试吧！
+                </div>
+
+                <div class="group-list" id="saved-groups-list">
+                    <!-- Dynamic groups list -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Alert Toast -->
+    <div class="alert-toast" id="toast">
+        <i data-lucide="check-circle-2"></i>
+        <span id="toast-text">已成功复制 JSON 数据！</span>
+    </div>
+
+    <script>
+        // Inject data
+        const rawData = [{"well": "A1", "row": "A", "col": 1, "sample": "Std 01", "val": 0.037}, {"well": "A2", "row": "A", "col": 2, "sample": "Std 09", "val": 0.037}, {"well": "A3", "row": "A", "col": 3, "sample": "Std 17", "val": 0.037}, {"well": "A4", "row": "A", "col": 4, "sample": "Std 25", "val": 0.037}, {"well": "A5", "row": "A", "col": 5, "sample": "Std 33", "val": 0.036}, {"well": "A6", "row": "A", "col": 6, "sample": "Std 41", "val": 0.036}, {"well": "A7", "row": "A", "col": 7, "sample": "Std 49", "val": 0.036}, {"well": "A8", "row": "A", "col": 8, "sample": "Std 57", "val": 0.035}, {"well": "A9", "row": "A", "col": 9, "sample": "Std 65", "val": 0.037}, {"well": "A10", "row": "A", "col": 10, "sample": "Std 73", "val": 0.035}, {"well": "A11", "row": "A", "col": 11, "sample": "Std 81", "val": 0.035}, {"well": "A12", "row": "A", "col": 12, "sample": "Std 89", "val": 0.038}, {"well": "B1", "row": "B", "col": 1, "sample": "Std 02", "val": 0.037}, {"well": "B2", "row": "B", "col": 2, "sample": "Std 10", "val": 0.037}, {"well": "B3", "row": "B", "col": 3, "sample": "Std 18", "val": 0.037}, {"well": "B4", "row": "B", "col": 4, "sample": "Std 26", "val": 0.038}, {"well": "B5", "row": "B", "col": 5, "sample": "Std 34", "val": 0.036}, {"well": "B6", "row": "B", "col": 6, "sample": "Std 42", "val": 0.036}, {"well": "B7", "row": "B", "col": 7, "sample": "Std 50", "val": 0.035}, {"well": "B8", "row": "B", "col": 8, "sample": "Std 58", "val": 0.038}, {"well": "B9", "row": "B", "col": 9, "sample": "Std 66", "val": 0.038}, {"well": "B10", "row": "B", "col": 10, "sample": "Std 74", "val": 0.037}, {"well": "B11", "row": "B", "col": 11, "sample": "Std 82", "val": 0.035}, {"well": "B12", "row": "B", "col": 12, "sample": "Std 90", "val": 0.035}, {"well": "C1", "row": "C", "col": 1, "sample": "Std 03", "val": 0.037}, {"well": "C2", "row": "C", "col": 2, "sample": "Std 11", "val": 0.037}, {"well": "C3", "row": "C", "col": 3, "sample": "Std 19", "val": 0.038}, {"well": "C4", "row": "C", "col": 4, "sample": "Std 27", "val": 0.037}, {"well": "C5", "row": "C", "col": 5, "sample": "Std 35", "val": 0.222}, {"well": "C6", "row": "C", "col": 6, "sample": "Std 43", "val": 0.226}, {"well": "C7", "row": "C", "col": 7, "sample": "Std 51", "val": 0.222}, {"well": "C8", "row": "C", "col": 8, "sample": "Std 59", "val": 0.221}, {"well": "C9", "row": "C", "col": 9, "sample": "Std 67", "val": 0.035}, {"well": "C10", "row": "C", "col": 10, "sample": "Std 75", "val": 0.169}, {"well": "C11", "row": "C", "col": 11, "sample": "Std 83", "val": 0.034}, {"well": "C12", "row": "C", "col": 12, "sample": "Std 91", "val": 0.038}, {"well": "D1", "row": "D", "col": 1, "sample": "Std 04", "val": 0.038}, {"well": "D2", "row": "D", "col": 2, "sample": "Std 12", "val": 0.037}, {"well": "D3", "row": "D", "col": 3, "sample": "Std 20", "val": 0.037}, {"well": "D4", "row": "D", "col": 4, "sample": "Std 28", "val": 0.037}, {"well": "D5", "row": "D", "col": 5, "sample": "Std 36", "val": 0.203}, {"well": "D6", "row": "D", "col": 6, "sample": "Std 44", "val": 0.295}, {"well": "D7", "row": "D", "col": 7, "sample": "Std 52", "val": 0.155}, {"well": "D8", "row": "D", "col": 8, "sample": "Std 60", "val": 0.219}, {"well": "D9", "row": "D", "col": 9, "sample": "Std 68", "val": 0.217}, {"well": "D10", "row": "D", "col": 10, "sample": "Std 76", "val": 0.175}, {"well": "D11", "row": "D", "col": 11, "sample": "Std 84", "val": 0.035}, {"well": "D12", "row": "D", "col": 12, "sample": "Std 92", "val": 0.037}, {"well": "E1", "row": "E", "col": 1, "sample": "Std 05", "val": 0.038}, {"well": "E2", "row": "E", "col": 2, "sample": "Std 13", "val": 0.038}, {"well": "E3", "row": "E", "col": 3, "sample": "Std 21", "val": 0.038}, {"well": "E4", "row": "E", "col": 4, "sample": "Std 29", "val": 0.039}, {"well": "E5", "row": "E", "col": 5, "sample": "Std 37", "val": 1.074}, {"well": "E6", "row": "E", "col": 6, "sample": "Std 45", "val": 0.656}, {"well": "E7", "row": "E", "col": 7, "sample": "Std 53", "val": 0.591}, {"well": "E8", "row": "E", "col": 8, "sample": "Std 61", "val": 0.698}, {"well": "E9", "row": "E", "col": 9, "sample": "Std 69", "val": 0.036}, {"well": "E10", "row": "E", "col": 10, "sample": "Std 77", "val": 0.135}, {"well": "E11", "row": "E", "col": 11, "sample": "Std 85", "val": 0.037}, {"well": "E12", "row": "E", "col": 12, "sample": "Std 93", "val": 0.037}, {"well": "F1", "row": "F", "col": 1, "sample": "Std 06", "val": 0.037}, {"well": "F2", "row": "F", "col": 2, "sample": "Std 14", "val": 0.039}, {"well": "F3", "row": "F", "col": 3, "sample": "Std 22", "val": 0.038}, {"well": "F4", "row": "F", "col": 4, "sample": "Std 30", "val": 0.038}, {"well": "F5", "row": "F", "col": 5, "sample": "Std 38", "val": 0.608}, {"well": "F6", "row": "F", "col": 6, "sample": "Std 46", "val": 0.89}, {"well": "F7", "row": "F", "col": 7, "sample": "Std 54", "val": 0.675}, {"well": "F8", "row": "F", "col": 8, "sample": "Std 62", "val": 0.83}, {"well": "F9", "row": "F", "col": 9, "sample": "Std 70", "val": 0.035}, {"well": "F10", "row": "F", "col": 10, "sample": "Std 78", "val": 0.035}, {"well": "F11", "row": "F", "col": 11, "sample": "Std 86", "val": 0.037}, {"well": "F12", "row": "F", "col": 12, "sample": "Std 94", "val": 0.036}, {"well": "G1", "row": "G", "col": 1, "sample": "Std 07", "val": 0.038}, {"well": "G2", "row": "G", "col": 2, "sample": "Std 15", "val": 0.037}, {"well": "G3", "row": "G", "col": 3, "sample": "Std 23", "val": 0.038}, {"well": "G4", "row": "G", "col": 4, "sample": "Std 31", "val": 0.038}, {"well": "G5", "row": "G", "col": 5, "sample": "Std 39", "val": 0.71}, {"well": "G6", "row": "G", "col": 6, "sample": "Std 47", "val": 0.992}, {"well": "G7", "row": "G", "col": 7, "sample": "Std 55", "val": 1.022}, {"well": "G8", "row": "G", "col": 8, "sample": "Std 63", "val": 1.293}, {"well": "G9", "row": "G", "col": 9, "sample": "Std 71", "val": 0.036}, {"well": "G10", "row": "G", "col": 10, "sample": "Std 79", "val": 0.035}, {"well": "G11", "row": "G", "col": 11, "sample": "Std 87", "val": 0.035}, {"well": "G12", "row": "G", "col": 12, "sample": "Std 95", "val": 0.036}, {"well": "H1", "row": "H", "col": 1, "sample": "Std 08", "val": 0.038}, {"well": "H2", "row": "H", "col": 2, "sample": "Std 16", "val": 0.038}, {"well": "H3", "row": "H", "col": 3, "sample": "Std 24", "val": 0.038}, {"well": "H4", "row": "H", "col": 4, "sample": "Std 32", "val": 0.04}, {"well": "H5", "row": "H", "col": 5, "sample": "Std 40", "val": 0.038}, {"well": "H6", "row": "H", "col": 6, "sample": "Std 48", "val": 0.038}, {"well": "H7", "row": "H", "col": 7, "sample": "Std 56", "val": 0.038}, {"well": "H8", "row": "H", "col": 8, "sample": "Std 64", "val": 0.035}, {"well": "H9", "row": "H", "col": 9, "sample": "Std 72", "val": 0.036}, {"well": "H10", "row": "H", "col": 10, "sample": "Std 80", "val": 0.035}, {"well": "H11", "row": "H", "col": 11, "sample": "Std 88", "val": 0.037}, {"well": "H12", "row": "H", "col": 12, "sample": "Std 96", "val": 0.035}];
+        
+        // Define rows and columns
+        const rows = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
+        const cols = Array.from({length: 12}, (_, i) => i + 1);
+        
+        // Selected wells state
+        let selectedWells = new Set(["E5"]); // Default highlight E5
+        let groups = [];
+        let groupColors = ['#06b6d4', '#8b5cf6', '#10b981', '#f59e0b', '#ef4444', '#ec4899'];
+
+        // Initialize lucide icons
+        lucide.createIcons();
+
+        // Calculate statistics
+        const values = rawData.map(d => d.val);
+        const minVal = Math.min(...values);
+        const maxVal = Math.max(...values);
+        
+        const minWellObj = rawData.find(d => d.val === minVal);
+        const maxWellObj = rawData.find(d => d.val === maxVal);
+        
+        const sum = values.reduce((a, b) => a + b, 0);
+        const mean = sum / values.length;
+        
+        const variance = values.reduce((a, b) => a + Math.pow(b - mean, 2), 0) / values.length;
+        const sd = Math.sqrt(variance);
+
+        // Update stats DOM
+        document.getElementById('stat-mean').textContent = mean.toFixed(4);
+        document.getElementById('stat-max').innerHTML = `${maxVal.toFixed(3)} <span class="stat-well-id">${maxWellObj.well} (${maxWellObj.sample})</span>`;
+        document.getElementById('stat-min').innerHTML = `${minVal.toFixed(3)} <span class="stat-well-id">${minWellObj.well} (${minWellObj.sample})</span>`;
+        document.getElementById('stat-sd').textContent = sd.toFixed(4);
+
+        // Heatmap color interpolation
+        // Lower values (0.034) are light yellow-blue (well empty), CCK-8 turns orange/red on high values (1.3)
+        function getColorForValue(val) {
+            const minColorVal = 0.034;
+            const maxColorVal = 1.300;
+            // Normalize to 0-1
+            let ratio = (val - minColorVal) / (maxColorVal - minColorVal);
+            ratio = Math.max(0, Math.min(1, ratio)); // Clamp between 0 and 1
+            
+            // Color map:
+            // 0% -> Blue-Gray (#2a3b5c)
+            // 15% -> Soft green (#2a7a72)
+            // 50% -> Amber (#d97706)
+            // 100% -> Intense Orange-Red (#b91c1c)
+            
+            let r, g, b;
+            if (ratio < 0.15) {
+                // Interpolate between #2a3b5c (0.16, 0.23, 0.36) and #2a7a72 (0.16, 0.48, 0.45)
+                const subRatio = ratio / 0.15;
+                r = Math.round(42 + (42 - 42) * subRatio);
+                g = Math.round(59 + (122 - 59) * subRatio);
+                b = Math.round(92 + (114 - 92) * subRatio);
+            } else if (ratio < 0.5) {
+                // Interpolate between #2a7a72 (42, 122, 114) and #d97706 (217, 119, 6)
+                const subRatio = (ratio - 0.15) / 0.35;
+                r = Math.round(42 + (217 - 42) * subRatio);
+                g = Math.round(122 + (119 - 122) * subRatio);
+                b = Math.round(114 + (6 - 114) * subRatio);
+            } else {
+                // Interpolate between #d97706 (217, 119, 6) and #e11d48 (225, 29, 72)
+                const subRatio = (ratio - 0.5) / 0.5;
+                r = Math.round(217 + (225 - 217) * subRatio);
+                g = Math.round(119 + (29 - 119) * subRatio);
+                b = Math.round(6 + (72 - 6) * subRatio);
+            }
+            
+            return `rgb(${r}, ${g}, ${b})`;
+        }
+
+        // Render Plate
+        const plate = document.getElementById('plate');
+        rows.forEach((r, rIdx) => {
+            // Row Label
+            const labelCell = document.createElement('div');
+            labelCell.className = 'plate-row-label';
+            labelCell.textContent = r;
+            plate.appendChild(labelCell);
+
+            cols.forEach(c => {
+                const wellData = rawData.find(d => d.row === r && d.col === c);
+                const wellEl = document.createElement('div');
+                wellEl.className = 'well';
+                wellEl.id = `well-${r}${c}`;
+                wellEl.dataset.well = `${r}${c}`;
+                
+                // Color it
+                const color = getColorForValue(wellData.val);
+                wellEl.style.backgroundColor = color;
+                
+                // Content
+                const valEl = document.createElement('span');
+                valEl.className = 'well-val';
+                valEl.textContent = wellData.val.toFixed(3);
+                
+                const labelEl = document.createElement('span');
+                labelEl.className = 'well-label';
+                labelEl.textContent = wellData.sample;
+
+                wellEl.appendChild(valEl);
+                wellEl.appendChild(labelEl);
+                
+                // Event Listeners
+                wellEl.addEventListener('click', (e) => selectWell(wellData, e));
+                
+                plate.appendChild(wellEl);
+            });
+        });
+
+        // Mark default selected
+        document.getElementById('well-E5').classList.add('selected');
+        updateDetailPanel(rawData.find(d => d.well === 'E5'));
+
+        // Handle well selection
+        function selectWell(wellData, event) {
+            const wellId = wellData.well;
+            const wellEl = document.getElementById(`well-${wellId}`);
+
+            if (event.ctrlKey || event.metaKey) {
+                // Multi-select toggle
+                if (selectedWells.has(wellId)) {
+                    if (selectedWells.size > 1) {
+                        selectedWells.delete(wellId);
+                        wellEl.classList.remove('selected');
+                    }
+                } else {
+                    selectedWells.add(wellId);
+                    wellEl.classList.add('selected');
+                }
+            } else {
+                // Single select
+                selectedWells.forEach(id => {
+                    const el = document.getElementById(`well-${id}`);
+                    if (el) el.classList.remove('selected');
+                });
+                selectedWells.clear();
+                selectedWells.add(wellId);
+                wellEl.classList.add('selected');
+            }
+
+            updateDetailPanel(wellData);
+            updateSelectionStats();
+        }
+
+        function updateDetailPanel(wellData) {
+            document.getElementById('detail-well-id').textContent = wellData.well;
+            document.getElementById('detail-sample').textContent = wellData.sample;
+            document.getElementById('detail-rowcol').textContent = `${wellData.row} / ${wellData.col}`;
+            document.getElementById('detail-od').textContent = wellData.val.toFixed(3);
+        }
+
+        function updateSelectionStats() {
+            const count = selectedWells.size;
+            const statsDiv = document.getElementById('selection-stats');
+            const placeholder = document.getElementById('selection-stats-placeholder');
+
+            if (count > 1) {
+                statsDiv.style.display = 'block';
+                placeholder.style.display = 'none';
+
+                const selVals = Array.from(selectedWells).map(id => rawData.find(d => d.well === id).val);
+                const selSum = selVals.reduce((a, b) => a + b, 0);
+                const selMean = selSum / count;
+                
+                const selVar = selVals.reduce((a, b) => a + Math.pow(b - selMean, 2), 0) / count;
+                const selSd = Math.sqrt(selVar);
+
+                document.getElementById('sel-count').textContent = count;
+                document.getElementById('sel-mean').textContent = selMean.toFixed(4);
+                document.getElementById('sel-sd').textContent = selSd.toFixed(4);
+            } else {
+                statsDiv.style.display = 'none';
+                placeholder.style.display = 'block';
+            }
+        }
+
+        // Save selected group
+        function saveSelectedAsGroup() {
+            const count = selectedWells.size;
+            if (count <= 1) return;
+
+            const name = prompt("请输入此分组的名称：", `Group ${groups.length + 1}`);
+            if (!name) return;
+
+            const selVals = Array.from(selectedWells).map(id => rawData.find(d => d.well === id).val);
+            const selSum = selVals.reduce((a, b) => a + b, 0);
+            const selMean = selSum / count;
+            const selVar = selVals.reduce((a, b) => a + Math.pow(b - selMean, 2), 0) / count;
+            const selSd = Math.sqrt(selVar);
+            
+            const groupColor = groupColors[groups.length % groupColors.length];
+
+            groups.push({
+                name: name,
+                wells: Array.from(selectedWells),
+                mean: selMean,
+                sd: selSd,
+                color: groupColor
+            });
+
+            renderGroups();
+            showToast(`已保存分组: ${name}`);
+        }
+
+        function renderGroups() {
+            const listEl = document.getElementById('saved-groups-list');
+            listEl.innerHTML = '<h4 style="font-size:12px; color:var(--text-secondary); margin-bottom:8px;">已存分组</h4>';
+            
+            groups.forEach((g, idx) => {
+                const item = document.createElement('div');
+                item.className = 'group-item';
+                
+                const left = document.createElement('div');
+                left.className = 'group-item-name';
+                
+                const dot = document.createElement('div');
+                dot.className = 'group-color-dot';
+                dot.style.backgroundColor = g.color;
+                
+                const text = document.createElement('span');
+                text.innerHTML = `<b>${g.name}</b> (${g.wells.length}个孔)`;
+                
+                left.appendChild(dot);
+                left.appendChild(text);
+                
+                const right = document.createElement('span');
+                right.style.fontFamily = 'JetBrains Mono, monospace';
+                right.style.fontWeight = 'bold';
+                right.textContent = `Mean: ${g.mean.toFixed(3)} (±${g.sd.toFixed(3)})`;
+                
+                item.appendChild(left);
+                item.appendChild(right);
+                listEl.appendChild(item);
+            });
+        }
+
+        // Tab Switching
+        function switchTab(tabId) {
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+            document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+            
+            event.currentTarget.classList.add('active');
+            document.getElementById(`tab-${tabId}`).classList.add('active');
+        }
+
+        // Load Raw Data Table
+        const rawTableBody = document.getElementById('raw-table-body');
+        rawData.forEach(d => {
+            const row = document.createElement('tr');
+            row.style.cursor = 'pointer';
+            row.addEventListener('click', () => {
+                selectWell(d, {ctrlKey: false});
+                document.getElementById(`well-${d.well}`).scrollIntoView({behavior: 'smooth', block: 'nearest'});
+            });
+
+            row.innerHTML = `
+                <td style="font-weight:bold; color:var(--accent-cyan)">${d.well}</td>
+                <td>${d.sample}</td>
+                <td>${d.row}</td>
+                <td>${d.col}</td>
+                <td style="font-weight:bold; color:var(--accent-amber)">${d.val.toFixed(3)}</td>
+            `;
+            rawTableBody.appendChild(row);
+        });
+
+        // Toast Helper
+        function showToast(message) {
+            const toast = document.getElementById('toast');
+            document.getElementById('toast-text').textContent = message;
+            toast.classList.add('show');
+            setTimeout(() => {
+                toast.classList.remove('show');
+            }, 3000);
+        }
+
+        // Copy JSON Data
+        function copyToClipboard() {
+            navigator.clipboard.writeText(JSON.stringify(rawData, null, 2))
+                .then(() => {
+                    showToast("JSON数据已成功复制到剪贴板！");
+                })
+                .catch(err => {
+                    alert("复制失败: " + err);
+                });
+        }
+
+        // Export Standard CSV
+        function exportCSV() {
+            let csvContent = "data:text/csv;charset=utf-8,Well,Row,Column,Sample,OD450\n";
+            rawData.forEach(d => {
+                csvContent += `${d.well},${d.row},${d.col},${d.sample},${d.val.toFixed(3)}\n`;
+            });
+            
+            const encodedUri = encodeURI(csvContent);
+            const link = document.createElement("a");
+            link.setAttribute("href", encodedUri);
+            link.setAttribute("download", "CCK8_results.csv");
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+
+        // Export Matrix CSV
+        function exportMatrix() {
+            let csvContent = "data:text/csv;charset=utf-8,Row,1,2,3,4,5,6,7,8,9,10,11,12\n";
+            rows.forEach(r => {
+                const rowVals = cols.map(c => rawData.find(d => d.row === r && d.col === c).val.toFixed(3));
+                csvContent += `${r},${rowVals.join(",")}\n`;
+            });
+            
+            const encodedUri = encodeURI(csvContent);
+            const link = document.createElement("a");
+            link.setAttribute("href", encodedUri);
+            link.setAttribute("download", "CCK8_results_matrix.csv");
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+
+        // Chart.js Setup
+        const ctx = document.getElementById('distributionChart').getContext('2d');
+        
+        // Group values by sample standards
+        const chartLabels = rawData.map(d => d.sample);
+        const chartValues = rawData.map(d => d.val);
+        const chartBackgrounds = rawData.map(d => getColorForValue(d.val));
+
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: chartLabels,
+                datasets: [{
+                    label: 'OD450 吸光度值',
+                    data: chartValues,
+                    backgroundColor: chartBackgrounds,
+                    borderColor: 'rgba(255, 255, 255, 0.1)',
+                    borderWidth: 1,
+                    borderRadius: 4
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: false
+                    },
+                    tooltip: {
+                        backgroundColor: 'rgba(15, 23, 42, 0.95)',
+                        titleFont: { family: 'Outfit' },
+                        bodyFont: { family: 'JetBrains Mono' },
+                        borderColor: 'rgba(255,255,255,0.1)',
+                        borderWidth: 1
+                    }
+                },
+                scales: {
+                    y: {
+                        grid: {
+                            color: 'rgba(255, 255, 255, 0.05)'
+                        },
+                        ticks: {
+                            color: '#9ca3af',
+                            font: { family: 'JetBrains Mono' }
+                        },
+                        title: {
+                            display: true,
+                            text: 'Absorbance (OD450)',
+                            color: '#9ca3af',
+                            font: { family: 'Outfit' }
+                        }
+                    },
+                    x: {
+                        grid: {
+                            display: false
+                        },
+                        ticks: {
+                            color: '#9ca3af',
+                            font: { family: 'JetBrains Mono', size: 9 },
+                            maxRotation: 90,
+                            minRotation: 90
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
