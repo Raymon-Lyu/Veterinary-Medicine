@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "短学期/课后习题.md",
+                "file": "短学期/PCNA、TUNEL CCK8实验.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "课后习题"
+              "title": "PCNA、TUNEL CCK8实验"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "ef6f3e23bee3f0f4",
   "lastOpenFiles": [
+    "短学期/课后习题.md",
     "短学期/IHC染色/cropped_空肠中段.jpg",
     "短学期/IHC染色/cropped_回肠.jpg",
     "短学期/IHC染色/cropped_猴脾.jpg",
@@ -210,7 +211,6 @@
     "短学期/IHC染色/心肌.jpg",
     "短学期/IHC染色/大肠.jpg",
     "短学期/IHC染色/回肠.jpg",
-    "短学期/IHC染色/滴加液体.jpg",
     "短学期/IHC染色",
     "短学期/新建文件夹",
     "短学期/Masson染色/process_masson_staining.py",
@@ -221,7 +221,6 @@
     "短学期/Masson染色/test_physical_circle.py",
     "短学期/Masson染色",
     "短学期/PCNA、TUNEL CCK8实验.md",
-    "短学期/课后习题.md",
     "短学期/CCK8实验数据提取与分析报告.md",
     "短学期/动物组织培养技术.md",
     "短学期/鸡胚成纤维细胞原代培养.md",
